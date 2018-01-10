@@ -7,8 +7,8 @@ layout: default
 
 ## Reference
 
-* Resolutions by device
-* iOS versions by device
+* [Resolution by device]({{ "/res" | relative_url }})
+* [iOS version by device]({{ "/ios-ver" | relative_url }})
 
 </div><div class="col-sm-6">
 
