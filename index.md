@@ -18,6 +18,11 @@ layout: default
 
 * [watchOS version by device]({{ "/watchos-ver" | relative_url }})
 
+## Swift
+
+* [Cheetsheet]({{ "/swift-cheatsheet" | relative_url }})
+* [All documentation](https://swift.org/documentation/)<sup class="ext">Ext</sup>
+
 ## Hardware
 
 * [RAM by device]({{ "/ram" | relative_url }})
@@ -34,13 +39,13 @@ layout: default
 * [Foundation](https://developer.apple.com/documentation/foundation)<sup class="ext">Ext</sup>
 * [UIKit](https://developer.apple.com/documentation/uikit)<sup class="ext">Ext</sup>
 
-## Swift docs
-
-* [All documentation](https://swift.org/documentation/)<sup class="ext">Ext</sup>
-
 ## Design docs
 
 * [iOS HIG](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/)<sup class="ext">Ext</sup>
 * [watchOS HIG](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/)<sup class="ext">Ext</sup>
+
+## App Store
+
+* [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)<sup class="ext">Ext</sup>
 
 </div></div>
