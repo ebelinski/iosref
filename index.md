@@ -13,6 +13,10 @@ layout: default
 
 * [iOS version by device]({{ "/ios-ver" | relative_url }})
 
+## watchOS
+
+* [watchOS version by device]({{ "/watchos-ver" | relative_url }})
+
 ## Hardware
 
 * [RAM by device]({{ "/ram" | relative_url }})
