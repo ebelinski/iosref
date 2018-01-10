@@ -9,12 +9,77 @@ title: iOS version by device
   <tr>
     <th>Device</th>
     <th>Max iOS</th>
-    <th>Min iOS</th>
+    <th>First iOS</th>
   </tr>
   <tr>
     <td>iPhone X</td>
     <td class="green">11</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>iPhone 8 / 8 Plus</td>
     <td class="green">11</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>iPhone 7 / 7 Plus</td>
+    <td class="green">11</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>iPhone SE</td>
+    <td class="green">11</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>iPhone 6s / 6s Plus</td>
+    <td class="green">11</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>iPhone 6 / 6 Plus</td>
+    <td class="green">11</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>iPhone 5s</td>
+    <td class="green">11</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>iPhone 5c</td>
+    <td>10</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>iPhone 5</td>
+    <td>10</td>
+    <td>6</td>
+  </tr>
+  <tr>
+    <td>iPhone 4s</td>
+    <td>9</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>iPhone 4</td>
+    <td>7</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>iPhone 3GS</td>
+    <td>6</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>iPhone 3G</td>
+    <td>4</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>iPhone (gen 1)</td>
+    <td>3</td>
+    <td>1</td>
   </tr>
 </table>
 
