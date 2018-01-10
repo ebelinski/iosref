@@ -14,6 +14,6 @@ layout: default
 
 ## Tools
 
-* [UIHex](https://uihex.com)
+* [UIHex](https://uihex.com)<sup>Ext</sup>
 
 </div></div>
