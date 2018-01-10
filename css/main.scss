@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-  max-width: 600px;
+  max-width: 700px;
 }
 
 #site-title {
@@ -18,7 +18,15 @@ body {
   border-width: 0px 0px 1px 0px;
   border-style: solid;
   border-color: black;
-  padding-bottom: 0.7em;
+  padding: 0.5rem 0rem 2.5rem;
+}
+
+#site-footer {
+  border-width: 1px 0px 0px 0px;
+  border-style: solid;
+  border-color: black;
+  margin-top: 2.5rem;
+  padding: 2.5rem 0rem;
 }
 
 table {
