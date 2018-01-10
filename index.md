@@ -8,6 +8,7 @@ layout: default
 ## Visual
 
 * [Resolution by device]({{ "/res" | relative_url }})
+* [3D Touch compatibility]({{ "/3d-touch" | relative_url }})
 
 ## iOS
 
