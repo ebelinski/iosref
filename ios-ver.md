@@ -13,8 +13,8 @@ title: iOS version by device
   </tr>
   <tr>
     <td>iPhone X</td>
-    <td>11</td>
-    <td>11</td>
+    <td class="green">11</td>
+    <td class="green">11</td>
   </tr>
 </table>
 
