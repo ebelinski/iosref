@@ -31,9 +31,14 @@ table {
   th, td {
     border: 1px solid #333;
     padding: 4px 10px;
+    vertical-align: top;
   }
 
   td.green {
-    background-color: #b3fab6;
+    background-color: #8efa93;
+  }
+
+  td.light-green {
+    background-color: #e7fae8;
   }
 }
