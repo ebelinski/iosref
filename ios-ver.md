@@ -5,8 +5,17 @@ title: iOS version by device
 
 ## iPhone
 
-| Device | Max iOS | Min iOS |
-|--------|---------|---------|
-| iPhone X | 11 | 11 |
+<table>
+  <tr>
+    <th>Device</th>
+    <th>Max iOS</th>
+    <th>Min iOS</th>
+  </tr>
+  <tr>
+    <td>iPhone X</td>
+    <td>11</td>
+    <td>11</td>
+  </tr>
+</table>
 
 ## iPad
