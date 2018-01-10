@@ -5,9 +5,12 @@ layout: default
 
 <div class="row"><div class="col-sm-6">
 
-## Reference
+## Visual
 
 * [Resolution by device]({{ "/res" | relative_url }})
+
+## iOS
+
 * [iOS version by device]({{ "/ios-ver" | relative_url }})
 
 </div><div class="col-sm-6">
