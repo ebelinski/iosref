@@ -3,8 +3,107 @@ layout: default
 title: Swift 4 Cheatsheet
 ---
 
+<div class="row"><div class="col-sm-6">
+
+<h3>Variables</h3>
+
 {% highlight swift %}
-func someFunc() -> Bool {
-  return true
+let myInt = 5
+let myDouble = 5.5
+let myString = "5.5"
+{% endhighlight %}
+
+<h3>Variables with type annotations</h3>
+
+{% highlight swift %}
+let myInt: Int = 5
+let myDouble: Double = 5.5
+let myString: String = "5.5"
+{% endhighlight %}
+
+<h3>If statement</h3>
+
+{% highlight swift %}
+let myBool = true
+if myBool {
+  print("myBool is true")
+} else {
+  print("myBool is false")
+}
+// Output: "myBool is true"
+{% endhighlight %}
+
+<h3>Switch statement</h3>
+
+{% highlight swift %}
+let myInt = 5
+switch myInt {
+case 4: print("myInt is four")
+case 5: print("myInt is five")
+default: print("myInt not 4 or 5")
+}
+// Output: "myInt is five"
+{% endhighlight %}
+
+<h3>Optionals</h3>
+
+{% highlight swift %}
+let myInt: Int? = 5
+if let unwrappedInt = myInt {
+  print("myInt is \(unwrappedInt)")
+} else {
+  print("myInt is nil")
+}
+// Output: "myInt is 5"
+{% endhighlight %}
+
+</div><div class="col-sm-6">
+
+<h3>Declaring functions</h3>
+
+{% highlight swift %}
+func myFunc() {
+  // doesn't return anything
 }
 {% endhighlight %}
+{% highlight swift %}
+func myFunc() -> Int {
+  return 5
+}
+{% endhighlight %}
+{% highlight swift %}
+func square(x: Int) -> Int {
+  let squaredValue = x * x
+  return squaredValue
+}
+{% endhighlight %}
+
+<h3>Calling functions</h3>
+
+{% highlight swift %}
+let a = 6
+let squareOfA = square(x: a)
+print("Square of a is: \(squareOfA)")
+// Output: "Square of a is: 36"
+{% endhighlight %}
+
+<h3>Creating a struct</h3>
+
+{% highlight swift %}
+struct MyStruct: MyOptionalProtocol {
+  let myInt: Int
+  var myString: String
+  var myOptionalDouble: Double?
+  var myOtherInt = 5
+  init(a: Int, b: String) {
+    self.myInt = a
+    self.myString = b
+  }
+  func addToMyInt(a: Int) -> Int {
+    myInt += a
+    return myInt
+  }
+}
+{% endhighlight %}
+
+</div></div>
