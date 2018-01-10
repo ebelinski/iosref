@@ -19,4 +19,14 @@ layout: default
 
 * [UIHex](https://uihex.com)<sup class="ext">Ext</sup>
 
+## Apple resources
+
+* [All documentation](https://developer.apple.com/documentation/)<sup class="ext">Ext</sup>
+* [Foundation](https://developer.apple.com/documentation/foundation)<sup class="ext">Ext</sup>
+* [UIKit](https://developer.apple.com/documentation/uikit)<sup class="ext">Ext</sup>
+
+## Swift resources
+
+* [All documentation](https://swift.org/documentation/)<sup class="ext">Ext</sup>
+
 </div></div>
