@@ -13,6 +13,10 @@ layout: default
 
 * [iOS version by device]({{ "/ios-ver" | relative_url }})
 
+## Hardware
+
+* [RAM by device]({{ "/ram" | relative_url }})
+
 </div><div class="col-sm-6">
 
 ## Tools
