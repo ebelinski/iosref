@@ -15,4 +15,21 @@ body {
 
 #site-title {
   text-align: center;
+  border-width: 0px 0px 1px 0px;
+  border-style: solid;
+  border-color: black;
+  padding-bottom: 0.7em;
+}
+
+table {
+  margin: 1em 0px;
+
+  th {
+    background: #ddd;
+  }
+
+  th, td {
+    border: 1px solid #333;
+    padding: 4px 10px;
+  }
 }
