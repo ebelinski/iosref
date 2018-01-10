@@ -1,0 +1,4 @@
+---
+layout: default
+---
+Hello world.
