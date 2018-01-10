@@ -4,3 +4,15 @@
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "bootstrap";
+
+body {
+  font-size: 1.9em;
+}
+
+.container {
+  max-width: 600px;
+}
+
+#site-title {
+  text-align: center;
+}
