@@ -46,6 +46,6 @@ layout: default
 
 ## App Store
 
-* [App Store Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)<sup class="ext">Ext</sup>
+* [Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)<sup class="ext">Ext</sup>
 
 </div></div>
