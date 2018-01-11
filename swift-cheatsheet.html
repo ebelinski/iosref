@@ -38,18 +38,6 @@ if myBool {
 // Output: "myBool is true"
 {% endhighlight %}
 
-<h3>Switch statement</h3>
-
-{% highlight swift %}
-let myInt = 5
-switch myInt {
-case 4: print("myInt is four")
-case 5: print("myInt is five")
-default: print("myInt not 4 or 5")
-}
-// Output: "myInt is five"
-{% endhighlight %}
-
 <h3>Optionals</h3>
 
 {% highlight swift %}
@@ -69,6 +57,34 @@ let myInt1: Int? = 5
 let myInt2: Int? = nil
 print("\(myInt1 ?? 0) & \(myInt2 ?? 0)")
 // Output: "5 & 99"
+{% endhighlight %}
+
+<h3>Enum</h3>
+
+{% highlight swift %}
+enum CompassPoint {
+  case north
+  case south
+  case east
+  case west
+}
+{% endhighlight %}
+
+<h3>Enum variable</h3>
+
+{% highlight swift %}
+var currentDirection = .north
+{% endhighlight %}
+
+<h3>Switch statement</h3>
+
+{% highlight swift %}
+switch currentDirection {
+case .north: print("Going north!")
+case .south: print("Going south...")
+default: print("Going east or west.")
+}
+// Output: "Going north!"
 {% endhighlight %}
 
 </div><div class="col-sm-6">
