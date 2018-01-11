@@ -2,6 +2,8 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
+// $brand-primary: #0f5ca0; // Override
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "bootstrap";
 @import "syntax-highlighting";
@@ -59,7 +61,7 @@ table {
 
 .ext {
   font-weight: bold;
-  color: #ff7e79;
+  color: #919191;
   display: inline-block;
   padding: 0px 2px;
 }
