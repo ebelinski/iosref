@@ -31,7 +31,7 @@ layout: default
 
 ## Tools
 
-* [UIHex](https://uihex.com)<sup class="ext">Ext</sup>
+* [UIHex](https://uihex.com)
 
 ## Apple docs
 
