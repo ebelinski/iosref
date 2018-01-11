@@ -9,16 +9,21 @@ title: Swift 4 Cheatsheet
 
 {% highlight swift %}
 let myInt = 5
-let myDouble = 5.5
 let myString = "5.5"
 {% endhighlight %}
 
-<h3>Variables with type annotations</h3>
+<h3>Type annotations (optional)</h3>
 
 {% highlight swift %}
 let myInt: Int = 5
-let myDouble: Double = 5.5
 let myString: String = "5.5"
+{% endhighlight %}
+
+<h3>Mutable variables</h3>
+
+{% highlight swift %}
+let myInt1 = 5 // Can't change later
+var myInt2 = 8 // Can change later
 {% endhighlight %}
 
 <h3>If statement</h3>
@@ -57,20 +62,19 @@ if let unwrappedInt = myInt {
 // Output: "myInt is 5"
 {% endhighlight %}
 
+<h3>Nil-coalescing operator</h3>
+
+{% highlight swift %}
+let myInt1: Int? = 5
+let myInt2: Int? = nil
+print("\(myInt1 ?? 0) & \(myInt2 ?? 0)")
+// Output: "5 & 99"
+{% endhighlight %}
+
 </div><div class="col-sm-6">
 
-<h3>Declaring functions</h3>
+<h3>Function with param and return</h3>
 
-{% highlight swift %}
-func myFunc() {
-  // doesn't return anything
-}
-{% endhighlight %}
-{% highlight swift %}
-func myFunc() -> Int {
-  return 5
-}
-{% endhighlight %}
 {% highlight swift %}
 func square(x: Int) -> Int {
   let squaredValue = x * x
@@ -78,7 +82,7 @@ func square(x: Int) -> Int {
 }
 {% endhighlight %}
 
-<h3>Calling functions</h3>
+<h3>Calling a functions</h3>
 
 {% highlight swift %}
 let a = 6
@@ -90,20 +94,62 @@ print("Square of a is: \(squareOfA)")
 <h3>Creating a struct</h3>
 
 {% highlight swift %}
-struct MyStruct: MyOptionalProtocol {
-  let myInt: Int
-  var myString: String
-  var myOptionalDouble: Double?
-  var myOtherInt = 5
-  init(a: Int, b: String) {
-    self.myInt = a
-    self.myString = b
+struct MyStruct {
+  var myInt = 5
+  let myOptString: String?
+  init(str: String) {
+    self.myOptString = str
   }
-  func addToMyInt(a: Int) -> Int {
-    myInt += a
-    return myInt
+  mutating func squareMyInt() {
+    myInt = myInt * myInt
   }
 }
+{% endhighlight %}
+
+<h3>Creating an object from a struct</h3>
+
+{% highlight swift %}
+var myObject = MyStruct(4, "Hello")
+myObject.squareMyInt()
+if let str = myOptionalString {
+  print("\(myOptString) \(myInt)")
+}
+// Output: "Hello 16"
+{% endhighlight %}
+
+<h3>Array</h3>
+
+{% highlight swift %}
+var myArr = [1, 3]
+myArray.append(5)
+{% endhighlight %}
+
+<h3>Loop over array</h3>
+
+{% highlight swift %}
+for element in myArr {
+  print("Element: \(element)")
+}
+/* Output:
+Element: 1
+Element: 3
+Element: 5 */
+{% endhighlight %}
+
+<h3>Map</h3>
+
+{% highlight swift %}
+let squaredArr = myArr.map { $0 * $0 }
+print(squaredArr)
+// Output: [1, 9, 25]
+{% endhighlight %}
+
+<h3>Filter</h3>
+
+{% highlight swift %}
+let over2 = myArr.filter { $0 > 2 }
+print(over2)
+// Output: [3, 5]
 {% endhighlight %}
 
 </div></div>
