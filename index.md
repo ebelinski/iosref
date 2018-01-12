@@ -20,7 +20,7 @@ layout: default
 
 ## Swift
 
-* [Cheetsheet]({{ "/swift-cheatsheet" | relative_url }})
+* [Cheatsheet]({{ "/swift-cheatsheet" | relative_url }})
 * [All documentation](https://swift.org/documentation/)<sup class="ext">Ext</sup>
 
 ## Hardware
