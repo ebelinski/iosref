@@ -57,7 +57,7 @@ enum CompassPoint {
   case north
   case south
   case east
-  case west
+  case weast
 }
 {% endhighlight %}
 
@@ -73,7 +73,7 @@ var currentDirection = .north
 switch currentDirection {
 case .north: print("Going north!")
 case .south: print("Going south...")
-default: print("Going east or west.")
+default: print("Going east or weast.")
 }
 // Output: "Going north!"
 {% endhighlight %}
