@@ -34,6 +34,10 @@ layout: default
 
 * [UIHex](https://uihex.com)
 
+## Guides
+
+* [Adding a Crashlytics Beta tester]({{ "/crashlytics-beta-tester" | relative_url }})
+
 ## Apple docs
 
 * [All documentation](https://developer.apple.com/documentation/)<sup class="ext">Ext</sup>
