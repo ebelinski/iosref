@@ -12,16 +12,16 @@ layout: default
 
 ## iOS
 
-* [iOS version by device]({{ "/ios-ver" | relative_url }})
+* [iOS version by device]({{ "/ios" | relative_url }})
 
 ## watchOS
 
-* [watchOS version by device]({{ "/watchos-ver" | relative_url }})
+* [watchOS version by device]({{ "/watchos" | relative_url }})
 
 ## Swift
 
 * [Swift 4 cheatsheet]({{ "/swift-cheatsheet" | relative_url }})
-* [Array cheatsheet]({{ "/array-cheatsheet" | relative_url }})
+* [Arrays cheatsheet]({{ "/arrays-cheatsheet" | relative_url }})
 * [All documentation](https://swift.org/documentation/)<sup class="ext">Ext</sup>
 
 ## Hardware
