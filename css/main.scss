@@ -84,3 +84,40 @@ ul {
 pre {
   font-size: 1.5rem;
 }
+
+#uihex {
+  width: 100%;
+
+  #input-container {
+    text-align: center;
+    padding: 1em 0em;
+  }
+
+  input {
+    text-align: center;
+    font-size: 1.5em;
+    padding: 0.5em;
+    width: 7.5em;
+    color: #399CD3;
+  }
+
+  .color-preview {
+    display: inline-block;
+    width: 2em;
+    height: 2em;
+    border-radius: 1em;
+    border: 1px solid white;
+    margin: -0.5em 0.5em;
+  }
+
+  @media screen and (max-width: 767px) {
+    body {
+      font-size: 1.6em;
+      line-height: 1.8em;
+    }
+
+    .content {
+      margin-top: 0px;
+    }
+  }
+}

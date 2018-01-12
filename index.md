@@ -32,7 +32,7 @@ layout: default
 
 ## Tools
 
-* [UIHex](https://uihex.com)
+* [Hex to UIColor converter]({{ "/uihex" | relative_url }})
 
 ## Guides
 
