@@ -20,7 +20,8 @@ layout: default
 
 ## Swift
 
-* [Cheatsheet]({{ "/swift-cheatsheet" | relative_url }})
+* [Swift 4 cheatsheet]({{ "/swift-cheatsheet" | relative_url }})
+* [Array cheatsheet]({{ "/array-cheatsheet" | relative_url }})
 * [All documentation](https://swift.org/documentation/)<sup class="ext">Ext</sup>
 
 ## Hardware
