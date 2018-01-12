@@ -7,8 +7,7 @@
 
 # Site settings
 title: iOS Ref
-description: > Quick reference tables, tools, and links for iOS developers.
-
+description: Quick reference tables, tools, and links for iOS developers.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
