@@ -10,6 +10,7 @@ title: Adding a Crashlytics Beta tester
 * It is *not* possible to let a new user test an existing beta build.
 * You must first invite a new tester, then create a new beta build.
 * There are multiple ways to do some of the steps below.
+* Some steps may change over time. If you find something broken, please [let me know](https://uihex.com).
 
 ### Step 1: Invite a user (for the developer)
 
@@ -43,13 +44,8 @@ This is the tricky step that has changed in Xcode 9.
 
 1. Go to the system folder `~/Library/MobileDevice/Provisioning\ Profiles/`.
     1. You can do this by opening a terminal window and typing `open ~/Library/MobileDevice/Provisioning\ Profiles/`.
-2. Delete everything in the folder.
-3. Open Xcode.
-4. Open Xcode preferences.
+2. Delete everything in this folder.
+3. Open Xcode, and open to Xcode preferences.
 5. Click on the Accounts tab.
 6. Select the Apple ID you are using for the development of the app.
 7. Click on "Download Manual Profiles".
-
-### Addendum
-
-Some steps to this process may change over time with new versions of Xcode. If you think something is wrong, please [let me know](https://uihex.com).
