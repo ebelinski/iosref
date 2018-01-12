@@ -8,11 +8,4 @@
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-
-  <script>
-    console.log(window.location.href);
-    if (window.location.href == "http://tectrolabs.com/" || window.location.href == "http://www.tectrolabs.com/" || window.location.href == "https://www.tectrolabs.com/") {
-      window.location.href = "https://tectrolabs.com";
-    }
-  </script>
 </head>
