@@ -64,13 +64,13 @@ enum CompassPoint {
 <h3>Enum variable</h3>
 
 {% highlight swift %}
-var currentDirection = .north
+var direction: CompassPoint = .north
 {% endhighlight %}
 
 <h3>Switch statement</h3>
 
 {% highlight swift %}
-switch currentDirection {
+switch direction {
 case .north: print("Going north!")
 case .south: print("Going south...")
 default: print("Going east or weast.")
