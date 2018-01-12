@@ -116,12 +116,12 @@ struct MyStruct {
 <h3>Creating an object from a struct</h3>
 
 {% highlight swift %}
-var myObject = MyStruct(4, "Hi! 👋")
+var myObject = MyStruct(str: "Hi! 👋")
 myObject.squareMyInt()
-if let str = myOptionalString {
-  print("\(myOptString) \(myInt)")
+if let str = myObject.myOptString {
+  print("\(str) \(myObject.myInt)")
 }
-// Output: "Hi! 👋 16"
+// Output: "Hi! 👋 25"
 {% endhighlight %}
 
 <h3>Array</h3>
