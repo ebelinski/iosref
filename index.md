@@ -8,7 +8,7 @@ layout: default
 ## Design
 
 * [Resolution by device]({{ "/res" | relative_url }})
-* [3D Touch by device]({{ "/3d-touch" | relative_url }})
+* [Display tech by device]({{ "/display-tech" | relative_url }})
 
 ## OS
 
