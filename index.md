@@ -14,6 +14,7 @@ layout: default
 
 * [iOS version by device]({{ "/ios" | relative_url }})
 * [watchOS version by device]({{ "/watchos" | relative_url }})
+* [iOS adoption rates](https://developer.apple.com/support/app-store/)<sup class="ext">Ext</sup>
 
 ## Hardware
 
