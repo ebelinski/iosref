@@ -45,8 +45,44 @@ print(result)
 // Output: "30"
 {% endhighlight %}
 
-### Passing and returning functions
+### Function that takes in another function as a parameter
+
+The function `performOperation` has type `((Int, Int) -> Int, Int, Int) -> Int`.
 
 {% highlight swift %}
-...
+func multiply(x: Int, y: Int) -> Int {
+  return x * y
+}
+
+func performOperation(function: (Int, Int) -> Int, a: Int, b: Int) -> Int {
+  return function(a, b)
+}
+
+let result = performOperation(function: multiply, a: 5, b: 6)
+print(result)
+// Output: "30"
 {% endhighlight %}
+
+### Function that returns a function
+
+The function `performOperation` has type `((Int, Int) -> Int, Int, Int) -> Int`.
+
+{% highlight swift %}
+func multiply(x: Int, y: Int) -> Int {
+  return x * y
+}
+
+func operation() -> ((Int, Int) -> Int) {
+  return multiply
+}
+
+let myOperation = operation()
+let result = myOperation(5, 6)
+print(result)
+// Output: "30"
+{% endhighlight %}
+
+### Further reading
+
+* [Swift closures guide]({{ "/swift-closures-guide" | relative_url }})
+* [Functions (The Swift Programming Language)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Functions.html)
