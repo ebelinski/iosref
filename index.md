@@ -19,7 +19,7 @@ layout: default
 
 ## Hardware
 
-* [RAM by device]({{ "/ram" | relative_url }})
+* [RAM and processor by device]({{ "/ram-processor" | relative_url }})
 
 ## Swift
 
