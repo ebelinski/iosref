@@ -9,6 +9,7 @@ layout: default
 
 * [Resolution by device]({{ "/res" | relative_url }})
 * [Display tech by device]({{ "/display-tech" | relative_url }})
+* [Fonts by iOS version](http://iosfonts.com/)<sup class="ext">Ext</sup>
 
 ## OS
 
