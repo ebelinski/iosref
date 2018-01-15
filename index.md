@@ -27,15 +27,15 @@ layout: default
 <!-- * [Arrays cheatsheet]({{ "/arrays-cheatsheet" | relative_url }}) -->
 * [All documentation](https://swift.org/documentation/)<sup class="ext">Ext</sup>
 
-## Guides
-
-* [Adding a Crashlytics Beta tester]({{ "/crashlytics-beta-tester" | relative_url }})
-
 </div><div class="col-sm-6">
 
 ## Tools
 
 * [Hex to UIColor converter]({{ "/uihex" | relative_url }})
+
+## Guides
+
+* [Adding a Crashlytics Beta tester]({{ "/crashlytics-beta-tester" | relative_url }})
 
 ## Apple docs
 
