@@ -9,13 +9,13 @@ layout: default
 
 * [Resolution by device]({{ "/res" | relative_url }})
 * [Display tech by device]({{ "/display-tech" | relative_url }})
-* [Fonts by iOS version](http://iosfonts.com/)<sup class="ext">Ext</sup>
+* [Fonts by iOS version](http://iosfonts.com/){% include ext.html %}
 
 ## OS
 
 * [iOS version by device]({{ "/ios" | relative_url }})
 * [watchOS version by device]({{ "/watchos" | relative_url }})
-* [iOS adoption rates](https://developer.apple.com/support/app-store/)<sup class="ext">Ext</sup>
+* [iOS adoption rates](https://developer.apple.com/support/app-store/){% include ext.html %}
 
 ## Hardware
 
@@ -25,7 +25,7 @@ layout: default
 
 * [Swift 4 cheatsheet]({{ "/swift-cheatsheet" | relative_url }})
 <!-- * [Arrays cheatsheet]({{ "/arrays-cheatsheet" | relative_url }}) -->
-* [All documentation](https://swift.org/documentation/)<sup class="ext">Ext</sup>
+* [All documentation](https://swift.org/documentation/){% include ext.html %}
 
 </div><div class="col-sm-6">
 
@@ -39,17 +39,17 @@ layout: default
 
 ## Apple docs
 
-* [All documentation](https://developer.apple.com/documentation/)<sup class="ext">Ext</sup>
-* [Foundation](https://developer.apple.com/documentation/foundation)<sup class="ext">Ext</sup>
-* [UIKit](https://developer.apple.com/documentation/uikit)<sup class="ext">Ext</sup>
+* [All documentation](https://developer.apple.com/documentation/){% include ext.html %}
+* [Foundation](https://developer.apple.com/documentation/foundation){% include ext.html %}
+* [UIKit](https://developer.apple.com/documentation/uikit){% include ext.html %}
 
 ## Design docs
 
-* [iOS HIG](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/)<sup class="ext">Ext</sup>
-* [watchOS HIG](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/)<sup class="ext">Ext</sup>
+* [iOS HIG](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/){% include ext.html %}
+* [watchOS HIG](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/){% include ext.html %}
 
 ## App Store
 
-* [Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)<sup class="ext">Ext</sup>
+* [Review Guidelines](https://developer.apple.com/app-store/review/guidelines/){% include ext.html %}
 
 </div></div>
