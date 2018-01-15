@@ -24,6 +24,7 @@ layout: default
 ## Swift
 
 * [Swift 4 cheatsheet]({{ "/swift-cheatsheet" | relative_url }})
+<!-- * [Closures guide]({{ "/swift-closures-guide" | relative_url }}) -->
 <!-- * [Arrays cheatsheet]({{ "/arrays-cheatsheet" | relative_url }}) -->
 * [All documentation](https://swift.org/documentation/){% include ext.html %}
 
