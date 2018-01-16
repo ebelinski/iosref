@@ -5,10 +5,6 @@ layout: default
 
 <div class="row"><div class="col-sm-6">
 
-## Tools
-
-* [Hex to UIColor converter]({{ "/uihex" | relative_url }})
-
 ## Design
 
 * [Resolution by device]({{ "/res" | relative_url }})
@@ -29,6 +25,11 @@ layout: default
 
 * [Adding a Crashlytics Beta tester]({{ "/crashlytics-beta-tester" | relative_url }})
 
+## App Store
+
+* [Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)<sup class="ext">Ext</sup>
+* [Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)<sup class="ext">Ext</sup>
+
 </div><div class="col-sm-6">
 
 ## Swift
@@ -38,6 +39,10 @@ layout: default
 * [Closures quick reference]({{ "/swift-closures" | relative_url }})
 <!-- * [Arrays cheatsheet]({{ "/arrays-cheatsheet" | relative_url }}) -->
 * [All documentation](https://swift.org/documentation/)<sup class="ext">Ext</sup>
+
+## Tools
+
+* [Hex to UIColor converter]({{ "/uihex" | relative_url }})
 
 ## Apple docs
 
@@ -49,10 +54,5 @@ layout: default
 
 * [iOS HIG](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/)<sup class="ext">Ext</sup>
 * [watchOS HIG](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/)<sup class="ext">Ext</sup>
-
-## App Store
-
-* [Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)<sup class="ext">Ext</sup>
-* [Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)<sup class="ext">Ext</sup>
 
 </div></div>
