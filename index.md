@@ -25,11 +25,6 @@ layout: default
 
 * [Adding a Crashlytics Beta tester]({{ "/crashlytics-beta-tester" | relative_url }})
 
-## App Store
-
-* [Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)<sup class="ext">Ext</sup>
-* [Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)<sup class="ext">Ext</sup>
-
 </div><div class="col-sm-6">
 
 ## Swift
@@ -48,12 +43,11 @@ layout: default
 ## Apple docs
 
 * [All documentation](https://developer.apple.com/documentation/)<sup class="ext">Ext</sup>
-* [Foundation](https://developer.apple.com/documentation/foundation)<sup class="ext">Ext</sup>
-* [UIKit](https://developer.apple.com/documentation/uikit)<sup class="ext">Ext</sup>
+* HIG: [iOS](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/) and [watchOS](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/)<sup class="ext">Ext</sup>
 
-## Design docs
+## App Store
 
-* [iOS HIG](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/)<sup class="ext">Ext</sup>
-* [watchOS HIG](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/)<sup class="ext">Ext</sup>
+* [Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)<sup class="ext">Ext</sup>
+* [Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)<sup class="ext">Ext</sup>
 
 </div></div>
