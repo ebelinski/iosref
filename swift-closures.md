@@ -7,7 +7,7 @@ Swift closures are blocks of functionality that are self-contained, and can be p
 
 ### Closure expression syntax
 
-Closures can be defined with _closure expression syntax_, which has the following general form:
+Closures can be defined with _closure expression syntax_, which has the general form:
 
 <pre class="with-placeholders">
 { (<span class="placeholder">parameters</span>) -> <span class="placeholder">return type</span> in
@@ -17,7 +17,7 @@ Closures can be defined with _closure expression syntax_, which has the followin
 
 ### Closure inline
 
-Using closure expression syntax:
+Using **closure expression syntax**:
 
 {% highlight swift %}
 let sortedInts = [4, 30, 7, 9, 1].sorted(by: { (x: Int, y: Int) -> Bool in
@@ -25,15 +25,23 @@ let sortedInts = [4, 30, 7, 9, 1].sorted(by: { (x: Int, y: Int) -> Bool in
 })
 {% endhighlight %}
 
-Because this closure is the last argument of the function `sorted`, this code can be rewritten without parentheses:
+Because this closure is the last argument of `sorted`, the **parentheses** are optional:
 
 {% highlight swift %}
 let sortedInts = [4, 30, 7, 9, 1].sorted() { (x: Int, y: Int) -> Bool in
-  return x > y
+  return x < y
 }
 {% endhighlight %}
 
-Also, closure parameters can be referenced using position instead of by name:
+When the argument and/or return types are known, the **type annotations** are optional:
+
+{% highlight swift %}
+let sortedInts = [4, 30, 7, 9, 1].sorted() { x, y in
+  return x < y
+}
+{% endhighlight %}
+
+Also, closure parameters can be referenced by **position** instead of by name:
 
 {% highlight swift %}
 let sortedInts = [4, 30, 7, 9, 1].sorted() {$0 > $1}
