@@ -39,6 +39,15 @@ print(mySortedInts)
 // Output: "[30, 9, 7, 4, 1]"
 {% endhighlight %}
 
+Also, closure parameters can be referenced using position instead of by name:
+
+{% highlight swift %}
+let myInts = [4, 30, 7, 9, 1]
+let mySortedInts = myInts.sorted() {$0 > $1}
+print(mySortedInts)
+// Output: "[30, 9, 7, 4, 1]"
+{% endhighlight %}
+
 ### Closure as a variable
 
 A closure can be stored as a variable and used later. Using closure expression syntax:
