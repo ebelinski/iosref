@@ -30,8 +30,8 @@ layout: default
 ## Swift
 
 * [Swift 4 cheatsheet]({{ "/swift-cheatsheet" | relative_url }})
-* [Functions quick reference]({{ "/swift-functions" | relative_url }})
 * [Closures quick reference]({{ "/swift-closures" | relative_url }})
+* [Functions quick reference]({{ "/swift-functions" | relative_url }})
 <!-- * [Arrays cheatsheet]({{ "/arrays-cheatsheet" | relative_url }}) -->
 * [All documentation](https://swift.org/documentation/)<sup class="ext">Ext</sup>
 
