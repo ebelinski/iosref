@@ -37,7 +37,7 @@ layout: default
 * [Functions quick reference]({{ "/swift-functions" | relative_url }})
 * [Closures quick reference]({{ "/swift-closures" | relative_url }})
 <!-- * [Arrays cheatsheet]({{ "/arrays-cheatsheet" | relative_url }}) -->
-* [All documentation](https://swift.org/documentation/){% include ext.html %}
+* [All documentation](https://swift.org/documentation/)<sup class="ext">Ext</sup>
 
 ## Apple docs
 
@@ -53,5 +53,6 @@ layout: default
 ## App Store
 
 * [Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)<sup class="ext">Ext</sup>
+* [Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)<sup class="ext">Ext</sup>
 
 </div></div>
