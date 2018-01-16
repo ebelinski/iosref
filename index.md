@@ -5,6 +5,10 @@ layout: default
 
 <div class="row"><div class="col-sm-6">
 
+## Tools
+
+* [Hex to UIColor converter]({{ "/uihex" | relative_url }})
+
 ## Design
 
 * [Resolution by device]({{ "/res" | relative_url }})
@@ -21,6 +25,12 @@ layout: default
 
 * [RAM and processor by device]({{ "/ram-processor" | relative_url }})
 
+## Guides
+
+* [Adding a Crashlytics Beta tester]({{ "/crashlytics-beta-tester" | relative_url }})
+
+</div><div class="col-sm-6">
+
 ## Swift
 
 * [Swift 4 cheatsheet]({{ "/swift-cheatsheet" | relative_url }})
@@ -28,16 +38,6 @@ layout: default
 * [Closures quick reference]({{ "/swift-closures" | relative_url }})
 <!-- * [Arrays cheatsheet]({{ "/arrays-cheatsheet" | relative_url }}) -->
 * [All documentation](https://swift.org/documentation/){% include ext.html %}
-
-</div><div class="col-sm-6">
-
-## Tools
-
-* [Hex to UIColor converter]({{ "/uihex" | relative_url }})
-
-## Guides
-
-* [Adding a Crashlytics Beta tester]({{ "/crashlytics-beta-tester" | relative_url }})
 
 ## Apple docs
 
