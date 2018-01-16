@@ -28,6 +28,17 @@ print(mySortedInts)
 // Output: "[30, 9, 7, 4, 1]"
 {% endhighlight %}
 
+Because a closure is the last argument of the function `sorted`, the code above can be rewritten without parentheses:
+
+{% highlight swift %}
+let myInts = [4, 30, 7, 9, 1]
+let mySortedInts = myInts.sorted() { (x: Int, y: Int) -> Bool in
+  return x > y
+}
+print(mySortedInts)
+// Output: "[30, 9, 7, 4, 1]"
+{% endhighlight %}
+
 ### Closure as a variable
 
 A closure can be stored as a variable and used later. Using closure expression syntax:
