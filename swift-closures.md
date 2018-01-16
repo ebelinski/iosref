@@ -25,7 +25,7 @@ let sortedInts = [4, 30, 7, 9, 1].sorted(by: { (x: Int, y: Int) -> Bool in
 })
 {% endhighlight %}
 
-Because a closure is the last argument of the function `sorted`, the code above can be rewritten without parentheses:
+Because this closure is the last argument of the function `sorted`, this code can be rewritten without parentheses:
 
 {% highlight swift %}
 let sortedInts = [4, 30, 7, 9, 1].sorted() { (x: Int, y: Int) -> Bool in
