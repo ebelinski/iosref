@@ -3,7 +3,7 @@ layout: default
 title: Swift 4 functions guide
 ---
 
-Functions are a special type of [closures]({{ "/swift-closures-guide" | relative_url }}). Functions are first-class types, so a function can be passed in as a parameter to another function. Also, a function can return another function.
+Functions are a special type of [closures]({{ "/swift-closures" | relative_url }}). Functions are first-class types, so a function can be passed in as a parameter to another function. Also, a function can return another function.
 
 ### Function with type `() -> ()`
 
@@ -84,5 +84,5 @@ print(result)
 
 ### Further reading
 
-* [Swift closures guide]({{ "/swift-closures-guide" | relative_url }})
+* [Swift closures guide]({{ "/swift-closures" | relative_url }})
 * [Functions (The Swift Programming Language)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Functions.html)
