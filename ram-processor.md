@@ -4,7 +4,10 @@ title: RAM and processor by device
 description: Tables showing the RAM and processor for each iPhone, iPad, Apple Watch, and iPod touch.
 ---
 
-<h3>iPhone</h3>
+* TOC
+{:toc}
+
+### iPhone
 
 <table>
   <tr>
@@ -100,7 +103,7 @@ description: Tables showing the RAM and processor for each iPhone, iPad, Apple W
   </tr>
 </table>
 
-<h3>iPad</h3>
+### iPad
 
 <table>
   <tr>
@@ -187,7 +190,7 @@ description: Tables showing the RAM and processor for each iPhone, iPad, Apple W
   </tr>
 </table>
 
-<h3>Apple Watch</h3>
+### Apple Watch
 
 <table>
   <tr>
@@ -219,7 +222,7 @@ description: Tables showing the RAM and processor for each iPhone, iPad, Apple W
   </tr>
 </table>
 
-<h3>iPod touch</h3>
+### iPod touch
 
 <table>
   <tr>
