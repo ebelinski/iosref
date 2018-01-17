@@ -133,3 +133,24 @@ pre {
     }
   }
 }
+
+ul#markdown-toc {
+  font-weight: bold;
+  font-size: 0.8em;
+  display: inline-block;
+  padding: 0.2em;
+  border: 1px solid #999;
+  border-radius: 5px;
+  background: #fafafa;
+  list-style-type: none;
+  color: #999;
+  margin: 0.3em 0em;
+
+  li:before { content: "" };
+  // li:not(:last-child):after { content: "  " };
+
+  li {
+    display: inline-block;
+    padding: 0em 0.4em;
+  }
+}
