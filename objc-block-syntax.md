@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Objective-C block syntax quick reference
+description: A quick reference guide for block syntax in Objective-C.
 ---
 
 ### As a local variable

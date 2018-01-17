@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Adding a Crashlytics Beta tester
+description: A modern guide to adding a beta tester to Fabric's Crashlytics.
 ---
 
 ### Notes
