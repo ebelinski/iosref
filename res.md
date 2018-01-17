@@ -4,7 +4,10 @@ title: Resolution by iOS device
 description: Tables with logical resolution, scale factor, actual resolution, and diagonal size for each iPhone, iPad, Apple Watch, and iPod touch.
 ---
 
-<h3>iPhone</h3>
+* TOC
+{:toc}
+
+### iPhone
 
 <p>Ordered by logical resolution height, then by actual resolution height.</p>
 
@@ -73,7 +76,7 @@ description: Tables with logical resolution, scale factor, actual resolution, an
 
 <sup>1</sup> Downsampled to actual pixel dimensions 1080 × 1920. See <a href="https://www.paintcodeapp.com/news/iphone-6-screens-demystified">here</a> for explanation.
 
-<h3>iPad</h3>
+### iPad
 
 <p>Ordered by logical resolution height, then by actual resolution height, then by release date.</p>
 
@@ -128,7 +131,7 @@ description: Tables with logical resolution, scale factor, actual resolution, an
   </tr>
 </table>
 
-<h3>Apple Watch</h3>
+### Apple Watch
 
 <p>There is no resolution difference between models of different series.</p>
 
@@ -150,7 +153,7 @@ description: Tables with logical resolution, scale factor, actual resolution, an
   </tr>
 </table>
 
-<h3>iPod touch</h3>
+### iPod touch
 
 <p>Ordered by logical resolution height, then by actual resolution height.</p>
 
@@ -192,7 +195,7 @@ description: Tables with logical resolution, scale factor, actual resolution, an
   </tr>
 </table>
 
-<h3>Further reading</h3>
+### Further reading
 
 <ul>
   <li><a href="https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions">"The ultimate guide to iPhone resolutions" by PaintCode</a></li>
