@@ -97,11 +97,8 @@ print("Square of 6 is: \(squareOf6)")
 
 {% highlight swift %}
 struct MyStruct {
-  var myInt = 5
-  let myOptString: String?
-  init(str: String) {
-    self.myOptString = str
-  }
+  var myInt: Int
+  let myStr: String
   mutating func squareMyInt() {
     myInt = myInt * myInt
   }
@@ -111,11 +108,10 @@ struct MyStruct {
 <h3>Creating an object from a struct</h3>
 
 {% highlight swift %}
-var myObject = MyStruct(str: "Hi! 👋")
-myObject.squareMyInt()
-if let str = myObject.myOptString {
-  print("\(str) \(myObject.myInt)")
-}
+var obj = MyStruct(myInt: 5,
+                   myStr: "Hi! 👋")
+obj.squareMyInt()
+print("\(obj.myStr) \(obj.myInt)")
 // Output: "Hi! 👋 25"
 {% endhighlight %}
 
