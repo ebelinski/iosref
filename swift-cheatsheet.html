@@ -130,13 +130,12 @@ myArr.append(5)
 <h3>Loop over array</h3>
 
 {% highlight swift %}
+var sum = 0
 for element in myArr {
-  print("Element: \(element)")
+  sum += element
 }
-/* Output:
-Element: 1
-Element: 3
-Element: 5 */
+print(sum)
+// Output: "9"
 {% endhighlight %}
 
 </div></div>
