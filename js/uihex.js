@@ -37,8 +37,10 @@ function processValue() {
     if (isNaN(red) || isNaN(grn) || isNaN(blu)) {
       clearResults();
     } else {
-      $("#swift-results").html("<h3>Swift</h3><pre class='code'>UIColor(red: "+red+", green: "+grn+", blue: "+blu+", alpha: 1) // #"+newValue+"</pre>");
-      $("#objective-c-results").html("<h3>Objective-C</h3><pre class='code'>[UIColor colorWithRed:"+red+" green:"+grn+" blue:"+blu+" alpha:1]; // #"+newValue+"</pre>");
+      $("#results").show();
+
+      $("#swift-code").html("UIColor(red: "+red+", green: "+grn+", blue: "+blu+", alpha: 1) // #"+newValue);
+      $("#objective-c-code").html("[UIColor colorWithRed:"+red+" green:"+grn+" blue:"+blu+" alpha:1]; // #"+newValue);
 
       $(".color-preview.active").css("border-color", "black");
       $(".color-preview.active").css("background-color", "#"+newValue);
@@ -49,8 +51,9 @@ function processValue() {
 }
 
 function clearResults() {
-  $("#swift-results").html("");
-  $("#objective-c-results").html("");
+  $("#results").hide();
+  $("#swift-code").html("");
+  $("#objective-c-code").html("");
 
   $(".color-preview.active").css("border-color", "white");
   $(".color-preview.active").css("background-color", "white");
