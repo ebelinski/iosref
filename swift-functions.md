@@ -65,7 +65,7 @@ print(result)
 
 ### Function that returns a function
 
-The function `operation` has type `((Int, Int) -> Int, Int, Int) -> Int`.
+The function `operation` has type `() -> (Int, Int) -> Int`.
 
 {% highlight swift %}
 func multiply(x: Int, y: Int) -> Int {
