@@ -24,6 +24,7 @@ layout: default
 ## Guides
 
 * [Adding a Crashlytics Beta tester]({{ "/crashlytics-beta-tester" | relative_url }})
+* [Objective-C block syntax]({{ "/objc-block-syntax" | relative_url }})
 
 </div><div class="col-sm-6">
 

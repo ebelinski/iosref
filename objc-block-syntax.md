@@ -1,0 +1,35 @@
+---
+layout: default
+title: Objective-C block syntax quick reference
+---
+
+### As a local variable
+
+```
+returnType (^blockName)(parameterTypes) = ^returnType(parameters) {...};
+```
+
+### As a property
+
+```
+@property (nonatomic, copy, nullability) returnType (^blockName)(parameterTypes);
+```
+
+### As a method parameter
+
+```
+- (void)methodThatTakesABlock:(returnType (^nullability)(parameterTypes))blockName;
+```
+
+### As an argument to a method call
+
+```
+[someObject methodThatTakesABlock:^returnType (parameters) {...}];
+```
+
+### As a `typedef`
+
+```
+typedef returnType (^TypeName)(parameterTypes);
+TypeName blockName = ^returnType(parameters) {...};
+```
