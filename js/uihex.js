@@ -6,6 +6,8 @@ $(document).ready(function() {
   $("#hex-value").keyup(function() {
     processValue();
   });
+
+  new Clipboard('.btn');
 });
 
 function processValue() {
