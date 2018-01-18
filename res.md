@@ -27,7 +27,7 @@ description: Tables with logical resolution, scale factor, actual resolution, an
     <td>5.8"</td>
   </tr>
   <tr>
-    <td style="white-space: nowrap">
+    <td class="nowrap">
       <span class="strong">iPhone 8+</span><br>
       <span class="soft">and 7+, 6s+, 6+</span>
     </td>
@@ -167,7 +167,7 @@ description: Tables with logical resolution, scale factor, actual resolution, an
     <th>Diagonal size</th>
   </tr>
   <tr>
-    <td style="white-space: nowrap">
+    <td class="nowrap">
       <span class="strong">iPod touch (gen 6)</span><br>
       <span class="soft">and gen 5</span>
     </td>

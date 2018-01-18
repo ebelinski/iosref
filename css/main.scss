@@ -163,3 +163,9 @@ ul#markdown-toc {
     padding: 0em 0.4em;
   }
 }
+
+@media screen and (min-width: 767px) {
+  .nowrap {
+    white-space: nowrap;
+  }
+}
