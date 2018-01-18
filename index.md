@@ -31,6 +31,7 @@ layout: default
 ## Swift
 
 * [Swift 4 cheatsheet]({{ "/swift-cheatsheet" | relative_url }})
+* [Swift versions]({{ "/swift" | relative_url }})
 * [Closures quick reference]({{ "/swift-closures" | relative_url }})
 * [Functions quick reference]({{ "/swift-functions" | relative_url }})
 <!-- * [Arrays cheatsheet]({{ "/arrays-cheatsheet" | relative_url }}) -->
