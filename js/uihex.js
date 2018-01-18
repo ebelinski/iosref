@@ -6,11 +6,6 @@ $(document).ready(function() {
   $("#hex-value").keyup(function() {
     processValue();
   });
-
-  // Show/hide tips when user clicks on link to show tips
-  $("#toggle-tips").click(function () {
-    $("#tips").toggle();
-  });
 });
 
 function processValue() {
