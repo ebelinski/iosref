@@ -30,15 +30,15 @@ layout: default
 
 ## Swift
 
-* [Swift 4 cheatsheet]({{ "/swift-cheatsheet" | relative_url }})
 * [Swift versions]({{ "/swift" | relative_url }})
-* [Closures quick reference]({{ "/swift-closures" | relative_url }})
-* [Functions quick reference]({{ "/swift-functions" | relative_url }})
+* [Swift 4 cheatsheet]({{ "/swift-cheatsheet" | relative_url }})
+* [Closures quick ref]({{ "/swift-closures" | relative_url }})
+* [Functions quick ref]({{ "/swift-functions" | relative_url }})
 
 ## Swift docs
 
-* [All documentation](https://swift.org/documentation/)<sup class="ext">Ext</sup>
-* [Swift book by Apple](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)<sup class="ext">Ext</sup>
+* [All docs](https://swift.org/documentation/)<sup class="ext">Ext</sup>
+* [Book by Apple](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)<sup class="ext">Ext</sup>
 
 ## Tools
 
@@ -47,7 +47,7 @@ layout: default
 
 ## Apple docs
 
-* [All documentation](https://developer.apple.com/documentation/)<sup class="ext">Ext</sup>
+* [All docs](https://developer.apple.com/documentation/)<sup class="ext">Ext</sup>
 * HIG: [iOS](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/) and [watchOS](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/)<sup class="ext">Ext</sup>
 
 ## App Store
