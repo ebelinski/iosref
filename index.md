@@ -26,6 +26,11 @@ layout: default
 * [Adding a Crashlytics Beta tester]({{ "/crashlytics-beta-tester" | relative_url }})
 * [Objective-C block syntax]({{ "/objc-block-syntax" | relative_url }})
 
+## App Store
+
+* [Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)<sup class="ext">Ext</sup>
+* [Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)<sup class="ext">Ext</sup>
+
 </div><div class="col-sm-6">
 
 ## Swift
@@ -44,15 +49,11 @@ layout: default
 
 * [Hex to UIColor converter]({{ "/uihex" | relative_url }})
 * [Why the Failure, Auto Layout?](https://www.wtfautolayout.com/)<sup class="ext">Ext</sup>
+* [NSDateFormatter](http://nsdateformatter.com/)<sup class="ext">Ext</sup>
 
 ## Apple docs
 
 * [All docs](https://developer.apple.com/documentation/)<sup class="ext">Ext</sup>
 * HIG: [iOS](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/) and [watchOS](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/)<sup class="ext">Ext</sup>
-
-## App Store
-
-* [Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)<sup class="ext">Ext</sup>
-* [Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)<sup class="ext">Ext</sup>
 
 </div></div>
