@@ -56,7 +56,7 @@ greet(name: nil)
 
 ### Guard
 
-In a `guard` statement, the `else` branch _must_ transfer control to exit the code block containing the `guard` statement. This can be done with `return`, `break`, `continue`, or `throw`. Guard statements can be used to reduce indentation on the happy path.
+Guard statements can be used to reduce indentation on the happy path. In a guard statement, the _else_ branch _must_ transfer control to exit the code block containing the guard statement. This can be done with _return_, _break_, _continue_, or _throw_.
 
 <div class="row"><div class="col-sm-6">
 
@@ -71,7 +71,6 @@ func divide(x: Int, y: Int) -> Int? {
   return x / y
 }
 print(divide(x: 5, y: 0))
-
 // Output: 
 // You cannot divide by 0.
 // nil
@@ -98,15 +97,49 @@ greet(name: nil)
 
 </div></div>
 
-### Switch
-
 ### For-in
+
+
+
+#### Simple for-in
+
+{% highlight swift %}
+let animals = ["Hummingbird", "Cheetah"]
+for animal in animals {
+  print(animal)
+}
+// Output: 
+// Hummingbird
+// Cheetah
+{% endhighlight %}
+
+#### For-in with index
+
+The common for loop `for (i = a; i < b; i++)` does not exist in Swift. Instead, the for-in can be modified to have an index using tuples and `ennumerated`:
+
+{% highlight swift %}
+let animals = ["Hummingbird", "Cheetah"]
+for (i, animal) in animals.enumerated() {
+  print("[\(i)]: \(animal)")
+}
+// Output: 
+// [0]: Hummingbird
+// [1]: Cheetah
+{% endhighlight %}
 
 ### While
 
 ### Repeat-while
 
+### Switch
+
 ### Early return
+
+#### Return
+
+#### Continue
+
+#### Break
 
 ### Further reading
 
