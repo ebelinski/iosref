@@ -184,13 +184,51 @@ repeat {
 
 ### Switch
 
-### Early return
+<div class="row"><div class="col-sm-6">
 
-#### Return
+#### Switch with equality
 
-#### Continue
+A `default` case is necessary when not all cases are covered.
 
-#### Break
+{% highlight swift %}
+func describe(animal: String) {
+  switch animal {
+  case "Owl", "Crane": print("A bird")
+  case "Lion": print("A feline")
+  case "Ant": print("An insect")
+  default: print("Something else")
+  }
+}
+describe(animal: "Owl")
+describe(animal: "Giraffe")
+// Output: 
+// "A bird"
+// "Something else"
+{% endhighlight %}
+
+</div><div class="col-sm-6">
+
+#### Switch with tuples
+
+Here, all cases are covered, so a `default` case is unnecessary.
+
+{% highlight swift %}
+func describe(point: (Int, Int)) {
+  switch point {
+  case (0, 0): print("At origin")
+  case (_, 0): print("On x-axis")
+  case (0, _): print("On y-axis")
+  case (_, _): print("Elsewhere")
+  }
+}
+describe(point: (5, 0))
+describe(point: (11, 9))
+// Output: 
+// "On x-axis"
+// "Elsewhere"
+{% endhighlight %}
+
+</div></div>
 
 ### Further reading
 
