@@ -37,13 +37,14 @@ layout: default
 
 * [Swift versions]({{ "/swift" | relative_url }})
 * [Swift 4 cheatsheet]({{ "/swift-cheatsheet" | relative_url }})
-* [Closures quick ref]({{ "/swift-closures" | relative_url }})
-* [Functions quick ref]({{ "/swift-functions" | relative_url }})
-
-## Swift docs
-
 * [All docs](https://swift.org/documentation/)<sup class="ext">Ext</sup>
 * [Book by Apple](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)<sup class="ext">Ext</sup>
+
+## Swift quick ref
+
+* [Closures]({{ "/swift-closures" | relative_url }})
+* [Functions]({{ "/swift-functions" | relative_url }})
+* [Control flow]({{ "/swift-control-flow" | relative_url }})
 
 ## Tools
 
