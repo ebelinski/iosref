@@ -99,33 +99,37 @@ greet(name: nil)
 
 ### For-in
 
+The common for loop `for (i = a; i < b; i++)` does not exist in Swift. Instead, the for-in can be modified to have an index using tuples and `enumerated`:
 
+<div class="row"><div class="col-sm-6">
 
 #### Simple for-in
 
 {% highlight swift %}
-let animals = ["Hummingbird", "Cheetah"]
-for animal in animals {
-  print(animal)
+let birds = ["Owl", "Crane"]
+for bird in birds {
+  print(bird)
 }
 // Output: 
-// Hummingbird
-// Cheetah
+// Owl
+// Crane
 {% endhighlight %}
+
+</div><div class="col-sm-6">
 
 #### For-in with index
 
-The common for loop `for (i = a; i < b; i++)` does not exist in Swift. Instead, the for-in can be modified to have an index using tuples and `ennumerated`:
-
 {% highlight swift %}
-let animals = ["Hummingbird", "Cheetah"]
-for (i, animal) in animals.enumerated() {
-  print("[\(i)]: \(animal)")
+let birds = ["Owl", "Crane"]
+for (i, bird) in birds.enumerated() {
+  print("[\(i)]: \(bird)")
 }
 // Output: 
-// [0]: Hummingbird
-// [1]: Cheetah
+// [0]: Owl
+// [1]: Crane
 {% endhighlight %}
+
+</div></div>
 
 ### While
 
