@@ -133,7 +133,53 @@ for (i, bird) in birds.enumerated() {
 
 ### While
 
-### Repeat-while
+<div class="row"><div class="col-sm-6">
+
+#### Simple while
+
+{% highlight swift %}
+var steps = 2
+while steps > 0 {
+  print("\(steps) steps left")
+  steps -= 1
+}
+// Output:
+// 2 steps left
+// 1 steps left
+{% endhighlight %}
+{% highlight swift %}
+var steps = -999
+while steps > 0 {
+  print("\(steps) steps left")
+  steps -= 1
+}
+// Output: nothing
+{% endhighlight %}
+
+</div><div class="col-sm-6">
+
+#### Repeat-while
+
+{% highlight swift %}
+var steps = 2
+repeat {
+  print("\(steps) steps left")
+  steps -= 1
+} while steps > 0
+// Output:
+// 2 steps left
+// 1 steps left
+{% endhighlight %}
+{% highlight swift %}
+var steps = -999
+repeat {
+  print("\(steps) steps left")
+  steps -= 1
+} while steps > 0
+// Output: "-999 steps left"
+{% endhighlight %}
+
+</div></div>
 
 ### Switch
 
