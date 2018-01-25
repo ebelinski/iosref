@@ -134,6 +134,8 @@ for (i, bird) in birds.enumerated() {
 
 ### While
 
+A while loop will run the code block each time the conditional is true. A repeat-while loop will run the block first without checking the conditional, then keep on running it as long as the conditional is true.
+
 <div class="row"><div class="col-sm-6">
 
 #### Simple while
