@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Swift 4 closures quick reference
+title: Swift 4 guide – closures
 description: A quick reference guide for closures in Swift 4, with inline closures, closures as variables, and closures as functions.
 ---
 
@@ -72,5 +72,5 @@ let sortedInts = [4, 30, 7, 9, 1].sorted(by: myClosure)
 
 ### Further reading
 
-* [Swift functions quick reference]({{ "/swift-functions" | relative_url }})
+* [Swift functions guide]({{ "/swift-functions" | relative_url }})
 * [Closures (The Swift Programming Language)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html)

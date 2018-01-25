@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Swift 4 functions quick reference
+title: Swift 4 guide – functions
 description: A quick reference guide for functions in Swift 4, with simple examples and functional examples.
 ---
 
@@ -85,5 +85,5 @@ print(result)
 
 ### Further reading
 
-* [Swift closures quick reference]({{ "/swift-closures" | relative_url }})
+* [Swift closures guide]({{ "/swift-closures" | relative_url }})
 * [Functions (The Swift Programming Language)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Functions.html)

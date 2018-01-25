@@ -40,7 +40,7 @@ layout: default
 * [All docs](https://swift.org/documentation/)<sup class="ext">Ext</sup>
 * [Book by Apple](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)<sup class="ext">Ext</sup>
 
-## Swift quick ref
+## Swift guides
 
 * [Closures]({{ "/swift-closures" | relative_url }})
 * [Functions]({{ "/swift-functions" | relative_url }})
