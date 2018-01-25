@@ -7,7 +7,7 @@ description: Tables showing versions of the Swift programming language, and thei
 * TOC
 {:toc}
 
-Last updated January 18, 2018.
+Last updated January 25, 2018.
 
 ### Open source versions
 
@@ -16,6 +16,12 @@ Last updated January 18, 2018.
     <th>Version</th>
     <th colspan="2">Released</th>
     <th>Part of</th>
+  </tr>
+  <tr>
+    <td>Swift 4.1</td>
+    <td>2018</td>
+    <td>TBD</td>
+    <td>Xcode 9.3 (beta)</td>
   </tr>
   <tr>
     <td>Swift 4.0.3</td>
