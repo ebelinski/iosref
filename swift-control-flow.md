@@ -68,7 +68,8 @@ func divide(x: Int, y: Int) -> Int? {
     print("You cannot divide by 0.")
     return nil
   }
-  return x / y
+  let answer = x / y
+  return answer
 }
 print(divide(x: 5, y: 0))
 // Output: 
@@ -99,7 +100,7 @@ greet(name: nil)
 
 ### For-in
 
-The common for loop `for (i = a; i < b; i++)` does not exist in Swift. Instead, the for-in can be modified to have an index using tuples and `enumerated`:
+The common for loop `for (i = a; i < b; i++)` does not exist in Swift. Instead, the for-in can be modified to have an index using tuples and _[enumerated](https://developer.apple.com/documentation/swift/array/1687832-enumerated)_:
 
 <div class="row"><div class="col-sm-6">
 
