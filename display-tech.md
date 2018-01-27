@@ -178,3 +178,40 @@ description: Tables showing the display technology in each iPhone and iPad for d
     <td>2010</td>
   </tr>
 </table>
+
+### iPod touch
+
+<table>
+  <tr>
+    <th>Device</th>
+    <th>Released</th>
+    <th>Display type</th>
+  </tr>
+  <tr>
+    <td>iPod touch (gen 6)</td>
+    <td>2015</td>
+    <td rowspan="2">LCD Retina</td>
+  </tr>
+  <tr>
+    <td>iPod touch (gen 5)</td>
+    <td>2012</td>
+  </tr>
+  <tr>
+    <td>iPod touch (gen 4)</td>
+    <td>2010</td>
+    <td rowspan="4">LCD</td>
+  </tr>
+  <tr>
+    <td>iPod touch (gen 3)</td>
+    <td>2009</td>
+  </tr>
+  <tr>
+    <td>iPod touch (gen 2)</td>
+    <td>2008</td>
+  </tr>
+  <tr>
+    <td>iPod touch (gen 1)</td>
+    <td>2007</td>
+  </tr>
+</table>
+
