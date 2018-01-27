@@ -7,9 +7,9 @@ description: Tables with logical resolution, scale factor, actual resolution, an
 * TOC
 {:toc}
 
-### iPhone
+<p>All tables are ordered by logical resolution height, then by actual resolution height, then by release date.</p>
 
-<p>Ordered by logical resolution height, then by actual resolution height.</p>
+### iPhone
 
 <table class="full-width">
   <tr>
@@ -78,8 +78,6 @@ description: Tables with logical resolution, scale factor, actual resolution, an
 
 ### iPad
 
-<p>Ordered by logical resolution height, then by actual resolution height, then by release date.</p>
-
 <table class="full-width">
   <tr>
     <th>Device</th>
@@ -133,8 +131,6 @@ description: Tables with logical resolution, scale factor, actual resolution, an
 
 ### Apple Watch
 
-<p>Ordered by logical resolution height.</p>
-
 <table>
   <tr>
     <th>Device</th>
@@ -160,8 +156,6 @@ description: Tables with logical resolution, scale factor, actual resolution, an
 </table>
 
 ### iPod touch
-
-<p>Ordered by logical resolution height, then by actual resolution height.</p>
 
 <table class="full-width">
   <tr>
