@@ -13,6 +13,7 @@ description: Tables showing the display technology in each iPhone and iPad for d
   <tr>
     <th>Device</th>
     <th>Released</th>
+    <th>Display type</th>
     <th>True Tone</th>
     <th>Color space</th>
     <th><a href="https://developer.apple.com/ios/3d-touch/">3D Touch</a></th>
@@ -20,12 +21,14 @@ description: Tables showing the display technology in each iPhone and iPad for d
   <tr>
     <td>iPhone X</td>
     <td rowspan="3">2017</td>
+    <td class="green">OLED Retina</td>
     <td rowspan="3" class="green">Yes</td>
     <td rowspan="5" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
     <td rowspan="5" class="green">Yes</td>
   </tr>
   <tr>
     <td>iPhone 8 Plus</td>
+    <td rowspan="14">LCD Retina</td>
   </tr>
   <tr>
     <td>iPhone 8</td>
@@ -82,6 +85,7 @@ description: Tables showing the display technology in each iPhone and iPad for d
   <tr>
     <td>iPhone 3GS</td>
     <td>2009</td>
+    <td rowspan="3">LCD</td>
   </tr>
   <tr>
     <td>iPhone 3G</td>
@@ -99,6 +103,7 @@ description: Tables showing the display technology in each iPhone and iPad for d
   <tr>
     <th>Device</th>
     <th>Released</th>
+    <th>Display type</th>
     <th>ProMotion</th>
     <th>True Tone</th>
     <th>Color space</th>
@@ -107,6 +112,7 @@ description: Tables showing the display technology in each iPhone and iPad for d
   <tr>
     <td>iPad Pro 12.9" (gen 2)</td>
     <td rowspan="3">2017</td>
+    <td rowspan="11">LCD Retina</td>
     <td rowspan="2" class="green">Yes</td>
     <td rowspan="2" class="green">Yes</td>
     <td rowspan="2" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
@@ -156,13 +162,16 @@ description: Tables showing the display technology in each iPhone and iPad for d
   </tr>
   <tr>
     <td>iPad mini (gen 1)</td>
+    <td>LCD</td>
   </tr>
   <tr>
     <td>iPad (gen 3)</td>
+    <td>LCD Retina</td>
   </tr>
   <tr>
     <td>iPad 2</td>
     <td>2011</td>
+    <td rowspan="2">LCD</td>
   </tr>
   <tr>
     <td>iPad (gen 1)</td>
