@@ -222,6 +222,11 @@ description: Tables showing the RAM and processor for each iPhone, iPad, Apple W
   </tr>
 </table>
 
+<p>
+  <sup>1</sup> "Series 0" is a commonly used nickname for the first generation Apple Watch.<br>
+  <sup>2</sup> Unconfirmed as of January 2018, as no official figure is given.
+</p>
+
 ### iPod touch
 
 <table>
@@ -266,8 +271,3 @@ description: Tables showing the RAM and processor for each iPhone, iPad, Apple W
     <td>—</td>
   </tr>
 </table>
-
-<p>
-  <sup>1</sup> "Series 0" is a commonly used nickname for the first generation Apple Watch.<br>
-  <sup>2</sup> Unconfirmed as of January 2018, as no official figure is given.
-</p>
