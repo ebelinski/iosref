@@ -133,7 +133,7 @@ description: Tables with logical resolution, scale factor, actual resolution, an
 
 ### Apple Watch
 
-<p>There is no resolution difference between models of different series.</p>
+<p>Ordered by logical resolution height.</p>
 
 <table>
   <tr>
@@ -142,12 +142,18 @@ description: Tables with logical resolution, scale factor, actual resolution, an
     <th>Diagonal size</th>
   </tr>
   <tr>
-    <td><span class="strong">Apple Watch 42mm</span></td>
+    <td>
+      <span class="strong">Apple Watch 42mm</span><br>
+      <span class="soft">Series 3, 2, 1, 0</span>
+    </td>
     <td>312 × 390 </td>
     <td>1.5"</td>
   </tr>
   <tr>
-    <td><span class="strong">Apple Watch 38mm</span></td>
+    <td>
+      <span class="strong">Apple Watch 38mm</span><br>
+      <span class="soft">Series 3, 2, 1, 0</span>
+    </td>
     <td>272 × 340</td>
     <td>1.32"</td>
   </tr>
