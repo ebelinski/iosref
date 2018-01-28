@@ -3,31 +3,31 @@ layout: default
 title: Swift 4 cheatsheet
 description: A beautiful and clutter-free Swift 4 cheatsheet.
 ---
+{::options parse_block_html="true" /}
+{% include openrow.html %}{% include opencol.html size=6 %}
 
-<div class="row"><div class="col-sm-6">
-
-<h3>Constants</h3>
+### Constants
 
 {% highlight swift %}
 let myInt = 5
 let myString = "5.5"
 {% endhighlight %}
 
-<h3>Variables</h3>
+### Variables
 
 {% highlight swift %}
 var myInt = 5
 myInt = myInt + 5
 {% endhighlight %}
 
-<h3>Type annotations</h3>
+### Type annotations
 
 {% highlight swift %}
 let myInt: Int = 5
 let myString: String = "5.5"
 {% endhighlight %}
 
-<h3>If statement</h3>
+### If statement
 
 {% highlight swift %}
 if 5 > 3 {
@@ -38,7 +38,7 @@ if 5 > 3 {
 // Output: "5 is more than 3"
 {% endhighlight %}
 
-<h3>Optionals</h3>
+### Optionals
 
 {% highlight swift %}
 let myInt: Int? = 5
@@ -48,7 +48,7 @@ if let unwrappedInt = myInt {
 // Output: "myInt is 5"
 {% endhighlight %}
 
-<h3>Enum</h3>
+### Enum
 
 {% highlight swift %}
 enum CompassPoint {
@@ -57,7 +57,7 @@ enum CompassPoint {
 var direction: CompassPoint = .north
 {% endhighlight %}
 
-<h3>Switch statement</h3>
+### Switch statement
 
 {% highlight swift %}
 switch direction {
@@ -68,9 +68,9 @@ default: print("Going east or west.")
 // Output: "Going north!"
 {% endhighlight %}
 
-</div><div class="col-sm-6">
+{% include closediv.html %}{% include opencol.html size=6 %}
 
-<h3>Function with param and return</h3>
+### Function with param and return
 
 {% highlight swift %}
 func square(x: Int) -> Int {
@@ -79,7 +79,7 @@ func square(x: Int) -> Int {
 }
 {% endhighlight %}
 
-<h3>Calling a function</h3>
+### Calling a function
 
 {% highlight swift %}
 let squareOf6 = square(x: 6)
@@ -87,7 +87,7 @@ print("Square of 6 is: \(squareOf6)")
 // Output: "Square of 6 is: 36"
 {% endhighlight %}
 
-<h3>Declaring a struct</h3>
+### Declaring a struct
 
 {% highlight swift %}
 struct MyStruct {
@@ -99,7 +99,7 @@ struct MyStruct {
 }
 {% endhighlight %}
 
-<h3>Instantiating a struct</h3>
+### Instantiating a struct
 
 {% highlight swift %}
 var obj = MyStruct(myInt: 5,
@@ -109,14 +109,14 @@ print("\(obj.myStr) \(obj.myInt)")
 // Output: "Hi! 👋 25"
 {% endhighlight %}
 
-<h3>Array</h3>
+### Array
 
 {% highlight swift %}
 var myArr = [1, 3]
 myArr.append(5)
 {% endhighlight %}
 
-<h3>Loop over array</h3>
+### Loop over array
 
 {% highlight swift %}
 var sum = 0
@@ -127,4 +127,5 @@ print(sum)
 // Output: "9"
 {% endhighlight %}
 
-</div></div>
+{% include closediv.html %}
+{% include closediv.html %}
