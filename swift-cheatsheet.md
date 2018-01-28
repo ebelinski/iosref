@@ -4,7 +4,7 @@ title: Swift 4 cheatsheet
 description: A beautiful and clutter-free Swift 4 cheatsheet.
 ---
 {::options parse_block_html="true" /}
-{% include openrow.html %}{% include opencol.html size=6 %}
+{% include opencol.html size=6 newrow=true %}
 
 ### Constants
 
@@ -68,7 +68,7 @@ default: print("Going east or west.")
 // Output: "Going north!"
 {% endhighlight %}
 
-{% include closediv.html %}{% include opencol.html size=6 %}
+{% include closecol.html %}{% include opencol.html size=6 %}
 
 ### Function with param and return
 
@@ -127,5 +127,4 @@ print(sum)
 // Output: "9"
 {% endhighlight %}
 
-{% include closediv.html %}
-{% include closediv.html %}
+{% include closecol.html closerow=true %}
