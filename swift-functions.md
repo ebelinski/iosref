@@ -46,6 +46,22 @@ print(result)
 // Output: "30"
 {% endhighlight %}
 
+### Function with a default parameter value
+
+This function takes two parameters, both `Ints`, and returns an `Int`.
+
+{% highlight swift %}
+func greet(person: String = "guest") {
+  print("Hello \(person)")
+}
+
+greet()
+greet(person: "Aliya")
+// Output:
+// Hello guest
+// Hello Aliya
+{% endhighlight %}
+
 ### Function that takes in another function as a parameter
 
 The function `performOperation` has type `((Int, Int) -> Int, Int, Int) -> Int`.
