@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Objective-C guide: block syntax
+title: Objective-C guide&colon; block syntax
 description: A quick reference guide for block syntax in Objective-C.
 ---
 
