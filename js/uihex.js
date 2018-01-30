@@ -33,6 +33,7 @@ function processValue(value) {
 
   $("#swift-code").html("UIColor(red: "+red+", green: "+grn+", blue: "+blu+", alpha: 1) // #"+hexFullLength);
   $("#objective-c-code").html("[UIColor colorWithRed:"+red+" green:"+grn+" blue:"+blu+" alpha:1]; // #"+hexFullLength);
+  $("#c-sharp-code").html("new UIColor(red: "+red+"f green: "+grn+"f blue: "+blu+"f alpha: 1.0f]; // #"+hexFullLength);
 
   $(".color-preview.active").css("border-color", "black");
   $(".color-preview.active").css("background-color", "#"+hexFullLength);
@@ -62,6 +63,7 @@ function clearResults() {
   $("#results").hide();
   $("#swift-code").html("");
   $("#objective-c-code").html("");
+  $("#c-sharp-code").html("");
 
   $(".color-preview.active").css("border-color", "white");
   $(".color-preview.active").css("background-color", "white");
