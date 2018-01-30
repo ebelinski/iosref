@@ -4,14 +4,13 @@ $(document).ready(function() {
 
   // On hex value input change, process its value
   $("#hex-value").keyup(function() {
-    processValue();
+    processValue(this.value);
   });
 
   new Clipboard('.btn');
 });
 
-function processValue() {
-  var rawValue = $("#hex-value").val();
+function processValue(rawValue) {
   var newValue = "";
 
   if (((rawValue.length == 7 || rawValue.length == 4) && rawValue[0] == '#') || ((rawValue.length == 6 || rawValue.length == 3) && rawValue[0] != '#')) {
