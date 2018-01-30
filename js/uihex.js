@@ -11,43 +11,34 @@ $(document).ready(function() {
 });
 
 function processValue(value) {
-  var newValue = "";
-
-  if (!validateValue(value)) {
+  if (!validateValueLength(value)) {
     clearResults();
     return;
   }
-   
-  if (value[0] == '#') {
-    newValue = value.substring(1);
-  } else {
-    newValue = value;
-  }
 
-  newValue = newValue.toLowerCase();
+  var valueWithoutHash = (value[0] == '#') ? value.substring(1) : value;
+  var valueLowercased = valueWithoutHash.toLowerCase();
+  var valueFullLength = fullLengthValue(valueLowercased);
 
-  if (newValue.length == 3) {
-    newValue = newValue[0]+newValue[0]+newValue[1]+newValue[1]+newValue[2]+newValue[2];
-  }
-
-  var red = getColorValue(newValue[0]+newValue[1]);
-  var grn = getColorValue(newValue[2]+newValue[3]);
-  var blu = getColorValue(newValue[4]+newValue[5]);
+  var red = getColorValue(valueFullLength[0]+valueFullLength[1]);
+  var grn = getColorValue(valueFullLength[2]+valueFullLength[3]);
+  var blu = getColorValue(valueFullLength[4]+valueFullLength[5]);
 
   if (isNaN(red) || isNaN(grn) || isNaN(blu)) {
     clearResults();
-  } else {
-    $("#results").show();
-
-    $("#swift-code").html("UIColor(red: "+red+", green: "+grn+", blue: "+blu+", alpha: 1) // #"+newValue);
-    $("#objective-c-code").html("[UIColor colorWithRed:"+red+" green:"+grn+" blue:"+blu+" alpha:1]; // #"+newValue);
-
-    $(".color-preview.active").css("border-color", "black");
-    $(".color-preview.active").css("background-color", "#"+newValue);
+    return;
   }
+
+  $("#results").show();
+
+  $("#swift-code").html("UIColor(red: "+red+", green: "+grn+", blue: "+blu+", alpha: 1) // #"+newValue);
+  $("#objective-c-code").html("[UIColor colorWithRed:"+red+" green:"+grn+" blue:"+blu+" alpha:1]; // #"+newValue);
+
+  $(".color-preview.active").css("border-color", "black");
+  $(".color-preview.active").css("background-color", "#"+newValue);
 }
 
-function validateValue(value) {
+function validateValueLength(value) {
   if ((value.length == 7 || value.length == 4) && value[0] == '#') {
     return true;
   }
@@ -57,6 +48,14 @@ function validateValue(value) {
   }
 
   return false;
+}
+
+function fullLengthValue(value) {
+  if (value.length == 3) {
+    return value[0]+value[0] + value[1]+value[1] + value[2]+value[2];
+  }
+
+  return value;
 }
 
 function clearResults() {
