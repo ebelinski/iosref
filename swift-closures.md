@@ -20,55 +20,55 @@ Closures can be defined with _closure expression syntax_, which has the general 
 
 Using **closure expression syntax**:
 
-{% highlight swift %}
+```swift
 let sortedInts = [4, 30, 7, 9, 1].sorted(by: { (x: Int, y: Int) -> Bool in
   return x < y
 })
-{% endhighlight %}
+```
 
 Because this closure is the last argument of `sorted`, the **parentheses** are optional:
 
-{% highlight swift %}
+```swift
 let sortedInts = [4, 30, 7, 9, 1].sorted() { (x: Int, y: Int) -> Bool in
   return x < y
 }
-{% endhighlight %}
+```
 
 When the argument and/or return types are known, the **type annotations** are optional:
 
-{% highlight swift %}
+```swift
 let sortedInts = [4, 30, 7, 9, 1].sorted() { x, y in
   return x < y
 }
-{% endhighlight %}
+```
 
 Also, closure parameters can be referenced by **position** instead of by name:
 
-{% highlight swift %}
+```swift
 let sortedInts = [4, 30, 7, 9, 1].sorted() {$0 > $1}
-{% endhighlight %}
+```
 
 ### Closure as a variable
 
 A closure can be stored as a variable and used later. Using closure expression syntax:
 
-{% highlight swift %}
+```swift
 let myClosure = { (x: Int, y: Int) -> Bool in
   return x > y
 }
 let sortedInts = [4, 30, 7, 9, 1].sorted(by: myClosure)
-{% endhighlight %}
+```
 
 ### Closure as a function
 
 A function is a type of closure, so a closure can be stored as a function to be used later.
 
-{% highlight swift %}
+```swift
 func myClosure(x: Int, y: Int) -> Bool {
   return x > y
 }
 let sortedInts = [4, 30, 7, 9, 1].sorted(by: myClosure)
-{% endhighlight %}
+```
 
 ### Further reading
 

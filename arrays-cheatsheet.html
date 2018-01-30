@@ -7,14 +7,14 @@ title: Arrays cheatsheet (Swift 4)
 
 <h3>Array</h3>
 
-{% highlight swift %}
+```swift
 var myArr = [1, 3]
 myArray.append(5)
-{% endhighlight %}
+```
 
 <h3>Loop over array</h3>
 
-{% highlight swift %}
+```swift
 for element in myArr {
   print("Element: \(element)")
 }
@@ -22,33 +22,33 @@ for element in myArr {
 Element: 1
 Element: 3
 Element: 5 */
-{% endhighlight %}
+```
 
 <h3>Map</h3>
 
-{% highlight swift %}
+```swift
 let squaredArr = myArr.map { $0 * $0 }
 print(squaredArr)
 // Output: [1, 9, 25]
-{% endhighlight %}
+```
 
 <h3>Filter</h3>
 
-{% highlight swift %}
+```swift
 let over2 = myArr.filter { $0 > 2 }
 print(over2)
 // Output: [3, 5]
-{% endhighlight %}
+```
 
 </div><div class="col-sm-6">
 
 <h3>Sorted</h3>
 
-{% highlight swift %}
+```swift
 let arr = [4, 28, 2, 1, 99, 25]
 let over2 = myArr.sorted()
 print(over2)
 // Output: [3, 5]
-{% endhighlight %}
+```
 
 </div></div>

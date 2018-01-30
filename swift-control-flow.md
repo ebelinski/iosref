@@ -15,29 +15,29 @@ description: A quick reference guide for control flow in Swift 4, with if, if-el
 
 #### Simple if
 
-{% highlight swift %}
+```swift
 if 5 > 3 {
   print("5 is more than 3")
 }
 // Output: "5 is more than 3"
-{% endhighlight %}
+```
 
 #### If-else
 
-{% highlight swift %}
+```swift
 if 5 > 6 {
   print("5 is more than 6")
 } else {
   print("5 is not more than 6")
 }
 // Output: "5 is more than 3"
-{% endhighlight %}
+```
 
 </div><div class="col-sm-6">
 
 #### If let
 
-{% highlight swift %}
+```swift
 func greet(name: String?) {
   if let unwrappedName = name {
     print("Hello \(unwrappedName)!")
@@ -50,7 +50,7 @@ greet(name: nil)
 // Output: 
 // Hello Asma!
 // Hello guest!
-{% endhighlight %}
+```
 
 </div></div>
 
@@ -62,7 +62,7 @@ Guard statements can be used to reduce indentation on the happy path. In a guard
 
 #### Simple guard
 
-{% highlight swift %}
+```swift
 func divide(x: Int, y: Int) -> Int? {
   guard y != 0 else {
     print("You cannot divide by 0.")
@@ -75,13 +75,13 @@ print(divide(x: 5, y: 0))
 // Output: 
 // You cannot divide by 0.
 // nil
-{% endhighlight %}
+```
 
 </div><div class="col-sm-6">
 
 #### Guard let
 
-{% highlight swift %}
+```swift
 func greet(name: String?) {
   guard let unwrapped = name else {
     print("Hello guest!")
@@ -94,7 +94,7 @@ greet(name: nil)
 // Output: 
 // Hello Asma!
 // Hello guest!
-{% endhighlight %}
+```
 
 </div></div>
 
@@ -106,7 +106,7 @@ The common for loop `for (i = a; i < b; i++)` does not exist in Swift. Instead, 
 
 #### Simple for-in
 
-{% highlight swift %}
+```swift
 let birds = ["Owl", "Crane"]
 for bird in birds {
   print(bird)
@@ -114,13 +114,13 @@ for bird in birds {
 // Output: 
 // Owl
 // Crane
-{% endhighlight %}
+```
 
 </div><div class="col-sm-6">
 
 #### For-in with index
 
-{% highlight swift %}
+```swift
 let birds = ["Owl", "Crane"]
 for (i, bird) in birds.enumerated() {
   print("[\(i)]: \(bird)")
@@ -128,7 +128,7 @@ for (i, bird) in birds.enumerated() {
 // Output: 
 // [0]: Owl
 // [1]: Crane
-{% endhighlight %}
+```
 
 </div></div>
 
@@ -140,7 +140,7 @@ A while loop will run the code block each time the conditional is true. A repeat
 
 #### Simple while
 
-{% highlight swift %}
+```swift
 var steps = 2
 while steps > 0 {
   print("\(steps) steps left")
@@ -149,21 +149,21 @@ while steps > 0 {
 // Output:
 // 2 steps left
 // 1 steps left
-{% endhighlight %}
-{% highlight swift %}
+```
+```swift
 var steps = -999
 while steps > 0 {
   print("\(steps) steps left")
   steps -= 1
 }
 // Output: nothing
-{% endhighlight %}
+```
 
 </div><div class="col-sm-6">
 
 #### Repeat-while
 
-{% highlight swift %}
+```swift
 var steps = 2
 repeat {
   print("\(steps) steps left")
@@ -172,15 +172,15 @@ repeat {
 // Output:
 // 2 steps left
 // 1 steps left
-{% endhighlight %}
-{% highlight swift %}
+```
+```swift
 var steps = -999
 repeat {
   print("\(steps) steps left")
   steps -= 1
 } while steps > 0
 // Output: "-999 steps left"
-{% endhighlight %}
+```
 
 </div></div>
 
@@ -192,7 +192,7 @@ repeat {
 
 A `default` case is necessary when not all cases are covered.
 
-{% highlight swift %}
+```swift
 func describe(animal: String) {
   switch animal {
   case "Owl", "Crane": print("A bird")
@@ -206,7 +206,7 @@ describe(animal: "Giraffe")
 // Output: 
 // "A bird"
 // "Something else"
-{% endhighlight %}
+```
 
 </div><div class="col-sm-6">
 
@@ -214,7 +214,7 @@ describe(animal: "Giraffe")
 
 Here, all cases are covered, so a `default` case is unnecessary.
 
-{% highlight swift %}
+```swift
 func describe(point: (Int, Int)) {
   switch point {
   case (0, 0): print("At origin")
@@ -228,7 +228,7 @@ describe(point: (11, 9))
 // Output: 
 // "On x-axis"
 // "Elsewhere"
-{% endhighlight %}
+```
 
 </div></div>
 
