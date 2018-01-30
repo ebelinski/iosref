@@ -45,7 +45,7 @@ let sortedInts = [4, 30, 7, 9, 1].sorted() { x, y in
 Also, closure parameters can be referenced by **position** instead of by name:
 
 ```swift
-let sortedInts = [4, 30, 7, 9, 1].sorted() {$0 > $1}
+let sortedInts = [4, 30, 7, 9, 1].sorted() { $0 > $1 }
 ```
 
 ### Closure as a variable
@@ -61,13 +61,38 @@ let sortedInts = [4, 30, 7, 9, 1].sorted(by: myClosure)
 
 ### Closure as a function
 
-A function is a type of closure, so a closure can be stored as a function to be used later.
+A [function]({{ "/swift-functions" | relative_url }}) is a type of closure, so a closure can be stored as a function to be used later.
+<!-- Extra line needed for Sublime Text markdown syntax highlighting issue. -->
 
 ```swift
 func myClosure(x: Int, y: Int) -> Bool {
   return x > y
 }
 let sortedInts = [4, 30, 7, 9, 1].sorted(by: myClosure)
+```
+
+### Function with a closure parameter
+
+A function can be created with a closure parameter:
+
+```swift
+func multiply(x: Int, y: Int, completion: (Int)) {
+  completion(x * y)
+}
+multiply(x: 5, y: 6) { print($0) }
+// Output: 30
+```
+
+### Function with an `@escaping` closure parameter
+
+A closure labeled with `@escaping` can be called even after the function has returned.
+
+```swift
+func multiplyRemotely(x: Int, y: Int, completion: @escaping (Int) -> Void) {
+  APIManager.shared.multiply(x: x, y: y, completion: completion)
+}
+multiplyRemotely(x: 5, y: 6) { print($0) }
+// Output: 30
 ```
 
 ### Further reading
