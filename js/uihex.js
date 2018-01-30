@@ -16,13 +16,13 @@ function processValue(value) {
     return;
   }
 
-  var hexWithoutHash = (value[0] == '#') ? value.substring(1) : value;
-  var hexLowercased = hexWithoutHash.toLowerCase();
-  var hexFullLength = fullLengthValue(hexLowercased);
+  const hexWithoutHash = (value[0] == '#') ? value.substring(1) : value;
+  const hexLowercased = hexWithoutHash.toLowerCase();
+  const hexFullLength = fullLengthValue(hexLowercased);
 
-  var red = getColorValue(hexFullLength[0]+hexFullLength[1]);
-  var grn = getColorValue(hexFullLength[2]+hexFullLength[3]);
-  var blu = getColorValue(hexFullLength[4]+hexFullLength[5]);
+  const red = getColorValue(hexFullLength[0]+hexFullLength[1]);
+  const grn = getColorValue(hexFullLength[2]+hexFullLength[3]);
+  const blu = getColorValue(hexFullLength[4]+hexFullLength[5]);
 
   if (isNaN(red) || isNaN(grn) || isNaN(blu)) {
     clearResults();
@@ -68,9 +68,9 @@ function clearResults() {
 }
 
 function getColorValue(hex) {
-  var colorValue = parseInt(hex, 16);
-  var colorValueFraction = colorValue / 255;
-  var colorValueFractionRounded = Math.round(colorValueFraction * 1000) / 1000;
+  const colorValue = parseInt(hex, 16);
+  const colorValueFraction = colorValue / 255;
+  const colorValueFractionRounded = Math.round(colorValueFraction * 1000) / 1000;
 
   return colorValueFractionRounded;
 }
