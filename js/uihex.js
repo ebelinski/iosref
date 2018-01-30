@@ -16,13 +16,13 @@ function processValue(value) {
     return;
   }
 
-  var valueWithoutHash = (value[0] == '#') ? value.substring(1) : value;
-  var valueLowercased = valueWithoutHash.toLowerCase();
-  var valueFullLength = fullLengthValue(valueLowercased);
+  var hexWithoutHash = (value[0] == '#') ? value.substring(1) : value;
+  var hexLowercased = hexWithoutHash.toLowerCase();
+  var hexFullLength = fullLengthValue(hexLowercased);
 
-  var red = getColorValue(valueFullLength[0]+valueFullLength[1]);
-  var grn = getColorValue(valueFullLength[2]+valueFullLength[3]);
-  var blu = getColorValue(valueFullLength[4]+valueFullLength[5]);
+  var red = getColorValue(hexFullLength[0]+hexFullLength[1]);
+  var grn = getColorValue(hexFullLength[2]+hexFullLength[3]);
+  var blu = getColorValue(hexFullLength[4]+hexFullLength[5]);
 
   if (isNaN(red) || isNaN(grn) || isNaN(blu)) {
     clearResults();
@@ -31,11 +31,11 @@ function processValue(value) {
 
   $("#results").show();
 
-  $("#swift-code").html("UIColor(red: "+red+", green: "+grn+", blue: "+blu+", alpha: 1) // #"+newValue);
-  $("#objective-c-code").html("[UIColor colorWithRed:"+red+" green:"+grn+" blue:"+blu+" alpha:1]; // #"+newValue);
+  $("#swift-code").html("UIColor(red: "+red+", green: "+grn+", blue: "+blu+", alpha: 1) // #"+hexFullLength);
+  $("#objective-c-code").html("[UIColor colorWithRed:"+red+" green:"+grn+" blue:"+blu+" alpha:1]; // #"+hexFullLength);
 
   $(".color-preview.active").css("border-color", "black");
-  $(".color-preview.active").css("background-color", "#"+newValue);
+  $(".color-preview.active").css("background-color", "#"+hexFullLength);
 }
 
 function validateValueLength(value) {
@@ -68,9 +68,9 @@ function clearResults() {
 }
 
 function getColorValue(hex) {
-  newValue = parseInt(hex, 16);
-  newValue = newValue / 255;
-  newValue = Math.round(newValue * 1000) / 1000;
+  var colorValue = parseInt(hex, 16);
+  var colorValueFraction = colorValue / 255;
+  var colorValueFractionRounded = Math.round(colorValueFraction * 1000) / 1000;
 
-  return newValue;
+  return colorValueFractionRounded;
 }
