@@ -128,6 +128,18 @@ func multiply(x: Int, y: Int, completion: () -> Void) {
 multiply(x: 5, y: 6) { } // Does nothing
 ```
 
+### Typealias for a closure parameter
+
+To improve readability and reduce duplicate code, a closure **typealias** may be used:
+
+```swift
+typealias MultiplyCompletion = (_ result: Int, _ error: Error?) -> Void
+func multiply(x: Int, y: Int, completion: MultiplyCompletion) {
+  completion(x * y, nil)
+}
+multiply(x: 5, y: 6) { print($1 ?? $0) } // Output: 30
+```
+
 ### Function with an `@escaping` closure parameter
 
 An escaping closure can be called even after the function has returned:[^3]
