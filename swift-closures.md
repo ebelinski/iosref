@@ -65,7 +65,6 @@ let sortedInts = [4, 30, 7, 9, 1].sorted(by: myClosure)
 ### Closure as a function
 
 A [function]({{ "/swift-functions" | relative_url }}) is a type of closure, so a closure can be stored as a function to be used later.
-<!-- Extra line needed for Sublime Text markdown syntax highlighting issue. -->
 
 ```swift
 func myClosure(x: Int, y: Int) -> Bool {
