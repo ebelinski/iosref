@@ -116,7 +116,7 @@ Or **multiple** arguments:
 func multiply(x: Int, y: Int, completion: (Int, Error?) -> Void) {
   completion(x * y, nil)
 }
-multiply(x: 5, y: 6) { print($0) } // Output: 30
+multiply(x: 5, y: 6) { print($1 ?? $0) } // Output: 30
 ```
 
 Or **no** arguments:
