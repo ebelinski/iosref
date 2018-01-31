@@ -25,4 +25,4 @@ func multiply(x: Int, y: Int, completion: @escaping (Int, Error?) -> Void) {
 multiply(x: 5, y: 6) { print($1 ?? $0) } // Output: 30
 ```
 
-Because this closure is escaping, it could be called even after the function returns.
+Note: Because this closure is escaping, it could be called even after the function returns.
