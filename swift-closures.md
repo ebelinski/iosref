@@ -76,11 +76,46 @@ let sortedInts = [4, 30, 7, 9, 1].sorted(by: myClosure)
 A function can be created with a closure parameter:
 
 ```swift
-func multiply(x: Int, y: Int, completion: (Int)) {
+func multiply(x: Int, y: Int, completion: (Int) -> Void) {
   completion(x * y)
 }
-multiply(x: 5, y: 6) { print($0) }
-// Output: 30
+multiply(x: 5, y: 6) { print($0) } // Output: 30
+```
+
+A closure parameter may be **optional**:
+
+```swift
+func multiply(x: Int, y: Int, completion: ((Int)? -> Void)) {
+  completion?(x * y)
+}
+multiply(x: 5, y: 6) { print($0) } // Output: 30
+```
+
+It may have **labeled** arguments:
+
+```swift
+func multiply(x: Int, y: Int, completion: (_ result: Int) -> Void) {
+  completion(x * y)
+}
+multiply(x: 5, y: 6) { print($0) } // Output: 30
+```
+
+Or **multiple** arguments: 
+
+```swift
+func multiply(x: Int, y: Int, completion: (Int, Error?) -> Void) {
+  completion(x * y, nil)
+}
+multiply(x: 5, y: 6) { print($0) } // Output: 30
+```
+
+Or **no** arguments:
+
+```swift
+func multiply(x: Int, y: Int, completion: () -> Void) {
+  completion()
+}
+multiply(x: 5, y: 6) { } // Does nothing
 ```
 
 ### Function with an `@escaping` closure parameter
