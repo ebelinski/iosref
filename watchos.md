@@ -7,7 +7,7 @@ redirect_from:
   - /watcos-ver/
 ---
 
-<h3>Apple Watch</h3>
+### Apple Watch
 
 <table class="full-width">
   <tr>
@@ -36,4 +36,4 @@ redirect_from:
   </tr>
 </table>
 
-<p><sup>1</sup> "Series 0" is a commonly used nickname for the first generation Apple Watch.</p>
+<sup>1</sup> "Series 0" is a commonly used nickname for the first generation Apple Watch.
