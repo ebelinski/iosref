@@ -33,7 +33,7 @@ if 5 > 6 {
 } else {
   print("5 is not more than 6")
 }
-// Output: "5 is more than 3"
+// Output: "5 is not more than 6"
 ```
 
 </div><div class="col-sm-6">
