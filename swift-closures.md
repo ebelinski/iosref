@@ -33,7 +33,7 @@ let sortedInts = [4, 30, 7, 9, 1].sorted(by: { (x: Int, y: Int) -> Bool in
 })
 ```
 
-Because this closure is the last argument of `sorted`, the **parentheses** are optional:
+Because this closure is the last argument of `sorted`,[^1] the **parentheses** are optional:
 
 ```swift
 let sortedInts = [4, 30, 7, 9, 1].sorted() { (x: Int, y: Int) -> Bool in
@@ -97,7 +97,7 @@ func multiply(x: Int, y: Int, completion: ((Int)? -> Void)) {
 multiply(x: 5, y: 6) { print($0) } // Output: 30
 ```
 
-It may have **labeled** arguments for readability:[^1]
+It may have **labeled** arguments for readability:[^2]
 
 ```swift
 func multiply(x: Int, y: Int, completion: (_ result: Int) -> Void) {
@@ -126,7 +126,7 @@ multiply(x: 5, y: 6) { } // Does nothing
 
 ### Function with an `@escaping` closure parameter
 
-An escaping closure can be called even after the function has returned.[^2]
+An escaping closure can be called even after the function has returned.[^3]
 
 ```swift
 func multiplyRemotely(x: Int, y: Int, completion: @escaping (Int) -> Void) {
@@ -143,5 +143,6 @@ multiplyRemotely(x: 5, y: 6) { print($0) }
 
 ### Notes
 
-[^1]: It is commonly asked why the argument names don't appear in the closure call, like `completion(result: x * y)`. The reason for this is that as of Swift 3, closure argument labels are [no longer part of the closure type](https://github.com/apple/swift-evolution/blob/master/proposals/0111-remove-arg-label-type-significance.md).
-[^2]: This makes it possible to make a network call to a remote server, return the function, then have the closure get executed when the server response is received. The benefit of this is that the rest of the execution of the function, and subsequently parent functions, do not have to get blocked while the app waits for a response.
+[^1]: When a closure is the last parameter of a function, it is called a **trailing closure**.
+[^2]: It is commonly asked why the argument names don't appear in the closure call, like `completion(result: x * y)`. The reason for this is that as of Swift 3, closure argument labels are [no longer part of the closure type](https://github.com/apple/swift-evolution/blob/master/proposals/0111-remove-arg-label-type-significance.md).
+[^3]: This makes it possible to make a network call to a remote server, return the function, then have the closure get executed when the server response is received. The benefit of this is that the rest of the execution of the function, and subsequently parent functions, do not have to get blocked while the app waits for a response.
