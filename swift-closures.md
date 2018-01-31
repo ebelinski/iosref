@@ -130,7 +130,7 @@ multiply(x: 5, y: 6) { } // Does nothing
 
 ### Function with an `@escaping` closure parameter
 
-An escaping closure can be called even after the function has returned.[^3]
+An escaping closure can be called even after the function has returned:[^3]
 
 ```swift
 func multiplyRemotely(x: Int, y: Int, completion: @escaping (Int) -> Void) {
