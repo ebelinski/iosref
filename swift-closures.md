@@ -95,7 +95,7 @@ multiply(x: 5, y: 6) { print($0) } // Output: 30
 A closure parameter may be **optional**:
 
 ```swift
-func multiply(x: Int, y: Int, completion: ((Int)? -> Void)) {
+func multiply(x: Int, y: Int, completion: ((Int) -> Void)?) {
   completion?(x * y)
 }
 multiply(x: 5, y: 6) { print($0) } // Output: 30
