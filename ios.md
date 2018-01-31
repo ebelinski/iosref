@@ -2,6 +2,9 @@
 layout: default
 title: iOS version by device
 description: Tables showing the first and maximum iOS versions for each iPhone, iPad, and iPod touch.
+redirect_from: 
+  - /ios-versions/ 
+  - /ios-ver/
 ---
 
 {::options parse_block_html="true" /}

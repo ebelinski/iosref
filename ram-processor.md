@@ -2,6 +2,9 @@
 layout: default
 title: RAM and processor by device
 description: Tables showing the RAM and processor for each iPhone, iPad, Apple Watch, and iPod touch.
+redirect_from: 
+  - /ram/ 
+  - /processor/
 ---
 
 {::options parse_block_html="true" /}

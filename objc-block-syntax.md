@@ -2,6 +2,9 @@
 layout: default
 title: Objective-C guide&colon; block syntax
 description: A quick reference guide for block syntax in Objective-C.
+redirect_from: 
+  - /fuckingblocksyntax/
+  - /goshdarnblocksyntax/
 ---
 
 ### As a local variable

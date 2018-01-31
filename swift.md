@@ -2,6 +2,8 @@
 layout: default
 title: Swift versions
 description: Tables showing versions of the Swift programming language, and their corresponding Xcode releases.
+redirect_from: 
+  - /swift-versions/
 ---
 
 {::options parse_block_html="true" /}

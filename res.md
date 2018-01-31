@@ -2,6 +2,8 @@
 layout: default
 title: Resolution by iOS device
 description: Tables with logical resolution, scale factor, actual resolution, and diagonal size for each iPhone, iPad, Apple Watch, and iPod touch.
+redirect_from: 
+  - /resolution/
 ---
 
 {::options parse_block_html="true" /}
