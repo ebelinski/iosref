@@ -19,12 +19,13 @@ redirect_from:
   <tr>
     <td>Series 3</td>
     <td>2017</td>
-    <td rowspan="3">3</td>
+    <td>4</td>
     <td rowspan="4" class="green">4</td>
   </tr>
   <tr>
     <td>Series 2</td>
     <td rowspan="2">2016</td>
+    <td rowspan="2">3</td>
   </tr>
   <tr>
     <td>Series 1</td>
