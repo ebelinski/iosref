@@ -189,11 +189,15 @@ description: Tables showing the display technology in each iPhone and iPad for d
     <th>Device</th>
     <th>Released</th>
     <th>Display type</th>
+    <th>Color space</th>
+    <th><a href="https://developer.apple.com/ios/3d-touch/">3D Touch</a></th>
   </tr>
   <tr>
     <td>iPod touch (gen 6)</td>
     <td>2015</td>
     <td rowspan="2">LCD Retina</td>
+    <td rowspan="6">Full sRGB standard</td>
+    <td rowspan="6">No</td>
   </tr>
   <tr>
     <td>iPod touch (gen 5)</td>
