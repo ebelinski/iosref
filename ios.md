@@ -4,8 +4,11 @@ title: iOS version by device
 description: Tables showing the first and maximum iOS versions for each iPhone, iPad, and iPod touch.
 ---
 
+{::options parse_block_html="true" /}
+<div id="compact-toc">
 * TOC
 {:toc}
+</div>
 
 ### iPhone
 

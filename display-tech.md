@@ -4,8 +4,11 @@ title: Display tech by device
 description: Tables showing the display technology in each iPhone and iPad for developers.
 ---
 
+{::options parse_block_html="true" /}
+<div id="compact-toc">
 * TOC
 {:toc}
+</div>
 
 ### iPhone
 

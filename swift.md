@@ -4,8 +4,11 @@ title: Swift versions
 description: Tables showing versions of the Swift programming language, and their corresponding Xcode releases.
 ---
 
+{::options parse_block_html="true" /}
+<div id="compact-toc">
 * TOC
 {:toc}
+</div>
 
 Last updated January 25, 2018.
 

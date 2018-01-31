@@ -5,9 +5,10 @@ description: A quick reference guide for control flow in Swift 4, with if, if-el
 ---
 
 {::options parse_block_html="true" /}
-
+<div id="compact-toc">
 * TOC
 {:toc}
+</div>
 
 ### If
 

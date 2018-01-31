@@ -7,6 +7,9 @@ description: A quick reference guide for functions in Swift 4, with simple examp
 
 Functions are a special type of [closures]({{ "/swift-closures" | relative_url }}). Functions are first-class types, so a function can be passed in as a parameter to another function. Also, a function can return another function.
 
+* TOC
+{:toc}
+
 ### Function with type `() -> ()`
 
 This function takes no parameters, and returns nothing.

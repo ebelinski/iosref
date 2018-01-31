@@ -4,8 +4,11 @@ title: Resolution by iOS device
 description: Tables with logical resolution, scale factor, actual resolution, and diagonal size for each iPhone, iPad, Apple Watch, and iPod touch.
 ---
 
+{::options parse_block_html="true" /}
+<div id="compact-toc">
 * TOC
 {:toc}
+</div>
 
 <p>All tables are ordered by logical resolution height, then by actual resolution height, then by release date.</p>
 

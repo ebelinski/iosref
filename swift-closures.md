@@ -6,6 +6,9 @@ description: A quick reference guide for closures in Swift 4, with inline closur
 
 Swift closures are blocks of functionality that are self-contained, and can be passed around. They are similar to _blocks_ in C and Objective-C, as well as _lambdas_ in other languages. [Functions]({{ "/swift-functions" | relative_url }}) are a special type of closures.
 
+* TOC
+{:toc}
+
 ### Closure expression syntax
 
 Closures can be defined with _closure expression syntax_, which has the general form:
