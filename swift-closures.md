@@ -85,7 +85,7 @@ multiply(x: 5, y: 6) { print($0) }
 
 ### Function with an `@escaping` closure parameter
 
-A closure labeled with `@escaping` can be called even after the function has returned.
+An escaping closure can be called even after the function has returned. This makes it possible to make a network call to a remote server, return the function, then have the closure get executed when the server response is received. The benefit of this is that the rest of the execution of the function, and subsequently parent functions, do not have to get blocked while the app waits for a response.
 
 ```swift
 func multiplyRemotely(x: Int, y: Int, completion: @escaping (Int) -> Void) {
