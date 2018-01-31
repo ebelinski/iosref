@@ -6,6 +6,10 @@ redirect_from:
   - /closures/ 
   - /closure/
   - /fuckingswiftblocksyntax/
+  - /block/
+  - /blocks/
+  - /lambda/
+  - /lambdas/
 ---
 
 Swift closures are blocks of functionality that are self-contained, and can be passed around. They are similar to _blocks_ in C and Objective-C, as well as _lambdas_ in other languages. [Functions]({{ "/swift-functions" | relative_url }}) are a special type of closures.
