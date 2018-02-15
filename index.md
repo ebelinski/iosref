@@ -48,13 +48,13 @@ layout: default
 
 ### Tools
 
-* [Hex to UIColor converter]({{ "/uihex" | relative_url }})
+* [Convert hex to UIColor]({{ "/uihex" | relative_url }})
 * [Why the Failure, Auto Layout?](https://www.wtfautolayout.com/)<sup class="ext">Ext</sup>
 * [NSDateFormatter](http://nsdateformatter.com/)<sup class="ext">Ext</sup>
 
 ### Apple docs
 
 * [All docs](https://developer.apple.com/documentation/)<sup class="ext">Ext</sup>
-* HIG: [iOS](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/) and [watchOS](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/)<sup class="ext">Ext</sup>
+* HIG: [iOS](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/) & [watchOS](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/)<sup class="ext">Ext</sup>
 
 {% include closecol.html closerow=true %}
