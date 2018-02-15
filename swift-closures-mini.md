@@ -2,6 +2,13 @@
 layout: default
 title: Swift 4 mini guide&colon; closures
 description: A mini reference guide for closures in Swift 4.
+redirect_from: 
+  - /closures-mini/ 
+  - /closure-mini/
+  - /block-mini/
+  - /blocks-mini/
+  - /lambda-mini/
+  - /lambdas-mini/
 ---
 
 The mini version of the [closures guide]({{ "/swift-closures" | relative_url }}).
