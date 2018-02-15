@@ -3,7 +3,7 @@ layout: default
 ---
 {::options parse_block_html="true" /}
 
-<div class="row"><div class="col-sm-6">
+{% include opencol.html size=6 newrow=true %}
 
 ## Design
 
@@ -31,7 +31,7 @@ layout: default
 * [Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)<sup class="ext">Ext</sup>
 * [Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)<sup class="ext">Ext</sup>
 
-</div><div class="col-sm-6">
+{% include closecol.html %}{% include opencol.html size=6 %}
 
 ## Swift
 
@@ -57,4 +57,4 @@ layout: default
 * [All docs](https://developer.apple.com/documentation/)<sup class="ext">Ext</sup>
 * HIG: [iOS](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/) and [watchOS](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/)<sup class="ext">Ext</sup>
 
-</div></div>
+{% include closecol.html closerow=true %}
