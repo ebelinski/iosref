@@ -20,7 +20,7 @@ let sorted1 = [4, 30, 7].sorted(by: { (x: Int, y: Int) -> Bool in
   return x < y 
 })
 // Equivalent shorter version:
-let sorted2 = [4, 30, 7].sorted() { $0 > $1 }
+let sorted2 = [4, 30, 7].sorted { $0 < $1 }
 ```
 
 ### Closure as a function parameter

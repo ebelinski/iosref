@@ -54,7 +54,7 @@ let sortedInts = [4, 30, 7, 9, 1].sorted { x, y in return x < y }
 Also, closure parameters can be referenced by **position** instead of by name:
 
 ```swift
-let sortedInts = [4, 30, 7, 9, 1].sorted { $0 > $1 }
+let sortedInts = [4, 30, 7, 9, 1].sorted { $0 < $1 }
 ```
 
 ### Closure as a variable
@@ -63,7 +63,7 @@ A closure can be stored as a variable and used later. Using closure expression s
 
 ```swift
 let myClosure = { (x: Int, y: Int) -> Bool in
-  return x > y
+  return x < y
 }
 let sortedInts = [4, 30, 7, 9, 1].sorted(by: myClosure)
 ```
@@ -74,7 +74,7 @@ A [function]({{ "/swift-functions" | relative_url }}) is a type of closure, so a
 
 ```swift
 func myClosure(x: Int, y: Int) -> Bool {
-  return x > y
+  return x < y
 }
 let sortedInts = [4, 30, 7, 9, 1].sorted(by: myClosure)
 ```
