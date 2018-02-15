@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Swift 4 mini guide&colon; closures
+title: "Swift 4 mini guide: closures"
 description: A mini reference guide for closures in Swift 4.
 redirect_from: 
   - /closures-mini/ 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Swift 4 guide&colon; control flow
+title: "Swift 4 guide: control flow"
 description: A quick reference guide for control flow in Swift 4, with if, if-else, if-let, guard, for-in, while, and switch examples.
 redirect_from: 
   - /control-flow/
