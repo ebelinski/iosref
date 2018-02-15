@@ -222,3 +222,32 @@ description: Tables showing the display technology in each iPhone and iPad for d
   </tr>
 </table>
 
+### Apple Watch
+
+<table>
+  <tr>
+    <th>Device</th>
+    <th>Released</th>
+    <th>Display type</th>
+    <th><a href="https://developer.apple.com/library/content/documentation/General/Conceptual/WatchKitProgrammingGuide/Menus.html">Force Touch</a></th>
+  </tr>
+  <tr>
+    <td>Series 3</td>
+    <td>2017</td>
+    <td rowspan="4">OLED Retina</td>
+    <td rowspan="4" class="green">Yes</td>
+  </tr>
+  <tr>
+    <td>Series 2</td>
+    <td rowspan="2">2016</td>
+  </tr>
+  <tr>
+    <td>Series 1</td>
+  </tr>
+  <tr>
+    <td>Series 0<sup>1</sup></td>
+    <td>2014</td>
+  </tr>
+</table>
+
+<sup>1</sup> "Series 0" is a commonly used nickname for the first generation Apple Watch.
