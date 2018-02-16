@@ -8,6 +8,8 @@ redirect_from:
   - /device-identifier/
   - /device-strings/
   - /identifiers/
+  - /identifier-strings/
+  - /identifier-string/
 ---
 {::options parse_block_html="true" /}
 
