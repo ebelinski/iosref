@@ -20,6 +20,7 @@ layout: default
 ### Hardware
 
 * [RAM and processor by device]({{ "/ram-processor" | relative_url }})
+* [Hardware strings by device]({{ "/hardware-strings" | relative_url }})
 
 ### Guides
 
