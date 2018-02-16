@@ -260,3 +260,18 @@ redirect_from:
     <td>iPod1,1</td>
   </tr>
 </table>
+
+### HomePod
+
+<table>
+  <tr>
+    <th>Device</th>
+    <th>Released</th>
+    <th>Hardware strings</th>
+  </tr>
+  <tr>
+    <td>HomePod (gen 1)</td>
+    <td>2018</td>
+    <td>AudioAccessory1,1</td>
+  </tr>
+</table>
