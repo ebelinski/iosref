@@ -2,9 +2,11 @@
 layout: default
 title: Display tech by device
 description: Tables showing the display technology in each iPhone and iPad for developers.
+redirect_from: 
+  - /3d-touch/
 ---
-
 {::options parse_block_html="true" /}
+
 <div id="compact-toc">
 * TOC
 {:toc}
