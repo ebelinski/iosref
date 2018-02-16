@@ -42,11 +42,11 @@ redirect_from:
   <tr>
     <td>iPhone 7 Plus</td>
     <td rowspan="3">2016</td>
-    <td>iPhone9,2 (CDMA)<br>iPhone9,4 (global)</td>
+    <td>iPhone9,2<br>iPhone9,4</td>
   </tr>
   <tr>
     <td>iPhone 7</td>
-    <td>iPhone9,1 (CDMA)<br>iPhone9,3 (global)</td>
+    <td>iPhone9,1<br>iPhone9,3</td>
   </tr>
   <tr>
     <td>iPhone SE</td>
