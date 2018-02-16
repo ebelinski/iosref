@@ -190,6 +190,37 @@ redirect_from:
   </tr>
 </table>
 
+### Apple Watch
+
+<table>
+  <tr>
+    <th>Device</th>
+    <th>Released</th>
+    <th>Hardware strings</th>
+  </tr>
+  <tr>
+    <td>Series 3</td>
+    <td>2017</td>
+    <td>Watch3,1<br>Watch3,2<br>Watch3,3<br>Watch3,4</td>
+  </tr>
+  <tr>
+    <td>Series 2</td>
+    <td rowspan="2">2016</td>
+    <td>Watch2,3<br>Watch2,4</td>
+  </tr>
+  <tr>
+    <td>Series 1</td>
+    <td>Watch2,6<br>Watch2,7</td>
+  </tr>
+  <tr>
+    <td>Series 0<sup>1</sup></td>
+    <td>2014</td>
+    <td>Watch1,1<br>Watch1,2</td>
+  </tr>
+</table>
+
+<sup>1</sup> "Series 0" is a commonly used nickname for the first generation Apple Watch.
+
 ### iPod touch
 
 <table>
@@ -229,34 +260,3 @@ redirect_from:
     <td>iPod1,1</td>
   </tr>
 </table>
-
-### Apple Watch
-
-<table>
-  <tr>
-    <th>Device</th>
-    <th>Released</th>
-    <th>Hardware strings</th>
-  </tr>
-  <tr>
-    <td>Series 3</td>
-    <td>2017</td>
-    <td>Watch3,1<br>Watch3,2<br>Watch3,3<br>Watch3,4</td>
-  </tr>
-  <tr>
-    <td>Series 2</td>
-    <td rowspan="2">2016</td>
-    <td>Watch2,3<br>Watch2,4</td>
-  </tr>
-  <tr>
-    <td>Series 1</td>
-    <td>Watch2,6<br>Watch2,7</td>
-  </tr>
-  <tr>
-    <td>Series 0<sup>1</sup></td>
-    <td>2014</td>
-    <td>Watch1,1<br>Watch1,2</td>
-  </tr>
-</table>
-
-<sup>1</sup> "Series 0" is a commonly used nickname for the first generation Apple Watch.
