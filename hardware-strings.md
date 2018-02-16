@@ -261,6 +261,41 @@ redirect_from:
   </tr>
 </table>
 
+### Apple TV
+
+<table>
+  <tr>
+    <th>Device</th>
+    <th>Released</th>
+    <th>Hardware strings</th>
+  </tr>
+  <tr>
+    <td>Apple TV 4K</td>
+    <td>2017</td>
+    <td>AppleTV6,2</td>
+  </tr>
+  <tr>
+    <td>Apple TV (gen 4)</td>
+    <td>2015</td>
+    <td>AppleTV5,3</td>
+  </tr>
+  <tr>
+    <td>Apple TV (gen 3)</td>
+    <td>2012</td>
+    <td>AppleTV3,1<br>AppleTV3,2</td>
+  </tr>
+  <tr>
+    <td>Apple TV (gen 2)</td>
+    <td>2010</td>
+    <td>AppleTV2,1</td>
+  </tr>
+  <tr>
+    <td>Apple TV (gen 1)</td>
+    <td>2007</td>
+    <td>AppleTV1,1</td>
+  </tr>
+</table>
+
 ### HomePod
 
 <table>
