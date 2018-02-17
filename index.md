@@ -46,6 +46,7 @@ layout: default
 * [Closures]({{ "/swift-closures" | relative_url }}) ([mini]({{ "/swift-closures-mini" | relative_url }}))
 * [Functions]({{ "/swift-functions" | relative_url }})
 * [Control flow]({{ "/swift-control-flow" | relative_url }})
+* [Dispatch]({{ "/swift-dispatch" | relative_url }})
 
 ### Tools
 
