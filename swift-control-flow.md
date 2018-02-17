@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Swift 4 guide&colon; control flow
+title: "Swift 4 guide: control flow"
 description: A quick reference guide for control flow in Swift 4, with if, if-else, if-let, guard, for-in, while, and switch examples.
 redirect_from: 
   - /control-flow/
@@ -33,7 +33,7 @@ if 5 > 6 {
 } else {
   print("5 is not more than 6")
 }
-// Output: "5 is more than 3"
+// Output: "5 is not more than 6"
 ```
 
 </div><div class="col-sm-6">

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Swift 4 guide&colon; closures
+title: "Swift 4 guide: closures"
 description: A quick reference guide for closures in Swift 4, with inline closures, closures as variables, and closures as functions.
 redirect_from: 
   - /closures/ 
@@ -37,10 +37,10 @@ let sortedInts = [4, 30, 7, 9, 1].sorted(by: { (x: Int, y: Int) -> Bool in
 })
 ```
 
-Because this closure is the last argument of `sorted`,[^1] the **parentheses** are optional:
+Because this closure is the last and only argument,[^1] **trailing closure syntax** may be used and the **parentheses** are optional:
 
 ```swift
-let sortedInts = [4, 30, 7, 9, 1].sorted() { (x: Int, y: Int) -> Bool in
+let sortedInts = [4, 30, 7, 9, 1].sorted { (x: Int, y: Int) -> Bool in
   return x < y
 }
 ```
@@ -48,15 +48,13 @@ let sortedInts = [4, 30, 7, 9, 1].sorted() { (x: Int, y: Int) -> Bool in
 When the argument and/or return types are known, the **type annotations** are optional:
 
 ```swift
-let sortedInts = [4, 30, 7, 9, 1].sorted() { x, y in
-  return x < y
-}
+let sortedInts = [4, 30, 7, 9, 1].sorted { x, y in return x < y }
 ```
 
 Also, closure parameters can be referenced by **position** instead of by name:
 
 ```swift
-let sortedInts = [4, 30, 7, 9, 1].sorted() { $0 > $1 }
+let sortedInts = [4, 30, 7, 9, 1].sorted { $0 < $1 }
 ```
 
 ### Closure as a variable
@@ -65,7 +63,7 @@ A closure can be stored as a variable and used later. Using closure expression s
 
 ```swift
 let myClosure = { (x: Int, y: Int) -> Bool in
-  return x > y
+  return x < y
 }
 let sortedInts = [4, 30, 7, 9, 1].sorted(by: myClosure)
 ```
@@ -76,7 +74,7 @@ A [function]({{ "/swift-functions" | relative_url }}) is a type of closure, so a
 
 ```swift
 func myClosure(x: Int, y: Int) -> Bool {
-  return x > y
+  return x < y
 }
 let sortedInts = [4, 30, 7, 9, 1].sorted(by: myClosure)
 ```

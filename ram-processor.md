@@ -5,9 +5,10 @@ description: Tables showing the RAM and processor for each iPhone, iPad, Apple W
 redirect_from: 
   - /ram/ 
   - /processor/
+  - /ram-and-processor/
 ---
-
 {::options parse_block_html="true" /}
+
 <div id="compact-toc">
 * TOC
 {:toc}
@@ -275,5 +276,62 @@ redirect_from:
     <td>iPod touch (gen 1)</td>
     <td>2007</td>
     <td>—</td>
+  </tr>
+</table>
+
+### Apple TV
+
+<table>
+  <tr>
+    <th>Device</th>
+    <th>Released</th>
+    <th>RAM</th>
+    <th>Processor</th>
+  </tr>
+  <tr>
+    <td>Apple TV 4K</td>
+    <td>2017</td>
+    <td>3 GB</td>
+    <td>A10X Fusion</td>
+  </tr>
+  <tr>
+    <td>Apple TV (gen 4)</td>
+    <td>2015</td>
+    <td>2 GB</td>
+    <td>A8</td>
+  </tr>
+  <tr>
+    <td>Apple TV (gen 3)</td>
+    <td>2012</td>
+    <td>512 MB</td>
+    <td>A5</td>
+  </tr>
+  <tr>
+    <td>Apple TV (gen 2)</td>
+    <td>2010</td>
+    <td rowspan="2">256 MB</td>
+    <td>A4</td>
+  </tr>
+  <tr>
+    <td>Apple TV (gen 1)</td>
+    <td>2007</td>
+    <td>Intel "Crofton" Pentium M</td>
+  </tr>
+</table>
+
+### HomePod
+
+<table>
+  <tr>
+    <th>Device</th>
+    <th>Released</th>
+    <th>RAM</th>
+    <th>Processor</th>
+  </tr>
+  <tr>
+    <td>HomePod (gen 1)</td>
+    <td>2018</td>
+    <td>1 GB</td>
+    <td>A8</td>
   </tr>
 </table>
