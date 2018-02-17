@@ -6,14 +6,14 @@ redirect_from:
   - "dispatch"
 ---
 
+Dispatch is a framework that allows you to run code on different threads. By default, all code on iOS is run on the **main thread** (also known as the **UI thread**).
+
 * TOC
 {:toc}
 
-Dispatch is a framework that allows you to run code on different threads. By default, all code on iOS is run on the **main thread** (also known as the **UI thread**). If a very long function that takes 5 seconds is run on the main thread, the app freezes for 5 seconds, and the user cannot 
-
-To fix this, the time-intensive function can run on a **background** thread. When it's done, the UI can be updated on the main thread. This way, for the 5 seconds it takes for the function to run, the app UI does not freeze.
-
 ### Run code on a background thread
+
+Time-intensive work can run on a **background** thread.[^1]
 
 ```swift
 // Code in the main thread
@@ -23,6 +23,8 @@ DispatchQueue.global(qos: .background).async {
 ```
 
 ### Run code on the main thread from a background thread
+
+When background thread work done, the UI can be updated on the **main thread**.[^2]
 
 ```swift
 // Code in the main thread
@@ -49,3 +51,8 @@ DispatchQueue.global(qos: .background).async {
 ### Further reading
 
 * [Dispatch documentation](https://developer.apple.com/documentation/dispatch)
+
+### Notes
+
+[^1]: If a very long function that takes 5 seconds is run on the main thread, the app freezes for 5 seconds, and the user cannot use the app.
+[^2]: This way, for the 5 seconds it takes for the function to run, the app UI does not freeze.
