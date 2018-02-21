@@ -3,7 +3,7 @@ layout: default
 ---
 {::options parse_block_html="true" /}
 
-{% include opencol.html size=6 newrow=true %}
+{% include opencol.html size=4 newrow=true %}
 
 ### Design
 
@@ -14,25 +14,15 @@ layout: default
 ### OS
 
 * [iOS version by device]({{ "/ios" | relative_url }})
-* By device: [watchOS]({{ "/watchos" | relative_url }}), [tvOS]({{ "/tvos" | relative_url }}), [audioOS]({{ "/audioos" | relative_url }})
+* & [watchOS]({{ "/watchos" | relative_url }}), [tvOS]({{ "/tvos" | relative_url }}), [audioOS]({{ "/audioos" | relative_url }})
 * [iOS adoption rates](https://developer.apple.com/support/app-store/)<sup class="ext">Ext</sup>
 
 ### Hardware
 
-* [RAM and processor by device]({{ "/ram-processor" | relative_url }})
+* [RAM & processor by device]({{ "/ram-processor" | relative_url }})
 * [Hardware strings by device]({{ "/hardware-strings" | relative_url }})
 
-### Guides
-
-* [Adding a Crashlytics Beta tester]({{ "/crashlytics-beta-tester" | relative_url }})
-* [Objective-C block syntax]({{ "/objc-block-syntax" | relative_url }})
-
-### App Store
-
-* [Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)<sup class="ext">Ext</sup>
-* [Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)<sup class="ext">Ext</sup>
-
-{% include closecol.html %}{% include opencol.html size=6 %}
+{% include closecol.html %}{% include opencol.html size=4 %}
 
 ### Swift
 
@@ -47,15 +37,27 @@ layout: default
 * [Functions]({{ "/swift-functions" | relative_url }})
 * [Control flow]({{ "/swift-control-flow" | relative_url }})
 
+### Guides
+
+* [Add a Crashlytics Beta tester]({{ "/crashlytics-beta-tester" | relative_url }})
+* [Objective-C block syntax]({{ "/objc-block-syntax" | relative_url }})
+
+{% include closecol.html %}{% include opencol.html size=4 %}
+
 ### Tools
 
 * [Convert hex to UIColor]({{ "/uihex" | relative_url }})
-* [Why the Failure, Auto Layout?](https://www.wtfautolayout.com/)<sup class="ext">Ext</sup>
+* [WTF, Auto Layout?](https://www.wtfautolayout.com/)<sup class="ext">Ext</sup>
 * [NSDateFormatter](http://nsdateformatter.com/)<sup class="ext">Ext</sup>
 
 ### Apple docs
 
 * [All docs](https://developer.apple.com/documentation/)<sup class="ext">Ext</sup>
 * HIG: [iOS](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/) & [watchOS](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/)<sup class="ext">Ext</sup>
+
+### App Store
+
+* [Review Guidelines](https://developer.apple.com/app-store/review/guidelines/)<sup class="ext">Ext</sup>
+* [Marketing Guidelines](https://developer.apple.com/app-store/marketing/guidelines/)<sup class="ext">Ext</sup>
 
 {% include closecol.html closerow=true %}
