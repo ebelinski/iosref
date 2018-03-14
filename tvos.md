@@ -33,7 +33,7 @@ tvOS is an iOS-based operating system for Apple TV.
 
 ### Other iOS-based Apple TVs
 
-The second and third Apple TV ran a more stripped-down version of iOS that called "Apple TV Software" instead of "tvOS".
+The second and third Apple TV ran a more stripped-down version of iOS known as "Apple TV Software".
 
 <table>
   <tr>
@@ -58,7 +58,7 @@ The second and third Apple TV ran a more stripped-down version of iOS that calle
 
 ### Other Apple TVs
 
-The first generation Apple TV ran a modified version of Mac OS X 10.4 Tiger, which was also called "Apple TV Software".
+The first Apple TV ran a modified version of Mac OS X 10.4 Tiger, also called "Apple TV Software".
 
 <table>
   <tr>
