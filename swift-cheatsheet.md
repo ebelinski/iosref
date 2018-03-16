@@ -5,8 +5,8 @@ description: A beautiful and clutter-free Swift 4 cheatsheet.
 redirect_from: 
   - /cheatsheet/
 ---
-
 {::options parse_block_html="true" /}
+
 {% include opencol.html size=6 newrow=true %}
 
 ### Constants

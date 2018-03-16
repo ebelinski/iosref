@@ -5,8 +5,8 @@ description: A quick reference guide for control flow in Swift 4, with if, if-el
 redirect_from: 
   - /control-flow/
 ---
-
 {::options parse_block_html="true" /}
+
 <div id="compact-toc">
 * TOC
 {:toc}

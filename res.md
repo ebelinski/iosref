@@ -5,8 +5,8 @@ description: Tables with logical resolution, scale factor, actual resolution, an
 redirect_from: 
   - /resolution/
 ---
-
 {::options parse_block_html="true" /}
+
 <div id="compact-toc">
 * TOC
 {:toc}

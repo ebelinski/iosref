@@ -5,8 +5,8 @@ description: Tables showing versions of the Swift programming language, and thei
 redirect_from: 
   - /swift-versions/
 ---
-
 {::options parse_block_html="true" /}
+
 <div id="compact-toc">
 * TOC
 {:toc}
