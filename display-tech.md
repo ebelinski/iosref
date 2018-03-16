@@ -227,7 +227,7 @@ redirect_from:
   <tr>
     <td>iPod touch (gen 6)</td>
     <td>2015</td>
-    <td rowspan="2">LCD Retina</td>
+    <td rowspan="3">LCD Retina</td>
     <td rowspan="6">Full sRGB standard</td>
     <td rowspan="6">No</td>
   </tr>
@@ -238,11 +238,11 @@ redirect_from:
   <tr>
     <td>iPod touch (gen 4)</td>
     <td>2010</td>
-    <td rowspan="4">LCD</td>
   </tr>
   <tr>
     <td>iPod touch (gen 3)</td>
     <td>2009</td>
+    <td rowspan="3">LCD</td>
   </tr>
   <tr>
     <td>iPod touch (gen 2)</td>
