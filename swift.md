@@ -14,6 +14,8 @@ redirect_from:
 
 Last updated January 25, 2018.
 
+{% include opencol.html size=6 newrow=true %}
+
 ### Open source versions
 
 <table>
@@ -82,6 +84,8 @@ Last updated January 25, 2018.
   </tr>
 </table>
 
+{% include closecol.html %}{% include opencol.html size=6 %}
+
 ### Closed source versions
 
 <table>
@@ -118,6 +122,8 @@ Last updated January 25, 2018.
     <td>Xcode 6.0</td>
   </tr>
 </table>
+
+{% include closecol.html closerow=true %}
 
 ### Further reading
 
