@@ -94,7 +94,7 @@ The function `perform` has type `((Int, Int) -> Int, Int, Int) -> Int`.
 func multiply(x: Int, y: Int) -> Int {
   return x * y
 }
-func perform(function: (Int, Int) -> Int, 
+func perform(fn: (Int, Int) -> Int, 
              a: Int, 
              b: Int) -> Int {
   return function(a, b)
@@ -103,7 +103,9 @@ func perform(function: (Int, Int) -> Int,
 
 {% include closecol.html %}{% include opencol.html size=5 %}
 ```swift
-let result = perform(function: multiply, a: 5, b: 6)
+let result = perform(fn: multiply, 
+                     a: 5, 
+                     b: 6)
 print(result)
 // Output: "30"
 ```
