@@ -11,6 +11,7 @@ redirect_from:
   - /switch/
   - /if-let/
   - /iflet/
+  - /case/
 ---
 {::options parse_block_html="true" /}
 
@@ -22,15 +23,6 @@ redirect_from:
 ### If
 
 {% include opencol.html size=6 newrow=true %}
-
-#### Simple if
-
-```swift
-if 5 > 3 {
-  print("5 is more than 3")
-}
-// Output: "5 is more than 3"
-```
 
 #### If-else
 
@@ -45,6 +37,18 @@ if 5 > 6 {
 
 {% include closecol.html %}{% include opencol.html size=6 %}
 
+#### Ternary conditional operator
+
+```swift
+5 > 6 ? print("5 is more than 6")
+      : print("5 is not more than 6")
+// Output: "5 is not more than 6"
+```
+
+{% include closecol.html closerow=true %}
+
+{% include opencol.html size=6 newrow=true %}
+
 #### If let
 
 ```swift
@@ -54,6 +58,22 @@ func greet(name: String?) {
   } else {
     print("Hello guest!")
   }  
+}
+greet(name: "Asma")
+greet(name: nil)
+// Output: 
+// Hello Asma!
+// Hello guest!
+```
+
+{% include closecol.html %}{% include opencol.html size=6 %}
+
+#### Nil-coalescing operator
+
+```swift
+func greet(name: String?) {
+  let unwrappedName = name ?? "guest"
+  print("Hello \(unwrappedName)!")
 }
 greet(name: "Asma")
 greet(name: nil)
