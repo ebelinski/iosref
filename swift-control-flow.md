@@ -14,7 +14,7 @@ redirect_from:
 
 ### If
 
-<div class="row"><div class="col-sm-6">
+{% include opencol.html size=6 newrow=true %}
 
 #### Simple if
 
@@ -36,7 +36,7 @@ if 5 > 6 {
 // Output: "5 is not more than 6"
 ```
 
-</div><div class="col-sm-6">
+{% include closecol.html %}{% include opencol.html size=6 %}
 
 #### If let
 
@@ -55,13 +55,13 @@ greet(name: nil)
 // Hello guest!
 ```
 
-</div></div>
+{% include closecol.html closerow=true %}
 
 ### Guard
 
 Guard statements can be used to reduce indentation on the happy path. In a guard statement, the _else_ branch _must_ transfer control to exit the code block containing the guard statement. This can be done with _return_, _break_, _continue_, or _throw_.
 
-<div class="row"><div class="col-sm-6">
+{% include opencol.html size=6 newrow=true %}
 
 #### Simple guard
 
@@ -80,7 +80,7 @@ print(divide(x: 5, y: 0))
 // nil
 ```
 
-</div><div class="col-sm-6">
+{% include closecol.html %}{% include opencol.html size=6 %}
 
 #### Guard let
 
@@ -99,13 +99,13 @@ greet(name: nil)
 // Hello guest!
 ```
 
-</div></div>
+{% include closecol.html closerow=true %}
 
 ### For-in
 
 The common for loop `for (i = a; i < b; i++)` does not exist in Swift. Instead, the for-in can be modified to have an index using tuples and _[enumerated](https://developer.apple.com/documentation/swift/array/1687832-enumerated)_:
 
-<div class="row"><div class="col-sm-6">
+{% include opencol.html size=6 newrow=true %}
 
 #### Simple for-in
 
@@ -119,7 +119,7 @@ for bird in birds {
 // Crane
 ```
 
-</div><div class="col-sm-6">
+{% include closecol.html %}{% include opencol.html size=6 %}
 
 #### For-in with index
 
@@ -133,13 +133,13 @@ for (i, bird) in birds.enumerated() {
 // [1]: Crane
 ```
 
-</div></div>
+{% include closecol.html closerow=true %}
 
 ### While
 
 A while loop will run the code block each time the conditional is true. A repeat-while loop will run the block first without checking the conditional, then keep on running it as long as the conditional is true.
 
-<div class="row"><div class="col-sm-6">
+{% include opencol.html size=6 newrow=true %}
 
 #### Simple while
 
@@ -162,7 +162,7 @@ while steps > 0 {
 // Output: nothing
 ```
 
-</div><div class="col-sm-6">
+{% include closecol.html %}{% include opencol.html size=6 %}
 
 #### Repeat-while
 
@@ -185,11 +185,11 @@ repeat {
 // Output: "-999 steps left"
 ```
 
-</div></div>
+{% include closecol.html closerow=true %}
 
 ### Switch
 
-<div class="row"><div class="col-sm-6">
+{% include opencol.html size=6 newrow=true %}
 
 #### Switch with equality
 
@@ -211,7 +211,7 @@ describe(animal: "Giraffe")
 // "Something else"
 ```
 
-</div><div class="col-sm-6">
+{% include closecol.html %}{% include opencol.html size=6 %}
 
 #### Switch with tuples
 
@@ -233,7 +233,7 @@ describe(point: (11, 9))
 // "Elsewhere"
 ```
 
-</div></div>
+{% include closecol.html closerow=true %}
 
 ### Further reading
 
