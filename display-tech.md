@@ -117,6 +117,7 @@ redirect_from:
     <th>ProMotion</th>
     <th>True Tone</th>
     <th>Color space</th>
+    <th>Apple Pencil support</th>
   </tr>
   <tr>
     <td>iPad (gen 6)</td>
@@ -125,6 +126,7 @@ redirect_from:
     <td>TBD</td>
     <td>TBD</td>
     <td>TBD</td>
+    <td rowspan="3" class="green">Yes</td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 2)</td>
@@ -141,12 +143,14 @@ redirect_from:
     <td rowspan="13">No</td>
     <td>No</td>
     <td>Full sRGB standard</td>
+    <td>No</td>
   </tr>
   <tr>
     <td>iPad Pro 9.7"</td>
     <td>2016</td>
     <td class="green">Yes</td>
     <td class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
+    <td rowspan="2" class="green">Yes</td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 1)</td>
@@ -156,6 +160,7 @@ redirect_from:
   </tr>
   <tr>
     <td>iPad mini 4</td>
+    <td rowspan="10">No</td>
   </tr>
   <tr>
     <td>iPad mini 3</td>
