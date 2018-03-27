@@ -117,15 +117,15 @@ redirect_from:
     <th>ProMotion</th>
     <th>True Tone</th>
     <th>Color space</th>
-    <th>Apple Pencil support</th>
+    <th>Pencil support</th>
   </tr>
   <tr>
     <td>iPad (gen 6)</td>
     <td>2018</td>
     <td rowspan="12">LCD Retina</td>
-    <td>TBD</td>
-    <td>TBD</td>
-    <td>TBD</td>
+    <td>No</td>
+    <td>No</td>
+    <td>Full sRGB standard</td>
     <td rowspan="3" class="green">Yes</td>
   </tr>
   <tr>

@@ -123,7 +123,7 @@ redirect_from:
   <tr>
     <td>iPad (gen 6)</td>
     <td>2018</td>
-    <td>TBD</td>
+    <td><em>TBD</em></td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 2)</td>
