@@ -111,8 +111,8 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad (gen 5)</span><br>
-      <span class="soft">and iPad Pro 9.7", Air 2, Air (gen 1), iPad 4, iPad (gen 3)</span>
+      <span class="strong">iPad (gen 6)</span><br>
+      <span class="soft">and iPad (gen 5), iPad Pro 9.7", Air 2, Air (gen 1), iPad 4, iPad (gen 3)</span>
     </td>
     <td rowspan="4">768 × 1024</td>
     <td rowspan="2">1536 × 2048</td>
