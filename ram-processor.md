@@ -120,6 +120,12 @@ redirect_from:
     <th>Processor</th>
   </tr>
   <tr>
+    <td>iPad (gen 6)</td>
+    <td>2018</td>
+    <td>TBD</td>
+    <td>A10 Fusion</td>
+  </tr>
+  <tr>
     <td>iPad Pro 12.9" (gen 2)</td>
     <td rowspan="3">2017</td>
     <td rowspan="2">4 GB</td>
