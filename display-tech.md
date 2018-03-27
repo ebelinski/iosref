@@ -117,7 +117,6 @@ redirect_from:
     <th>ProMotion</th>
     <th>True Tone</th>
     <th>Color space</th>
-    <th><a href="https://developer.apple.com/ios/3d-touch/">3D Touch</a></th>
   </tr>
   <tr>
     <td>iPad (gen 6)</td>
@@ -126,7 +125,6 @@ redirect_from:
     <td>TBD</td>
     <td>TBD</td>
     <td>TBD</td>
-    <td rowspan="16">No</td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 2)</td>
