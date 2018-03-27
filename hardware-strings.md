@@ -121,6 +121,11 @@ redirect_from:
     <th>Hardware strings</th>
   </tr>
   <tr>
+    <td>iPad (gen 6)</td>
+    <td>2018</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
     <td>iPad Pro 12.9" (gen 2)</td>
     <td rowspan="3">2017</td>
     <td>iPad7,1<br>iPad7,2</td>

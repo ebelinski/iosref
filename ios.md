@@ -105,10 +105,15 @@ redirect_from:
     <th>Max iOS</th>
   </tr>
   <tr>
+    <td>iPad (gen 6)</td>
+    <td>2018</td>
+    <td>11</td>
+    <td rowspan="11" class="green">11</td>
+  </tr>
+  <tr>
     <td>iPad Pro 12.9" (gen 2)</td>
     <td rowspan="3">2017</td>
     <td rowspan="3">10</td>
-    <td rowspan="10" class="green">11</td>
   </tr>
   <tr>
     <td>iPad Pro 10.5"</td>
