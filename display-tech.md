@@ -4,6 +4,11 @@ title: Display tech by device
 description: Tables showing the display technology in each iPhone and iPad for developers.
 redirect_from: 
   - /3d-touch/
+  - /display/
+  - /true-tone/
+  - /color-space/
+  - /promotion/
+  - /force-touch/
 ---
 {::options parse_block_html="true" /}
 
