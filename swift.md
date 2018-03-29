@@ -12,7 +12,7 @@ redirect_from:
 {:toc}
 </div>
 
-Last updated January 25, 2018.
+Last updated March 29, 2018.
 
 {% include opencol.html size=6 newrow=true %}
 
@@ -27,8 +27,8 @@ Last updated January 25, 2018.
   <tr>
     <td>Swift 4.1</td>
     <td>2018</td>
-    <td>TBD</td>
-    <td>Xcode 9.3 (beta)</td>
+    <td>March 29 <sup>1</sup></td>
+    <td>Xcode 9.3</td>
   </tr>
   <tr>
     <td>Swift 4.0.3</td>
@@ -83,6 +83,8 @@ Last updated January 25, 2018.
     <td>Xcode 7.3</td>
   </tr>
 </table>
+
+<sup>1</sup> macOS only (through Xcode 9.3). Swift 4.1 for Linux has not yet been released as of March 29, 2018.
 
 {% include closecol.html %}{% include opencol.html size=6 %}
 
