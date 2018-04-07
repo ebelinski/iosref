@@ -100,9 +100,7 @@ Last updated April 7, 2018. To use the Xcode download links, log into [developer
       </a>
     </td>
     <td rowspan="2">Sept 13</td>
-    <td>
-      <a href="">Xcode 8.0</a>
-    </td>
+    <td>Xcode 8.0</td>
   </tr>
   <tr>
     <td>
