@@ -12,7 +12,7 @@ redirect_from:
 {:toc}
 </div>
 
-Last updated April 7, 2018. To use the Xcode download links, you must be logged into [developer.apple.com](https://developer.apple.com/) first. Some Xcode versions are not available for download.
+Last updated April 7, 2018. To use the Xcode download links, log into [developer.apple.com](https://developer.apple.com/) first. Some Xcode versions are not available for download.
 
 ### Open source versions
 
@@ -23,7 +23,9 @@ Last updated April 7, 2018. To use the Xcode download links, you must be logged 
     <th>Part of</th>
   </tr>
   <tr>
-    <td>Swift 4.1</td>
+    <td>
+      <a href="https://swift.org/blog/swift-4-1-released/">Swift 4.1</a>
+    </td>
     <td>2018</td>
     <td>March 29</td>
     <td>
@@ -46,7 +48,11 @@ Last updated April 7, 2018. To use the Xcode download links, you must be logged 
     </td>
   </tr>
   <tr>
-    <td><span class="strong">Swift 4.0</span></td>
+    <td>
+      <a href="https://swift.org/blog/swift-4-0-released/">
+        <span class="strong">Swift 4.0</span>
+      </a>
+    </td>
     <td>Sept 19</td>
     <td>
       Xcode 9.0,
@@ -62,7 +68,9 @@ Last updated April 7, 2018. To use the Xcode download links, you must be logged 
     </td>
   </tr>
   <tr>
-    <td>Swift 3.1</td>
+    <td>
+      <a href="https://swift.org/blog/swift-3-1-released/">Swift 3.1</a>
+    </td>
     <td>Mar 27</td>
     <td>
       <a href="https://download.developer.apple.com/Developer_Tools/Xcode_8.3/Xcode_8.3.xip">Xcode 8.3,</a>
@@ -86,14 +94,20 @@ Last updated April 7, 2018. To use the Xcode download links, you must be logged 
     </td>
   </tr>
   <tr>
-    <td><span class="strong">Swift 3.0</span></td>
+    <td>
+      <a href="https://swift.org/blog/swift-3-0-released/">
+        <span class="strong">Swift 3.0</span>
+      </a>
+    </td>
     <td rowspan="2">Sept 13</td>
     <td>
       <a href="">Xcode 8.0</a>
     </td>
   </tr>
   <tr>
-    <td>Swift 2.3</td>
+    <td>
+      <a href="https://swift.org/blog/swift-2-3/">Swift 2.3</a>
+    </td>
     <td>
       Xcode 8.0,
       <a href="https://download.developer.apple.com/Developer_Tools/Xcode_8.1/Xcode_8.1.xip">Xcode 8.1,</a>
@@ -109,7 +123,9 @@ Last updated April 7, 2018. To use the Xcode download links, you must be logged 
     </td>
   </tr>
   <tr>
-    <td>Swift 2.2</td>
+    <td>
+      <a href="https://swift.org/blog/swift-2-2-released/">Swift 2.2</a>
+    </td>
     <td>Mar 21</td>
     <td>
       <a href="https://download.developer.apple.com/Developer_Tools/Xcode_7.3/Xcode_7.3.dmg">Xcode 7.3</a>
