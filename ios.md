@@ -26,7 +26,7 @@ redirect_from:
     <td>iPhone X</td>
     <td rowspan="2">2017</td>
     <td rowspan="2">11</td>
-    <td class="green" rowspan="7">11</td>
+    <td class="green" rowspan="7">12 <sup class="beta">Beta</sup></td>
   </tr>
   <tr>
     <td>iPhone 8 / 8 Plus</td>
@@ -56,7 +56,7 @@ redirect_from:
   </tr>
   <tr>
     <td>iPhone 5c</td>
-    <td class="light-green" rowspan="2">10</td>
+    <td rowspan="2">10</td>
   </tr>
   <tr>
     <td>iPhone 5</td>
@@ -108,7 +108,7 @@ redirect_from:
     <td>iPad (gen 6)</td>
     <td>2018</td>
     <td>11</td>
-    <td rowspan="11" class="green">11</td>
+    <td rowspan="11" class="green">12 <sup class="beta">Beta</sup></td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 2)</td>
@@ -153,7 +153,7 @@ redirect_from:
     <td>iPad (gen 4)</td>
     <td rowspan="3">2012</td>
     <td rowspan="2">6</td>
-    <td class="light-green">10</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>iPad mini (gen 1)</td>
@@ -190,7 +190,7 @@ redirect_from:
     <td>iPod touch (gen 6)</td>
     <td>2015</td>
     <td>8</td>
-    <td class="green">11</td>
+    <td class="green">12 <sup class="beta">Beta</sup></td>
   </tr>
   <tr>
     <td>iPod touch (gen 5)</td>
