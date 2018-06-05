@@ -24,6 +24,18 @@ Last updated April 7, 2018. To use the Xcode download links, log into [developer
   </tr>
   <tr>
     <td>
+      <a href="https://swift.org/blog/4-2-release-process/">Swift 4.2</a>
+      <sup class="beta">Beta</sup>
+    </td>
+    <td>2018</td>
+    <td>TBA</td>
+    <td>
+      <a href="https://download.developer.apple.com/Documentation/Beta_Release_Notes_Jun_4_2018/Xcode_10_Beta_Release_Notes.pdf">Xcode 10</a>
+      <sup class="beta">Beta</sup>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://swift.org/blog/swift-4-1-released/">Swift 4.1</a>
     </td>
     <td>2018</td>
