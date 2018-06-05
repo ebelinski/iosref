@@ -9,7 +9,7 @@ redirect_from:
 
 ### Apple Watch
 
-<table class="full-width">
+<table>
   <tr>
     <th>Device</th>
     <th>Released</th>
@@ -20,7 +20,7 @@ redirect_from:
     <td>Series 3</td>
     <td>2017</td>
     <td>4</td>
-    <td rowspan="4" class="green">4</td>
+    <td rowspan="3" class="green">5 <sup class="beta">Beta</sup></td>
   </tr>
   <tr>
     <td>Series 2</td>
@@ -34,6 +34,7 @@ redirect_from:
     <td>Series 0<sup>1</sup></td>
     <td>2014</td>
     <td>1</td>
+    <td class="light-green">4</td>
   </tr>
 </table>
 
