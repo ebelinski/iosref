@@ -29,7 +29,7 @@ layout: default
 * [Swift versions]({{ "/swift" | relative_url }})
 * [Swift 4 cheatsheet]({{ "/swift-cheatsheet" | relative_url }})
 * [All docs](https://swift.org/documentation/)<sup class="ext">Ext</sup>
-* [Book by Apple](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/)<sup class="ext">Ext</sup>
+* [Swift Book](https://docs.swift.org/swift-book/)<sup class="ext">Ext</sup>
 
 ### Swift guides
 
