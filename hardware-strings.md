@@ -215,6 +215,11 @@ redirect_from:
     <th>Hardware strings</th>
   </tr>
   <tr>
+    <td>Series 4</td>
+    <td>2018</td>
+    <td>?</td>
+  </tr>
+  <tr>
     <td>Series 3</td>
     <td>2017</td>
     <td>Watch3,1<br>Watch3,2<br>Watch3,3<br>Watch3,4</td>
