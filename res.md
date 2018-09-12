@@ -30,11 +30,26 @@ redirect_from:
     <th>Diagonal size</th>
   </tr>
   <tr>
-    <td><span class="strong">iPhone X</span></td>
+    <td><span class="strong">iPhone XS Max</span></td>
+    <td>?</td>
+    <td rowspan="3">?</td>
+    <td>1242 × 2688</td>
+    <td>5.8"</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="strong">iPhone XS</span><br>
+      <span class="soft">and X</span>
+    </td>
     <td>375 × 812</td>
-    <td rowspan="2">@3x</td>
     <td>1125 × 2436</td>
     <td>5.8"</td>
+  </tr>
+  <tr>
+    <td><span class="strong">iPhone XR</span></td>
+    <td>?</td>
+    <td>828 × 1792</td>
+    <td>6.1"</td>
   </tr>
   <tr>
     <td class="nowrap">
@@ -42,6 +57,7 @@ redirect_from:
       <span class="soft">and 7+, 6s+, 6+</span>
     </td>
     <td>414 × 736</td>
+    <td>@3x</td>
     <td>1242 × 2208 <sup>1</sup></td>
     <td>5.5"</td>
   </tr>
