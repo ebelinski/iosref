@@ -23,10 +23,18 @@ redirect_from:
     <th>Max iOS</th>
   </tr>
   <tr>
+    <td>iPhone XS / XS Max</td>
+    <td rowspan="2">2018</td>
+    <td rowspan="2">12</td>
+    <td class="green" rowspan="9">12</td>
+  </tr>
+  <tr>
+    <td>iPhone XR</td>
+  </tr>
+  <tr>
     <td>iPhone X</td>
     <td rowspan="2">2017</td>
     <td rowspan="2">11</td>
-    <td class="green" rowspan="7">12 <sup class="beta">Beta</sup></td>
   </tr>
   <tr>
     <td>iPhone 8 / 8 Plus</td>
@@ -108,7 +116,7 @@ redirect_from:
     <td>iPad (gen 6)</td>
     <td>2018</td>
     <td>11</td>
-    <td rowspan="11" class="green">12 <sup class="beta">Beta</sup></td>
+    <td rowspan="11" class="green">12</td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 2)</td>
