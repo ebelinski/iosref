@@ -27,6 +27,17 @@ redirect_from:
     <th>Hardware strings</th>
   </tr>
   <tr>
+    <td>iPhone XS Max</td>
+    <td rowspan="3">2018</td>
+    <td rowspan="3">?</td>
+  </tr>
+  <tr>
+    <td>iPhone XS</td>
+  </tr>
+  <tr>
+    <td>iPhone XR</td>
+  </tr>
+  <tr>
     <td>iPhone X</td>
     <td rowspan="3">2017</td>
     <td>iPhone10,3<br>iPhone10,6</td>
