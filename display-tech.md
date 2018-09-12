@@ -29,11 +29,25 @@ redirect_from:
     <th><a href="https://developer.apple.com/ios/3d-touch/">3D Touch</a></th>
   </tr>
   <tr>
+    <td>iPhone XS Max</td>
+    <td rowspan="3">2018</td>
+    <td rowspan="2" class="green">OLED Retina</td>
+    <td rowspan="6" class="green">Yes</td>
+    <td rowspan="8" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
+    <td rowspan="2" class="green">Yes</td>
+  </tr>
+  <tr>
+    <td>iPhone XS</td>
+  </tr>
+  <tr>
+    <td>iPhone XR</td>
+    <td>LCD Retina</td>
+    <td>No</td>
+  </tr>
+  <tr>
     <td>iPhone X</td>
     <td rowspan="3">2017</td>
     <td class="green">OLED Retina</td>
-    <td rowspan="3" class="green">Yes</td>
-    <td rowspan="5" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
     <td rowspan="5" class="green">Yes</td>
   </tr>
   <tr>
