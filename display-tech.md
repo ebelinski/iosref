@@ -223,10 +223,14 @@ redirect_from:
     <th><a href="https://developer.apple.com/library/content/documentation/General/Conceptual/WatchKitProgrammingGuide/Menus.html">Force Touch</a></th>
   </tr>
   <tr>
+    <td>Series 4</td>
+    <td>2018</td>
+    <td rowspan="5">OLED Retina</td>
+    <td rowspan="5">Yes</td>
+  </tr>
+  <tr>
     <td>Series 3</td>
     <td>2017</td>
-    <td rowspan="4">OLED Retina</td>
-    <td rowspan="4" class="green">Yes</td>
   </tr>
   <tr>
     <td>Series 2</td>
