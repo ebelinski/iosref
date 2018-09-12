@@ -149,10 +149,17 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">Apple Watch 42mm</span><br>
+      <span class="strong">Apple Watch 44mm</span><br>
       <span class="soft">Series 4</span>
     </td>
     <td>384 × 480 <sup class="beta">Rumor</sup></td>
+    <td>Unknown</td>
+  </tr>
+    <td>
+      <span class="strong">Apple Watch 40mm</span><br>
+      <span class="soft">Series 4</span>
+    </td>
+    <td>Unknown</td>
     <td>Unknown</td>
   </tr>
   <tr>
