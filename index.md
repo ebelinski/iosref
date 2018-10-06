@@ -13,14 +13,14 @@ layout: default
 
 ### OS
 
-* [iOS version by device]({{ "/ios" | relative_url }})
-* & [watchOS]({{ "/watchos" | relative_url }}), [tvOS]({{ "/tvos" | relative_url }}), [audioOS]({{ "/audioos" | relative_url }})
+* [iOS version by device]({{ "/ios" | relative_url }}) &
+* [watchOS]({{ "/watchos" | relative_url }}), [tvOS]({{ "/tvos" | relative_url }}), [audioOS]({{ "/audioos" | relative_url }})
 * [iOS adoption rates](https://developer.apple.com/support/app-store/)<sup class="ext">Ext</sup>
 
 ### Hardware
 
-* [RAM & processor by device]({{ "/ram-processor" | relative_url }})
-* [Hardware strings by device]({{ "/hardware-strings" | relative_url }})
+* [RAM & processor]({{ "/ram-processor" | relative_url }})
+* [Hardware strings]({{ "/hardware-strings" | relative_url }})
 
 {% include closecol.html %}{% include opencol.html size=4 %}
 
@@ -40,7 +40,7 @@ layout: default
 
 ### Guides
 
-* [Add a Crashlytics Beta tester]({{ "/crashlytics-beta-tester" | relative_url }})
+* [Add a Crashlytics tester]({{ "/crashlytics-beta-tester" | relative_url }})
 * [Objective-C block syntax]({{ "/objc-block-syntax" | relative_url }})
 
 {% include closecol.html %}{% include opencol.html size=4 %}
