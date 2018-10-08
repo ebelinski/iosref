@@ -26,7 +26,7 @@ redirect_from:
   <tr>
     <td>iPhone XS Max</td>
     <td rowspan="3">2018</td>
-    <td rowspan="3">?</td>
+    <td rowspan="2">4 GB</td>
     <td rowspan="3">A12 Bionic</td>
   </tr>
   <tr>
@@ -34,11 +34,11 @@ redirect_from:
   </tr>
   <tr>
     <td>iPhone XR</td>
+    <td rowspan="3">3 GB</td>
   </tr>
   <tr>
     <td>iPhone X</td>
     <td rowspan="3">2017</td>
-    <td rowspan="2">3 GB</td>
     <td rowspan="3">A11 Bionic</td>
   </tr>
   <tr>
@@ -134,7 +134,7 @@ redirect_from:
   <tr>
     <td>iPad (gen 6)</td>
     <td>2018</td>
-    <td><em>TBD</em></td>
+    <td>2 GB</td>
     <td>A10 Fusion</td>
   </tr>
   <tr>
@@ -225,6 +225,12 @@ redirect_from:
     <th>Processor</th>
   </tr>
   <tr>
+    <td>Series 4</td>
+    <td>2019</td>
+    <td>1 GB</td>
+    <td>S4</td>
+  </tr>
+  <tr>
     <td>Series 3</td>
     <td>2017</td>
     <td>768 MB<sup>2</sup></td>
@@ -249,7 +255,6 @@ redirect_from:
 
 <p>
   <sup>1</sup> "Series 0" is a commonly used nickname for the first generation Apple Watch.<br>
-  <sup>2</sup> Unconfirmed as of January 2018, as no official figure is given.
 </p>
 
 ### iPod touch
