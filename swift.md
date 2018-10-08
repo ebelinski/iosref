@@ -12,7 +12,7 @@ redirect_from:
 {:toc}
 </div>
 
-Last updated April 7, 2018. To use the Xcode download links, log into [developer.apple.com](https://developer.apple.com/) first. Some Xcode versions are not available for download.
+Last updated October 7, 2018. To use the Xcode download links, log into [developer.apple.com](https://developer.apple.com/) first. Some Xcode versions are not available for download.
 
 ### Open source versions
 
@@ -24,21 +24,18 @@ Last updated April 7, 2018. To use the Xcode download links, log into [developer
   </tr>
   <tr>
     <td>
-      <a href="https://swift.org/blog/4-2-release-process/">Swift 4.2</a>
-      <sup class="beta">Beta</sup>
+      <a href="https://swift.org/blog/swift-4-2-released/">Swift 4.2</a>
     </td>
-    <td>2018</td>
-    <td>TBA</td>
+    <td rowspan="2">2018</td>
+    <td>September 17</td>
     <td>
-      <a href="https://download.developer.apple.com/Documentation/Beta_Release_Notes_Jun_4_2018/Xcode_10_Beta_Release_Notes.pdf">Xcode 10</a>
-      <sup class="beta">Beta</sup>
+      Xcode 10
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://swift.org/blog/swift-4-1-released/">Swift 4.1</a>
     </td>
-    <td>2018</td>
     <td>March 29</td>
     <td>
       <a href="https://download.developer.apple.com/Developer_Tools/Xcode_9.3/Xcode_9.3.xip">Xcode 9.3</a>
