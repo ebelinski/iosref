@@ -20,7 +20,7 @@ redirect_from:
     <td>Series 4</td>
     <td>2018</td>
     <td>5</td>
-    <td rowspan="4" class="green">5 <sup class="beta">Beta</sup></td>
+    <td rowspan="4" class="green">5</td>
   </tr>
   <tr>
     <td>Series 3</td>

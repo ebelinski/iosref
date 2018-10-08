@@ -198,7 +198,7 @@ redirect_from:
     <td>iPod touch (gen 6)</td>
     <td>2015</td>
     <td>8</td>
-    <td class="green">12 <sup class="beta">Beta</sup></td>
+    <td class="green">12</td>
   </tr>
   <tr>
     <td>iPod touch (gen 5)</td>
