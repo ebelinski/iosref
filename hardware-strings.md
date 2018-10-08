@@ -29,13 +29,15 @@ redirect_from:
   <tr>
     <td>iPhone XS Max</td>
     <td rowspan="3">2018</td>
-    <td rowspan="3">?</td>
+    <td>iPhone11,6<br>iPhone11,4</td>
   </tr>
   <tr>
     <td>iPhone XS</td>
+    <td>iPhone11,2</td>
   </tr>
   <tr>
     <td>iPhone XR</td>
+    <td>iPhone11,8</td>
   </tr>
   <tr>
     <td>iPhone X</td>
