@@ -136,7 +136,7 @@ redirect_from:
   <tr>
     <td>iPad (gen 6)</td>
     <td>2018</td>
-    <td><em>TBD</em></td>
+    <td>iPad7,5<br>iPad7,6</td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 2)</td>
@@ -219,7 +219,7 @@ redirect_from:
   <tr>
     <td>Series 4</td>
     <td>2018</td>
-    <td>?</td>
+    <td>Watch4,1<br>Watch4,2<br>Watch4,3<br>Watch4,4</td>
   </tr>
   <tr>
     <td>Series 3</td>
