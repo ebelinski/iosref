@@ -165,12 +165,11 @@ redirect_from:
   </tr>
   <tr>
     <td>iPad mini (gen 1)</td>
-    <td>9</td>
+    <td rowspan="3">9</td>
   </tr>
   <tr>
     <td>iPad (gen 3)</td>
     <td>5</td>
-    <td rowspan="2">9</td>
   </tr>
   <tr>
     <td>iPad 2</td>
