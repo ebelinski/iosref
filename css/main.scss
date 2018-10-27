@@ -60,6 +60,10 @@ table {
     border: 1px solid #333;
     padding: 4px 10px;
     vertical-align: top;
+
+    ol {
+      margin-bottom: 0px;
+    }
   }
 
   td.green {
