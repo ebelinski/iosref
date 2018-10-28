@@ -4,6 +4,10 @@ title: "Entering iOS recovery mode"
 description: Steps for entering iOS recovery mode on all iPhone, iPad, and iPod touch models.
 redirect_from: 
   - /recovery-mode/
+  - /ios-recovery/
+  - /ios-recovery-mode/
+  - /recover/
+  - /recover-mode/
 ---
 {::options parse_block_html="true" /}
 
