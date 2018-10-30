@@ -116,9 +116,15 @@ redirect_from:
   <tr>
     <td><span class="strong">iPad Pro 12.9"</span></td>
     <td>1024 × 1366</td>
-    <td rowspan="4">@2x</td>
+    <td rowspan="5">@2x</td>
     <td>2048 × 2732</td>
     <td>12.9"</td>
+  </tr>
+  <tr>
+    <td><span class="strong">iPad Pro 11"</span></td>
+    <td>834 × 1112</td>
+    <td>1668 × 2388</td>
+    <td>11"</td>
   </tr>
   <tr>
     <td><span class="strong">iPad Pro 10.5"</span></td>
