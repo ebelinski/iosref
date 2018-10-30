@@ -86,7 +86,15 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      All iPads
+      iPads with Face ID
+    </td>
+    <td>
+      Apple has not yet specified how to enter recovery mode for these devices.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      iPads with a <strong>Home</strong> button
     </td>
     <td>
       <ol>
