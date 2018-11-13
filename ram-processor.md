@@ -22,12 +22,14 @@ redirect_from:
     <th>Released</th>
     <th>RAM</th>
     <th>Processor</th>
+    <th>Data width</th>
   </tr>
   <tr>
     <td>iPhone XS Max</td>
     <td rowspan="3">2018</td>
     <td rowspan="2">4 GB</td>
     <td rowspan="3">A12 Bionic</td>
+    <td rowspan="14">64-bit</td>
   </tr>
   <tr>
     <td>iPhone XS</td>
@@ -87,6 +89,7 @@ redirect_from:
     <td>iPhone 5c</td>
     <td>2013</td>
     <td rowspan="2">A6</td>
+    <td rowspan="7">32-bit</td>
   </tr>
   <tr>
     <td>iPhone 5</td>
@@ -130,12 +133,14 @@ redirect_from:
     <th>Released</th>
     <th>RAM</th>
     <th>Processor</th>
+    <th>Data width</th>
   </tr>
   <tr>
     <td>iPad (gen 6)</td>
     <td>2018</td>
     <td>2 GB</td>
     <td>A10 Fusion</td>
+    <td rowspan="11">64-bit</td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 2)</td>
@@ -190,6 +195,7 @@ redirect_from:
     <td>iPad (gen 4)</td>
     <td rowspan="3">2012</td>
     <td>A6X</td>
+    <td rowspan="5">32-bit</td>
   </tr>
   <tr>
     <td>iPad mini (gen 1)</td>
@@ -265,18 +271,21 @@ redirect_from:
     <th>Released</th>
     <th>RAM</th>
     <th>Processor</th>
+    <th>Data width</th>
   </tr>
   <tr>
     <td>iPod touch (gen 6)</td>
     <td>2015</td>
     <td>1 GB</td>
     <td>A8</td>
+    <td>64-bit</td>
   </tr>
   <tr>
     <td>iPod touch (gen 5)</td>
     <td>2012</td>
     <td>512 MB</td>
     <td>A5</td>
+    <td rowspan="5">64-bit</td>
   </tr>
   <tr>
     <td>iPod touch (gen 4)</td>
