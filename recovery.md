@@ -8,6 +8,7 @@ redirect_from:
   - /ios-recovery-mode/
   - /recover/
   - /recover-mode/
+  - /reset/
 ---
 {::options parse_block_html="true" /}
 
