@@ -90,7 +90,11 @@ redirect_from:
       iPads with Face ID
     </td>
     <td>
-      Apple has not yet specified how to enter recovery mode for these devices.
+      <ol>
+        <li>Press and quickly release the <strong>Volume Up</strong> button.</li>
+        <li>Press and quickly release the <strong>Volume Down</strong> button.</li>
+        <li>Press and hold the <strong>Top</strong> button until you see the iTunes logo.</li>
+      </ol>
     </td>
   </tr>
   <tr>
