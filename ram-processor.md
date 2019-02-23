@@ -285,7 +285,7 @@ redirect_from:
     <td>2012</td>
     <td>512 MB</td>
     <td>A5</td>
-    <td rowspan="5">64-bit</td>
+    <td rowspan="5">32-bit</td>
   </tr>
   <tr>
     <td>iPod touch (gen 4)</td>
