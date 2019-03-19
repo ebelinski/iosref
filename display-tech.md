@@ -134,9 +134,28 @@ redirect_from:
     <th>Pencil support</th>
   </tr>
   <tr>
+    <td>iPad Air 10.5"</td>
+    <td rowspan="16">LCD Retina</td>
+    <td rowspan="2">2019</td>
+    <td rowspan="2">No</td>
+    <td rowspan="4" class="green">Yes</td>
+    <td rowspan="4" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
+    <td rowspan="2" class="green">Yes</td>
+  </tr>
+  <tr>
+    <td>iPad mini (gen 5)</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 12.9" (gen 3)</td>
+    <td rowspan="3">2018</td>
+    <td rowspan="2" class="green">Yes</td>
+    <td rowspan="2" class="green">Yes (gen 2)</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 11"</td>
+  </tr>
+  <tr>
     <td>iPad (gen 6)</td>
-    <td>2018</td>
-    <td rowspan="12">LCD Retina</td>
     <td>No</td>
     <td>No</td>
     <td>Full sRGB standard</td>
