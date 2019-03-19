@@ -127,7 +127,10 @@ redirect_from:
     <td>11"</td>
   </tr>
   <tr>
-    <td><span class="strong">iPad Pro 10.5"</span></td>
+    <td>
+      <span class="strong">iPad Air 10.5"</span><br>
+      <span class="soft">and iPad Pro 10.5"</span>
+    </td>
     <td>834 × 1112</td>
     <td>1668 × 2224</td>
     <td>10.5"</td>
@@ -143,8 +146,8 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad mini 4</span><br>
-      <span class="soft">and mini 3, mini 2</span>
+      <span class="strong">iPad mini (gen 5)</span><br>
+      <span class="soft">and mini 4, mini 3, mini 2</span>
     </td>
     <td rowspan="2">7.9"</td>
   </tr>
