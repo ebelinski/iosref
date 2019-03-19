@@ -122,7 +122,7 @@ redirect_from:
   </tr>
   <tr>
     <td><span class="strong">iPad Pro 11"</span></td>
-    <td>834 × 1112</td>
+    <td>834 × 1194</td>
     <td>1668 × 2388</td>
     <td>11"</td>
   </tr>
