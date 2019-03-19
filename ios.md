@@ -113,10 +113,17 @@ redirect_from:
     <th>Max iOS</th>
   </tr>
   <tr>
+    <td>iPad Air 10.5"</td>
+    <td rowspan="2">2019</td>
+    <td rowspan="4">12</td>
+    <td rowspan="15" class="green">12</td>
+  </tr>
+  <tr>
+    <td>iPad mini (gen 5)</td>
+  </tr>
+  <tr>
     <td>iPad Pro 12.9" (gen 3)</td>
     <td rowspan="3">2018</td>
-    <td rowspan="2">12</td>
-    <td rowspan="13" class="green">12</td>
   </tr>
   <tr>
     <td>iPad Pro 11"</td>
