@@ -136,11 +136,28 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
+    <td>iPad Air 10.5"</td>
+    <td rowspan="2">2019</td>
+    <td rowspan="2">2 GB</td>
+    <td rowspan="2">A12 Bionic</td>
+    <td rowspan="15">64-bit</td>
+  </tr>
+  <tr>
+    <td>iPad mini (gen 5)</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 12.9" (gen 3)</td>
+    <td rowspan="3">2018</td>
+    <td rowspan="2">4 GB<br>6 GB (1 TB models)</td>
+    <td rowspan="2">A12X Bionic</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 11"</td>
+  </tr>
+  <tr>
     <td>iPad (gen 6)</td>
-    <td>2018</td>
     <td>2 GB</td>
     <td>A10 Fusion</td>
-    <td rowspan="11">64-bit</td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 2)</td>
