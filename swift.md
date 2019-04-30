@@ -24,12 +24,22 @@ Last updated October 7, 2018. To use the Xcode download links, log into [develop
   </tr>
   <tr>
     <td>
+      <a href="https://swift.org/blog/swift-5-released/">Swift 5.0</a>
+    </td>
+    <td>2019</td>
+    <td>March 25</td>
+    <td>
+      Xcode 10.2
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://swift.org/blog/swift-4-2-released/">Swift 4.2</a>
     </td>
     <td rowspan="2">2018</td>
     <td>September 17</td>
     <td>
-      Xcode 10
+      Xcode 10.0
     </td>
   </tr>
   <tr>
