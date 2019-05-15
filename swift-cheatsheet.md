@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Swift 4 cheatsheet
-description: A beautiful and clutter-free Swift 4 cheatsheet.
+title: Swift 5 cheatsheet
+description: A beautiful and clutter-free Swift 5 cheatsheet.
 redirect_from: 
   - /cheatsheet/
 ---
