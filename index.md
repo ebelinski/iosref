@@ -42,7 +42,6 @@ layout: default
 
 * [Entering recovery mode]({{ "/recovery" | relative_url }})
 * [Objective-C block syntax]({{ "/objc-block-syntax" | relative_url }})
-* [Add a Crashlytics tester]({{ "/crashlytics-beta-tester" | relative_url }})
 
 {% include closecol.html %}{% include opencol.html size=4 %}
 
