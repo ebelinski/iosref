@@ -50,6 +50,7 @@ layout: default
 * [Convert hex to UIColor]({{ "/uihex" | relative_url }})
 * [WTF, Auto Layout?](https://www.wtfautolayout.com/)<sup class="ext">Ext</sup>
 * [NSDateFormatter](http://nsdateformatter.com/)<sup class="ext">Ext</sup>
+* [API errors lookup](https://osstatus.com)<sup class="ext">Ext</sup>
 
 ### Apple docs
 
