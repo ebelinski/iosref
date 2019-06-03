@@ -7,8 +7,6 @@ redirect_from:
   - /watcos-ver/
 ---
 
-{% include wwdc2019outdated.html %}
-
 ### Apple Watch
 
 <table>
@@ -22,7 +20,7 @@ redirect_from:
     <td>Series 4</td>
     <td>2018</td>
     <td>5</td>
-    <td rowspan="4" class="green">5</td>
+    <td rowspan="4" class="green">6</td>
   </tr>
   <tr>
     <td>Series 3</td>
