@@ -115,14 +115,14 @@ redirect_from:
   <tr>
     <th>Device</th>
     <th>Released</th>
-    <th>First iOS</th>
-    <th>Max iOS</th>
+    <th>First iPadOS</th>
+    <th>Max iPadOS</th>
   </tr>
   <tr>
     <td>iPad Air 10.5"</td>
     <td rowspan="2">2019</td>
     <td rowspan="4">12</td>
-    <td rowspan="15" class="green">12</td>
+    <td rowspan="11" class="green">13</td>
   </tr>
   <tr>
     <td>iPad mini (gen 5)</td>
@@ -165,14 +165,17 @@ redirect_from:
     <td>iPad mini 3</td>
     <td rowspan="2">2014</td>
     <td rowspan="2">8</td>
+    <td class="light-green">12</td>
   </tr>
   <tr>
     <td>iPad Air 2</td>
+    <td class="green">13</td>
   </tr>
   <tr>
     <td>iPad mini 2</td>
     <td rowspan="2">2013</td>
     <td rowspan="2">7</td>
+    <td rowspan="2" class="light-green">12</td>
   </tr>
   <tr>
     <td>iPad Air (gen 1)</td>
