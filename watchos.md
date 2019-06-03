@@ -39,7 +39,7 @@ redirect_from:
     <td>Series 0<sup>1</sup></td>
     <td>2014</td>
     <td>1</td>
-    <td class="light-green">4</td>
+    <td>4</td>
   </tr>
 </table>
 
