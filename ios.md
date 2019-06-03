@@ -7,6 +7,8 @@ redirect_from:
   - /ios-ver/
 ---
 
+{% include wwdc2019outdated.html %}
+
 {::options parse_block_html="true" /}
 <div id="compact-toc">
 * TOC
