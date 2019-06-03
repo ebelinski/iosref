@@ -5,6 +5,9 @@ description: Tables showing the first and maximum iOS versions for each iPhone, 
 redirect_from: 
   - /ios-versions/ 
   - /ios-ver/
+  - /ipados/
+  - /ipados-ver/
+  - /ipados-versions/
 ---
 
 {% include wwdc2019outdated.html %}
