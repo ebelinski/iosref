@@ -28,7 +28,7 @@ redirect_from:
     <td>iPhone XS / XS Max</td>
     <td rowspan="2">2018</td>
     <td rowspan="2">12</td>
-    <td class="green" rowspan="9">12</td>
+    <td class="green" rowspan="7">13</td>
   </tr>
   <tr>
     <td>iPhone XR</td>
@@ -58,6 +58,7 @@ redirect_from:
     <td>iPhone 6 / 6 Plus</td>
     <td>2014</td>
     <td>8</td>
+    <td class="light-green" rowspan="2">12</td>
   </tr>
   <tr>
     <td>iPhone 5s</td>
