@@ -31,6 +31,7 @@ function processValue(value) {
 
   $("#results").show();
 
+  $("#swift-color-literal-code").html("#colorLiteral(red: "+red+", green: "+grn+", blue: "+blu+", alpha: 1)");
   $("#swift-code").html("UIColor(red: "+red+", green: "+grn+", blue: "+blu+", alpha: 1) // #"+hexFullLength);
   $("#objective-c-code").html("[UIColor colorWithRed:"+red+" green:"+grn+" blue:"+blu+" alpha:1]; // #"+hexFullLength);
   $("#c-sharp-code").html("new UIColor(red: "+red+"f green: "+grn+"f blue: "+blu+"f alpha: 1.0f]; // #"+hexFullLength);
