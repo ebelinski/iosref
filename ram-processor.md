@@ -138,7 +138,7 @@ redirect_from:
   <tr>
     <td>iPad Air 10.5"</td>
     <td rowspan="2">2019</td>
-    <td rowspan="2">2 GB</td>
+    <td rowspan="2">3 GB</td>
     <td rowspan="2">A12 Bionic</td>
     <td rowspan="15">64-bit</td>
   </tr>
