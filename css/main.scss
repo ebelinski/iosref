@@ -3,13 +3,17 @@
 ---
 
 $primary: #337ab7 !default; // Override
+$primaryDark: #5ab6ff !default;
+$text: black;
+$textDark: white;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "bootstrap/bootstrap";
 @import "syntax-highlighting";
+@import "syntax-highlighting-dark";
 
 body {
-  font-size: 1.15em;
+  font-size: 1.15em; 
 }
 
 .container {
@@ -209,5 +213,63 @@ pre {
 @media screen and (min-width: 767px) {
   .nowrap {
     white-space: nowrap;
+  }
+}
+
+
+
+// TODO: Refactor this later
+@media (prefers-color-scheme: dark) {
+  body {
+    background: #222;
+    color: white;
+  }
+
+  a, a:hover {
+    color: $primaryDark;
+  }
+
+  #site-title {
+    border-color: $textDark;
+  }
+
+  #site-footer {
+    border-color: $textDark;
+  }
+
+  #markdown-toc {
+    background: #333;
+    border: 1px solid #999;
+  }
+
+  table th {
+    background: #333;
+  }
+
+  table th, table td {
+    border: 1px solid #999;
+  }
+
+  pre {
+    background-color: #333;
+    border: 1px solid #ccc;
+    color: white;
+  }
+
+  .with-placeholders {
+    .placeholder {
+      border: 1px solid #999;
+      background: #666;
+    }
+  }
+
+  table {
+    td.green {
+      background-color: #0d8321;
+    }
+
+    td.light-green {
+      background-color: #0d4d14;
+    }
   }
 }
