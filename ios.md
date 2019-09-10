@@ -26,10 +26,18 @@ redirect_from:
     <th>Max iOS</th>
   </tr>
   <tr>
+    <td>iPhone 11 Pro / 11 Pro Max</td>
+    <td rowspan="2">2019</td>
+    <td rowspan="2">13</td>
+    <td class="green" rowspan="9">13</td>
+  </tr>
+  <tr>
+    <td>iPhone 11</td>
+  </tr>
+  <tr>
     <td>iPhone XS / XS Max</td>
     <td rowspan="2">2018</td>
     <td rowspan="2">12</td>
-    <td class="green" rowspan="7">13</td>
   </tr>
   <tr>
     <td>iPhone XR</td>

@@ -25,11 +25,24 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
+    <td>iPhone 11 Pro Max</td>
+    <td rowspan="3">2019</td>
+    <td rowspan="2">?</td>
+    <td rowspan="3">A13 Bionic</td>
+    <td rowspan="17">64-bit</td>
+  </tr>
+  <tr>
+    <td>iPhone 11 Pro</td>
+  </tr>
+  <tr>
+    <td>iPhone 11</td>
+    <td rowspan="1">?</td>
+  </tr>
+  <tr>
     <td>iPhone XS Max</td>
     <td rowspan="3">2018</td>
     <td rowspan="2">4 GB</td>
     <td rowspan="3">A12 Bionic</td>
-    <td rowspan="14">64-bit</td>
   </tr>
   <tr>
     <td>iPhone XS</td>
