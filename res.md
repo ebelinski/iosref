@@ -182,7 +182,7 @@ redirect_from:
   <tr>
     <td>
       <span class="strong">Apple Watch 44mm</span><br>
-      <span class="soft">Series 4</span>
+      <span class="soft">Series 5, 4</span>
     </td>
     <td>368 × 448</td>
     <td>1.73"</td>
@@ -190,7 +190,7 @@ redirect_from:
   <tr>
     <td>
       <span class="strong">Apple Watch 40mm</span><br>
-      <span class="soft">Series 4</span>
+      <span class="soft">Series 5, 4</span>
     </td>
     <td>324 × 394</td>
     <td>1.57"</td>
