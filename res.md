@@ -120,9 +120,15 @@ redirect_from:
     <th>Diagonal size</th>
   </tr>
   <tr>
+    <td><span class="strong">iPad (gen 7)</span></td>
+    <td>810 × 1080</td>
+    <td rowspan="6">@2x</td>
+    <td>1620 × 2160</td>
+    <td>10.2"</td>
+  </tr>
+  <tr>
     <td><span class="strong">iPad Pro 12.9"</span></td>
     <td>1024 × 1366</td>
-    <td rowspan="5">@2x</td>
     <td>2048 × 2732</td>
     <td>12.9"</td>
   </tr>
