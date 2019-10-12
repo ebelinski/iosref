@@ -13,8 +13,11 @@ layout: default
 
 ### OS
 
-* [iOS version by device]({{ "/ios" | relative_url }}) &
-* [watchOS]({{ "/watchos" | relative_url }}), [tvOS]({{ "/tvos" | relative_url }}), [audioOS]({{ "/audioos" | relative_url }})
+* [iOS version by device]({{ "/ios" | relative_url }})
+* [iPadOS version by device]({{ "/ipados" | relative_url }})
+* [watchOS ver. by device]({{ "/watchos" | relative_url }})
+* [tvOS version by device]({{ "/tvos" | relative_url }})
+* [audioOS ver. by device]({{ "/audioos" | relative_url }})
 * [iOS adoption rates](https://developer.apple.com/support/app-store/)<sup class="ext">Ext</sup>
 
 ### Hardware
