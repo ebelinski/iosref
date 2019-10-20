@@ -30,7 +30,7 @@ layout: default
 ### Swift
 
 * [Swift versions]({{ "/swift" | relative_url }})
-* [Swift 4 cheatsheet]({{ "/swift-cheatsheet" | relative_url }})
+* [Swift 5 cheatsheet]({{ "/swift-cheatsheet" | relative_url }})
 * [All docs](https://swift.org/documentation/)<sup class="ext">Ext</sup>
 * [Swift Book](https://docs.swift.org/swift-book/)<sup class="ext">Ext</sup>
 
