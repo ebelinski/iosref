@@ -29,17 +29,23 @@ Last updated October 7, 2018. To use the Xcode download links, log into [develop
     <td>2019</td>
     <td>September 20</td>
     <td>
-      Xcode 11.0
+      <a href="https://download.developer.apple.com/Developer_Tools/Xcode_11/Xcode_11.xip">Xcode 11.0</a>, 
+      <a href="https://download.developer.apple.com/Developer_Tools/Xcode_11.1/Xcode_11.1.xip">Xcode 11.1</a>,
+      Xcode 11.2
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://swift.org/blog/swift-5-released/">Swift 5.0</a>
+      <a href="https://swift.org/blog/swift-5-released/">
+        <span class="strong">Swift 5.0</span>
+      </a>
     </td>
     <td>2019</td>
     <td>March 25</td>
     <td>
-      Xcode 10.2
+      <a href="https://download.developer.apple.com/Developer_Tools/Xcode_10.2/Xcode_10.2.xip">Xcode 10.2</a>,
+      <a href="https://download.developer.apple.com/Developer_Tools/Xcode_10.2.1/Xcode_10.2.1.xip">Xcode 10.2.1</a>, 
+      <a href="https://download.developer.apple.com/Developer_Tools/Xcode_10.3/Xcode_10.3.xip">Xcode 10.3</a>
     </td>
   </tr>
   <tr>
@@ -49,7 +55,8 @@ Last updated October 7, 2018. To use the Xcode download links, log into [develop
     <td rowspan="2">2018</td>
     <td>September 17</td>
     <td>
-      Xcode 10.0
+      <a href="https://download.developer.apple.com/Developer_Tools/Xcode_10/Xcode_10.xip">Xcode 10.0</a>,
+      <a href="https://download.developer.apple.com/Developer_Tools/Xcode_10.1/Xcode_10.1.xip">Xcode 10.1</a>
     </td>
   </tr>
   <tr>
