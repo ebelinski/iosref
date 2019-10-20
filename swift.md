@@ -12,7 +12,7 @@ redirect_from:
 {:toc}
 </div>
 
-Last updated October 7, 2018. To use the Xcode download links, log into [developer.apple.com](https://developer.apple.com/) first. Some Xcode versions are not available for download.
+Last updated October 20, 2019. To use the Xcode download links, log into [developer.apple.com](https://developer.apple.com/) first. Some Xcode versions are not available for download.
 
 ### Open source versions
 
