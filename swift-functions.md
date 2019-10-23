@@ -8,6 +8,9 @@ redirect_from:
 ---
 {::options parse_block_html="true" /}
 
+{:.alert.alert-warning}
+This page has moved to [swiftly.dev/functions](https://swiftly.dev/functions)! The archive below will not be updated.
+
 Functions are a special type of [closures]({{ "/swift-closures" | relative_url }}). Functions are first-class types, so a function can be passed in as a parameter to another function. Also, a function can return another function.
 
 * TOC

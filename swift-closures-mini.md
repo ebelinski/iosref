@@ -11,6 +11,9 @@ redirect_from:
   - /lambdas-mini/
 ---
 
+{:.alert.alert-warning}
+This page has moved to [swiftly.dev/closures-mini](https://swiftly.dev/closures-mini)! The archive below will not be updated.
+
 The mini version of the [closures guide]({{ "/swift-closures" | relative_url }}).
 
 ### Closure inline

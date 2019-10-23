@@ -6,6 +6,9 @@ redirect_from:
   - "dispatch"
 ---
 
+{:.alert.alert-warning}
+This page has moved to [swiftly.dev/dispatch](https://swiftly.dev/dispatch)! The archive below will not be updated.
+
 Dispatch is a framework that allows you to run code on different threads. By default, all code on iOS is run on the **main thread** (also known as the **UI thread**).
 
 * TOC

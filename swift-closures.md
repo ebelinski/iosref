@@ -12,6 +12,9 @@ redirect_from:
   - /lambdas/
 ---
 
+{:.alert.alert-warning}
+This page has moved to [swiftly.dev/closures](https://swiftly.dev/closures)! The archive below will not be updated.
+
 Swift closures are blocks of functionality that are self-contained, and can be passed around. They are similar to _blocks_ in C and Objective-C, as well as _lambdas_ in other languages. [Functions]({{ "/swift-functions" | relative_url }}) are a special type of closures.
 
 * TOC
