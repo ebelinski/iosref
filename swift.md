@@ -7,6 +7,9 @@ redirect_from:
 ---
 {::options parse_block_html="true" /}
 
+{:.alert.alert-warning}
+This page has moved to [swiftly.dev/swift-versions](https://swiftly.dev/swift-versions)! The archive below will not be updated.
+
 <div id="compact-toc">
 * TOC
 {:toc}
