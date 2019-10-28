@@ -29,11 +29,24 @@ redirect_from:
     <th><a href="https://developer.apple.com/ios/3d-touch/">3D Touch</a></th>
   </tr>
   <tr>
+    <td>iPhone 11 Pro Max</td>
+    <td rowspan="3">2018</td>
+    <td rowspan="2" class="green">OLED Retina</td>
+    <td rowspan="9" class="green">Yes</td>
+    <td rowspan="11" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
+    <td rowspan="3">No</td>
+  </tr>
+  <tr>
+    <td>iPhone 11 Pro</td>
+  </tr>
+  <tr>
+    <td>iPhone 11</td>
+    <td>LCD Retina</td>
+  </tr>
+  <tr>
     <td>iPhone XS Max</td>
     <td rowspan="3">2018</td>
     <td rowspan="2" class="green">OLED Retina</td>
-    <td rowspan="6" class="green">Yes</td>
-    <td rowspan="8" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
     <td rowspan="2" class="green">Yes</td>
   </tr>
   <tr>
