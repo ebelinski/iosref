@@ -26,6 +26,9 @@ redirect_from:
   </tr>
   <tr>
     <td>
+      iPhone 11 Pro<br>
+      iPhone 11 Pro Max<br>
+      iPhone 11<br>
       iPhone XS<br>
       iPhone XS Max<br>
       iPhone XR<br>
