@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Swift 4 guide: closures"
-description: A quick reference guide for closures in Swift 4, with inline closures, closures as variables, and closures as functions.
+title: "Swift 5.1 guide: closures"
+description: A quick reference guide for closures in Swift 5.1, with inline closures, closures as variables, and closures as functions.
 redirect_from: 
   - /closures/ 
   - /closure/
