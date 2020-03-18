@@ -17,10 +17,17 @@ Before iPadOS 13, iPadOS was known as iOS.
     <th>Max iPadOS</th>
   </tr>
   <tr>
+    <td>iPad Pro 12.9" (gen 4)</td>
+    <td rowspan="2">2020</td>
+    <td rowspan="3">13</td>
+    <td rowspan="14" class="green">13</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 11" (gen 2)</td>
+  </tr>
+  <tr>
     <td>iPad (gen 7)</td>
     <td rowspan="3">2019</td>
-    <td>13</td>
-    <td rowspan="12" class="green">13</td>
   </tr>
   <tr>
     <td>iPad Air 10.5"</td>
