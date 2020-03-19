@@ -151,7 +151,7 @@ redirect_from:
   <tr>
     <td>iPad Pro 12.9" (gen 3)</td>
     <td rowspan="2">2020</td>
-    <td rowspan="2">?</td>
+    <td rowspan="2">6 GB</td>
     <td rowspan="2">A12Z Bionic</td>
     <td rowspan="18">64-bit</td>
   </tr>
