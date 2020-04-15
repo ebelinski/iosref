@@ -29,17 +29,17 @@ layout: default
 
 ### Swift
 
-* [Swift versions](https://swiftly.dev/swift-versions/)
+* [Swift versions](https://swiftly.dev/swift-versions)
 * [Swift 5 cheatsheet]({{ "/swift-cheatsheet" | relative_url }})
 * [All docs](https://swift.org/documentation/)<sup class="ext">Ext</sup>
 * [Swift Book](https://docs.swift.org/swift-book/)<sup class="ext">Ext</sup>
 
 ### Swift guides
 
-* [Closures](https://swiftly.dev/closures/) ([mini](https://swiftly.dev/closures-mini/))
-* [Functions](https://swiftly.dev/functions/)
+* [Closures](https://swiftly.dev/closures) ([mini](https://swiftly.dev/closures-mini/))
+* [Functions](https://swiftly.dev/functions)
 * [Control flow]({{ "/swift-control-flow" | relative_url }})
-* [Dispatch](https://swiftly.dev/dispatch/)
+* [Dispatch](https://swiftly.dev/dispatch)
 
 ### Guides
 
