@@ -23,10 +23,14 @@ redirect_from:
     <th>Max iOS</th>
   </tr>
   <tr>
+    <td>iPhone SE (gen 2)</td>
+    <td>2020</td>
+    <td rowspan="3">13</td>
+    <td class="green" rowspan="10">13</td>
+  </tr>
+  <tr>
     <td>iPhone 11 Pro / 11 Pro Max</td>
     <td rowspan="2">2019</td>
-    <td rowspan="2">13</td>
-    <td class="green" rowspan="9">13</td>
   </tr>
   <tr>
     <td>iPhone 11</td>
@@ -53,7 +57,7 @@ redirect_from:
     <td>10</td>
   </tr>
   <tr>
-    <td>iPhone SE</td>
+    <td>iPhone SE (gen 1)</td>
     <td rowspan="2">9</td>
   </tr>
   <tr>

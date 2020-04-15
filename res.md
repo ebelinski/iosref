@@ -70,8 +70,8 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPhone 8</span><br>
-      <span class="soft">and 7, 6s, 6</span>
+      <span class="strong">iPhone SE (gen 2)</span><br>
+      <span class="soft">and 8, 7, 6s, 6</span>
     </td>
     <td>375 × 667</td>
     <td rowspan="3">@2x</td>
@@ -80,7 +80,7 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPhone SE</span><br>
+      <span class="strong">iPhone SE (gen 1)</span><br>
       <span class="soft">and 5s, 5c, 5</span>
     </td>
     <td>320 × 568</td>
