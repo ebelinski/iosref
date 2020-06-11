@@ -29,12 +29,17 @@ redirect_from:
     <th><a href="https://developer.apple.com/ios/3d-touch/">3D Touch</a></th>
   </tr>
   <tr>
+    <td>iPhone SE (gen 2)</td>
+    <td>2020</td>
+    <td>LCD Retina</td>
+    <td rowspan="10" class="green">Yes</td>
+    <td rowspan="12" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
+    <td rowspan="4">No</td>
+  </tr>
+  <tr>
     <td>iPhone 11 Pro Max</td>
     <td rowspan="3">2019</td>
     <td rowspan="2" class="green">OLED Retina</td>
-    <td rowspan="9" class="green">Yes</td>
-    <td rowspan="11" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
-    <td rowspan="3">No</td>
   </tr>
   <tr>
     <td>iPhone 11 Pro</td>
@@ -79,7 +84,7 @@ redirect_from:
     <td>iPhone 7</td>
   </tr>
   <tr>
-    <td>iPhone SE</td>
+    <td>iPhone SE (gen 1)</td>
     <td rowspan="13">Full sRGB standard</td>
     <td>No</td>
   </tr>
