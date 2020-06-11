@@ -277,9 +277,14 @@ redirect_from:
     <th>Processor</th>
   </tr>
   <tr>
-    <td>Series 4</td>
+    <td>Series 5</td>
     <td>2019</td>
-    <td>1 GB</td>
+    <td rowspan="2">1 GB</td>
+    <td>S5</td>
+  </tr>
+  <tr>
+    <td>Series 4</td>
+    <td>2018</td>
     <td>S4</td>
   </tr>
   <tr>
@@ -320,11 +325,17 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
+    <td>iPod touch (gen 7)</td>
+    <td>2019</td>
+    <td>2 GB</td>
+    <td>A10 Fusion</td>
+    <td rowspan="2">64-bit</td>
+  </tr>
+  <tr>
     <td>iPod touch (gen 6)</td>
     <td>2015</td>
     <td>1 GB</td>
     <td>A8</td>
-    <td>64-bit</td>
   </tr>
   <tr>
     <td>iPod touch (gen 5)</td>
