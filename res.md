@@ -259,9 +259,9 @@ redirect_from:
       <span class="strong">iPod touch (gen 3)</span><br>
       <span class="soft">and gen 2, gen 1</span>
     </td>
-    <td>320 × 480</td>
     <td>iPhone 3GS, 3G, gen 1</td>
     <td>@1x</td>
+    <td>320 × 480</td>
   </tr>
 </table>
 
