@@ -7,6 +7,8 @@ redirect_from:
 ---
 {::options parse_block_html="true" /}
 
+Visit [Swiftly](https://swiftly.dev/) for more Swift guides.
+
 {% include opencol.html size=6 newrow=true %}
 
 ### Constants
