@@ -275,12 +275,14 @@ redirect_from:
     <th>Released</th>
     <th>RAM</th>
     <th>Processor</th>
+    <th>Data width</th>
   </tr>
   <tr>
     <td>Series 5</td>
     <td>2019</td>
     <td rowspan="2">1 GB</td>
     <td>S5</td>
+    <td rowspan="2">64-bit</td>
   </tr>
   <tr>
     <td>Series 4</td>
@@ -290,8 +292,9 @@ redirect_from:
   <tr>
     <td>Series 3</td>
     <td>2017</td>
-    <td>768 MB<sup>2</sup></td>
+    <td>768 MB</td>
     <td>S3</td>
+    <td rowspan="4">32-bit</td>
   </tr>
   <tr>
     <td>Series 2</td>
