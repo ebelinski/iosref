@@ -27,13 +27,14 @@ redirect_from:
   <tr>
     <td>iPhone SE (gen 2)</td>
     <td>2020</td>
-    <td rowspan="4">?</td>
+    <td>3 GB</td>
     <td rowspan="4">A13 Bionic</td>
     <td rowspan="18">64-bit</td>
   </tr>
   <tr>
     <td>iPhone 11 Pro Max</td>
     <td rowspan="3">2019</td>
+    <td rowspan="5">4 GB</td>
   </tr>
   <tr>
     <td>iPhone 11 Pro</td>
@@ -44,7 +45,6 @@ redirect_from:
   <tr>
     <td>iPhone XS Max</td>
     <td rowspan="3">2018</td>
-    <td rowspan="2">4 GB</td>
     <td rowspan="3">A12 Bionic</td>
   </tr>
   <tr>
