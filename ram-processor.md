@@ -159,7 +159,7 @@ redirect_from:
     <td rowspan="18">64-bit</td>
   </tr>
   <tr>
-    <td>iPad Pro 11"</td>
+    <td>iPad Pro 11" (gen 2)</td>
   </tr>
   <tr>
     <td>iPad (gen 7)</td>
@@ -181,7 +181,7 @@ redirect_from:
     <td rowspan="2">A12X Bionic</td>
   </tr>
   <tr>
-    <td>iPad Pro 11"</td>
+    <td>iPad Pro 11" (gen 1)</td>
   </tr>
   <tr>
     <td>iPad (gen 6)</td>

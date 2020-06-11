@@ -152,8 +152,38 @@ redirect_from:
     <th>Hardware strings</th>
   </tr>
   <tr>
+    <td>iPad Pro 12.9" (gen 3)</td>
+    <td rowspan="2">2020</td>
+    <td>iPad8,11<br>iPad8,12</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 11" (gen 2)</td>
+    <td>iPad8,9<br>iPad8,10</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 7)</td>
+    <td rowspan="3">2019</td>
+    <td>iPad7,11<br>iPad7,12</td>
+  </tr>
+  <tr>
+    <td>iPad Air 10.5"</td>
+    <td>iPad11,3<br>iPad11,4</td>
+  </tr>
+  <tr>
+    <td>iPad mini (gen 5)</td>
+    <td>iPad11,1<br>iPad11,2</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 12.9" (gen 3)</td>
+    <td rowspan="3">2018</td>
+    <td>iPad8,5<br>iPad8,6<br>iPad8,7<br>iPad8,8</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 11" (gen 1)</td>
+    <td>iPad8,1<br>iPad8,2<br>iPad8,3<br>iPad8,4</td>
+  </tr>
+  <tr>
     <td>iPad (gen 6)</td>
-    <td>2018</td>
     <td>iPad7,5<br>iPad7,6</td>
   </tr>
   <tr>

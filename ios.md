@@ -154,7 +154,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td rowspan="3">2018</td>
   </tr>
   <tr>
-    <td>iPad Pro 11"</td>
+    <td>iPad Pro 11" (gen 1)</td>
   </tr>
   <tr>
     <td>iPad (gen 6)</td>
