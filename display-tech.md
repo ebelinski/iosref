@@ -158,7 +158,7 @@ redirect_from:
     <td rowspan="2" class="green">Yes</td>
     <td rowspan="2" class="green">Yes</td>
     <td rowspan="2" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
-    <td rowspan="2" class="green">Yes (gen 2)</td>
+    <td rowspan="2" class="green">Pencil 2</td>
   </tr>
   <tr>
     <td>iPad Pro 11" (gen 2)</td>
@@ -169,7 +169,7 @@ redirect_from:
     <td rowspan="3">No</td>
     <td>No</td>
     <td>Full sRGB standard</td>
-    <td rowspan="3" class="green">Yes</td>
+    <td rowspan="3" class="green">Pencil 1</td>
   </tr>
   <tr>
     <td>iPad Air 10.5"</td>
@@ -183,7 +183,7 @@ redirect_from:
     <td>iPad Pro 12.9" (gen 3)</td>
     <td rowspan="3">2018</td>
     <td rowspan="2" class="green">Yes</td>
-    <td rowspan="2" class="green">Yes (gen 2)</td>
+    <td rowspan="2" class="green">Pencil 2</td>
   </tr>
   <tr>
     <td>iPad Pro 11" (gen 1)</td>
@@ -193,7 +193,7 @@ redirect_from:
     <td>No</td>
     <td>No</td>
     <td>Full sRGB standard</td>
-    <td rowspan="3" class="green">Yes</td>
+    <td rowspan="3" class="green">Pencil 1</td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 2)</td>
@@ -210,14 +210,14 @@ redirect_from:
     <td rowspan="13">No</td>
     <td>No</td>
     <td>Full sRGB standard</td>
-    <td>No</td>
+    <td>None</td>
   </tr>
   <tr>
     <td>iPad Pro 9.7"</td>
     <td>2016</td>
     <td class="green">Yes</td>
     <td class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
-    <td rowspan="2" class="green">Yes</td>
+    <td rowspan="2" class="green">Pencil 1</td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 1)</td>
