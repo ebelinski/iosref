@@ -30,7 +30,7 @@ redirect_from:
   </tr>
   <tr>
     <td>iPhone 11 Pro Max</td>
-    <td rowspan="3">2018</td>
+    <td rowspan="3">2019</td>
     <td rowspan="2" class="green">OLED Retina</td>
     <td rowspan="9" class="green">Yes</td>
     <td rowspan="11" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
