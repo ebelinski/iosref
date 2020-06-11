@@ -27,6 +27,24 @@ redirect_from:
     <th>Hardware strings</th>
   </tr>
   <tr>
+    <td>iPhone SE (gen 2)</td>
+    <td>2020</td>
+    <td>iPhone12,8</td>
+  </tr>
+  <tr>
+    <td>iPhone 11 Pro Max</td>
+    <td rowspan="3">2019</td>
+    <td>iPhone12,5</td>
+  </tr>
+  <tr>
+    <td>iPhone 11 Pro</td>
+    <td>iPhone12,3</td>
+  </tr>
+  <tr>
+    <td>iPhone 11</td>
+    <td>iPhone12,1</td>
+  </tr>
+  <tr>
     <td>iPhone XS Max</td>
     <td rowspan="3">2018</td>
     <td>iPhone11,6<br>iPhone11,4</td>
@@ -62,7 +80,7 @@ redirect_from:
     <td>iPhone9,1<br>iPhone9,3</td>
   </tr>
   <tr>
-    <td>iPhone SE</td>
+    <td>iPhone SE (gen 1)</td>
     <td>iPhone8,4</td>
   </tr>
   <tr>
