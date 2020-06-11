@@ -153,8 +153,8 @@ redirect_from:
   </tr>
   <tr>
     <td>iPad (gen 7)</td>
-    <td rowspan="17">LCD Retina</td>
     <td rowspan="3">2019</td>
+    <td rowspan="17">LCD Retina</td>
     <td rowspan="3">No</td>
     <td rowspan="5" class="green">Yes</td>
     <td rowspan="5" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
