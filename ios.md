@@ -7,6 +7,8 @@ redirect_from:
   - /ios-ver/
 ---
 
+{% include wwdc2020outdated.html %}
+
 These tables show the first and maximum version of iOS or iPadOS for each iPhone, iPad, and iPod touch. Only major versions (i.e. iOS 13) are shown, not point releases (i.e. iOS 13.5.1).
 
 {::options parse_block_html="true" /}

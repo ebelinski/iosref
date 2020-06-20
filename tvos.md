@@ -7,6 +7,8 @@ redirect_from:
   - /tvos-ver/
 ---
 
+{% include wwdc2020outdated.html %}
+
 tvOS is an iOS-based operating system for Apple TV.
 
 ### Apple TV with tvOS

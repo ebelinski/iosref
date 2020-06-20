@@ -7,6 +7,8 @@ redirect_from:
   - /audioos-ver/
 ---
 
+{% include wwdc2020outdated.html %}
+
 ### HomePod
 
 <table>

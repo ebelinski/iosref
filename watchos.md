@@ -7,6 +7,8 @@ redirect_from:
   - /watcos-ver/
 ---
 
+{% include wwdc2020outdated.html %}
+
 ### Apple Watch
 
 <table>
