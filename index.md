@@ -59,6 +59,7 @@ layout: default
 
 * [All docs](https://developer.apple.com/documentation/)<sup class="ext">Ext</sup>
 * HIG: [iOS](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/) & [watchOS](https://developer.apple.com/watchos/human-interface-guidelines/overview/themes/)<sup class="ext">Ext</sup>
+* [iOS and iPadOS Usage](https://developer.apple.com/support/app-store/)<sup class="ext">Ext</sup>
 
 ### App Store
 
