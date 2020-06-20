@@ -20,3 +20,8 @@ permalink: pretty
 
 plugins:
   - jekyll-redirect-from
+
+collections:
+  subpages:
+    output: true
+    permalink: /:name
