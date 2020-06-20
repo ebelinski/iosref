@@ -7,8 +7,6 @@ redirect_from:
   - /tvos-ver/
 ---
 
-{% include wwdc2019outdated.html %}
-
 tvOS is an iOS-based operating system for Apple TV.
 
 ### Apple TV with tvOS
@@ -24,7 +22,7 @@ tvOS is an iOS-based operating system for Apple TV.
     <td>Apple TV 4K</td>
     <td>2017</td>
     <td>11</td>
-    <td rowspan="2" class="green">12</td>
+    <td rowspan="2" class="green">13</td>
   </tr>
   <tr>
     <td>Apple TV (gen 4)</td>
