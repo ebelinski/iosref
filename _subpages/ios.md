@@ -7,8 +7,6 @@ redirect_from:
   - /ios-ver/
 ---
 
-{% include wwdc2020outdated.html %}
-
 These tables show the first and maximum version of iOS or iPadOS for each iPhone, iPad, and iPod touch. Only major versions (i.e. iOS 13) are shown, not point releases (i.e. iOS 13.5.1).
 
 {::options parse_block_html="true" /}
@@ -30,7 +28,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td>iPhone SE (gen 2)</td>
     <td>2020</td>
     <td rowspan="3">13</td>
-    <td class="green" rowspan="10">13</td>
+    <td class="green" rowspan="10">14<sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>iPhone 11 Pro / 11 Pro Max</td>
@@ -72,7 +70,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td>iPhone 6 / 6 Plus</td>
     <td>2014</td>
     <td>8</td>
-    <td class="light-green" rowspan="2">12</td>
+    <td rowspan="2">12</td>
   </tr>
   <tr>
     <td>iPhone 5s</td>
@@ -135,7 +133,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPad Pro 12.9" (gen 4)</td>
     <td rowspan="2">2020</td>
     <td rowspan="3">13</td>
-    <td rowspan="14" class="green">13</td>
+    <td rowspan="14" class="green">14<sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>iPad Pro 11" (gen 2)</td>
@@ -189,17 +187,17 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPad mini 3</td>
     <td rowspan="2">2014</td>
     <td rowspan="2">8</td>
-    <td class="light-green">12</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>iPad Air 2</td>
-    <td class="green">13</td>
+    <td class="green">14<sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>iPad mini 2</td>
     <td rowspan="2">2013</td>
     <td rowspan="2">7</td>
-    <td rowspan="2" class="light-green">12</td>
+    <td rowspan="2">12</td>
   </tr>
   <tr>
     <td>iPad Air (gen 1)</td>
@@ -244,13 +242,13 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPod touch (gen 7)</td>
     <td>2019</td>
     <td>12</td>
-    <td class="green">13</td>
+    <td class="green">14<sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>iPod touch (gen 6)</td>
     <td>2015</td>
     <td>8</td>
-    <td class="light-green">12</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>iPod touch (gen 5)</td>

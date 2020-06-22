@@ -20,7 +20,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPad Pro 12.9" (gen 4)</td>
     <td rowspan="2">2020</td>
     <td rowspan="3">13</td>
-    <td rowspan="14" class="green">13</td>
+    <td rowspan="14" class="green">14<sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>iPad Pro 11" (gen 2)</td>
@@ -41,7 +41,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td rowspan="3">2018</td>
   </tr>
   <tr>
-    <td>iPad Pro 11"</td>
+    <td>iPad Pro 11" (gen 1)</td>
   </tr>
   <tr>
     <td>iPad (gen 6)</td>
@@ -74,17 +74,17 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPad mini 3</td>
     <td rowspan="2">2014</td>
     <td rowspan="2">8</td>
-    <td class="light-green">12</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>iPad Air 2</td>
-    <td class="green">13</td>
+    <td class="green">14<sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>iPad mini 2</td>
     <td rowspan="2">2013</td>
     <td rowspan="2">7</td>
-    <td rowspan="2" class="light-green">12</td>
+    <td rowspan="2">12</td>
   </tr>
   <tr>
     <td>iPad Air (gen 1)</td>
