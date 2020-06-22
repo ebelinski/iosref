@@ -7,13 +7,9 @@ redirect_from:
   - /watcos-ver/
 ---
 
-{% include wwdc2020outdated.html %}
-
-### Apple Watch
-
 <table>
   <tr>
-    <th>Device</th>
+    <th>Apple Watch</th>
     <th>Released</th>
     <th>First watchOS</th>
     <th>Max watchOS</th>
@@ -22,7 +18,7 @@ redirect_from:
     <td>Series 5</td>
     <td>2019</td>
     <td>6</td>
-    <td rowspan="5" class="green">6</td>
+    <td rowspan="3" class="green">7<sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>Series 4</td>
@@ -38,6 +34,7 @@ redirect_from:
     <td>Series 2</td>
     <td rowspan="2">2016</td>
     <td rowspan="2">3</td>
+    <td rowspan="2" class="light-green">6</td>
   </tr>
   <tr>
     <td>Series 1</td>
