@@ -152,9 +152,22 @@ redirect_from:
     <th>Pencil support</th>
   </tr>
   <tr>
+    <td>iPad Air (gen 4)</td>
+    <td rowspan="4">2020</td>
+    <td rowspan="21">LCD Retina</td>
+    <td rowspan="2">No</td>
+    <td class="green">Yes</td>
+    <td class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
+    <td class="green">Pencil 2</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 8)</td>
+    <td>No</td>
+    <td>Full sRGB standard</td>
+    <td class="light-green">Pencil 1</td>
+  </tr>
+  <tr>
     <td>iPad Pro 12.9" (gen 4)</td>
-    <td rowspan="2">2020</td>
-    <td rowspan="19">LCD Retina</td>
     <td rowspan="2" class="green">Yes</td>
     <td rowspan="2" class="green">Yes</td>
     <td rowspan="2" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
@@ -169,7 +182,7 @@ redirect_from:
     <td rowspan="3">No</td>
     <td>No</td>
     <td>Full sRGB standard</td>
-    <td rowspan="3" class="green">Pencil 1</td>
+    <td rowspan="3" class="light-green">Pencil 1</td>
   </tr>
   <tr>
     <td>iPad Air 10.5"</td>
@@ -193,7 +206,7 @@ redirect_from:
     <td>No</td>
     <td>No</td>
     <td>Full sRGB standard</td>
-    <td rowspan="3" class="green">Pencil 1</td>
+    <td rowspan="3" class="light-green">Pencil 1</td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 2)</td>
@@ -217,7 +230,7 @@ redirect_from:
     <td>2016</td>
     <td class="green">Yes</td>
     <td class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
-    <td rowspan="2" class="green">Pencil 1</td>
+    <td rowspan="2" class="light-green">Pencil 1</td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 1)</td>
@@ -227,7 +240,7 @@ redirect_from:
   </tr>
   <tr>
     <td>iPad mini 4</td>
-    <td rowspan="10">No</td>
+    <td rowspan="10">None</td>
   </tr>
   <tr>
     <td>iPad mini 3</td>
