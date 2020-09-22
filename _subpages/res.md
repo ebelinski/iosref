@@ -126,7 +126,7 @@ redirect_from:
     </td>
     <td>12.9"</td>
     <td>1024 × 1366</td>
-    <td rowspan="6">@2x</td>
+    <td rowspan="7">@2x</td>
     <td>2048 × 2732</td>
   </tr>
   <tr>
@@ -139,14 +139,23 @@ redirect_from:
     <td>1668 × 2388</td>
   </tr>
   <tr>
-    <td><span class="strong">iPad (gen 7)</span></td>
+    <td><span class="strong">iPad Air (gen 4)</span></td>
+    <td>10.9"</td>
+    <td>820 × 1180</td>
+    <td>1640 × 2360</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="strong">iPad (gen 8)</span><br>
+      <span class="soft">and iPad (gen 7)</span>
+    </td>
     <td>10.2"</td>
     <td>810 × 1080</td>
     <td>1620 × 2160</td>
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad Air 10.5"</span><br>
+      <span class="strong">iPad Air (gen 3)</span><br>
       <span class="soft">and iPad Pro 10.5"</span>
     </td>
     <td>10.5"</td>
