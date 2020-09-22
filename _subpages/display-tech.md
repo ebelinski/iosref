@@ -273,13 +273,30 @@ redirect_from:
     <th>Device</th>
     <th>Released</th>
     <th>Display type</th>
+    <th>Always-on display</th>
     <th><a href="https://developer.apple.com/library/content/documentation/General/Conceptual/WatchKitProgrammingGuide/Menus.html">Force Touch</a></th>
+  </tr>
+  <tr>
+    <td>Series 6</td>
+    <td rowspan="2">2020</td>
+    <td rowspan="8">OLED Retina</td>
+    <td class="green">Yes</td>
+    <td rowspan="2">No</td>
+  </tr>
+  <tr>
+    <td>SE</td>
+    <td>No</td>
+  </tr>
+  <tr>
+    <td>Series 5</td>
+    <td>2019</td>
+    <td class="green">Yes</td>
+    <td rowspan="6" class="green">Yes</td>
   </tr>
   <tr>
     <td>Series 4</td>
     <td>2018</td>
-    <td rowspan="5">OLED Retina</td>
-    <td rowspan="5">Yes</td>
+    <td rowspan="5">No</td>
   </tr>
   <tr>
     <td>Series 3</td>
