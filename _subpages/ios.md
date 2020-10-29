@@ -25,10 +25,17 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <th>Max iOS</th>
   </tr>
   <tr>
+    <td>iPhone 12 Pro / 12 Pro Max</td>
+    <td rowspan="3">2020</td>
+    <td rowspan="2">14</td>
+    <td class="green" rowspan="12">14</td>
+  </tr>
+  <tr>
+    <td>iPhone 12 / 12 mini</td>
+  </tr>
+  <tr>
     <td>iPhone SE (gen 2)</td>
-    <td>2020</td>
     <td rowspan="3">13</td>
-    <td class="green" rowspan="10">14</td>
   </tr>
   <tr>
     <td>iPhone 11 Pro / 11 Pro Max</td>
