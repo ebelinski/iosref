@@ -31,12 +31,36 @@ redirect_from:
   </tr>
   <tr>
     <td>
+      <span class="strong">iPhone 12 Pro Max</span>
+    </td>
+    <td>6.7"</td>
+    <td>428 × 926</td>
+    <td rowspan="5">@3x</td>
+    <td>1284 × 2778</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="strong">iPhone 12 / 12 Pro</span>
+    </td>
+    <td>6.1"</td>
+    <td>390 × 844</td>
+    <td>1170 × 2532</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="strong">iPhone 12 mini</span>
+    </td>
+    <td>5.4"</td>
+    <td>360 × 780</td>
+    <td>1080 × 2340</td>
+  </tr>
+  <tr>
+    <td>
       <span class="strong">iPhone 11 Pro Max</span><br>
       <span class="soft">and XS Max</span>
     </td>
     <td>6.5"</td>
     <td>414 × 896</td>
-    <td rowspan="2">@3x</td>
     <td>1242 × 2688</td>
   </tr>
   <tr>
