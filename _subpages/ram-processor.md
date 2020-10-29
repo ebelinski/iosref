@@ -25,11 +25,26 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
+    <td>iPhone 12 Pro Max</td>
+    <td rowspan="5">2020</td>
+    <td rowspan="2">6 GB</td>
+    <td rowspan="4">A14 Bionic</td>
+    <td rowspan="22">64-bit</td>
+  </tr>
+  <tr>
+    <td>iPhone 12 Pro</td>
+  </tr>
+  <tr>
+    <td>iPhone 12</td>
+    <td rowspan="2">4 GB</td>
+  </tr>
+  <tr>
+    <td>iPhone 12 mini</td>
+  </tr>
+  <tr>
     <td>iPhone SE (gen 2)</td>
-    <td>2020</td>
     <td>3 GB</td>
     <td rowspan="4">A13 Bionic</td>
-    <td rowspan="18">64-bit</td>
   </tr>
   <tr>
     <td>iPhone 11 Pro Max</td>
@@ -152,11 +167,16 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
+    <td>iPad Air (gen 4)</td>
+    <td rowspan="3">2020</td>
+    <td>4 GB</td>
+    <td>A14 Bionic</td>
+    <td rowspan="19">64-bit</td>
+  </tr>
+  <tr>
     <td>iPad Pro 12.9" (gen 3)</td>
-    <td rowspan="2">2020</td>
     <td rowspan="2">6 GB</td>
     <td rowspan="2">A12Z Bionic</td>
-    <td rowspan="18">64-bit</td>
   </tr>
   <tr>
     <td>iPad Pro 11" (gen 2)</td>
@@ -168,7 +188,7 @@ redirect_from:
     <td>A10 Fusion</td>
   </tr>
   <tr>
-    <td>iPad Air 10.5"</td>
+    <td>iPad Air (gen 3)</td>
     <td rowspan="2">A12 Bionic</td>
   </tr>
   <tr>
