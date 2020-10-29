@@ -28,6 +28,7 @@ redirect_from:
     <th>Logical resolution</th>
     <th>Scale factor</th>
     <th>Actual resolution</th>
+    <th>PPI</th>
   </tr>
   <tr>
     <td>
@@ -37,6 +38,7 @@ redirect_from:
     <td>428 × 926</td>
     <td rowspan="5">@3x</td>
     <td>1284 × 2778</td>
+    <td>458</td>
   </tr>
   <tr>
     <td>
@@ -45,6 +47,7 @@ redirect_from:
     <td>6.1"</td>
     <td>390 × 844</td>
     <td>1170 × 2532</td>
+    <td>460</td>
   </tr>
   <tr>
     <td>
@@ -53,6 +56,7 @@ redirect_from:
     <td>5.4"</td>
     <td>360 × 780</td>
     <td>1080 × 2340</td>
+    <td>476</td>
   </tr>
   <tr>
     <td>
@@ -62,6 +66,7 @@ redirect_from:
     <td>6.5"</td>
     <td>414 × 896</td>
     <td>1242 × 2688</td>
+    <td rowspan="2">458</td>
   </tr>
   <tr>
     <td>
@@ -81,6 +86,7 @@ redirect_from:
     <td>414 × 896</td>
     <td>@2x</td>
     <td>828 × 1792</td>
+    <td>326</td>
   </tr>
   <tr>
     <td class="nowrap">
@@ -91,6 +97,7 @@ redirect_from:
     <td>414 × 736</td>
     <td>@3x <sup>1</sup></td>
     <td>1242 × 2208 <sup>1</sup></td>
+    <td>401</td>
   </tr>
   <tr>
     <td>
@@ -101,6 +108,7 @@ redirect_from:
     <td>375 × 667</td>
     <td rowspan="3">@2x</td>
     <td>750 × 1334</td>
+    <td rowspan="3">326</td>
   </tr>
   <tr>
     <td>
@@ -128,6 +136,7 @@ redirect_from:
     <td>320 × 480</td>
     <td>@1x</td>
     <td>320 × 480</td>
+    <td>163</td>
   </tr>
 </table>
 
@@ -142,6 +151,7 @@ redirect_from:
     <th>Logical resolution</th>
     <th>Scale factor</th>
     <th>Actual resolution</th>
+    <th>PPI</th>
   </tr>
   <tr>
     <td>
@@ -152,6 +162,7 @@ redirect_from:
     <td>1024 × 1366</td>
     <td rowspan="7">@2x</td>
     <td>2048 × 2732</td>
+    <td rowspan="6">264</td>
   </tr>
   <tr>
     <td>
@@ -201,11 +212,13 @@ redirect_from:
       <span class="soft">and mini 4, mini 3, mini 2</span>
     </td>
     <td rowspan="2">7.9"</td>
+    <td>326</td>
   </tr>
   <tr>
     <td><span class="strong">iPad mini (gen 1)</span></td>
     <td rowspan="2">@1x</td>
     <td rowspan="2">768 × 1024</td>
+    <td>163</td>
   </tr>
   <tr>
     <td>
@@ -213,6 +226,7 @@ redirect_from:
       <span class="soft">and iPad (gen 1)</span>
     </td>
     <td>9.7"</td>
+    <td>132</td>
   </tr>
 </table>
 
