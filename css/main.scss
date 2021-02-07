@@ -128,10 +128,6 @@ ul {
 
   #results {
     display: none; /* Overridden by JS */
-    
-    pre {
-      font-size: 0.7em !important;
-    }
   }
 
   #input-container {
@@ -149,7 +145,7 @@ ul {
 
   .btn {
     float: right;
-    padding: 8.5px 15px;
+    padding: 7.5px 14px;
     margin: 0px 0px 10px 5px;
   }
 
@@ -160,6 +156,18 @@ ul {
     border-radius: 1em;
     border: 1px solid white;
     margin: -0.5em 0.5em;
+  }
+  
+  pre {
+    font-size: 0.7em !important;
+  }
+  
+  h3, h4 {
+    padding: 0.2em 0em;
+  }
+  
+  h4 {
+    font-weight: normal;
   }
 
   @media screen and (max-width: 767px) {
