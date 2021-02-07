@@ -20,11 +20,11 @@ function processValue(value) {
   const hexLowercased = hexWithoutHash.toLowerCase();
   const hexFullLength = fullLengthValue(hexLowercased);
 
-  const red = getColorValue(hexFullLength[0]+hexFullLength[1]);
-  const grn = getColorValue(hexFullLength[2]+hexFullLength[3]);
-  const blu = getColorValue(hexFullLength[4]+hexFullLength[5]);
+  const red = getColorFraction(hexFullLength[0]+hexFullLength[1]);
+  const grn = getColorFraction(hexFullLength[2]+hexFullLength[3]);
+  const blu = getColorFraction(hexFullLength[4]+hexFullLength[5]);
 
-  if (isNaN(red) || isNaN(grn) || isNaN(blu)) {
+  if (red == null || grn == null || blu == null) {
     clearResults();
     return;
   }
@@ -79,10 +79,17 @@ function clearResults() {
   $(".color-preview.active").css("background-color", "white");
 }
 
-function getColorValue(hex) {
-  const colorValue = parseInt(hex, 16);
-  const colorValueFraction = colorValue / 255;
-  const colorValueFractionRounded = Math.round(colorValueFraction * 1000) / 1000;
-
-  return colorValueFractionRounded;
+/// Converts a hexadecimal value to integer. (E.g. F1 to 241)
+///
+/// - Parameter hex: A string containing a hexadecimal value.
+///
+/// - Returns: A string containing the integer value as a fraction (e.g. 23/255)
+function getColorFraction(hex) {
+  const parsedInt = parseInt(hex, 16);
+  
+  if (parsedInt < 0 || parsedInt > 255) {
+    return null;
+  }
+  
+  return `${parsedInt}/255`
 }
