@@ -87,7 +87,7 @@ function clearResults() {
 function getColorFraction(hex) {
   const parsedInt = parseInt(hex, 16);
   
-  if (parsedInt < 0 || parsedInt > 255) {
+  if (isNaN(parsedInt) || parsedInt < 0 || parsedInt > 255) {
     return null;
   }
   
