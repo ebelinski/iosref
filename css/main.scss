@@ -127,7 +127,11 @@ ul {
   width: 100%;
 
   #results {
-    display: none;
+    display: none; /* Overridden by JS */
+    
+    pre {
+      font-size: 0.7em !important;
+    }
   }
 
   #input-container {

@@ -71,9 +71,6 @@ function fullLengthValue(value) {
 
 function clearResults() {
   $("#results").hide();
-  $("#swift-code").html("");
-  $("#objective-c-code").html("");
-  $("#c-sharp-code").html("");
 
   $(".color-preview.active").css("border-color", "white");
   $(".color-preview.active").css("background-color", "white");
