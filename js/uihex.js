@@ -22,14 +22,10 @@ function processValue(value) {
   const hexFullLength = fullLengthValueForAnalyzing(hexLowercased);
   const hexFullLengthForDisplay = hexLowercased;
 
-  const red = getColorFraction(hexFullLength[0]+hexFullLength[1]);
-  const grn = getColorFraction(hexFullLength[2]+hexFullLength[3]);
-  const blu = getColorFraction(hexFullLength[4]+hexFullLength[5]);
-  
-  var alp = getColorFraction(hexFullLength[6]+hexFullLength[7]);
-  if (alp == "255/255") {
-    alp = "1"
-  }
+  const red = getColorInt(hexFullLength[0]+hexFullLength[1]);
+  const grn = getColorInt(hexFullLength[2]+hexFullLength[3]);
+  const blu = getColorInt(hexFullLength[4]+hexFullLength[5]);
+  const alp = getColorInt(hexFullLength[6]+hexFullLength[7]);
 
   if (red == null || grn == null || blu == null || alp == null) {
     clearResults();
@@ -104,4 +100,22 @@ function getColorFraction(hex) {
   }
   
   return `${parsedInt}/255`
+}
+
+/// Converts a hexadecimal value to integer. (E.g. F1 to 241)
+///
+/// - Parameter hex: A string containing a hexadecimal value.
+///
+/// - Returns: A string containing the decimal value.
+function getColorInt(hex) {
+  const colorValue = parseInt(hex, 16);
+  
+  if (colorValue < 0 || colorValue > 255) {
+    return null;
+  }
+  
+  const colorValueFraction = colorValue / 255;
+  const colorValueFractionRounded = Math.round(colorValueFraction * 1000) / 1000;
+
+  return colorValueFractionRounded;
 }
