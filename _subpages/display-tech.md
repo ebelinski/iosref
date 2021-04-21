@@ -165,22 +165,33 @@ redirect_from:
     <th>Pencil support</th>
   </tr>
   <tr>
+    <td>iPad Pro 12.9" (gen 5)</td>
+    <td rowspan="2">2021</td>
+    <td>Liquid Retina XDR</td>
+    <td rowspan="2" class="green">Yes</td>
+    <td rowspan="3" class="green">Yes</td>
+    <td rowspan="3" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
+    <td rowspan="3" class="green">Pencil 2</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 11" (gen 3)</td>
+    <td rowspan="2">Liquid Retina</td>
+  </tr>
+  <tr>
     <td>iPad Air (gen 4)</td>
     <td rowspan="4">2020</td>
-    <td rowspan="21">LCD Retina</td>
     <td rowspan="2">No</td>
-    <td class="green">Yes</td>
-    <td class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
-    <td class="green">Pencil 2</td>
   </tr>
   <tr>
     <td>iPad (gen 8)</td>
+    <td>Retina</td>
     <td>No</td>
     <td>Full sRGB standard</td>
     <td class="light-green">Pencil 1</td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 4)</td>
+    <td rowspan="2">Liquid Retina</td>
     <td rowspan="2" class="green">Yes</td>
     <td rowspan="2" class="green">Yes</td>
     <td rowspan="2" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
@@ -191,6 +202,7 @@ redirect_from:
   </tr>
   <tr>
     <td>iPad (gen 7)</td>
+    <td rowspan="3">Retina</td>
     <td rowspan="3">2019</td>
     <td rowspan="3">No</td>
     <td>No</td>
@@ -224,6 +236,7 @@ redirect_from:
   <tr>
     <td>iPad Pro 12.9" (gen 2)</td>
     <td rowspan="3">2017</td>
+    <td rowspan="2">Liquid Retina</td>
     <td rowspan="2" class="green">Yes</td>
     <td rowspan="2" class="green">Yes</td>
     <td rowspan="2" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
@@ -233,6 +246,7 @@ redirect_from:
   </tr>
   <tr>
     <td>iPad (gen 5)</td>
+    <td rowspan="9">Retina</td>
     <td rowspan="13">No</td>
     <td>No</td>
     <td>Full sRGB standard</td>

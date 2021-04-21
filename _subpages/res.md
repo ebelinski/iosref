@@ -155,8 +155,8 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad Pro 12.9" (gen 4)</span><br>
-      <span class="soft">and Pro 12.9" (gen 3), Pro 12.9" (gen 2), Pro 12.9" (gen 1)</span>
+      <span class="strong">iPad Pro 12.9" (gen 5)</span><br>
+      <span class="soft">and Pro 12.9" (gen 4), Pro 12.9" (gen 3), Pro 12.9" (gen 2), Pro 12.9" (gen 1)</span>
     </td>
     <td>12.9"</td>
     <td>1024 × 1366</td>
@@ -166,8 +166,8 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad Pro 11" (gen 2)</span><br>
-      <span class="soft">and Pro 11" (gen 1)</span>
+      <span class="strong">iPad Pro 11" (gen 3)</span><br>
+      <span class="soft">and Pro 11" (gen 2), Pro 11" (gen 1)</span>
     </td>
     <td>11"</td>
     <td>834 × 1194</td>
