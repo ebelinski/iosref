@@ -2,8 +2,8 @@
 layout: default
 title: iOS version by device
 description: Tables showing the first and maximum iOS versions for each iPhone, iPad, and iPod touch.
-redirect_from: 
-  - /ios-versions/ 
+redirect_from:
+  - /ios-versions/
   - /ios-ver/
 ---
 
@@ -28,7 +28,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td>iPhone 12 Pro / 12 Pro Max</td>
     <td rowspan="3">2020</td>
     <td rowspan="2">14</td>
-    <td class="green" rowspan="12">14</td>
+    <td class="green" rowspan="12">15 <sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>iPhone 12 / 12 mini</td>
@@ -140,7 +140,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPad Pro 12.9" (gen 5)</td>
     <td rowspan="2">2021</td>
     <td rowspan="4">14</td>
-    <td rowspan="18" class="green">14</td>
+    <td rowspan="18" class="green">15 <sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>iPad Pro 11" (gen 3)</td>
@@ -212,7 +212,7 @@ Before iPadOS 13, iPadOS was known as iOS.
   </tr>
   <tr>
     <td>iPad Air 2</td>
-    <td class="green">14</td>
+    <td class="green">15 <sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>iPad mini 2</td>
@@ -263,7 +263,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPod touch (gen 7)</td>
     <td>2019</td>
     <td>12</td>
-    <td class="green">14</td>
+    <td class="green">15 <sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>iPod touch (gen 6)</td>
