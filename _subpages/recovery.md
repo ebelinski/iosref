@@ -2,7 +2,7 @@
 layout: default
 title: "Entering iOS recovery mode"
 description: Steps for entering iOS recovery mode on all iPhone, iPad, and iPod touch models.
-redirect_from: 
+redirect_from:
   - /recovery-mode/
   - /ios-recovery/
   - /ios-recovery-mode/
@@ -26,6 +26,11 @@ redirect_from:
   </tr>
   <tr>
     <td>
+      iPhone 12 Pro<br>
+      iPhone 12 Pro Max<br>
+      iPhone 12<br>
+      iPhone 12 mini<br>
+      iPhone SE (gen 2)<br>
       iPhone 11 Pro<br>
       iPhone 11 Pro Max<br>
       iPhone 11<br>
@@ -58,7 +63,7 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      iPhone SE<br>
+      iPhone SE (gen 1)<br>
       iPhone 6s<br>
       iPhone 6s Plus<br>
       iPhone 6<br>
@@ -90,7 +95,7 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      iPads with Face ID
+      iPads <strong>without</strong> a home button
     </td>
     <td>
       <ol>
