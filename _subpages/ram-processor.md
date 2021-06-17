@@ -2,8 +2,8 @@
 layout: default
 title: RAM and processor by device
 description: Tables showing the RAM and processor for each iPhone, iPad, Apple Watch, and iPod touch.
-redirect_from: 
-  - /ram/ 
+redirect_from:
+  - /ram/
   - /processor/
   - /ram-and-processor/
 ---
@@ -307,11 +307,16 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
+    <td>Series 6</td>
+    <td>2020</td>
+    <td rowspan="3">1 GB</td>
+    <td>S6</td>
+    <td rowspan="3">64-bit</td>
+  </tr>
+  <tr>
     <td>Series 5</td>
     <td>2019</td>
-    <td rowspan="2">1 GB</td>
     <td>S5</td>
-    <td rowspan="2">64-bit</td>
   </tr>
   <tr>
     <td>Series 4</td>
