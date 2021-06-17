@@ -2,12 +2,12 @@
 layout: default
 title: audioOS version by device
 description: A table showing the first and maximum audioOS versions for HomePod.
-redirect_from: 
-  - /audioos-versions/ 
+redirect_from:
+  - /audioos-versions/
   - /audioos-ver/
 ---
 
-{% include wwdc2020outdated.html %}
+This page is no longer being updated.
 
 ### HomePod
 
