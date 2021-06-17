@@ -2,8 +2,8 @@
 layout: default
 title: watchOS version by device
 description: A table showing the first and maximum watchOS versions for Apple Watch.
-redirect_from: 
-  - /watchos-versions/ 
+redirect_from:
+  - /watchos-versions/
   - /watcos-ver/
 ---
 
@@ -18,7 +18,7 @@ redirect_from:
     <td>Series 6</td>
     <td rowspan="2">2020</td>
     <td rowspan="2">7</td>
-    <td rowspan="5" class="green">7</td>
+    <td rowspan="5" class="green">8 <sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>SE</td>
@@ -42,7 +42,7 @@ redirect_from:
     <td>Series 2</td>
     <td rowspan="2">2016</td>
     <td rowspan="2">3</td>
-    <td rowspan="2" class="light-green">6</td>
+    <td rowspan="2">6</td>
   </tr>
   <tr>
     <td>Series 1</td>
