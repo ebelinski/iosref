@@ -303,30 +303,37 @@ redirect_from:
     <th>Device</th>
     <th>Released</th>
     <th>RAM</th>
+    <th>Storage</th>
     <th>Processor</th>
     <th>Data width</th>
   </tr>
   <tr>
     <td>Series 6</td>
-    <td>2020</td>
-    <td rowspan="3">1 GB</td>
+    <td rowspan="2">2020</td>
+    <td rowspan="4">1 GB</td>
+    <td rowspan="3">32 GB</td>
     <td>S6</td>
-    <td rowspan="3">64-bit</td>
+    <td rowspan="4">64-bit</td>
+  </tr>
+  <tr>
+    <td>SE</td>
+    <td rowspan="2">S5</td>
   </tr>
   <tr>
     <td>Series 5</td>
     <td>2019</td>
-    <td>S5</td>
   </tr>
   <tr>
     <td>Series 4</td>
     <td>2018</td>
+    <td>16 GB</td>
     <td>S4</td>
   </tr>
   <tr>
     <td>Series 3</td>
     <td>2017</td>
     <td>768 MB</td>
+    <td>8 GB – 16 GB</td>
     <td>S3</td>
     <td rowspan="4">32-bit</td>
   </tr>
@@ -334,6 +341,7 @@ redirect_from:
     <td>Series 2</td>
     <td rowspan="2">2016</td>
     <td rowspan="3">512 MB</td>
+    <td rowspan="3">8 GB</td>
     <td>S2</td>
   </tr>
   <tr>
