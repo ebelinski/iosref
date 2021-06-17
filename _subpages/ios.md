@@ -19,7 +19,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
 
 <table class="full-width">
   <tr>
-    <th>Device</th>
+    <th>Device </th>
     <th>Released</th>
     <th>First iOS</th>
     <th>Max iOS</th>
