@@ -2,8 +2,8 @@
 layout: default
 title: tvOS version by device
 description: A table showing the first and maximum tvOS versions for Apple TV.
-redirect_from: 
-  - /tvos-versions/ 
+redirect_from:
+  - /tvos-versions/
   - /tvos-ver/
 ---
 
@@ -19,17 +19,24 @@ tvOS is an iOS-based operating system for Apple TV.
     <th>Max tvOS</th>
   </tr>
   <tr>
-    <td>Apple TV 4K</td>
-    <td>2017</td>
-    <td>11</td>
-    <td rowspan="2" class="green">14</td>
+    <td>Apple TV 4K (gen 2)</td>
+    <td>2021</td>
+    <td>14</td>
+    <td rowspan="3" class="green">15 <sup class="beta">BETA</sup></td>
   </tr>
   <tr>
-    <td>Apple TV (gen 4)</td>
+    <td>Apple TV 4K (gen 1)</td>
+    <td>2017</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>Apple TV HD <sup>1</sup></td>
     <td>2015</td>
     <td>9</td>
   </tr>
 </table>
+
+<sup>1</sup> Apple TV HD was known as the fourth generation Apple TV, before a rebranding in 2021.
 
 ### Other iOS-based Apple TVs
 
