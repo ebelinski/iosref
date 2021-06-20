@@ -349,7 +349,7 @@ redirect_from:
     <td>S1P</td>
   </tr>
   <tr>
-    <td>Series 0<sup>1</sup></td>
+    <td>Series 0 <sup>1</sup></td>
     <td>2014</td>
     <td>S1</td>
   </tr>
@@ -421,15 +421,22 @@ redirect_from:
     <th>Released</th>
     <th>RAM</th>
     <th>Processor</th>
+    <th>Data width</th>
   </tr>
   <tr>
-    <td>Apple TV 4K</td>
+    <td>Apple TV 4K (gen 2)</td>
+    <td>2021</td>
+    <td rowspan="2">3 GB</td>
+    <td>A12 Bionic</td>
+    <td rowspan="3">64-bit</td>
+  </tr>
+  <tr>
+    <td>Apple TV 4K (gen 1)</td>
     <td>2017</td>
-    <td>3 GB</td>
     <td>A10X Fusion</td>
   </tr>
   <tr>
-    <td>Apple TV (gen 4)</td>
+    <td>Apple TV HD <sup>1</sup></td>
     <td>2015</td>
     <td>2 GB</td>
     <td>A8</td>
@@ -439,6 +446,7 @@ redirect_from:
     <td>2012</td>
     <td>512 MB</td>
     <td>A5</td>
+    <td rowspan="3">32-bit</td>
   </tr>
   <tr>
     <td>Apple TV (gen 2)</td>
@@ -452,6 +460,8 @@ redirect_from:
     <td>Intel "Crofton" Pentium M</td>
   </tr>
 </table>
+
+<sup>1</sup> Apple TV HD was known as the fourth generation Apple TV, before a rebranding in 2021.
 
 ### HomePod
 
