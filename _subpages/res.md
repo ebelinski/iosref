@@ -2,7 +2,7 @@
 layout: default
 title: Resolution by iOS device
 description: Tables with logical resolution, scale factor, actual resolution, and diagonal size for each iPhone, iPad, Apple Watch, and iPod touch.
-redirect_from: 
+redirect_from:
   - /resolution/
   - /dimensions/
   - /width/
@@ -285,8 +285,8 @@ redirect_from:
   </tr>
   <tr>
     <td class="nowrap">
-      <span class="strong">iPod touch (gen 6)</span><br>
-      <span class="soft">and gen 5</span>
+      <span class="strong">iPod touch (gen 7)</span><br>
+      <span class="soft">and gen 6, gen 5</span>
     </td>
     <td>iPhone SE, 5s, 5c, 5</td>
     <td>4"</td>
