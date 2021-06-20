@@ -2,7 +2,7 @@
 layout: default
 title: Display tech by device
 description: Tables showing the display technology in each iPhone and iPad for developers.
-redirect_from: 
+redirect_from:
   - /3d-touch/
   - /display/
   - /true-tone/
@@ -368,11 +368,15 @@ redirect_from:
     <th><a href="https://developer.apple.com/ios/3d-touch/">3D Touch</a></th>
   </tr>
   <tr>
+    <td>iPod touch (gen 7)</td>
+    <td>2019</td>
+    <td rowspan="4">LCD Retina</td>
+    <td rowspan="7">Full sRGB standard</td>
+    <td rowspan="7">No</td>
+  </tr>
+  <tr>
     <td>iPod touch (gen 6)</td>
     <td>2015</td>
-    <td rowspan="3">LCD Retina</td>
-    <td rowspan="6">Full sRGB standard</td>
-    <td rowspan="6">No</td>
   </tr>
   <tr>
     <td>iPod touch (gen 5)</td>
