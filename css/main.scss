@@ -13,11 +13,11 @@ $textDark: white;
 @import "syntax-highlighting-dark";
 
 body {
-  font-size: 1.15em; 
+  font-size: 1.15em;
 }
 
 .container {
-  max-width: 820px;
+  max-width: 850px;
 }
 
 h1 {
@@ -157,15 +157,15 @@ ul {
     border: 1px solid white;
     margin: -0.5em 0.5em;
   }
-  
+
   pre {
     font-size: 0.7em !important;
   }
-  
+
   h3, h4 {
     padding: 0.2em 0em;
   }
-  
+
   h4 {
     font-weight: normal;
   }
