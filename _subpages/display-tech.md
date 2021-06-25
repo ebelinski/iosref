@@ -202,8 +202,8 @@ redirect_from:
   </tr>
   <tr>
     <td>iPad (gen 7)</td>
-    <td rowspan="3">Retina</td>
     <td rowspan="3">2019</td>
+    <td rowspan="3">Retina</td>
     <td rowspan="3">No</td>
     <td>No</td>
     <td>Full sRGB standard</td>
@@ -220,6 +220,7 @@ redirect_from:
   <tr>
     <td>iPad Pro 12.9" (gen 3)</td>
     <td rowspan="3">2018</td>
+    <td rowspan="2">Liquid Retina</td>
     <td rowspan="2" class="green">Yes</td>
     <td rowspan="2" class="green">Pencil 2</td>
   </tr>
@@ -228,6 +229,7 @@ redirect_from:
   </tr>
   <tr>
     <td>iPad (gen 6)</td>
+    <td rowspan="12">Retina</td>
     <td>No</td>
     <td>No</td>
     <td>Full sRGB standard</td>
@@ -236,7 +238,6 @@ redirect_from:
   <tr>
     <td>iPad Pro 12.9" (gen 2)</td>
     <td rowspan="3">2017</td>
-    <td rowspan="2">Liquid Retina</td>
     <td rowspan="2" class="green">Yes</td>
     <td rowspan="2" class="green">Yes</td>
     <td rowspan="2" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
@@ -246,7 +247,6 @@ redirect_from:
   </tr>
   <tr>
     <td>iPad (gen 5)</td>
-    <td rowspan="9">Retina</td>
     <td rowspan="13">No</td>
     <td>No</td>
     <td>Full sRGB standard</td>
