@@ -169,7 +169,7 @@ redirect_from:
   <tr>
     <td>iPad Pro 12.9" (gen 5)</td>
     <td rowspan="2">2021</td>
-    <td rowspan="2">8 GB<br>16 GB (1/2 TB models)</td>
+    <td rowspan="2">8 GB<br>16 GB (1-2 TB models)</td>
     <td rowspan="2">M1</td>
     <td rowspan="21">64-bit</td>
   </tr>
