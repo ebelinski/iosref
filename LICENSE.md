@@ -1,7 +1,7 @@
 This repository has two licenses. The MIT License, a software license, covers
 the whole repository except for the `_subpages` folder, which contains the
 content pages. The Attribution-ShareAlike 4.0 International license, a content
-license, covers the _subpages folder.
+license, covers the `_subpages` folder.
 
 # MIT License (covers everything except `_subpages` folder)
 
@@ -26,8 +26,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 # Attribution-ShareAlike 4.0 International (covers `_subpages` folder)
-
-=======================================================================
 
 Creative Commons Corporation ("Creative Commons") is not a law firm and
 does not provide legal services or legal advice. Distribution of
