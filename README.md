@@ -8,4 +8,4 @@ You may open issues for suggestions and pull request for proposed changes. All c
 
 ## License
 
-This repository has two licenses. The MIT License, a software license, covers the whole repository except for the `_subpages` folder, which contains the content pages. The Attribution-ShareAlike 4.0 International license, a content license, covers the `_subpages` folder. See [LICENSE.md](/LICENSE.md) for more information.
+This repository has two licenses. The MIT License, a software license, covers the whole repository except for the [`_subpages`](\_subpages) folder, which contains the content pages. The Attribution-ShareAlike 4.0 International license, a content license, covers the [`_subpages`](\_subpages) folder. See [LICENSE.md](/LICENSE.md) for more information.
