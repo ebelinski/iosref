@@ -81,3 +81,9 @@ The first Apple TV ran a modified version of Mac OS X 10.4 Tiger, also called "A
     <td>3 (≈ OS X 10.4)</td>
   </tr>
 </table>
+
+### See also
+
+* [iOS version by device](/ios)
+* [iPadOS version by device](/ipados)
+* [watchOS version by device](/watchos)
