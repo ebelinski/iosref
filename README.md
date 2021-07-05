@@ -10,12 +10,12 @@ To make contributions, you can submit pull requests with changes to the relevant
 2. Install the project Ruby dependencies: `bundle install`.
 3. Start the local Jekyll server: `bundle exec jekyll serve`.
 
-The website should now be visible at http://127.0.0.1:4000/.
+The website should now be visible in a browser at http://127.0.0.1:4000/.
 
 ## Contributing
 
-You may open issues for suggestions and pull request for proposed changes. All contributors must follow the [code of conduct](/CODE_OF_CONDUCT.md).
+You may open [issues](https://github.com/ebelinski/iosref/issues) for suggestions and [pull request](https://github.com/ebelinski/iosref/pulls) for proposed changes. All contributors must follow the [code of conduct](/CODE_OF_CONDUCT.md). Any contributions you make must follow the [license](#license).
 
 ## License
 
-This repository has two licenses. The MIT License, a software license, covers the whole repository except for the [`_subpages`](\_subpages) folder, which contains the content pages. The Attribution-ShareAlike 4.0 International license, a content license, covers the [`_subpages`](\_subpages) folder. See [LICENSE.md](/LICENSE.md) for more information.
+This repository has two licenses. The MIT License, a software license, covers the whole repository except for the [`_subpages`](\_subpages) folder, which contains the content pages. The Attribution-ShareAlike 4.0 International license, a content license, covers the [`_subpages`](\_subpages) folder, as well as the contents visible on the [website itself](https://iosref.com). See [LICENSE.md](/LICENSE.md) for more information.

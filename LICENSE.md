@@ -1,7 +1,8 @@
 This repository has two licenses. The MIT License, a software license, covers
 the whole repository except for the `_subpages` folder, which contains the
 content pages. The Attribution-ShareAlike 4.0 International license, a content
-license, covers the `_subpages` folder.
+license, covers the `_subpages` folder, as well as the contents visible on the
+https://iosref.com website itself.
 
 # MIT License (covers everything except `_subpages` folder)
 
