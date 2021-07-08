@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Hardware strings by device
-description: 
-redirect_from: 
+description:
+redirect_from:
   - /hardware-string/
   - /device-identifiers/
   - /device-identifier/
@@ -27,8 +27,24 @@ redirect_from:
     <th>Hardware strings</th>
   </tr>
   <tr>
+    <td>iPhone 12 Pro Max</td>
+    <td rowspan="5">2020</td>
+    <td>iPhone13,4</td>
+  </tr>
+  <tr>
+    <td>iPhone 12 Pro</td>
+    <td>iPhone13,3</td>
+  </tr>
+  <tr>
+    <td>iPhone 12</td>
+    <td>iPhone13,2</td>
+  </tr>
+  <tr>
+    <td>iPhone 12 mini</td>
+    <td>iPhone13,1</td>
+  </tr>
+  <tr>
     <td>iPhone SE (gen 2)</td>
-    <td>2020</td>
     <td>iPhone12,8</td>
   </tr>
   <tr>
@@ -152,8 +168,25 @@ redirect_from:
     <th>Hardware strings</th>
   </tr>
   <tr>
-    <td>iPad Pro 12.9" (gen 3)</td>
-    <td rowspan="2">2020</td>
+    <td>iPad Pro 12.9" (gen 5)</td>
+    <td rowspan="2">2021</td>
+    <td>iPad13,8<br>iPad13,9<br>iPad13,10<br>iPad13,11</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 11" (gen 3)</td>
+    <td>iPad13,4<br>iPad13,5<br>iPad13,6<br>iPad13,7</td>
+  </tr>
+  <tr>
+    <td>iPad Air (gen 4)</td>
+    <td rowspan="4">2020</td>
+    <td>iPad13,1<br>iPad13,2</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 8)</td>
+    <td>iPad11,6<br>iPad11,7</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 12.9" (gen 4)</td>
     <td>iPad8,11<br>iPad8,12</td>
   </tr>
   <tr>
@@ -265,6 +298,15 @@ redirect_from:
     <th>Hardware strings</th>
   </tr>
   <tr>
+    <td>Series 6</td>
+    <td rowspan="2">2020</td>
+    <td>Watch6,1<br>Watch6,2<br>Watch6,3<br>Watch6,4</td>
+  </tr>
+  <tr>
+    <td>SE</td>
+    <td>Watch5,9<br>Watch5,10<br>Watch5,11<br>Watch5,12</td>
+  </tr>
+  <tr>
     <td>Series 5</td>
     <td>2019</td>
     <td>Watch5,1<br>Watch5,2<br>Watch5,3<br>Watch5,4</td>
@@ -307,6 +349,11 @@ redirect_from:
   </tr>
   <tr>
     <td>iPod touch (gen 6)</td>
+    <td>2019</td>
+    <td>iPod9,1</td>
+  </tr>
+  <tr>
+    <td>iPod touch (gen 6)</td>
     <td>2015</td>
     <td>iPod7,1</td>
   </tr>
@@ -346,12 +393,17 @@ redirect_from:
     <th>Hardware strings</th>
   </tr>
   <tr>
-    <td>Apple TV 4K</td>
+    <td>Apple TV 4K (gen 2)</td>
+    <td>2021</td>
+    <td>AppleTV11,1</td>
+  </tr>
+  <tr>
+    <td>Apple TV 4K (gen 1)</td>
     <td>2017</td>
     <td>AppleTV6,2</td>
   </tr>
   <tr>
-    <td>Apple TV (gen 4)</td>
+    <td>Apple TV HD <sup>1</sup></td>
     <td>2015</td>
     <td>AppleTV5,3</td>
   </tr>
@@ -372,6 +424,8 @@ redirect_from:
   </tr>
 </table>
 
+<sup>1</sup> Apple TV HD was known as the fourth generation Apple TV, before a rebranding in 2021.
+
 ### HomePod
 
 <table>
@@ -381,8 +435,13 @@ redirect_from:
     <th>Hardware strings</th>
   </tr>
   <tr>
-    <td>HomePod (gen 1)</td>
+    <td>HomePod mini</td>
     <td>2018</td>
-    <td>AudioAccessory1,1</td>
+    <td>AudioAccessory5,1</td>
+  </tr>
+  <tr>
+    <td>HomePod</td>
+    <td>2018</td>
+    <td>AudioAccessory1,1<br>AudioAccessory1,2</td>
   </tr>
 </table>
