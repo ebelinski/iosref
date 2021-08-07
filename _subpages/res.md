@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resolution by iOS device
-description: Tables with logical resolution, scale factor, actual resolution, and diagonal size for each iPhone, iPad, Apple Watch, and iPod touch.
+description: Tables with diagonal size, logical resolution, scale factor, actual resolution, and aspect ratio for each iPhone, iPad, Apple Watch, and iPod touch.
 redirect_from:
   - /resolution/
   - /dimensions/
@@ -17,7 +17,7 @@ redirect_from:
 {:toc}
 </div>
 
-<p>All tables are ordered by logical resolution height, then by actual resolution height, then by release date.</p>
+<p>All tables are ordered by release date, then logical resolution height, with some exceptions.</p>
 
 ### iPhone
 
@@ -28,20 +28,22 @@ redirect_from:
     <th>Logical resolution</th>
     <th>Scale factor</th>
     <th>Actual resolution</th>
+    <th>Aspect ratio</th>
     <th>PPI</th>
   </tr>
   <tr>
-    <td>
+    <td class="nowrap">
       <span class="strong">iPhone 12 Pro Max</span>
     </td>
     <td>6.7"</td>
     <td>428 × 926</td>
     <td rowspan="5">@3x</td>
     <td>1284 × 2778</td>
+    <td rowspan="6">9 : 19.5</td>
     <td>458</td>
   </tr>
   <tr>
-    <td>
+    <td class="nowrap">
       <span class="strong">iPhone 12 / 12 Pro</span>
     </td>
     <td>6.1"</td>
@@ -59,7 +61,7 @@ redirect_from:
     <td>476</td>
   </tr>
   <tr>
-    <td>
+    <td class="nowrap">
       <span class="strong">iPhone 11 Pro Max</span><br>
       <span class="soft">and XS Max</span>
     </td>
@@ -97,6 +99,7 @@ redirect_from:
     <td>414 × 736</td>
     <td>@3x <sup>1</sup></td>
     <td>1242 × 2208 <sup>1</sup></td>
+    <td rowspan="3">9 : 16</td>
     <td>401</td>
   </tr>
   <tr>
@@ -127,6 +130,7 @@ redirect_from:
     <td rowspan="2">3.5"</td>
     <td>320 × 480</td>
     <td>640 × 960</td>
+    <td rowspan="2">3 : 4</td>
   </tr>
   <tr>
     <td>
