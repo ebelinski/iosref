@@ -67,7 +67,7 @@ redirect_from:
     </td>
     <td>6.5"</td>
     <td>414 × 896</td>
-    <td>1242 × 2688</td>
+    <td class="nowrap">1242 × 2688</td>
     <td rowspan="2">458</td>
   </tr>
   <tr>
@@ -299,14 +299,16 @@ redirect_from:
     <td>640 × 1136</td>
   </tr>
   <tr>
-    <td><span class="strong">iPod touch (gen 4)</span></td>
+    <td class="nowrap">
+      <span class="strong">iPod touch (gen 4)</span>
+    </td>
     <td>iPhone 4s, 4</td>
     <td rowspan="2">3.5"</td>
     <td rowspan="2">320 × 480</td>
     <td>640 × 960</td>
   </tr>
   <tr>
-    <td>
+    <td class="nowrap">
       <span class="strong">iPod touch (gen 3)</span><br>
       <span class="soft">and gen 2, gen 1</span>
     </td>
