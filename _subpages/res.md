@@ -290,10 +290,11 @@ redirect_from:
   <tr>
     <th>Device</th>
     <th>Identical to</th>
-    <th>Diagonal size</th>
+    <th>Diag. size</th>
     <th>Logical resolution</th>
     <th>Scale factor</th>
     <th>Actual resolution</th>
+    <th>Aspect ratio</th>
     <th>PPI</th>
   </tr>
   <tr>
@@ -301,11 +302,12 @@ redirect_from:
       <span class="strong">iPod touch (gen 7)</span><br>
       <span class="soft">and gen 6, gen 5</span>
     </td>
-    <td>iPhone SE, 5s, 5c, 5</td>
+    <td>iPhone SE (gen 1), 5s, 5c, 5</td>
     <td>4"</td>
     <td>320 × 568</td>
     <td rowspan="2">@2x</td>
     <td>640 × 1136</td>
+    <td>9 : 16</td>
     <td rowspan="2">326</td>
   </tr>
   <tr>
@@ -316,6 +318,7 @@ redirect_from:
     <td rowspan="2">3.5"</td>
     <td rowspan="2">320 × 480</td>
     <td>640 × 960</td>
+    <td rowspan="2">3 : 4</td>
   </tr>
   <tr>
     <td class="nowrap">
