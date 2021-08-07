@@ -17,7 +17,6 @@ layout: default
 * [iPadOS version by device](/ipados)
 * [watchOS version by device](/watchos)
 * [tvOS version by device](/tvos)
-* [iOS adoption rates](https://developer.apple.com/support/app-store/)<sup class="ext">Ext</sup>
 
 ### Hardware
 

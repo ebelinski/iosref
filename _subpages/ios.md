@@ -308,3 +308,8 @@ Before iPadOS 13, iPadOS was known as iOS.
 * [iPadOS version by device](/ipados)
 * [watchOS version by device](/watchos)
 * [tvOS version by device](/tvos)
+
+### Further reading
+
+* [iOS adoption rates](https://developer.apple.com/support/app-store/)<sup class="ext">Ext</sup>
+
