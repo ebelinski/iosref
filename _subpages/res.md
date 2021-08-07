@@ -246,6 +246,7 @@ redirect_from:
     <th>Diagonal size</th>
     <th>Logical/actual resolution</th>
     <th>Aspect ratio</th>
+    <th>PPI</th>
   </tr>
   <tr>
     <td>
@@ -255,6 +256,7 @@ redirect_from:
     <td>1.73"</td>
     <td>368 × 448</td>
     <td rowspan="4">4 : 5</td>
+    <td rowspan="4">326</td>
   </tr>
   <tr>
     <td>
@@ -292,6 +294,7 @@ redirect_from:
     <th>Logical resolution</th>
     <th>Scale factor</th>
     <th>Actual resolution</th>
+    <th>PPI</th>
   </tr>
   <tr>
     <td class="nowrap">
@@ -303,6 +306,7 @@ redirect_from:
     <td>320 × 568</td>
     <td rowspan="2">@2x</td>
     <td>640 × 1136</td>
+    <td rowspan="2">326</td>
   </tr>
   <tr>
     <td class="nowrap">
@@ -321,6 +325,7 @@ redirect_from:
     <td>iPhone 3GS, 3G, gen 1</td>
     <td>@1x</td>
     <td>320 × 480</td>
+    <td>163</td>
   </tr>
 </table>
 
