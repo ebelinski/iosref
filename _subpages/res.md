@@ -155,17 +155,19 @@ redirect_from:
     <th>Logical resolution</th>
     <th>Scale factor</th>
     <th>Actual resolution</th>
+    <th>Aspect ratio</th>
     <th>PPI</th>
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad Pro 12.9" (gen 5)</span><br>
+      <span class="strong nowrap">iPad Pro 12.9" (gen 5)</span><br>
       <span class="soft">and Pro 12.9" (gen 4), Pro 12.9" (gen 3), Pro 12.9" (gen 2), Pro 12.9" (gen 1)</span>
     </td>
     <td>12.9"</td>
-    <td>1024 × 1366</td>
+    <td class="nowrap">1024 × 1366</td>
     <td rowspan="7">@2x</td>
-    <td>2048 × 2732</td>
+    <td class="nowrap">2048 × 2732</td>
+    <td rowspan="2">3 : 4</td>
     <td rowspan="6">264</td>
   </tr>
   <tr>
@@ -182,6 +184,7 @@ redirect_from:
     <td>10.9"</td>
     <td>820 × 1180</td>
     <td>1640 × 2360</td>
+    <td>16 : 23</td>
   </tr>
   <tr>
     <td>
@@ -191,6 +194,7 @@ redirect_from:
     <td>10.2"</td>
     <td>810 × 1080</td>
     <td>1620 × 2160</td>
+    <td rowspan="6">3 : 4</td>
   </tr>
   <tr>
     <td>
@@ -241,6 +245,7 @@ redirect_from:
     <th>Device</th>
     <th>Diagonal size</th>
     <th>Logical/actual resolution</th>
+    <th>Aspect ratio</th>
   </tr>
   <tr>
     <td>
@@ -249,6 +254,7 @@ redirect_from:
     </td>
     <td>1.73"</td>
     <td>368 × 448</td>
+    <td rowspan="4">4 : 5</td>
   </tr>
   <tr>
     <td>
