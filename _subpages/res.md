@@ -263,6 +263,22 @@ redirect_from:
   </tr>
   <tr>
     <td>
+      <span class="strong">Apple Watch 45mm</span><br>
+      <span class="soft">Series 7</span>
+    </td>
+    <td rowspan="2">TBD</td>
+    <td rowspan="2">TBD</td>
+    <td rowspan="2">TBD</td>
+    <td rowspan="2">TBD</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="strong">Apple Watch 41mm</span><br>
+      <span class="soft">Series 7</span>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <span class="strong">Apple Watch 44mm</span><br>
       <span class="soft">Series 6, SE, 5, 4</span>
     </td>
