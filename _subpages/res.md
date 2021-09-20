@@ -33,7 +33,8 @@ redirect_from:
   </tr>
   <tr>
     <td class="nowrap">
-      <span class="strong">iPhone 12 Pro Max</span>
+      <span class="strong">iPhone 13 Pro Max</span><br>
+      <span class="soft">and 12 Pro Max</span>
     </td>
     <td>6.7"</td>
     <td>428 × 926</td>
@@ -44,7 +45,8 @@ redirect_from:
   </tr>
   <tr>
     <td class="nowrap">
-      <span class="strong">iPhone 12 / 12 Pro</span>
+      <span class="strong">iPhone 13 / 13 Pro</span><br>
+      <span class="soft">and 12 / 12 Pro</span>
     </td>
     <td>6.1"</td>
     <td>390 × 844</td>
@@ -52,8 +54,9 @@ redirect_from:
     <td>460</td>
   </tr>
   <tr>
-    <td>
-      <span class="strong">iPhone 12 mini</span>
+    <td class="nowrap">
+      <span class="strong">iPhone 13 mini</span><br>
+      <span class="soft">and 12 mini</span>
     </td>
     <td>5.4"</td>
     <td>360 × 780</td>
