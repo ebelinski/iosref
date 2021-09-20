@@ -25,10 +25,18 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <th>Max iOS</th>
   </tr>
   <tr>
+    <td>iPhone 13 Pro / 13 Pro Max</td>
+    <td rowspan="2">2021</td>
+    <td rowspan="2">15</td>
+    <td class="green" rowspan="14">15</td>
+  </tr>
+  <tr>
+    <td>iPhone 13 / 13 mini</td>
+  </tr>
+  <tr>
     <td>iPhone 12 Pro / 12 Pro Max</td>
     <td rowspan="3">2020</td>
     <td rowspan="2">14</td>
-    <td class="green" rowspan="12">15 <sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>iPhone 12 / 12 mini</td>
@@ -137,10 +145,17 @@ Before iPadOS 13, iPadOS was known as iOS.
     <th>Max iPadOS</th>
   </tr>
   <tr>
+    <td>iPad (gen 9)</td>
+    <td rowspan="4">2021</td>
+    <td rowspan="2">15</td>
+    <td rowspan="20" class="green">15</td>
+  </tr>
+  <tr>
+    <td>iPad mini (gen 6)</td>
+  </tr>
+  <tr>
     <td>iPad Pro 12.9" (gen 5)</td>
-    <td rowspan="2">2021</td>
     <td rowspan="4">14</td>
-    <td rowspan="18" class="green">15 <sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>iPad Pro 11" (gen 3)</td>
@@ -212,7 +227,7 @@ Before iPadOS 13, iPadOS was known as iOS.
   </tr>
   <tr>
     <td>iPad Air 2</td>
-    <td class="green">15 <sup class="beta">BETA</sup></td>
+    <td class="green">15
   </tr>
   <tr>
     <td>iPad mini 2</td>
