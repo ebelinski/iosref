@@ -227,7 +227,7 @@ Before iPadOS 13, iPadOS was known as iOS.
   </tr>
   <tr>
     <td>iPad Air 2</td>
-    <td class="green">15
+    <td class="green">15</td>
   </tr>
   <tr>
     <td>iPad mini 2</td>
