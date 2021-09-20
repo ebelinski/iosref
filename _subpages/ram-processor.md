@@ -341,12 +341,19 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
+    <td>Series 7</td>
+    <td>2021</td>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td>TBD</td>
+    <td rowspan="5">64-bit</td>
+  </tr>
+  <tr>
     <td>Series 6</td>
     <td rowspan="2">2020</td>
     <td rowspan="4">1 GB</td>
     <td rowspan="3">32 GB</td>
     <td>S6</td>
-    <td rowspan="4">64-bit</td>
   </tr>
   <tr>
     <td>SE</td>

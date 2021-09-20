@@ -278,7 +278,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPod touch (gen 7)</td>
     <td>2019</td>
     <td>12</td>
-    <td class="green">15 <sup class="beta">BETA</sup></td>
+    <td class="green">15</td>
   </tr>
   <tr>
     <td>iPod touch (gen 6)</td>
