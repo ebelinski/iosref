@@ -168,10 +168,10 @@ redirect_from:
     </td>
     <td>12.9"</td>
     <td class="nowrap">1024 × 1366</td>
-    <td rowspan="7">@2x</td>
+    <td rowspan="8">@2x</td>
     <td class="nowrap">2048 × 2732</td>
     <td rowspan="2">3 : 4</td>
-    <td rowspan="6">264</td>
+    <td rowspan="4">264</td>
   </tr>
   <tr>
     <td>
@@ -191,13 +191,21 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad (gen 8)</span><br>
-      <span class="soft">and iPad (gen 7)</span>
+      <span class="strong">iPad (gen 9)</span><br>
+      <span class="soft">and iPad (gen 8), iPad (gen 7)</span>
     </td>
     <td>10.2"</td>
     <td>810 × 1080</td>
     <td>1620 × 2160</td>
-    <td rowspan="6">3 : 4</td>
+    <td>3 : 4</td>
+  </tr>
+  <tr>
+    <td><span class="strong">iPad mini (gen 6)</span></td>
+    <td>8.3"</td>
+    <td>744 × 1133</td>
+    <td>1488 × 2266</td>
+    <td>?</td>
+    <td>326</td>
   </tr>
   <tr>
     <td>
@@ -207,6 +215,8 @@ redirect_from:
     <td>10.5"</td>
     <td>834 × 1112</td>
     <td>1668 × 2224</td>
+    <td rowspan="5">3 : 4</td>
+    <td rowspan="2">264</td>
   </tr>
   <tr>
     <td>
