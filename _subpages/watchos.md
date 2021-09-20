@@ -15,10 +15,15 @@ redirect_from:
     <th>Max watchOS</th>
   </tr>
   <tr>
+    <td>Series 7</td>
+    <td>2021</td>
+    <td>8</td>
+    <td rowspan="6" class="green">8</td>
+  </tr>
+  <tr>
     <td>Series 6</td>
     <td rowspan="2">2020</td>
     <td rowspan="2">7</td>
-    <td rowspan="5" class="green">8 <sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>SE</td>
