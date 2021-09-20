@@ -25,11 +25,34 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
+    <td>iPhone 13 Pro Max</td>
+    <td rowspan="4">2021</td>
+    <td rowspan="2">6 GB</td>
+    <td rowspan="2">
+      A15 Bionic<br>
+      (5-core GPU)
+    </td>
+    <td rowspan="26">64-bit</td>
+  </tr>
+  <tr>
+    <td>iPhone 13 Pro</td>
+  </tr>
+  <tr>
+    <td>iPhone 13</td>
+    <td rowspan="2">4 GB</td>
+    <td rowspan="2">
+      A15 Bionic<br>
+      (4-core GPU)
+    </td>
+  </tr>
+  <tr>
+    <td>iPhone 13 mini</td>
+  </tr>
+  <tr>
     <td>iPhone 12 Pro Max</td>
     <td rowspan="5">2020</td>
     <td rowspan="2">6 GB</td>
     <td rowspan="4">A14 Bionic</td>
-    <td rowspan="22">64-bit</td>
   </tr>
   <tr>
     <td>iPhone 12 Pro</td>
@@ -167,11 +190,21 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
+    <td>iPad mini (gen 6)</td>
+    <td rowspan="4">2021</td>
+    <td>4 GB</td>
+    <td>A15 Bionic</td>
+    <td rowspan="23">64-bit</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 9)</td>
+    <td>3 GB</td>
+    <td>A13 Bionic</td>
+  </tr>
+  <tr>
     <td>iPad Pro 12.9" (gen 5)</td>
-    <td rowspan="2">2021</td>
     <td rowspan="2">8 GB<br>16 GB (1-2 TB models)</td>
     <td rowspan="2">M1</td>
-    <td rowspan="21">64-bit</td>
   </tr>
   <tr>
     <td>iPad Pro 11" (gen 3)</td>
