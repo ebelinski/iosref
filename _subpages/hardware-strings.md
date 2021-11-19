@@ -28,7 +28,7 @@ redirect_from:
   </tr>
   <tr>
     <td>iPhone 13</td>
-    <td rowspan="5">2021</td>
+    <td rowspan="4">2021</td>
     <td>iPhone14,5</td>
   </tr>
   <tr>
