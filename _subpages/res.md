@@ -38,7 +38,7 @@ redirect_from:
     </td>
     <td>6.7"</td>
     <td>428 × 926</td>
-    <td rowspan="5">@3x</td>
+    <td rowspan="2">@3x</td>
     <td>1284 × 2778</td>
     <td rowspan="6">9 : 19.5</td>
     <td>458</td>
@@ -59,7 +59,8 @@ redirect_from:
       <span class="soft">and 12 mini</span>
     </td>
     <td>5.4"</td>
-    <td>360 × 780</td>
+    <td>375 × 812</td>
+    <td class="nowrap">@2.88–3x <sup>1</sup></td>
     <td>1080 × 2340</td>
     <td>476</td>
   </tr>
@@ -70,6 +71,7 @@ redirect_from:
     </td>
     <td>6.5"</td>
     <td>414 × 896</td>
+    <td rowspan="2">@3x</td>
     <td class="nowrap">1242 × 2688</td>
     <td rowspan="2">458</td>
   </tr>
@@ -100,7 +102,7 @@ redirect_from:
     </td>
     <td>5.5"</td>
     <td>414 × 736</td>
-    <td>@3x <sup>1</sup></td>
+    <td>@3x <sup>2</sup></td>
     <td>1242 × 2208 <sup>1</sup></td>
     <td rowspan="3">9 : 16</td>
     <td>401</td>
@@ -146,7 +148,9 @@ redirect_from:
   </tr>
 </table>
 
-<sup>1</sup> Downsampled to actual pixel dimensions 1080 × 1920. See <a href="https://www.paintcodeapp.com/news/iphone-6-screens-demystified">here</a> for explanation.
+<sup>1</sup> iPhone 13 mini and equivalently sized devices have a logical scale factor of 3x but a native scale factor of 2.88x. The logical resolution of 375 × 812 is multiplied by 2.88 to reach the actual resolution of 1080 × 2340.
+
+<sup>2</sup> iPhone 8 Plus and equivalently sized devices have a native resolution downsampled from 1242 × 2208 to actual pixel dimensions 1080 × 1920. See <a href="https://www.paintcodeapp.com/news/iphone-6-screens-demystified">here</a> for explanation.
 
 ### iPad
 
