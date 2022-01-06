@@ -131,7 +131,7 @@ redirect_from:
       <span class="soft">and 4</span>
     </td>
     <td rowspan="2">3.5"</td>
-    <td>320 × 480</td>
+    <td rowspan="2">320 × 480</td>
     <td>640 × 960</td>
     <td rowspan="2">3 : 4</td>
   </tr>
@@ -140,7 +140,6 @@ redirect_from:
       <span class="strong">iPhone 3GS</span><br>
       <span class="soft">and 3G, gen 1</span>
     </td>
-    <td>320 × 480</td>
     <td>@1x</td>
     <td>320 × 480</td>
     <td>163</td>
