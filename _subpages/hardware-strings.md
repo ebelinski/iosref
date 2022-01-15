@@ -41,7 +41,7 @@ redirect_from:
   </tr>
   <tr>
     <td>iPhone 13 Pro</td>
-    <td>iPhone13,2</td>
+    <td>iPhone14,2</td>
   </tr>
   <tr>
     <td>iPhone 12 Pro Max</td>
