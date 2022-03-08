@@ -149,10 +149,14 @@ Before iPadOS 13, iPadOS was known as iOS.
     <th>Max iPadOS</th>
   </tr>
   <tr>
+    <td>iPad Air (gen 5)</td>
+    <td>2022</td>
+    <td rowspan="3">15</td>
+    <td rowspan="21" class="green">15</td>
+  </tr>
+  <tr>
     <td>iPad (gen 9)</td>
     <td rowspan="4">2021</td>
-    <td rowspan="2">15</td>
-    <td rowspan="20" class="green">15</td>
   </tr>
   <tr>
     <td>iPad mini (gen 6)</td>
