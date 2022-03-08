@@ -109,8 +109,8 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPhone SE (gen 2)</span><br>
-      <span class="soft">and 8, 7, 6s, 6</span>
+      <span class="strong">iPhone SE (gen 3)</span><br>
+      <span class="soft">and SE (gen 2), 8, 7, 6s, 6</span>
     </td>
     <td>4.7"</td>
     <td>375 × 667</td>
