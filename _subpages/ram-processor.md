@@ -25,6 +25,16 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
+    <td>iPhone SE (gen 3)</td>
+    <td>2022</td>
+    <td>4 GB</td>
+    <td>
+      A15 Bionic<br>
+      (4-core GPU)
+    </td>
+    <td rowspan="27">64-bit</td>
+  </tr>
+  <tr>
     <td>iPhone 13 Pro Max</td>
     <td rowspan="4">2021</td>
     <td rowspan="2">6 GB</td>
@@ -32,7 +42,6 @@ redirect_from:
       A15 Bionic<br>
       (5-core GPU)
     </td>
-    <td rowspan="26">64-bit</td>
   </tr>
   <tr>
     <td>iPhone 13 Pro</td>
