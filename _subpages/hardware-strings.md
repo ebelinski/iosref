@@ -27,6 +27,11 @@ redirect_from:
     <th>Hardware strings</th>
   </tr>
   <tr>
+    <td>iPhone SE (gen 3)</td>
+    <td>2022</td>
+    <td>?</td>
+  </tr>
+  <tr>
     <td>iPhone 13</td>
     <td rowspan="4">2021</td>
     <td>iPhone14,5</td>
@@ -185,8 +190,21 @@ redirect_from:
     <th>Hardware strings</th>
   </tr>
   <tr>
+    <td>iPad Air (gen 5)</td>
+    <td>2022</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 9)</td>
+    <td rowspan="4">2021</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>iPad mini (gen 6)</td>
+    <td>?</td>
+  </tr>
+  <tr>
     <td>iPad Pro 12.9" (gen 5)</td>
-    <td rowspan="2">2021</td>
     <td>iPad13,8<br>iPad13,9<br>iPad13,10<br>iPad13,11</td>
   </tr>
   <tr>
@@ -315,6 +333,11 @@ redirect_from:
     <th>Hardware strings</th>
   </tr>
   <tr>
+    <td>Series 7</td>
+    <td>2021</td>
+    <td>?</td>
+  </tr>
+  <tr>
     <td>Series 6</td>
     <td rowspan="2">2020</td>
     <td>Watch6,1<br>Watch6,2<br>Watch6,3<br>Watch6,4</td>
@@ -365,7 +388,7 @@ redirect_from:
     <th>Hardware strings</th>
   </tr>
   <tr>
-    <td>iPod touch (gen 6)</td>
+    <td>iPod touch (gen 7)</td>
     <td>2019</td>
     <td>iPod9,1</td>
   </tr>
