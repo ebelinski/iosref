@@ -190,11 +190,17 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
+    <td>iPad Air (gen 5)</td>
+    <td>2022</td>
+    <td>8 GB</td>
+    <td>M1</td>
+    <td rowspan="24">64-bit</td>
+  </tr>
+  <tr>
     <td>iPad (gen 9)</td>
     <td rowspan="4">2021</td>
     <td>3 GB</td>
     <td>A13 Bionic</td>
-    <td rowspan="23">64-bit</td>
   </tr>
   <tr>
     <td>iPad mini (gen 6)</td>
