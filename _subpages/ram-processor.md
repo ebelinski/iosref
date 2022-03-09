@@ -190,16 +190,16 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
-    <td>iPad mini (gen 6)</td>
+    <td>iPad (gen 9)</td>
     <td rowspan="4">2021</td>
-    <td>4 GB</td>
-    <td>A15 Bionic</td>
+    <td>3 GB</td>
+    <td>A13 Bionic</td>
     <td rowspan="23">64-bit</td>
   </tr>
   <tr>
-    <td>iPad (gen 9)</td>
-    <td>3 GB</td>
-    <td>A13 Bionic</td>
+    <td>iPad mini (gen 6)</td>
+    <td>4 GB</td>
+    <td>A15 Bionic</td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 5)</td>
