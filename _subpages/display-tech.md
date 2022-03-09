@@ -183,13 +183,31 @@ redirect_from:
     <th>Pencil support</th>
   </tr>
   <tr>
+    <td>iPad Air (gen 5)</td>
+    <td>2022</td>
+    <td>Liquid Retina</td>
+    <td rowspan="3">No</td>
+    <td rowspan="6" class="green">Yes</td>
+    <td class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
+    <td class="green">Pencil 2</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 9)</td>
+    <td rowspan="4">2021</td>
+    <td>Retina</td>
+    <td>Full sRGB standard</td>
+    <td class="light-green">Pencil 1</td>
+  </tr>
+  <tr>
+    <td>iPad mini (gen 6)</td>
+    <td>Liquid Retina</td>
+    <td rowspan="4" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
+    <td rowspan="4" class="green">Pencil 2</td>
+  </tr>
+  <tr>
     <td>iPad Pro 12.9" (gen 5)</td>
-    <td rowspan="2">2021</td>
     <td>Liquid Retina XDR</td>
     <td rowspan="2" class="green">Yes</td>
-    <td rowspan="3" class="green">Yes</td>
-    <td rowspan="3" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
-    <td rowspan="3" class="green">Pencil 2</td>
   </tr>
   <tr>
     <td>iPad Pro 11" (gen 3)</td>
