@@ -186,7 +186,10 @@ redirect_from:
     <td>1668 × 2388</td>
   </tr>
   <tr>
-    <td><span class="strong">iPad Air (gen 4)</span></td>
+    <td>
+      <span class="strong">iPad Air (gen 5)</span><br>
+      <span class="soft">and Air (gen 4)</span>
+    </td>
     <td>10.9"</td>
     <td>820 × 1180</td>
     <td>1640 × 2360</td>
