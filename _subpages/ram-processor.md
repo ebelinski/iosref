@@ -194,7 +194,7 @@ redirect_from:
     <td>2022</td>
     <td>8 GB</td>
     <td>M1</td>
-    <td rowspan="24">64-bit</td>
+    <td rowspan="25">64-bit</td>
   </tr>
   <tr>
     <td>iPad (gen 9)</td>
@@ -217,9 +217,14 @@ redirect_from:
   </tr>
   <tr>
     <td>iPad Air (gen 4)</td>
-    <td rowspan="3">2020</td>
+    <td rowspan="4">2020</td>
     <td>4 GB</td>
     <td>A14 Bionic</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 8)</td>
+    <td>3 GB</td>
+    <td>A12 Bionic</td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 3)</td>
