@@ -21,27 +21,22 @@ redirect_from:
     <th>Device</th>
     <th>Released</th>
     <th>RAM</th>
-    <th>Processor</th>
+    <th colspan="2">Processor</th>
     <th>Data width</th>
   </tr>
   <tr>
     <td>iPhone SE (gen 3)</td>
     <td>2022</td>
     <td>4 GB</td>
-    <td>
-      A15 Bionic<br>
-      (4-core GPU)
-    </td>
+    <td rowspan="5">A15 Bionic</td>
+    <td>4-core GPU</td>
     <td rowspan="27">64-bit</td>
   </tr>
   <tr>
     <td>iPhone 13 Pro Max</td>
     <td rowspan="4">2021</td>
     <td rowspan="2">6 GB</td>
-    <td rowspan="2">
-      A15 Bionic<br>
-      (5-core GPU)
-    </td>
+    <td rowspan="2">5-core GPU</td>
   </tr>
   <tr>
     <td>iPhone 13 Pro</td>
@@ -49,10 +44,7 @@ redirect_from:
   <tr>
     <td>iPhone 13</td>
     <td rowspan="2">4 GB</td>
-    <td rowspan="2">
-      A15 Bionic<br>
-      (4-core GPU)
-    </td>
+    <td rowspan="2">4-core GPU</td>
   </tr>
   <tr>
     <td>iPhone 13 mini</td>
@@ -61,7 +53,7 @@ redirect_from:
     <td>iPhone 12 Pro Max</td>
     <td rowspan="5">2020</td>
     <td rowspan="2">6 GB</td>
-    <td rowspan="4">A14 Bionic</td>
+    <td rowspan="4" colspan="2">A14 Bionic</td>
   </tr>
   <tr>
     <td>iPhone 12 Pro</td>
@@ -76,7 +68,7 @@ redirect_from:
   <tr>
     <td>iPhone SE (gen 2)</td>
     <td>3 GB</td>
-    <td rowspan="4">A13 Bionic</td>
+    <td rowspan="4" colspan="2">A13 Bionic</td>
   </tr>
   <tr>
     <td>iPhone 11 Pro Max</td>
@@ -92,7 +84,7 @@ redirect_from:
   <tr>
     <td>iPhone XS Max</td>
     <td rowspan="3">2018</td>
-    <td rowspan="3">A12 Bionic</td>
+    <td rowspan="3" colspan="2">A12 Bionic</td>
   </tr>
   <tr>
     <td>iPhone XS</td>
@@ -104,7 +96,7 @@ redirect_from:
   <tr>
     <td>iPhone X</td>
     <td rowspan="3">2017</td>
-    <td rowspan="3">A11 Bionic</td>
+    <td rowspan="3" colspan="2">A11 Bionic</td>
   </tr>
   <tr>
     <td>iPhone 8 Plus</td>
@@ -117,7 +109,7 @@ redirect_from:
     <td>iPhone 7 Plus</td>
     <td rowspan="3">2016</td>
     <td>3 GB</td>
-    <td rowspan="2">A10 Fusion</td>
+    <td rowspan="2" colspan="2">A10 Fusion</td>
   </tr>
   <tr>
     <td>iPhone 7</td>
@@ -125,7 +117,7 @@ redirect_from:
   </tr>
   <tr>
     <td>iPhone SE</td>
-    <td rowspan="3">A9</td>
+    <td rowspan="3" colspan="2">A9</td>
   </tr>
   <tr>
     <td>iPhone 6s Plus</td>
@@ -138,7 +130,7 @@ redirect_from:
     <td>iPhone 6 Plus</td>
     <td rowspan="2">2014</td>
     <td rowspan="5">1 GB</td>
-    <td rowspan="2">A8</td>
+    <td rowspan="2" colspan="2">A8</td>
   </tr>
   <tr>
     <td>iPhone 6</td>
@@ -146,12 +138,12 @@ redirect_from:
   <tr>
     <td>iPhone 5s</td>
     <td>2013</td>
-    <td>A7</td>
+    <td colspan="2">A7</td>
   </tr>
   <tr>
     <td>iPhone 5c</td>
     <td>2013</td>
-    <td rowspan="2">A6</td>
+    <td rowspan="2" colspan="2">A6</td>
     <td rowspan="7">32-bit</td>
   </tr>
   <tr>
@@ -162,29 +154,29 @@ redirect_from:
     <td>iPhone 4s</td>
     <td>2011</td>
     <td rowspan="2">512 MB</td>
-    <td>A5</td>
+    <td colspan="2">A5</td>
   </tr>
   <tr>
     <td>iPhone 4</td>
     <td>2010</td>
-    <td>A4</td>
+    <td colspan="2">A4</td>
   </tr>
   <tr>
     <td>iPhone 3GS</td>
     <td>2009</td>
     <td>256 MB</td>
-    <td>—</td>
+    <td colspan="2">—</td>
   </tr>
   <tr>
     <td>iPhone 3G</td>
     <td>2008</td>
     <td rowspan="2">128 MB</td>
-    <td>—</td>
+    <td colspan="2">—</td>
   </tr>
   <tr>
     <td>iPhone (gen 1)</td>
     <td>2007</td>
-    <td>—</td>
+    <td colspan="2">—</td>
   </tr>
 </table>
 
