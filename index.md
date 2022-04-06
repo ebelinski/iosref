@@ -28,7 +28,7 @@ layout: default
 ### Swift
 
 * [Swift versions](https://swiftly.dev/swift-versions)<sup class="ext">Ext</sup>
-* [Swift 5 cheatsheet](/swift-cheatsheet)
+* [Swift 5 cheatsheet](https://swiftly.dev/cheatsheet)<sup class="ext">Ext</sup>
 * [All docs](https://swift.org/documentation/)<sup class="ext">Ext</sup>
 * [Swift Book](https://docs.swift.org/swift-book/)<sup class="ext">Ext</sup>
 

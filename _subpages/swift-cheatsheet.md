@@ -2,10 +2,13 @@
 layout: default
 title: Swift 5 cheatsheet
 description: A beautiful and clutter-free Swift 5 cheatsheet.
-redirect_from: 
+redirect_from:
   - /cheatsheet/
 ---
 {::options parse_block_html="true" /}
+
+{:.alert.alert-warning}
+This page has moved to [swiftly.dev/cheatsheet](https://swiftly.dev/cheatsheet)! The archive below will not be updated.
 
 Visit [Swiftly](https://swiftly.dev/) for more Swift guides.
 
