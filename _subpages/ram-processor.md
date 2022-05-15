@@ -526,11 +526,11 @@ redirect_from:
     <td>HomePod mini</td>
     <td>2020</td>
     <td rowspan="2">1 GB</td>
-    <td>A8</td>
+    <td>S5</td>
   </tr>
   <tr>
     <td>HomePod</td>
     <td>2018</td>
-    <td>S5</td>
+    <td>A8</td>
   </tr>
 </table>
