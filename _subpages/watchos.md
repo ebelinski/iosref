@@ -18,7 +18,7 @@ redirect_from:
     <td>Series 7</td>
     <td>2021</td>
     <td>8</td>
-    <td rowspan="6" class="green">8</td>
+    <td rowspan="5" class="green">9 <sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>Series 6</td>
@@ -42,6 +42,7 @@ redirect_from:
     <td>Series 3</td>
     <td>2017</td>
     <td>4</td>
+    <td class="light-green">8</td>
   </tr>
   <tr>
     <td>Series 2</td>
