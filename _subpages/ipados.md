@@ -20,7 +20,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPad Air (gen 5)</td>
     <td>2022</td>
     <td rowspan="3">15</td>
-    <td rowspan="21" class="green">15</td>
+    <td rowspan="20" class="green">16 <sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>iPad (gen 9)</td>
@@ -94,6 +94,7 @@ Before iPadOS 13, iPadOS was known as iOS.
   </tr>
   <tr>
     <td>iPad mini 4</td>
+    <td class="light-green">15</td>
   </tr>
   <tr>
     <td>iPad mini 3</td>
@@ -103,7 +104,7 @@ Before iPadOS 13, iPadOS was known as iOS.
   </tr>
   <tr>
     <td>iPad Air 2</td>
-    <td class="green">15</td>
+    <td class="light-green">15</td>
   </tr>
   <tr>
     <td>iPad mini 2</td>
