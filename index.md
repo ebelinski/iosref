@@ -34,10 +34,10 @@ layout: default
 
 ### Swift guides
 
-* [Closures](https://swiftly.dev/closures) ([mini](https://swiftly.dev/closures-mini/))
-* [Functions](https://swiftly.dev/functions)
-* [Control flow](/swift-control-flow)
-* [Dispatch](https://swiftly.dev/dispatch)
+* [Closures](https://swiftly.dev/closures) ([mini](https://swiftly.dev/closures-mini/))<sup class="ext">Ext</sup>
+* [Functions](https://swiftly.dev/functions)<sup class="ext">Ext</sup>
+* [Control flow](/swift-control-flow)<sup class="ext">Ext</sup>
+* [Dispatch](https://swiftly.dev/dispatch)<sup class="ext">Ext</sup>
 
 ### Guides
 
@@ -52,6 +52,11 @@ layout: default
 * [WTF, Auto Layout?](https://www.wtfautolayout.com/)<sup class="ext">Ext</sup>
 * [NSDateFormatter](http://nsdateformatter.com/)<sup class="ext">Ext</sup>
 * [API errors lookup](https://osstatus.com)<sup class="ext">Ext</sup>
+
+### Xcode
+
+* [Xcode Releases](https://xcodereleases.com/)<sup class="ext">Ext</sup>
+* [Xcode Build Settings](https://xcodebuildsettings.com/)<sup class="ext">Ext</sup>
 
 ### Apple docs
 
