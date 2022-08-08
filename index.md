@@ -11,12 +11,16 @@ layout: default
 * [Display tech by device](/display-tech)
 * [Fonts by iOS version](http://iosfonts.com/)<sup class="ext">Ext</sup>
 
-### OS
+### OS by device
 
 * [iOS version by device](/ios)
 * [iPadOS version by device](/ipados)
 * [watchOS version by device](/watchos)
 * [tvOS version by device](/tvos)
+
+### OS by usage
+
+* [iOS version usage](/ios-usage)
 
 ### Hardware
 
