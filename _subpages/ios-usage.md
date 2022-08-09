@@ -117,7 +117,7 @@ These figures were last updated on <b>August 8, 2022</b> using data from <a href
 
 ### See also
 
-* [iOS version by device](/ipados)
+* [iOS version by device](/ios)
 * [iPadOS version by device](/ipados)
 * [watchOS version by device](/watchos)
 * [tvOS version by device](/tvos)
