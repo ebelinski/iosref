@@ -25,10 +25,17 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <th>Max iOS</th>
   </tr>
   <tr>
+    <td>iPhone 14 Pro / 14 Pro Max</td>
+    <td rowspan="3">2022</td>
+    <td rowspan="2">16</td>
+    <td class="green" rowspan="14">16</td>
+  </tr>
+  <tr>
+    <td>iPhone 14 / 14 Plus</td>
+  </tr>
+  <tr>
     <td>iPhone SE (gen 3)</td>
-    <td>2022</td>
     <td rowspan="3">15</td>
-    <td class="green" rowspan="12">16 <sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>iPhone 13 Pro / 13 Pro Max</td>
