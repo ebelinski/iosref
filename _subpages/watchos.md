@@ -15,10 +15,21 @@ redirect_from:
     <th>Max watchOS</th>
   </tr>
   <tr>
+    <td>Ultra</td>
+    <td rowspan="3">2022</td>
+    <td rowspan="3">9</td>
+    <td rowspan="8" class="green">9</td>
+  </tr>
+  <tr>
+    <td>Series 8</td>
+  </tr>
+  <tr>
+    <td>SE (gen 2)</td>
+  </tr>
+  <tr>
     <td>Series 7</td>
     <td>2021</td>
     <td>8</td>
-    <td rowspan="5" class="green">9 <sup class="beta">BETA</sup></td>
   </tr>
   <tr>
     <td>Series 6</td>
@@ -26,7 +37,7 @@ redirect_from:
     <td rowspan="2">7</td>
   </tr>
   <tr>
-    <td>SE</td>
+    <td>SE (gen 1)</td>
   </tr>
   <tr>
     <td>Series 5</td>
