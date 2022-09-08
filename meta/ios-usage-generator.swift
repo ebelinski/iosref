@@ -1,7 +1,7 @@
 import Foundation
 
 /*
-Eugene's low tech iOS usage generator.
+Eugene's low tech iOS usage generator. Easiest to run this on CodeRunner for macOS.
 
 Steps:
 1. Go to https://gs.statcounter.com/ios-version-market-share/mobile-tablet/worldwide.
