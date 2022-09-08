@@ -90,55 +90,55 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td rowspan="2">9</td>
   </tr>
   <tr>
-    <td>iPhone 6s / 6s Plus</td>
+    <td>iPhone 6s / 6s Plus <span class="yellow-bubble">Vintage</span></td>
     <td>2015</td>
   </tr>
   <tr>
-    <td>iPhone 6 / 6 Plus</td>
+    <td>iPhone 6 / 6 Plus <span class="yellow-bubble">Vintage</span></td>
     <td>2014</td>
     <td>8</td>
     <td rowspan="2">12</td>
   </tr>
   <tr>
-    <td>iPhone 5s</td>
+    <td>iPhone 5s <span class="yellow-bubble">Vintage</span></td>
     <td rowspan="2">2013</td>
     <td rowspan="2">7</td>
   </tr>
   <tr>
-    <td>iPhone 5c</td>
+    <td>iPhone 5c <span class="yellow-bubble">Vintage</span></td>
     <td rowspan="2">10</td>
   </tr>
   <tr>
-    <td>iPhone 5</td>
+    <td>iPhone 5 <span class="yellow-bubble">Vintage</span></td>
     <td>2012</td>
     <td>6</td>
   </tr>
   <tr>
-    <td>iPhone 4s</td>
+    <td>iPhone 4s <span class="orange-bubble">Obsolete</span></td>
     <td>2011</td>
     <td>5</td>
     <td>9</td>
   </tr>
   <tr>
-    <td>iPhone 4</td>
+    <td>iPhone 4 <span class="orange-bubble">Obsolete</span></td>
     <td>2010</td>
     <td>4</td>
     <td>7</td>
   </tr>
   <tr>
-    <td>iPhone 3GS</td>
+    <td>iPhone 3GS <span class="orange-bubble">Obsolete</span></td>
     <td>2009</td>
     <td>3</td>
     <td>6</td>
   </tr>
   <tr>
-    <td>iPhone 3G</td>
+    <td>iPhone 3G <span class="orange-bubble">Obsolete</span></td>
     <td>2008</td>
     <td>2</td>
     <td>4</td>
   </tr>
   <tr>
-    <td>iPhone (gen 1)</td>
+    <td>iPhone (gen 1) <span class="orange-bubble">Obsolete</span></td>
     <td>2007</td>
     <td>1</td>
     <td>3</td>
@@ -304,31 +304,31 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>12</td>
   </tr>
   <tr>
-    <td>iPod touch (gen 5)</td>
+    <td>iPod touch (gen 5) <span class="yellow-bubble">Vintage</span></td>
     <td>2012</td>
     <td>6</td>
     <td>9</td>
   </tr>
   <tr>
-    <td>iPod touch (gen 4)</td>
+    <td>iPod touch (gen 4) <span class="yellow-bubble">Vintage</span></td>
     <td>2010</td>
     <td>4</td>
     <td>6</td>
   </tr>
   <tr>
-    <td>iPod touch (gen 3)</td>
+    <td>iPod touch (gen 3) <span class="orange-bubble">Obsolete</span></td>
     <td>2009</td>
     <td>3</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>iPod touch (gen 2)</td>
+    <td>iPod touch (gen 2) <span class="orange-bubble">Obsolete</span></td>
     <td>2008</td>
     <td>2</td>
     <td>4</td>
   </tr>
   <tr>
-    <td>iPod touch (gen 1)</td>
+    <td>iPod touch (gen 1) <span class="orange-bubble">Obsolete</span></td>
     <td>2007</td>
     <td>1</td>
     <td>3</td>

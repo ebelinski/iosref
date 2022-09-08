@@ -228,7 +228,38 @@ pre {
   }
 }
 
+.bubble {
+  display: inline-block;
+  font-size: 65%;
+  font-weight: bold;
+  background: #d1f2e3;
+  color: #547d6b;
+  padding: 1px 5px;
+  border-radius: 10px;
+  vertical-align: 10%;
+  margin-left: 3px;
+}
 
+.gray-bubble {
+  @extend .bubble;
+
+  background: #eee;
+  color: #888;
+}
+
+.yellow-bubble {
+  @extend .bubble;
+
+  background: #f2f2bf;
+  color: #9c9526;
+}
+
+.orange-bubble {
+  @extend .bubble;
+
+  background: #ffeed3;
+  color: #a86a1a;
+}
 
 // TODO: Refactor this later
 @media (prefers-color-scheme: dark) {
