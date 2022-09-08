@@ -224,12 +224,12 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPad (gen 5)</td>
   </tr>
   <tr>
-    <td>iPad Pro 9.7"</td>
+    <td>iPad Pro 9.7" <span class="yellow-bubble">Vintage</span></td>
     <td>2016</td>
     <td rowspan="3">9</td>
   </tr>
   <tr>
-    <td>iPad Pro 12.9" (gen 1)</td>
+    <td>iPad Pro 12.9" (gen 1) <span class="yellow-bubble">Vintage</span></td>
     <td rowspan="2">2015</td>
   </tr>
   <tr>
@@ -237,45 +237,45 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td class="light-green">15</td>
   </tr>
   <tr>
-    <td>iPad mini 3</td>
+    <td>iPad mini 3 <span class="yellow-bubble">Vintage</span></td>
     <td rowspan="2">2014</td>
     <td rowspan="2">8</td>
     <td>12</td>
   </tr>
   <tr>
-    <td>iPad Air 2</td>
+    <td>iPad Air 2 <span class="yellow-bubble">Vintage</span></td>
     <td class="light-green">15</td>
   </tr>
   <tr>
-    <td>iPad mini 2</td>
+    <td>iPad mini 2 <span class="yellow-bubble">Vintage</span></td>
     <td rowspan="2">2013</td>
     <td rowspan="2">7</td>
     <td rowspan="2">12</td>
   </tr>
   <tr>
-    <td>iPad Air (gen 1)</td>
+    <td>iPad Air (gen 1) <span class="yellow-bubble">Vintage</span></td>
   </tr>
   <tr>
-    <td>iPad (gen 4)</td>
+    <td>iPad (gen 4) <span class="orange-bubble">Obsolete</span></td>
     <td rowspan="3">2012</td>
     <td rowspan="2">6</td>
     <td>10</td>
   </tr>
   <tr>
-    <td>iPad mini (gen 1)</td>
+    <td>iPad mini (gen 1) <span class="orange-bubble">Obsolete</span></td>
     <td rowspan="3">9</td>
   </tr>
   <tr>
-    <td>iPad (gen 3)</td>
+    <td>iPad (gen 3) <span class="orange-bubble">Obsolete</span></td>
     <td>5</td>
   </tr>
   <tr>
-    <td>iPad 2</td>
+    <td>iPad 2 <span class="orange-bubble">Obsolete</span></td>
     <td>2011</td>
     <td>4</td>
   </tr>
   <tr>
-    <td>iPad (gen 1)</td>
+    <td>iPad (gen 1) <span class="orange-bubble">Obsolete</span></td>
     <td>2010</td>
     <td>3</td>
     <td>5</td>
