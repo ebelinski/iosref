@@ -65,7 +65,7 @@ redirect_from:
     <td>Series 1</td>
   </tr>
   <tr>
-    <td>Series 0<sup>1</sup></td>
+    <td>Series 0<sup>1</sup> <span class="yellow-bubble">Vintage</span></td>
     <td>2014</td>
     <td>1</td>
     <td>4</td>
