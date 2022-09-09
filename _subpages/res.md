@@ -33,19 +33,37 @@ redirect_from:
   </tr>
   <tr>
     <td class="nowrap">
-      <span class="strong">iPhone 13 Pro Max</span><br>
+      <span class="strong">iPhone 14 Pro</span><br>
+    </td>
+    <td>6.1"</td>
+    <td>393 × 852</td>
+    <td rowspan="4">@3x</td>
+    <td>1179 × 2556</td>
+    <td rowspan="8">9 : 19.5</td>
+    <td rowspan="2">460</td>
+  </tr>
+  <tr>
+    <td class="nowrap">
+      <span class="strong">iPhone 14 Pro Max</span><br>
+    </td>
+    <td rowspan="2">6.7"</td>
+    <td>430 × 932</td>
+    <td>1290 × 2796</td>
+  </tr>
+  <tr>
+    <td class="nowrap">
+      <span class="strong">iPhone 14 Plus</span><br>
+      <span class="soft">and 13 Pro Max</span><br>
       <span class="soft">and 12 Pro Max</span>
     </td>
-    <td>6.7"</td>
     <td>428 × 926</td>
-    <td rowspan="2">@3x</td>
     <td>1284 × 2778</td>
-    <td rowspan="6">9 : 19.5</td>
     <td>458</td>
   </tr>
   <tr>
     <td class="nowrap">
-      <span class="strong">iPhone 13 / 13 Pro</span><br>
+      <span class="strong">iPhone 14</span><br>
+      <span class="soft">and 13 / 13 Pro</span><br>
       <span class="soft">and 12 / 12 Pro</span>
     </td>
     <td>6.1"</td>
