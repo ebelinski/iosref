@@ -27,8 +27,24 @@ redirect_from:
     <th>Hardware strings</th>
   </tr>
   <tr>
+    <td>iPhone 14 Pro Max</td>
+    <td rowspan="5">2022</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>iPhone 14 Pro</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>iPhone 14 Plus</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>iPhone 14</td>
+    <td>?</td>
+  </tr>
+  <tr>
     <td>iPhone SE (gen 3)</td>
-    <td>2022</td>
     <td>?</td>
   </tr>
   <tr>
@@ -331,6 +347,19 @@ redirect_from:
     <th>Device</th>
     <th>Released</th>
     <th>Hardware strings</th>
+  </tr>
+  <tr>
+    <td>Ultra</td>
+    <td rowspan="3">2022</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>Series 7</td>
+    <td>?</td>
+  </tr>
+  <tr>
+    <td>SE (gen 2)</td>
+    <td>?</td>
   </tr>
   <tr>
     <td>Series 7</td>
