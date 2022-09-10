@@ -25,12 +25,26 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
+    <td>iPhone 14 Pro Max</td>
+    <td rowspan="5">2022</td>
+    <td rowspan="4">6 GB</td>
+    <td rowspan="4" colspan="2">A16 Bionic</td>
+    <td rowspan="31">64-bit</td>
+  </tr>
+  <tr>
+    <td>iPhone 14 Pro</td>
+  </tr>
+  <tr>
+    <td>iPhone 14 Plus</td>
+  </tr>
+  <tr>
+    <td>iPhone 14</td>
+  </tr>
+  <tr>
     <td>iPhone SE (gen 3)</td>
-    <td>2022</td>
     <td>4 GB</td>
     <td rowspan="5">A15 Bionic</td>
     <td>4-core GPU</td>
-    <td rowspan="27">64-bit</td>
   </tr>
   <tr>
     <td>iPhone 13 Pro Max</td>
