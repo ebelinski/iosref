@@ -366,11 +366,23 @@ redirect_from:
     <th><a href="https://developer.apple.com/library/content/documentation/General/Conceptual/WatchKitProgrammingGuide/Menus.html">Force Touch</a></th>
   </tr>
   <tr>
+    <td>Ultra</td>
+    <td rowspan="3">2022</td>
+    <td rowspan="12">OLED Retina</td>
+    <td rowspan="2" class="green">Yes</td>
+    <td rowspan="6">No</td>
+  </tr>
+  <tr>
+    <td>Series 8</td>
+  </tr>
+  <tr>
+    <td>SE (gen 2)</td>
+    <td>No</td>
+  </tr>
+  <tr>
     <td>Series 7</td>
     <td>2021</td>
-    <td rowspan="9">OLED Retina</td>
     <td rowspan="2" class="green">Yes</td>
-    <td rowspan="3">No</td>
   </tr>
   <tr>
     <td>Series 6</td>
