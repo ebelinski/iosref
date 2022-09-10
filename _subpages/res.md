@@ -281,34 +281,45 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">Apple Watch 45mm</span><br>
-      <span class="soft">Series 7</span>
+      <span class="strong">Apple Watch 49mm</span><br>
+      <span class="soft">Ultra</span>
     </td>
-    <td rowspan="2">TBD</td>
-    <td rowspan="2">TBD</td>
-    <td rowspan="2">TBD</td>
-    <td rowspan="2">TBD</td>
+    <td>1.92"</td>
+    <td>410 × 502</td>
+    <td rowspan="7">~ 4 : 5</td>
+    <td>TBD</td>
+  </tr>
+  <tr>
+    <td>
+      <span class="strong">Apple Watch 45mm</span><br>
+      <span class="soft">Series 8, 7</span>
+    </td>
+    <td>1.77"</td>
+    <td>396 × 484</td>
+    <td>TBD</td>
   </tr>
   <tr>
     <td>
       <span class="strong">Apple Watch 41mm</span><br>
-      <span class="soft">Series 7</span>
+      <span class="soft">Series 8, 7</span>
     </td>
+    <td>1.61"</td>
+    <td>352 × 430</td>
+    <td>TBD</td>
   </tr>
   <tr>
     <td>
       <span class="strong">Apple Watch 44mm</span><br>
-      <span class="soft">Series 6, SE, 5, 4</span>
+      <span class="soft">SE (gen 2, 1), Series 6, 5, 4</span>
     </td>
     <td>1.73"</td>
     <td>368 × 448</td>
-    <td rowspan="4">4 : 5</td>
     <td rowspan="4">326</td>
   </tr>
   <tr>
     <td>
       <span class="strong">Apple Watch 40mm</span><br>
-      <span class="soft">Series 6, SE, 5, 4</span>
+      <span class="soft">SE (gen 2, 1), Series 6, 5, 4</span>
     </td>
     <td>1.57"</td>
     <td>324 × 394</td>
