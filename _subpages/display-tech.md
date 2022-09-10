@@ -29,12 +29,25 @@ redirect_from:
     <th><a href="https://developer.apple.com/ios/3d-touch/">3D Touch</a></th>
   </tr>
   <tr>
+    <td>iPhone 14 Pro Max</td>
+    <td rowspan="5">2022</td>
+    <td rowspan="4" class="green">OLED Retina</td>
+    <td rowspan="23" class="green">Yes</td>
+    <td rowspan="25" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
+    <td rowspan="17">No</td>
+  </tr>
+  <tr>
+    <td>iPhone 14 Pro</td>
+  </tr>
+  <tr>
+    <td>iPhone 14 Plus</td>
+  </tr>
+  <tr>
+    <td>iPhone 14</td>
+  </tr>
+  <tr>
     <td>iPhone SE (gen 3)</td>
-    <td>2022</td>
     <td>LCD Retina</td>
-    <td rowspan="19" class="green">Yes</td>
-    <td rowspan="21" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
-    <td rowspan="13">No</td>
   </tr>
   <tr>
     <td>iPhone 13 Pro Max</td>
