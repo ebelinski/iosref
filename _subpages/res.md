@@ -287,7 +287,7 @@ redirect_from:
     <td>1.92"</td>
     <td>410 × 502</td>
     <td rowspan="7">~ 4 : 5</td>
-    <td>TBD</td>
+    <td rowspan="3">TBD</td>
   </tr>
   <tr>
     <td>
@@ -296,7 +296,6 @@ redirect_from:
     </td>
     <td>1.77"</td>
     <td>396 × 484</td>
-    <td>TBD</td>
   </tr>
   <tr>
     <td>
@@ -305,7 +304,6 @@ redirect_from:
     </td>
     <td>1.61"</td>
     <td>352 × 430</td>
-    <td>TBD</td>
   </tr>
   <tr>
     <td>
