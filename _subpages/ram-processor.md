@@ -367,12 +367,25 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
+    <td>Ultra</td>
+    <td rowspan="3">2022</td>
+    <td rowspan="3">?</td>
+    <td rowspan="3">?</td>
+    <td rowspan="3">S8</td>
+    <td rowspan="8">64-bit</td>
+  </tr>
+  <tr>
+    <td>Series 7</td>
+  </tr>
+  <tr>
+    <td>SE (gen 2)</td>
+  </tr>
+  <tr>
     <td>Series 7</td>
     <td>2021</td>
     <td rowspan="5">1 GB</td>
     <td rowspan="4">32 GB</td>
     <td>S7</td>
-    <td rowspan="5">64-bit</td>
   </tr>
   <tr>
     <td>Series 6</td>
@@ -380,7 +393,7 @@ redirect_from:
     <td>S6</td>
   </tr>
   <tr>
-    <td>SE</td>
+    <td>SE (gen 1)</td>
     <td rowspan="2">S5</td>
   </tr>
   <tr>
