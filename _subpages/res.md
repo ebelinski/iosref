@@ -184,8 +184,7 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong nowrap">iPad Pro 12.9" (gen 5)</span><br>
-      <span class="soft">and Pro 12.9" (gen 4), Pro 12.9" (gen 3), Pro 12.9" (gen 2), Pro 12.9" (gen 1)</span>
+      <span class="strong nowrap">iPad Pro 12.9" (gen 5, 4, 3, 2, 1)</span>
     </td>
     <td>12.9"</td>
     <td class="nowrap">1024 × 1366</td>
@@ -196,8 +195,7 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad Pro 11" (gen 3)</span><br>
-      <span class="soft">and Pro 11" (gen 2), Pro 11" (gen 1)</span>
+      <span class="strong">iPad Pro 11" (gen 3, 2, 1)</span>
     </td>
     <td>11"</td>
     <td>834 × 1194</td>
@@ -205,8 +203,7 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad Air (gen 5)</span><br>
-      <span class="soft">and Air (gen 4)</span>
+      <span class="strong">iPad Air (gen 5, 4)</span>
     </td>
     <td>10.9"</td>
     <td>820 × 1180</td>
@@ -215,8 +212,7 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad (gen 9)</span><br>
-      <span class="soft">and iPad (gen 8), iPad (gen 7)</span>
+      <span class="strong">iPad (gen 9, 8, 7)</span>
     </td>
     <td>10.2"</td>
     <td>810 × 1080</td>
@@ -244,8 +240,8 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad (gen 6)</span><br>
-      <span class="soft">and iPad (gen 5), iPad Pro 9.7", Air 2, Air (gen 1), iPad 4, iPad (gen 3)</span>
+      <span class="strong">iPad (gen 6, 5)</span><br>
+      <span class="soft">and iPad Pro 9.7", Air 2, Air (gen 1), iPad 4, iPad (gen 3)</span>
     </td>
     <td>9.7"</td>
     <td rowspan="4">768 × 1024</td>
@@ -253,8 +249,7 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad mini (gen 5)</span><br>
-      <span class="soft">and mini 4, mini 3, mini 2</span>
+      <span class="strong">iPad mini (gen 5, 4, 3, 2)</span>
     </td>
     <td rowspan="2">7.9"</td>
     <td>326</td>
@@ -267,8 +262,7 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad (gen 2)</span><br>
-      <span class="soft">and iPad (gen 1)</span>
+      <span class="strong">iPad (gen 2, 1)</span>
     </td>
     <td>9.7"</td>
     <td>132</td>
