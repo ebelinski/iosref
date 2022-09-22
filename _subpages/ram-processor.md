@@ -28,7 +28,7 @@ redirect_from:
     <td>iPhone 14 Pro Max</td>
     <td rowspan="5">2022</td>
     <td rowspan="4">6 GB</td>
-    <td rowspan="4" colspan="2">A16 Bionic</td>
+    <td rowspan="2" colspan="2">A16 Bionic</td>
     <td rowspan="31">64-bit</td>
   </tr>
   <tr>
@@ -36,6 +36,8 @@ redirect_from:
   </tr>
   <tr>
     <td>iPhone 14 Plus</td>
+    <td rowspan="7">A15 Bionic</td>
+    <td rowspan="2">5-core GPU</td>
   </tr>
   <tr>
     <td>iPhone 14</td>
@@ -43,7 +45,6 @@ redirect_from:
   <tr>
     <td>iPhone SE (gen 3)</td>
     <td>4 GB</td>
-    <td rowspan="5">A15 Bionic</td>
     <td>4-core GPU</td>
   </tr>
   <tr>
