@@ -4,6 +4,7 @@ title: iOS version usage
 description: Table showing the cumulative usage percentage of each major iOS version, along with information about which iPhone devices each iOS version is the max iOS version for.
 redirect_from:
   - /ios-version-usage/
+  - /usage/
 ---
 
 {::options parse_block_html="true" /}
