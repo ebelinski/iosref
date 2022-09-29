@@ -7,7 +7,7 @@ redirect_from:
   - /ios-ver/
 ---
 
-These tables show the first and maximum version of iOS or iPadOS for each iPhone, iPad, and iPod touch. Only major versions (e.g. iOS 13) are shown, not point releases (e.g. iOS 13.5.1).
+These tables show the first and maximum version of iOS or iPadOS for each iPhone, iPad, and iPod touch. Only major versions (e.g. <i>iOS 13</i>) are shown, not point releases (e.g. <i>iOS 13.5.1</i>). Information about which devices are vintage/obsolete was obtained from <a href="https://support.apple.com/en-us/HT201624">this page</a>.
 
 {::options parse_block_html="true" /}
 <div id="compact-toc">
