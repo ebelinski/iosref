@@ -5,6 +5,9 @@ description: A table showing the first and maximum tvOS versions for Apple TV.
 redirect_from:
   - /tvos-versions/
   - /tvos-ver/
+  - /tv/
+  - /apple-tv/
+  - /appletv/
 ---
 
 tvOS is an iOS-based operating system for Apple TV.
@@ -50,13 +53,13 @@ The second and third Apple TV ran a more stripped-down version of iOS known as "
     <th>Max Apple TV Software</th>
   </tr>
   <tr>
-    <td>Apple TV (gen 3)</td>
+    <td>Apple TV (gen 3) <span class="orange-bubble">Obsolete</span></td>
     <td>2012</td>
     <td>5 (≈ iOS 5)</td>
     <td>7 (≈ iOS 8)</td>
   </tr>
   <tr>
-    <td>Apple TV (gen 2)</td>
+    <td>Apple TV (gen 2) <span class="orange-bubble">Obsolete</span></td>
     <td>2010</td>
     <td>4 (≈ iOS 4)</td>
     <td>6 (≈ iOS 7)</td>
@@ -75,7 +78,7 @@ The first Apple TV ran a modified version of Mac OS X 10.4 Tiger, also called "A
     <th>Max Apple TV Software</th>
   </tr>
   <tr>
-    <td>Apple TV (gen 1)</td>
+    <td>Apple TV (gen 1) <span class="orange-bubble">Obsolete</span></td>
     <td>2007</td>
     <td>1 (≈ OS X 10.4)</td>
     <td>3 (≈ OS X 10.4)</td>
