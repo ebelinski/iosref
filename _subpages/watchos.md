@@ -7,6 +7,8 @@ redirect_from:
   - /watcos-ver/
 ---
 
+Information about which Apple Watches are vintage/obsolete was obtained from <a href="https://support.apple.com/en-us/HT201624">this page</a>.
+
 <table>
   <tr>
     <th>Apple Watch</th>

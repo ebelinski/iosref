@@ -7,7 +7,7 @@ redirect_from:
   - /ipados-versions/
 ---
 
-Before iPadOS 13, iPadOS was known as iOS.
+Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vintage/obsolete was obtained from <a href="https://support.apple.com/en-us/HT201624">this page</a>.
 
 <table class="full-width">
   <tr>

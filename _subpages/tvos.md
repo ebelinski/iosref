@@ -10,7 +10,7 @@ redirect_from:
   - /appletv/
 ---
 
-tvOS is an iOS-based operating system for Apple TV.
+tvOS is an iOS-based operating system for Apple TV. Information about which Apple TVs are vintage/obsolete was obtained from <a href="https://support.apple.com/en-us/HT201624">this page</a>.
 
 ### Apple TV with tvOS
 
