@@ -184,18 +184,18 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong nowrap">iPad Pro 12.9" (gen 5, 4, 3, 2, 1)</span>
+      <span class="strong nowrap">iPad Pro 12.9" (gen 6, 5, 4, 3, 2, 1)</span>
     </td>
     <td>12.9"</td>
     <td class="nowrap">1024 × 1366</td>
-    <td rowspan="8">@2x</td>
+    <td rowspan="9">@2x</td>
     <td class="nowrap">2048 × 2732</td>
     <td rowspan="2">3 : 4</td>
-    <td rowspan="4">264</td>
+    <td rowspan="5">264</td>
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad Pro 11" (gen 3, 2, 1)</span>
+      <span class="strong">iPad Pro 11" (gen 4, 3, 2, 1)</span>
     </td>
     <td>11"</td>
     <td>834 × 1194</td>
@@ -203,12 +203,19 @@ redirect_from:
   </tr>
   <tr>
     <td>
+      <span class="strong">iPad (gen 10)</span>
+    </td>
+    <td rowspan="2">10.9"</td>
+    <td>810 × 1080</td>
+    <td>1640 × 2360</td>
+    <td rowspan="2">16 : 23</td>
+  </tr>
+  <tr>
+    <td>
       <span class="strong">iPad Air (gen 5, 4)</span>
     </td>
-    <td>10.9"</td>
     <td>820 × 1180</td>
     <td>1640 × 2360</td>
-    <td>16 : 23</td>
   </tr>
   <tr>
     <td>
