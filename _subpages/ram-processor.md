@@ -217,7 +217,7 @@ redirect_from:
   </tr>
   <tr>
     <td>iPad (gen 10)</td>
-    <td>?</td>
+    <td>4 GB</td>
     <td>A14 Bionic</td>
   </tr>
   <tr>
