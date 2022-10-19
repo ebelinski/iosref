@@ -206,11 +206,24 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
+    <td>iPad Pro 12.9" (gen 6)</td>
+    <td rowspan="4">2022</td>
+    <td rowspan="2">8 GB<br>16 GB (1-2 TB models)</td>
+    <td rowspan="2">M2</td>
+    <td rowspan="28">64-bit</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 11" (gen 4)</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 10)</td>
+    <td>?</td>
+    <td>A14 Bionic</td>
+  </tr>
+  <tr>
     <td>iPad Air (gen 5)</td>
-    <td>2022</td>
     <td>8 GB</td>
     <td>M1</td>
-    <td rowspan="25">64-bit</td>
   </tr>
   <tr>
     <td>iPad (gen 9)</td>

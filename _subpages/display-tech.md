@@ -196,11 +196,28 @@ redirect_from:
     <th>Pencil support</th>
   </tr>
   <tr>
-    <td>iPad Air (gen 5)</td>
-    <td>2022</td>
+    <td>iPad Pro 12.9" (gen 6)</td>
+    <td rowspan="4">2022</td>
+    <td>Liquid Retina XDR</td>
+    <td rowspan="2" class="green">Yes</td>
+    <td rowspan="9" class="green">Yes</td>
+    <td rowspan="2" class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
+    <td rowspan="2" class="green">Pencil 2</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 11" (gen 4)</td>
     <td>Liquid Retina</td>
-    <td rowspan="3">No</td>
-    <td rowspan="6" class="green">Yes</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 10)</td>
+    <td>Retina</td>
+    <td rowspan="4">No</td>
+    <td>Full sRGB standard</td>
+    <td class="light-green">Pencil 1</td>
+  </tr>
+  <tr>
+    <td>iPad Air (gen 5)</td>
+    <td>Liquid Retina</td>
     <td class="green"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
     <td class="green">Pencil 2</td>
   </tr>
