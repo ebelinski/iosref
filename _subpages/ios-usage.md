@@ -22,25 +22,25 @@ The following table displays the cumulative usage of each major version of iOS.
   <tr>
     <td>iOS 16</td>
     <td>2022</td>
-    {% include progress-cell.html rowspan=1 percentage=30.0 %}
+    {% include progress-cell.html rowspan=1 percentage=40.5 %}
     <td><i>Not applicable</i></td>
   </tr>
   <tr>
     <td>iOS 15</td>
     <td>2021</td>
-    {% include progress-cell.html rowspan=1 percentage=87.5 %}
+    {% include progress-cell.html rowspan=1 percentage=87.7 %}
     <td>iPhone 7, iPhone SE (gen 1), iPhone 6s</td>
   </tr>
   <tr>
     <td>iOS 14</td>
     <td>2020</td>
-    {% include progress-cell.html rowspan=1 percentage=94.6 %}
+    {% include progress-cell.html rowspan=1 percentage=94.3 %}
     <td rowspan="2">—</td>
   </tr>
   <tr>
     <td>iOS 13</td>
     <td>2019</td>
-    {% include progress-cell.html rowspan=1 percentage=95.8 %}
+    {% include progress-cell.html rowspan=1 percentage=95.6 %}
   </tr>
   <tr>
     <td>iOS 12</td>
@@ -114,7 +114,7 @@ The following table displays the cumulative usage of each major version of iOS.
 </table>
 </div>
 
-These figures were last updated on <b>November 3, 2022</b> using data from <a href="https://gs.statcounter.com/ios-version-market-share/mobile-tablet/worldwide">Statcounter GlobalStats</a> and <a href="https://github.com/ebelinski/iosref/blob/main/meta/ios-usage-generator.swift">this script</a>. You may update the figures yourself with a <a href="https://github.com/ebelinski/iosref">pull request</a>.
+These figures were last updated on <b>December 6, 2022</b> using data from <a href="https://gs.statcounter.com/ios-version-market-share/mobile-tablet/worldwide">Statcounter GlobalStats</a> and <a href="https://github.com/ebelinski/iosref/blob/main/meta/ios-usage-generator.swift">this script</a>. You may update the figures yourself with a <a href="https://github.com/ebelinski/iosref">pull request</a>.
 
 ### See also
 
