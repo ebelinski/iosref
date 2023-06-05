@@ -20,7 +20,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vin
     <td>iPad Pro 12.9" (gen 6)</td>
     <td rowspan="4">2022</td>
     <td rowspan="3">16</td>
-    <td rowspan="23" class="green">16</td>
+    <td rowspan="19" class="green">17 <sup class="beta">Beta</sup></td>
   </tr>
   <tr>
     <td>iPad Pro 11" (gen 4)</td>
@@ -89,6 +89,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vin
   </tr>
   <tr>
     <td>iPad Pro 10.5"</td>
+    <td rowspan="4" class="light-green">16</td>
   </tr>
   <tr>
     <td>iPad (gen 5)</td>
@@ -104,7 +105,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vin
   </tr>
   <tr>
     <td>iPad mini 4</td>
-    <td class="light-green">15</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>iPad mini 3 <span class="yellow-bubble">Vintage</span></td>
@@ -114,7 +115,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vin
   </tr>
   <tr>
     <td>iPad Air 2 <span class="yellow-bubble">Vintage</span></td>
-    <td class="light-green">15</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>iPad mini 2 <span class="yellow-bubble">Vintage</span></td>
