@@ -20,10 +20,16 @@ The following table displays the cumulative usage of each major version of iOS.
     <th>Last iOS for</th>
   </tr>
   <tr>
+    <td>iOS 17 <sup class="beta">Beta</sup></td>
+    <td>2023</td>
+    <td>—</td>
+    <td><i>Not applicable</i></td>
+  </tr>
+  <tr>
     <td>iOS 16</td>
     <td>2022</td>
     {% include progress-cell.html rowspan=1 percentage=74.9 %}
-    <td><i>Not applicable</i></td>
+    <td>iPhone X, iPhone 8</td>
   </tr>
   <tr>
     <td>iOS 15</td>
