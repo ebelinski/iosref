@@ -28,7 +28,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td>iPhone 14 Pro / 14 Pro Max</td>
     <td rowspan="3">2022</td>
     <td rowspan="2">16</td>
-    <td class="green" rowspan="14">16</td>
+    <td class="green" rowspan="12">17 <sup class="beta">Beta</sup></td>
   </tr>
   <tr>
     <td>iPhone 14 / 14 Plus</td>
@@ -75,6 +75,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td>iPhone X</td>
     <td rowspan="2">2017</td>
     <td rowspan="2">11</td>
+    <td class="light-green" rowspan="2">16</td>
   </tr>
   <tr>
     <td>iPhone 8 / 8 Plus</td>
@@ -83,7 +84,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td>iPhone 7 / 7 Plus</td>
     <td rowspan="2">2016</td>
     <td>10</td>
-    <td class="light-green" rowspan="3">15</td>
+    <td rowspan="3">15</td>
   </tr>
   <tr>
     <td>iPhone SE (gen 1)</td>
