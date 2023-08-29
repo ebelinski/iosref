@@ -10,8 +10,8 @@ Steps:
 */
 
 let data = """
-"Date","iOS 15.6","iOS 15.5","iOS 16.1","iOS 15.4","iOS 16.0","iOS 16.3","iOS 16.2","iOS 15.3","iOS 15.7","iOS 14.8","iOS 12.5","iOS 14.7","iOS 14.4","iOS 14.6","iOS 16.4","iOS 15.1","iOS 15.2","iOS 15.0","iOS 10.3","iOS 14.2","iOS 9.3","iOS 14.3","iOS 13.6","iOS 13.3","iOS 14.0","iOS 12.4","iOS 13.5","iOS 14.5","iOS 13.7","iOS 14.1","iOS 13.1","iOS 13.4","iOS 12.1","iOS 11.0","iOS 12.3","iOS 13.2","iOS 11.4","iOS 11.3","iOS 7.0","iOS 12.2","iOS 11.2","iOS 9.1","iOS 12.0","iOS 7.1","iOS 10.2","iOS 6.0","iOS 9.2","iOS 9.0","iOS 8.4","iOS 16.5","iOS 11.1","iOS 8.1","iOS 13.0","iOS 5.0","iOS 4.3","iOS 10.1","iOS 6.1","iOS 10.0","iOS 5.1","iOS 8.3","Other"
-2023-04,5.22,1.93,12.16,1.2,5.86,34.15,7.2,0.63,5.74,1.19,1.95,0.79,0.71,0.59,15.22,0.52,0.42,0.34,0.43,0.3,0.34,0.22,0.22,0.19,0.14,0.17,0.13,0.13,0.14,0.12,0.07,0.08,0.09,0.08,0.08,0.13,0.06,0.08,0.07,0.05,0.04,0.03,0.03,0.04,0.02,0.03,0.03,0.02,0.08,0.33,0.01,0.05,0.01,0.02,0.02,0.01,0.01,0.01,0.01,0.02,0.05
+Date,"iOS 15.6","iOS 16.1","iOS 16.3","iOS 16.0","iOS 15.5","iOS 16.5","iOS 16.2","iOS 16.4","iOS 15.7","iOS 12.5","iOS 15.4","iOS 14.8","iOS 14.7","iOS 15.3","iOS 14.4","iOS 14.6","iOS 15.1","iOS 15.2","iOS 10.3","iOS 15.0","iOS 14.2","iOS 9.3","iOS 14.3","iOS 13.6","iOS 13.3","iOS 12.4","iOS 14.0","iOS 13.5","iOS 13.7","iOS 14.5","iOS 14.1","iOS 13.1","iOS 13.2","iOS 16.6","iOS 11.0","iOS 12.1","iOS 13.4","iOS 12.3","iOS 11.3","iOS 11.4","iOS 7.0","iOS 12.2","iOS 9.1","iOS 11.2","iOS 12.0","iOS 17.0","iOS 7.1","iOS 8.4","iOS 9.2","iOS 10.2","iOS 6.0","iOS 9.0","iOS 8.1","iOS 4.3","iOS 11.1","iOS 5.0","iOS 13.0","iOS 5.1","iOS 8.3","iOS 10.0","Other"
+2023-07,3.2,7,7.69,3.67,1.34,54.62,3.63,2.11,5.44,1.64,0.93,0.84,0.61,0.48,0.55,0.48,0.41,0.33,0.39,0.31,0.24,0.29,0.18,0.17,0.13,0.13,0.1,0.08,0.11,0.1,0.09,0.05,0.07,1.26,0.16,0.07,0.05,0.06,0.09,0.05,0.06,0.04,0.03,0.03,0.03,0.4,0.02,0.02,0.02,0.02,0.02,0.02,0.01,0.02,0.02,0.02,0.01,0.01,0.01,0.01,0.03
 """
 
 let rows = data.split(separator: "\n")
@@ -19,6 +19,7 @@ let rows = data.split(separator: "\n")
 let iOSVersions = Array(rows[0].split(separator: ",")[1...])
 let percentages = Array(rows[1].split(separator: ",")[1...])
 
+var iOS17 = 0.0
 var iOS16 = 0.0
 var iOS15 = 0.0
 var iOS14 = 0.0
@@ -37,41 +38,44 @@ var iOS2 = 0.0
 var iOS1 = 0.0
 
 for i in 0..<iOSVersions.count {
-	if String(iOSVersions[i]).contains("iOS 16.") {
-		iOS16 += Double(percentages[i])!
-	} else	if String(iOSVersions[i]).contains("iOS 15.") {
-		iOS15 += Double(percentages[i])!
-	} else	if String(iOSVersions[i]).contains("iOS 14.") {
-		iOS14 += Double(percentages[i])!
-	} else	if String(iOSVersions[i]).contains("iOS 13.") {
-		iOS13 += Double(percentages[i])!
-	} else	if String(iOSVersions[i]).contains("iOS 12.") {
-		iOS12 += Double(percentages[i])!
-	} else	if String(iOSVersions[i]).contains("iOS 11.") {
-		iOS11 += Double(percentages[i])!
-	} else	if String(iOSVersions[i]).contains("iOS 10.") {
-		iOS10 += Double(percentages[i])!
-	} else	if String(iOSVersions[i]).contains("iOS 9.") {
-		iOS9 += Double(percentages[i])!
-	} else	if String(iOSVersions[i]).contains("iOS 8.") {
-		iOS8 += Double(percentages[i])!
-	} else	if String(iOSVersions[i]).contains("iOS 7.") {
-		iOS7 += Double(percentages[i])!
-	} else	if String(iOSVersions[i]).contains("iOS 6.") {
-		iOS6 += Double(percentages[i])!
-	} else	if String(iOSVersions[i]).contains("iOS 5.") {
-		iOS5 += Double(percentages[i])!
-	} else	if String(iOSVersions[i]).contains("iOS 4.") {
-		iOS4 += Double(percentages[i])!
-	} else	if String(iOSVersions[i]).contains("iOS 3.") {
-		iOS3 += Double(percentages[i])!
-	} else	if String(iOSVersions[i]).contains("iOS 2.") {
-		iOS2 += Double(percentages[i])!
-	} else	if String(iOSVersions[i]).contains("iOS 1.") {
-		iOS1 += Double(percentages[i])!
-	}
+    if String(iOSVersions[i]).contains("iOS 17.") {
+        iOS17 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 16.") {
+        iOS16 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 15.") {
+        iOS15 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 14.") {
+        iOS14 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 13.") {
+        iOS13 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 12.") {
+        iOS12 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 11.") {
+        iOS11 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 10.") {
+        iOS10 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 9.") {
+        iOS9 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 8.") {
+        iOS8 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 7.") {
+        iOS7 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 6.") {
+        iOS6 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 5.") {
+        iOS5 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 4.") {
+        iOS4 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 3.") {
+        iOS3 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 2.") {
+        iOS2 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 1.") {
+        iOS1 += Double(percentages[i])!
+    }
 }
 
+iOS16 += iOS17
 iOS15 += iOS16
 iOS14 += iOS15
 iOS13 += iOS14
@@ -89,6 +93,7 @@ iOS2 += iOS3
 iOS1 += iOS2
 
 // Round to 1 decimal place
+iOS17 = round(iOS17 * 10) / 10.0
 iOS16 = round(iOS16 * 10) / 10.0
 iOS15 = round(iOS15 * 10) / 10.0
 iOS14 = round(iOS14 * 10) / 10.0
@@ -106,6 +111,7 @@ iOS3 = round(iOS3 * 10) / 10.0
 iOS2 = round(iOS2 * 10) / 10.0
 iOS1 = round(iOS1 * 10) / 10.0
 
+print("iOS 17: \(iOS17)")
 print("iOS 16: \(iOS16)")
 print("iOS 15: \(iOS15)")
 print("iOS 14: \(iOS14)")
