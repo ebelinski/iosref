@@ -52,9 +52,9 @@ redirect_from:
   </tr>
   <tr>
     <td class="nowrap">
-      <span class="strong">iPhone 14 Plus</span><br>
-      <span class="soft">and 13 Pro Max</span><br>
-      <span class="soft">and 12 Pro Max</span>
+      <span class="strong">iPhone 14 Plus</span>
+      <br><span class="soft">and 13 Pro Max</span>
+      <br><span class="soft">and 12 Pro Max</span>
     </td>
     <td>428 × 926</td>
     <td>1284 × 2778</td>
@@ -62,9 +62,9 @@ redirect_from:
   </tr>
   <tr>
     <td class="nowrap">
-      <span class="strong">iPhone 14</span><br>
-      <span class="soft">and 13 / 13 Pro</span><br>
-      <span class="soft">and 12 / 12 Pro</span>
+      <span class="strong">iPhone 14</span>
+      <br><span class="soft">and 13 / 13 Pro</span>
+      <br><span class="soft">and 12 / 12 Pro</span>
     </td>
     <td>6.1"</td>
     <td>390 × 844</td>
@@ -73,8 +73,8 @@ redirect_from:
   </tr>
   <tr>
     <td class="nowrap">
-      <span class="strong">iPhone 13 mini</span><br>
-      <span class="soft">and 12 mini</span>
+      <span class="strong">iPhone 13 mini</span>
+      <br><span class="soft">and 12 mini</span>
     </td>
     <td>5.4"</td>
     <td>375 × 812</td>
@@ -84,8 +84,8 @@ redirect_from:
   </tr>
   <tr>
     <td class="nowrap">
-      <span class="strong">iPhone 11 Pro Max</span><br>
-      <span class="soft">and XS Max</span>
+      <span class="strong">iPhone 11 Pro Max</span>
+      <br><span class="soft">and XS Max</span>
     </td>
     <td>6.5"</td>
     <td>414 × 896</td>
@@ -95,8 +95,8 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPhone 11 Pro</span><br>
-      <span class="soft">and XS, X</span>
+      <span class="strong">iPhone 11 Pro</span>
+      <br><span class="soft">and XS, X</span>
     </td>
     <td>5.8"</td>
     <td>375 × 812</td>
@@ -115,8 +115,8 @@ redirect_from:
   </tr>
   <tr>
     <td class="nowrap">
-      <span class="strong">iPhone 8+</span><br>
-      <span class="soft">and 7+, 6s+, 6+</span>
+      <span class="strong">iPhone 8+</span>
+      <br><span class="soft">and 7+, 6s+, 6+</span>
     </td>
     <td>5.5"</td>
     <td>414 × 736</td>
@@ -127,8 +127,8 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPhone SE (gen 3)</span><br>
-      <span class="soft">and SE (gen 2), 8, 7, 6s, 6</span>
+      <span class="strong">iPhone SE (gen 3)</span>
+      <br><span class="soft">and SE (gen 2), 8, 7, 6s, 6</span>
     </td>
     <td>4.7"</td>
     <td>375 × 667</td>
@@ -138,8 +138,8 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPhone SE (gen 1)</span><br>
-      <span class="soft">and 5s, 5c, 5</span>
+      <span class="strong">iPhone SE (gen 1)</span>
+      <br><span class="soft">and 5s, 5c, 5</span>
     </td>
     <td>4"</td>
     <td>320 × 568</td>
@@ -147,8 +147,8 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPhone 4s</span><br>
-      <span class="soft">and 4</span>
+      <span class="strong">iPhone 4s</span>
+      <br><span class="soft">and 4</span>
     </td>
     <td rowspan="2">3.5"</td>
     <td rowspan="2">320 × 480</td>
@@ -157,8 +157,8 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPhone 3GS</span><br>
-      <span class="soft">and 3G, gen 1</span>
+      <span class="strong">iPhone 3GS</span>
+      <br><span class="soft">and 3G, gen 1</span>
     </td>
     <td>@1x</td>
     <td>320 × 480</td>
@@ -236,8 +236,8 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad Air (gen 3)</span><br>
-      <span class="soft">and iPad Pro 10.5"</span>
+      <span class="strong">iPad Air (gen 3)</span>
+      <br><span class="soft">and iPad Pro 10.5"</span>
     </td>
     <td>10.5"</td>
     <td>834 × 1112</td>
@@ -247,8 +247,8 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad (gen 6, 5)</span><br>
-      <span class="soft">and iPad Pro 9.7", Air 2, Air (gen 1), iPad 4, iPad (gen 3)</span>
+      <span class="strong">iPad (gen 6, 5)</span>
+      <br><span class="soft">and iPad Pro 9.7", Air 2, Air (gen 1), iPad 4, iPad (gen 3)</span>
     </td>
     <td>9.7"</td>
     <td rowspan="4">768 × 1024</td>
@@ -288,8 +288,8 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">Apple Watch 49mm</span><br>
-      <span class="soft">Ultra</span>
+      <span class="strong">Apple Watch 49mm</span>
+      <br><span class="soft">Ultra</span>
     </td>
     <td>1.92"</td>
     <td>410 × 502</td>
@@ -298,24 +298,24 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">Apple Watch 45mm</span><br>
-      <span class="soft">Series 8, 7</span>
+      <span class="strong">Apple Watch 45mm</span>
+      <br><span class="soft">Series 8, 7</span>
     </td>
     <td>1.77"</td>
     <td>396 × 484</td>
   </tr>
   <tr>
     <td>
-      <span class="strong">Apple Watch 41mm</span><br>
-      <span class="soft">Series 8, 7</span>
+      <span class="strong">Apple Watch 41mm</span>
+      <br><span class="soft">Series 8, 7</span>
     </td>
     <td>1.61"</td>
     <td>352 × 430</td>
   </tr>
   <tr>
     <td>
-      <span class="strong">Apple Watch 44mm</span><br>
-      <span class="soft">SE (gen 2, 1), Series 6, 5, 4</span>
+      <span class="strong">Apple Watch 44mm</span>
+      <br><span class="soft">SE (gen 2, 1), Series 6, 5, 4</span>
     </td>
     <td>1.73"</td>
     <td>368 × 448</td>
@@ -323,24 +323,24 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">Apple Watch 40mm</span><br>
-      <span class="soft">SE (gen 2, 1), Series 6, 5, 4</span>
+      <span class="strong">Apple Watch 40mm</span>
+      <br><span class="soft">SE (gen 2, 1), Series 6, 5, 4</span>
     </td>
     <td>1.57"</td>
     <td>324 × 394</td>
   </tr>
   <tr>
     <td>
-      <span class="strong">Apple Watch 42mm</span><br>
-      <span class="soft">Series 3, 2, 1, 0</span>
+      <span class="strong">Apple Watch 42mm</span>
+      <br><span class="soft">Series 3, 2, 1, 0</span>
     </td>
     <td>1.5"</td>
     <td>312 × 390</td>
   </tr>
   <tr>
     <td>
-      <span class="strong">Apple Watch 38mm</span><br>
-      <span class="soft">Series 3, 2, 1, 0</span>
+      <span class="strong">Apple Watch 38mm</span>
+      <br><span class="soft">Series 3, 2, 1, 0</span>
     </td>
     <td>1.32"</td>
     <td>272 × 340</td>
@@ -362,8 +362,8 @@ redirect_from:
   </tr>
   <tr>
     <td class="nowrap">
-      <span class="strong">iPod touch (gen 7)</span><br>
-      <span class="soft">and gen 6, gen 5</span>
+      <span class="strong">iPod touch (gen 7)</span>
+      <br><span class="soft">and gen 6, gen 5</span>
     </td>
     <td>iPhone SE (gen 1), 5s, 5c, 5</td>
     <td>4"</td>
@@ -385,8 +385,8 @@ redirect_from:
   </tr>
   <tr>
     <td class="nowrap">
-      <span class="strong">iPod touch (gen 3)</span><br>
-      <span class="soft">and gen 2, gen 1</span>
+      <span class="strong">iPod touch (gen 3)</span>
+      <br><span class="soft">and gen 2, gen 1</span>
     </td>
     <td>iPhone 3GS, 3G, gen 1</td>
     <td>@1x</td>
