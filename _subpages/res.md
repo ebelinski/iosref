@@ -33,7 +33,9 @@ redirect_from:
   </tr>
   <tr>
     <td class="nowrap">
-      <span class="strong">iPhone 14 Pro</span><br>
+      <span class="strong">iPhone 15 Pro</span>
+      <br><span class="soft">and 15</span>
+      <br><span class="soft">and 14 Pro</span>
     </td>
     <td>6.1"</td>
     <td>393 × 852</td>
@@ -44,7 +46,9 @@ redirect_from:
   </tr>
   <tr>
     <td class="nowrap">
-      <span class="strong">iPhone 14 Pro Max</span><br>
+      <span class="strong">iPhone 15 Pro Max</span>
+      <br><span class="soft">and 15 Plus</span>
+      <br><span class="soft">and 14 Pro Max</span>
     </td>
     <td rowspan="2">6.7"</td>
     <td>430 × 932</td>
