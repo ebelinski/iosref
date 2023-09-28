@@ -30,21 +30,21 @@ redirect_from:
   <tr>
     <td>iPhone 15 Pro Max</td>
     <td rowspan="4">2023</td>
-    <td rowspan="8" class="green">12MP</td>
-    <td rowspan="2" class="green">48MP<br>24 mm<br>OIS</td>
-    <td rowspan="8" class="green">12MP<br>13 mm</td>
-    <td class="green">12MP<br>120 mm<br>OIS</td>
+    <td rowspan="8" class="green">12 MP</td>
+    <td rowspan="2" class="green">48 MP<br>24 mm<br>OIS</td>
+    <td rowspan="8" class="green">12 MP<br>13 mm</td>
+    <td class="green">12 MP<br>120 mm<br>OIS</td>
     <td rowspan="13" class="green">Retina Flash</td>
     <td rowspan="13" class="green">True Tone</td>
     <td rowspan="2" class="green">Yes</td>
   </tr>
   <tr>
     <td>iPhone 15 Pro</td>
-    <td class="green">12MP<br>77 mm<br>OIS</td>
+    <td class="green">12 MP<br>77 mm<br>OIS</td>
   </tr>
   <tr>
     <td>iPhone 15 Plus</td>
-    <td rowspan="2" class="green">48MP<br>26 mm<br>OIS</td>
+    <td rowspan="2" class="green">48 MP<br>26 mm<br>OIS</td>
     <td rowspan="2">None</td>
     <td rowspan="2">No</td>
   </tr>
@@ -54,8 +54,8 @@ redirect_from:
   <tr>
     <td>iPhone 14 Pro Max</td>
     <td rowspan="5">2022</td>
-    <td rowspan="2" class="green">48MP<br>24 mm<br>OIS</td>
-    <td rowspan="2" class="green">12MP<br>77 mm<br>OIS</td>
+    <td rowspan="2" class="green">48 MP<br>24 mm<br>OIS</td>
+    <td rowspan="2" class="green">12 MP<br>77 mm<br>OIS</td>
     <td rowspan="2" class="green">Yes</td>
   </tr>
   <tr>
@@ -63,7 +63,7 @@ redirect_from:
   </tr>
   <tr>
     <td>iPhone 14 Plus</td>
-    <td rowspan="2" class="green">12MP<br>26 mm<br>OIS</td>
+    <td rowspan="2" class="green">12 MP<br>26 mm<br>OIS</td>
     <td rowspan="3">None</td>
     <td rowspan="3">No</td>
   </tr>
@@ -72,17 +72,17 @@ redirect_from:
   </tr>
   <tr>
     <td>iPhone SE (gen 3)</td>
-    <td rowspan="1" class="green">7MP</td>
-    <td rowspan="1" class="green">12MP<br>28 mm<br>OIS</td>
+    <td rowspan="1" class="green">7 MP</td>
+    <td rowspan="1" class="green">12 MP<br>28 mm<br>OIS</td>
     <td rowspan="1">None</td>
   </tr>
   <tr>
     <td>iPhone 13 Pro Max</td>
     <td rowspan="4">2021</td>
-    <td rowspan="4" class="green">12MP<br>23 mm</td>
-    <td rowspan="4" class="green">12MP<br>26 mm<br>OIS</td>
-    <td rowspan="4" class="green">12MP<br>13 mm</td>
-    <td rowspan="2" class="green">12MP<br>77 mm<br>OIS</td>
+    <td rowspan="4" class="green">12 MP<br>23 mm</td>
+    <td rowspan="4" class="green">12 MP<br>26 mm<br>OIS</td>
+    <td rowspan="4" class="green">12 MP<br>13 mm</td>
+    <td rowspan="2" class="green">12 MP<br>77 mm<br>OIS</td>
     <td rowspan="2" class="green">Yes</td>
   </tr>
   <tr>
