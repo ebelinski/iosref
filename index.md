@@ -9,6 +9,7 @@ layout: default
 
 * [Resolution by device](/res)
 * [Display tech by device](/display-tech)
+* [Camera tech by device](/camera-tech)
 * [Fonts by iOS version](http://iosfonts.com/)<sup class="ext">Ext</sup>
 
 ### OS by device
