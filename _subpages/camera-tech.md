@@ -31,20 +31,20 @@ redirect_from:
     <td>iPhone 15 Pro Max</td>
     <td rowspan="4">2023</td>
     <td rowspan="8" class="green">12MP</td>
-    <td rowspan="2" class="green">48MP<br>24 mm</td>
+    <td rowspan="2" class="green">48MP<br>24 mm<br>OIS</td>
     <td rowspan="8" class="green">12MP<br>13 mm</td>
-    <td class="green">12MP<br>120 mm</td>
+    <td class="green">12MP<br>120 mm<br>OIS</td>
     <td rowspan="9" class="green">Retina Flash</td>
     <td rowspan="9" class="green">True Tone</td>
     <td rowspan="2" class="green">Yes</td>
   </tr>
   <tr>
     <td>iPhone 15 Pro</td>
-    <td class="green">12MP<br>77 mm</td>
+    <td class="green">12MP<br>77 mm<br>OIS</td>
   </tr>
   <tr>
     <td>iPhone 15 Plus</td>
-    <td rowspan="2" class="green">48MP<br>26 mm</td>
+    <td rowspan="2" class="green">48MP<br>26 mm<br>OIS</td>
     <td rowspan="2">None</td>
     <td rowspan="2">No</td>
   </tr>
