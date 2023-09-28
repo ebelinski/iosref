@@ -23,7 +23,8 @@ redirect_from:
     <th>Main (Wide)</th>
     <th>Ultra Wide</th>
     <th>Telephoto</th>
-    <th>Flash</th>
+    <th>Front Flash</th>
+    <th>Rear Flash</th>
     <th>Lidar</th>
   </tr>
   <tr>
@@ -33,6 +34,7 @@ redirect_from:
     <td rowspan="2" class="green">48MP<br>24 mm</td>
     <td rowspan="8" class="green">12MP<br>13 mm</td>
     <td class="green">12MP<br>120 mm</td>
+    <td rowspan="9" class="green">Retina Flash</td>
     <td rowspan="9" class="green">True Tone</td>
     <td rowspan="2" class="green">Yes</td>
   </tr>
