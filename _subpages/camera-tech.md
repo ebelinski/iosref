@@ -34,8 +34,8 @@ redirect_from:
     <td rowspan="2" class="green">48 MP<br>24 mm<br>OIS</td>
     <td rowspan="8" class="green">12 MP<br>13 mm</td>
     <td class="green">12 MP<br>120 mm<br>OIS</td>
-    <td rowspan="18" class="green">Retina Flash</td>
-    <td rowspan="18" class="green">True Tone</td>
+    <td rowspan="21" class="green">Retina Flash</td>
+    <td rowspan="21" class="green">True Tone</td>
     <td rowspan="2" class="green">Yes</td>
   </tr>
   <tr>
@@ -109,15 +109,30 @@ redirect_from:
   <tr>
     <td>iPhone 12</td>
     <td rowspan="3">None</td>
-    <td rowspan="3">No</td>
+    <td rowspan="6">No</td>
   </tr>
   <tr>
     <td>iPhone 12 mini</td>
   </tr>
   <tr>
     <td>iPhone SE (gen 2)</td>
-    <td rowspan="1" class="green">7 MP</td>
+    <td class="green">7 MP</td>
     <td rowspan="1" class="green">12 MP<br>OIS</td>
     <td rowspan="1">None</td>
+  </tr>
+  <tr>
+    <td>iPhone 11 Pro Max</td>
+    <td rowspan="3">2019</td>
+    <td rowspan="3" class="green">12 MP<br>23 mm</td>
+    <td rowspan="3" class="green">12 MP<br>26 mm<br>OIS</td>
+    <td rowspan="3" class="green">12 MP<br>13 mm</td>
+    <td rowspan="2" class="green">12 MP<br>52 mm<br>OIS</td>
+  </tr>
+  <tr>
+    <td>iPhone 11 Pro</td>
+  </tr>
+  <tr>
+    <td>iPhone 11</td>
+    <td>None</td>
   </tr>
 </table>
