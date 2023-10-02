@@ -34,8 +34,8 @@ redirect_from:
     <td rowspan="2" class="green">48 MP<br>24 mm<br>OIS</td>
     <td rowspan="8" class="green">12 MP<br>13 mm</td>
     <td class="green">12 MP<br>120 mm<br>OIS</td>
-    <td rowspan="30" class="green">Retina Flash</td>
-    <td rowspan="30" class="green">True Tone</td>
+    <td rowspan="32" class="green">Retina Flash</td>
+    <td rowspan="35" class="green">True Tone</td>
     <td rowspan="2" class="green">Yes</td>
   </tr>
   <tr>
@@ -109,7 +109,7 @@ redirect_from:
   <tr>
     <td>iPhone 12</td>
     <td rowspan="3">None</td>
-    <td rowspan="15">No</td>
+    <td rowspan="27">No</td>
   </tr>
   <tr>
     <td>iPhone 12 mini</td>
@@ -139,7 +139,7 @@ redirect_from:
     <td>iPhone XS Max</td>
     <td rowspan="3">2018</td>
     <td rowspan="5" class="green">7 MP<br>32 mm</td>
-    <td rowspan="9">None</td>
+    <td rowspan="21">None</td>
     <td rowspan="2" class="green">12 MP<br>52 mm<br>OIS</td>
   </tr>
   <tr>
@@ -172,11 +172,72 @@ redirect_from:
   </tr>
   <tr>
     <td>iPhone 7</td>
-    <td rowspan="2">None</td>
+    <td rowspan="14">None</td>
   </tr>
   <tr>
     <td>iPhone SE (gen 1)</td>
     <td rowspan="1" class="green">1.2 MP<br>31 mm</td>
-    <td rowspan="1" class="green">12 MP<br>29 mm</td>
+    <td rowspan="3" class="green">12 MP<br>29 mm</td>
+  </tr>
+  <tr>
+    <td>iPhone 6s Plus</td>
+    <td rowspan="2">2015</td>
+    <td rowspan="2" class="green">5 MP<br>31 mm</td>
+  </tr>
+  <tr>
+    <td>iPhone 6s</td>
+  </tr>
+  <tr>
+    <td>iPhone 6 Plus</td>
+    <td rowspan="2">2014</td>
+    <td rowspan="3" class="green">1.2 MP<br>31 mm</td>
+    <td rowspan="3" class="green">8 MP<br>29 mm</td>
+    <td rowspan="10">None</td>
+  </tr>
+  <tr>
+    <td>iPhone 6</td>
+  </tr>
+  <tr>
+    <td>iPhone 5s</td>
+    <td>2013</td>
+  </tr>
+  <tr>
+    <td>iPhone 5c</td>
+    <td>2013</td>
+    <td rowspan="1" class="green">1.2 MP</td>
+    <td rowspan="2" class="green">8 MP<br>33 mm</td>
+    <td rowspan="4" class="green">Yes</td>
+  </tr>
+  <tr>
+    <td>iPhone 5</td>
+    <td>2012</td>
+    <td rowspan="1" class="green">1.2 MP<br>35 mm</td>
+  </tr>
+  <tr>
+    <td>iPhone 4s</td>
+    <td>2011</td>
+    <td rowspan="2" class="green">VGA</td>
+    <td rowspan="1" class="green">8 MP<br>35 mm</td>
+  </tr>
+  <tr>
+    <td>iPhone 4</td>
+    <td>2010</td>
+    <td class="green">5 MP</td>
+  </tr>
+  <tr>
+    <td>iPhone 3GS</td>
+    <td>2009</td>
+    <td rowspan="3">None</td>
+    <td class="green">3.15 MP</td>
+    <td rowspan="3">None</td>
+  </tr>
+  <tr>
+    <td>iPhone 3G</td>
+    <td>2008</td>
+    <td rowspan="2" class="green">2 MP</td>
+  </tr>
+  <tr>
+    <td>iPhone (gen 1)</td>
+    <td>2007</td>
   </tr>
 </table>
