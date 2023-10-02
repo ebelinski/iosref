@@ -242,6 +242,41 @@ redirect_from:
   </tr>
 </table>
 
+### iPad
+
+<table class="full-width">
+  <tr>
+    <th>Device</th>
+    <th>Released</th>
+    <th>Front camera</th>
+    <th>Rear camera</th>
+  </tr>
+  <tr>
+    <td>iPad (gen 4)</td>
+    <td rowspan="3">2012</td>
+    <td rowspan="2" class="green">1.2 MP</td>
+    <td rowspan="3" class="green">5 MP</td>
+  </tr>
+  <tr>
+    <td>iPad mini (gen 1)</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 3)</td>
+    <td rowspan="2" class="green">0.3 MP</td>
+  </tr>
+  <tr>
+    <td>iPad 2</td>
+    <td>2011</td>
+    <td class="green">0.7 MP</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 1)</td>
+    <td>2010</td>
+    <td>None</td>
+    <td>None</td>
+  </tr>
+</table>
+
 ### iPod touch
 
 <table>
