@@ -241,3 +241,49 @@ redirect_from:
     <td>2007</td>
   </tr>
 </table>
+
+### iPod touch
+
+<table>
+  <tr>
+    <th>Device</th>
+    <th>Released</th>
+    <th>Front camera</th>
+    <th>Rear camera</th>
+  </tr>
+  <tr>
+    <td>iPod touch (gen 7)</td>
+    <td>2019</td>
+    <td rowspan="3" class="green">1.2 MP</td>
+    <td rowspan="2" class="green">8 MP</td>
+  </tr>
+  <tr>
+    <td>iPod touch (gen 6)</td>
+    <td>2015</td>
+  </tr>
+  <tr>
+    <td>iPod touch (gen 5)</td>
+    <td>2012</td>
+    <td rowspan="1" class="green">5 MP</td>
+  </tr>
+  <tr>
+    <td>iPod touch (gen 4)</td>
+    <td>2010</td>
+    <td class="green">0.3 MP</td>
+    <td class="green">0.7 MP</td>
+  </tr>
+  <tr>
+    <td>iPod touch (gen 3)</td>
+    <td>2009</td>
+    <td rowspan="3">None</td>
+    <td rowspan="3">None</td>
+  </tr>
+  <tr>
+    <td>iPod touch (gen 2)</td>
+    <td>2008</td>
+  </tr>
+  <tr>
+    <td>iPod touch (gen 1)</td>
+    <td>2007</td>
+  </tr>
+</table>
