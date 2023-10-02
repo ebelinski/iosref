@@ -252,10 +252,34 @@ redirect_from:
     <th>Rear camera</th>
   </tr>
   <tr>
+    <td>iPad Pro 12.9" (gen 1)</td>
+    <td rowspan="2">2015</td>
+    <td rowspan="8" class="green">1.2 MP</td>
+    <td rowspan="2" class="green">8 MP</td>
+  </tr>
+  <tr>
+    <td>iPad mini 4</td>
+  </tr>
+  <tr>
+    <td>iPad mini 3</td>
+    <td rowspan="2">2014</td>
+    <td class="green">5 MP</td>
+  </tr>
+  <tr>
+    <td>iPad Air 2</td>
+    <td class="green">8 MP</td>
+  </tr>
+  <tr>
+    <td>iPad mini 2</td>
+    <td rowspan="2">2013</td>
+    <td rowspan="5" class="green">5 MP</td>
+  </tr>
+  <tr>
+    <td>iPad Air (gen 1)</td>
+  </tr>
+  <tr>
     <td>iPad (gen 4)</td>
     <td rowspan="3">2012</td>
-    <td rowspan="2" class="green">1.2 MP</td>
-    <td rowspan="3" class="green">5 MP</td>
   </tr>
   <tr>
     <td>iPad mini (gen 1)</td>
