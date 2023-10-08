@@ -252,6 +252,100 @@ redirect_from:
     <th>Rear camera</th>
   </tr>
   <tr>
+    <td>iPad Pro 12.9" (gen 6)</td>
+    <td rowspan="4">2022</td>
+    <td rowspan="8" class="green">12 MP</td>
+    <td rowspan="4" class="green">12 MP</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 11" (gen 4)</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 10)</td>
+  </tr>
+  <tr>
+    <td>iPad Air (gen 5)</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 9)</td>
+    <td rowspan="4">2021</td>
+    <td class="green">8 MP</td>
+  </tr>
+  <tr>
+    <td>iPad mini (gen 6)</td>
+    <td rowspan="4" class="green">12 MP</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 12.9" (gen 5)</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 11" (gen 3)</td>
+  </tr>
+  <tr>
+    <td>iPad Air (gen 4)</td>
+    <td rowspan="4">2020</td>
+    <td rowspan="1" class="green">7 MP</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 8)</td>
+    <td class="green">1.2 MP</td>
+    <td class="green">8 MP</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 12.9" (gen 4)</td>
+    <td rowspan="2" class="green">7 MP</td>
+    <td rowspan="2" class="green">12 MP</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 11" (gen 2)</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 7)</td>
+    <td rowspan="3">2019</td>
+    <td class="green">1.2 MP</td>
+    <td rowspan="3" class="green">8 MP</td>
+  </tr>
+  <tr>
+    <td>iPad Air 10.5"</td>
+    <td rowspan="4" class="green">7 MP</td>
+  </tr>
+  <tr>
+    <td>iPad mini (gen 5)</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 12.9" (gen 3)</td>
+    <td rowspan="3">2018</td>
+    <td rowspan="2" class="green">12 MP</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 11" (gen 1)</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 6)</td>
+    <td class="green">1.2 MP</td>
+    <td class="green">8 MP</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 12.9" (gen 2)</td>
+    <td rowspan="3">2017</td>
+    <td rowspan="2" class="green">7 MP</td>
+    <td rowspan="2" class="green">12 MP</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 10.5"</td>
+  </tr>
+  <tr>
+    <td>iPad (gen 5)</td>
+    <td class="green">1.2 MP</td>
+    <td class="green">8 MP</td>
+  </tr>
+  <tr>
+    <td>iPad Pro 9.7"</td>
+    <td>2016</td>
+    <td class="green">5 MP</td>
+    <td class="green">12 MP</td>
+  </tr>
+  <tr>
     <td>iPad Pro 12.9" (gen 1)</td>
     <td rowspan="2">2015</td>
     <td rowspan="8" class="green">1.2 MP</td>
