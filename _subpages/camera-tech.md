@@ -248,8 +248,8 @@ redirect_from:
   <tr>
     <th>Device</th>
     <th>Released</th>
-    <th>Front camera</th>
-    <th>Rear camera</th>
+    <th>Front</th>
+    <th>Main (Wide)</th>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 6)</td>
@@ -401,8 +401,8 @@ redirect_from:
   <tr>
     <th>Device</th>
     <th>Released</th>
-    <th>Front camera</th>
-    <th>Rear camera</th>
+    <th>Front</th>
+    <th>Main (Wide)</th>
   </tr>
   <tr>
     <td>iPod touch (gen 7)</td>
