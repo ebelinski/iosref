@@ -66,16 +66,16 @@ Information about which Apple Watches are vintage/obsolete was obtained from <a 
     <td>8</td>
   </tr>
   <tr>
-    <td>Series 2</td>
+    <td>Series 2 <span class="yellow-bubble">Vintage</span></td>
     <td rowspan="2">2016</td>
     <td rowspan="2">3</td>
     <td rowspan="2">6</td>
   </tr>
   <tr>
-    <td>Series 1</td>
+    <td>Series 1 <span class="yellow-bubble">Vintage</span></td>
   </tr>
   <tr>
-    <td>Series 0<sup>1</sup> <span class="yellow-bubble">Vintage</span></td>
+    <td>Series 0<sup>1</sup> <span class="orange-bubble">Obsolete</span></td>
     <td>2014</td>
     <td>1</td>
     <td>4</td>
