@@ -95,7 +95,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td rowspan="3">15</td>
   </tr>
   <tr>
-    <td>iPhone SE (gen 1)</td>
+    <td>iPhone SE (gen 1) <span class="yellow-bubble">Vintage</span></td>
     <td rowspan="2">9</td>
   </tr>
   <tr>
@@ -103,7 +103,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td>2015</td>
   </tr>
   <tr>
-    <td>iPhone 6 / 6 Plus <span class="yellow-bubble">Vintage</span></td>
+    <td>iPhone 6 / 6 Plus <sup>1</sup> <span class="orange-bubble">Obsolete</span></td>
     <td>2014</td>
     <td>8</td>
     <td rowspan="2">12</td>
@@ -114,7 +114,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td rowspan="2">7</td>
   </tr>
   <tr>
-    <td>iPhone 5c <span class="yellow-bubble">Vintage</span></td>
+    <td>iPhone 5c <span class="orange-bubble">Obsolete</span></td>
     <td rowspan="2">10</td>
   </tr>
   <tr>
@@ -153,6 +153,8 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td>3</td>
   </tr>
 </table>
+
+<sup>1</sup> Only iPhone 6 Plus is currently <span class="orange-bubble">Obsolete</span>, iPhone 6 is still <span class="yellow-bubble">Vintage</span>.
 
 ### iPad
 
@@ -228,11 +230,11 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPad Pro 11" (gen 1)</td>
   </tr>
   <tr>
-    <td>iPad (gen 6)</td>
+    <td>iPad (gen 6) <span class="yellow-bubble">Vintage</span></td>
     <td>11</td>
   </tr>
   <tr>
-    <td>iPad Pro 12.9" (gen 2)</td>
+    <td>iPad Pro 12.9" (gen 2) <span class="yellow-bubble">Vintage</span></td>
     <td rowspan="3">2017</td>
     <td rowspan="3">10</td>
   </tr>
@@ -240,7 +242,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPad Pro 10.5"</td>
   </tr>
   <tr>
-    <td>iPad (gen 5)</td>
+    <td>iPad (gen 5) <span class="yellow-bubble">Vintage</span></td>
     <td rowspan="3" class="light-green">16</td>
   </tr>
   <tr>
@@ -253,11 +255,11 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td rowspan="2">2015</td>
   </tr>
   <tr>
-    <td>iPad mini 4</td>
+    <td>iPad mini 4 <span class="yellow-bubble">Vintage</span></td>
     <td>15</td>
   </tr>
   <tr>
-    <td>iPad mini 3 <span class="yellow-bubble">Vintage</span></td>
+    <td>iPad mini 3 <span class="orange-bubble">Obsolete</span></td>
     <td rowspan="2">2014</td>
     <td rowspan="2">8</td>
     <td>12</td>
@@ -273,7 +275,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td rowspan="2">12</td>
   </tr>
   <tr>
-    <td>iPad Air (gen 1) <span class="yellow-bubble">Vintage</span></td>
+    <td>iPad Air (gen 1) <span class="orange-bubble">Obsolete</span></td>
   </tr>
   <tr>
     <td>iPad (gen 4) <span class="orange-bubble">Obsolete</span></td>
@@ -324,13 +326,13 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>12</td>
   </tr>
   <tr>
-    <td>iPod touch (gen 5) <span class="yellow-bubble">Vintage</span></td>
+    <td>iPod touch (gen 5) <span class="orange-bubble">Obsolete</span></td>
     <td>2012</td>
     <td>6</td>
     <td>9</td>
   </tr>
   <tr>
-    <td>iPod touch (gen 4) <span class="yellow-bubble">Vintage</span></td>
+    <td>iPod touch (gen 4) <span class="orange-bubble">Obsolete</span></td>
     <td>2010</td>
     <td>4</td>
     <td>6</td>
