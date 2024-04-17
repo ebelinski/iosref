@@ -25,11 +25,26 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
+    <td>iPhone 15 Pro Max</td>
+    <td rowspan="4">2023</td>
+    <td rowspan="2">8 GB</td>
+    <td rowspan="2" colspan="2">A17 Pro</td>
+    <td rowspan="35">64-bit</td>
+  </tr>
+  <tr>
+    <td>iPhone 15 Pro</td>
+  </tr>
+  <tr>
+    <td>iPhone 15 Plus</td>
+    <td rowspan="6">6 GB</td>
+    <td rowspan="4" colspan="2">A16 Bionic</td>
+  </tr>
+  <tr>
+    <td>iPhone 15</td>
+  </tr>
+  <tr>
     <td>iPhone 14 Pro Max</td>
     <td rowspan="5">2022</td>
-    <td rowspan="4">6 GB</td>
-    <td rowspan="2" colspan="2">A16 Bionic</td>
-    <td rowspan="31">64-bit</td>
   </tr>
   <tr>
     <td>iPhone 14 Pro</td>
@@ -381,15 +396,25 @@ redirect_from:
     <th>Data width</th>
   </tr>
   <tr>
-    <td>Ultra</td>
-    <td rowspan="3">2022</td>
-    <td rowspan="3">?</td>
-    <td rowspan="3">?</td>
-    <td rowspan="3">S8</td>
-    <td rowspan="8">64-bit</td>
+    <td>Ultra 2</td>
+    <td rowspan="2">2023</td>
+    <td rowspan="2">?</td>
+    <td rowspan="2">64 GB</td>
+    <td rowspan="2">S9</td>
+    <td rowspan="10">64-bit</td>
   </tr>
   <tr>
-    <td>Series 7</td>
+    <td>Series 9</td>
+  </tr>
+  <tr>
+    <td>Ultra</td>
+    <td rowspan="3">2022</td>
+    <td rowspan="8">1 GB</td>
+    <td rowspan="7">32 GB</td>
+    <td rowspan="3">S8</td>
+  </tr>
+  <tr>
+    <td>Series 8</td>
   </tr>
   <tr>
     <td>SE (gen 2)</td>
@@ -397,8 +422,6 @@ redirect_from:
   <tr>
     <td>Series 7</td>
     <td>2021</td>
-    <td rowspan="5">1 GB</td>
-    <td rowspan="4">32 GB</td>
     <td>S7</td>
   </tr>
   <tr>
