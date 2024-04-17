@@ -25,7 +25,7 @@ tvOS is an iOS-based operating system for Apple TV. Information about which Appl
     <td>Apple TV 4K (gen 3)</td>
     <td>2022</td>
     <td>16</td>
-    <td rowspan="4" class="green">16</td>
+    <td rowspan="4" class="green">17</td>
   </tr>
   <tr>
     <td>Apple TV 4K (gen 2)</td>
@@ -44,7 +44,7 @@ tvOS is an iOS-based operating system for Apple TV. Information about which Appl
   </tr>
 </table>
 
-<sup>1</sup> Apple TV HD was known as the fourth generation Apple TV, before a rebranding in 2021.
+<sup>1</sup> Apple TV HD was known as the fourth generation Apple TV, before a rebranding in 2021. The version sold with the Siri Remote (1st generation) without the white ring on the menu button is considered <span class="yellow-bubble">Vintage</span>.
 
 ### Other iOS-based Apple TVs
 
