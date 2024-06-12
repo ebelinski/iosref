@@ -27,25 +27,43 @@ redirect_from:
     <th>Hardware strings</th>
   </tr>
   <tr>
+    <td>iPhone 15 Pro Max</td>
+    <td rowspan="5">2023</td>
+    <td>iPhone 16,2</td>
+  </tr>
+  <tr>
+    <td>iPhone 15 Pro</td>
+    <td>iPhone 16,1</td>
+  </tr>
+  <tr>
+    <td>iPhone 15 Plus</td>
+    <td>iPhone 15,5</td>
+  </tr>
+  <tr>
+    <td>iPhone 15</td>
+    <td>iPhone 15,4</td>
+  </tr>
+  <tr>
+    </tr>
     <td>iPhone 14 Pro Max</td>
     <td rowspan="5">2022</td>
-    <td>?</td>
+    <td>iPhone 15,3</td>
   </tr>
   <tr>
     <td>iPhone 14 Pro</td>
-    <td>?</td>
+    <td>iPhone 15,2</td>
   </tr>
   <tr>
     <td>iPhone 14 Plus</td>
-    <td>?</td>
+    <td>iPhone 14,8</td>
   </tr>
   <tr>
     <td>iPhone 14</td>
-    <td>?</td>
+    <td>iPhone 14,7</td>
   </tr>
   <tr>
     <td>iPhone SE (gen 3)</td>
-    <td>?</td>
+    <td>iPhone 14,6</td>
   </tr>
   <tr>
     <td>iPhone 13</td>
