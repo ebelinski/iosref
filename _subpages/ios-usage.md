@@ -120,7 +120,7 @@ The following table displays the cumulative usage of each major version of iOS.
 </table>
 </div>
 
-These figures were last updated on <b>April 27th, 2024</b> using data from <a href="https://gs.statcounter.com/ios-version-market-share/mobile-tablet/worldwide">Statcounter GlobalStats</a> and <a href="https://github.com/ebelinski/iosref/blob/main/meta/ios-usage-generator.swift">this script</a>. You may update the figures yourself with a <a href="https://github.com/ebelinski/iosref">pull request</a>.
+These figures were last updated on <b>June 12, 2024</b> using data from <a href="https://gs.statcounter.com/ios-version-market-share/mobile-tablet/worldwide">Statcounter GlobalStats</a> and <a href="https://github.com/ebelinski/iosref/blob/main/meta/ios-usage-generator.swift">this script</a>. You may update the figures yourself with a <a href="https://github.com/ebelinski/iosref">pull request</a>.
 
 ### See also
 
