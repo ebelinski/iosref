@@ -28,7 +28,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td>iPhone 15 Pro / 15 Pro Max</td>
     <td rowspan="2">2023</td>
     <td rowspan="2">17</td>
-    <td class="green" rowspan="14">17</td>
+    <td class="green" rowspan="14">18 <sup class="beta">Beta</sup></td>
   </tr>
   <tr>
     <td>iPhone 15 / 15 Plus</td>
@@ -83,7 +83,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td>iPhone X <span class="yellow-bubble">Vintage</span></td>
     <td rowspan="2">2017</td>
     <td rowspan="2">11</td>
-    <td class="light-green" rowspan="2">16</td>
+    <td rowspan="2">16</td>
   </tr>
   <tr>
     <td>iPhone 8 / 8 Plus <span class="yellow-bubble">Vintage</span></td>
@@ -171,7 +171,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPad Pro 12.9" (gen 6)</td>
     <td rowspan="4">2022</td>
     <td rowspan="3">16</td>
-    <td rowspan="20" class="green">17</td>
+    <td rowspan="17" class="green">17 <sup class="beta">Beta</sup></td>
   </tr>
   <tr>
     <td>iPad Pro 11" (gen 4)</td>
@@ -232,6 +232,7 @@ Before iPadOS 13, iPadOS was known as iOS.
   <tr>
     <td>iPad (gen 6) <span class="yellow-bubble">Vintage</span></td>
     <td>11</td>
+    <td rowspan="3" class="light-green">17</td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 2) <span class="yellow-bubble">Vintage</span></td>
@@ -243,7 +244,7 @@ Before iPadOS 13, iPadOS was known as iOS.
   </tr>
   <tr>
     <td>iPad (gen 5) <span class="yellow-bubble">Vintage</span></td>
-    <td rowspan="3" class="light-green">16</td>
+    <td rowspan="3">16</td>
   </tr>
   <tr>
     <td>iPad Pro 9.7" <span class="yellow-bubble">Vintage</span></td>
@@ -317,7 +318,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPod touch (gen 7)</td>
     <td>2019</td>
     <td>12</td>
-    <td class="light-green">15</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>iPod touch (gen 6)</td>
