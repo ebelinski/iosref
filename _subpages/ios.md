@@ -168,10 +168,24 @@ Before iPadOS 13, iPadOS was known as iOS.
     <th>Max iPadOS</th>
   </tr>
   <tr>
+    <td>iPad Pro 13" (M4)</td>
+    <td rowspan="4">2024</td>
+    <td rowspan="4">17</td>
+    <td rowspan="21" class="green">18 <sup class="beta">Beta</sup></td>
+  </tr>
+  <tr>
+    <td>iPad Pro 11" (M4)</td>
+  </tr>
+  <tr>
+    <td>iPad Air 13" (M2)</td>
+  </tr>
+  <tr>
+    <td>iPad Air 11" (M2)</td>
+  </tr>
+  <tr>
     <td>iPad Pro 12.9" (gen 6)</td>
     <td rowspan="4">2022</td>
     <td rowspan="3">16</td>
-    <td rowspan="17" class="green">18 <sup class="beta">Beta</sup></td>
   </tr>
   <tr>
     <td>iPad Pro 11" (gen 4)</td>
