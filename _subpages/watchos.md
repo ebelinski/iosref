@@ -20,7 +20,7 @@ Information about which Apple Watches are vintage/obsolete was obtained from <a 
     <td>Ultra 2</td>
     <td rowspan="2">2023</td>
     <td rowspan="2">10</td>
-    <td rowspan="10" class="green">10</td>
+    <td rowspan="7" class="green">11  <sup class="beta">Beta</sup></td>
   </tr>
   <tr>
     <td>Series 9</td>
@@ -48,6 +48,7 @@ Information about which Apple Watches are vintage/obsolete was obtained from <a 
   </tr>
   <tr>
     <td>SE (gen 1)</td>
+    <td rowspan="3" class="light-green">10</td>
   </tr>
   <tr>
     <td>Series 5</td>
