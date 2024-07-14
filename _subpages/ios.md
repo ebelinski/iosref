@@ -171,7 +171,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPad Pro 12.9" (gen 6)</td>
     <td rowspan="4">2022</td>
     <td rowspan="3">16</td>
-    <td rowspan="17" class="green">17 <sup class="beta">Beta</sup></td>
+    <td rowspan="17" class="green">18 <sup class="beta">Beta</sup></td>
   </tr>
   <tr>
     <td>iPad Pro 11" (gen 4)</td>
