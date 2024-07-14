@@ -25,7 +25,7 @@ tvOS is an iOS-based operating system for Apple TV. Information about which Appl
     <td>Apple TV 4K (gen 3)</td>
     <td>2022</td>
     <td>16</td>
-    <td rowspan="4" class="green">17</td>
+    <td rowspan="4" class="green">18 <sup class="beta">Beta</sup></td>
   </tr>
   <tr>
     <td>Apple TV 4K (gen 2)</td>
