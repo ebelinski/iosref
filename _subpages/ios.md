@@ -80,13 +80,13 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td>iPhone XR</td>
   </tr>
   <tr>
-    <td>iPhone X</td>
+    <td>iPhone X <span class="yellow-bubble">Vintage</span></td>
     <td rowspan="2">2017</td>
     <td rowspan="2">11</td>
     <td class="light-green" rowspan="2">16</td>
   </tr>
   <tr>
-    <td>iPhone 8 / 8 Plus</td>
+    <td>iPhone 8 / 8 Plus <span class="yellow-bubble">Vintage</span></td>
   </tr>
   <tr>
     <td>iPhone 7 / 7 Plus</td>
@@ -99,7 +99,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td rowspan="2">9</td>
   </tr>
   <tr>
-    <td>iPhone 6s / 6s Plus <span class="yellow-bubble">Vintage</span></td>
+    <td>iPhone 6s / 6s Plus <span class="orange-bubble">Obsolete</span></td>
     <td>2015</td>
   </tr>
   <tr>
@@ -109,7 +109,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td rowspan="2">12</td>
   </tr>
   <tr>
-    <td>iPhone 5s <span class="yellow-bubble">Vintage</span></td>
+    <td>iPhone 5s <span class="orange-bubble">Obsolete</span></td>
     <td rowspan="2">2013</td>
     <td rowspan="2">7</td>
   </tr>
