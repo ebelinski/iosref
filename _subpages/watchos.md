@@ -17,10 +17,15 @@ Information about which Apple Watches are vintage/obsolete was obtained from <a 
     <th>Max watchOS</th>
   </tr>
   <tr>
+    <td>Series 10</td>
+    <td>2024</td>
+    <td>11</td>
+    <td rowspan="8" class="green">11</td>
+  </tr>
+  <tr>
     <td>Ultra 2</td>
     <td rowspan="2">2023</td>
     <td rowspan="2">10</td>
-    <td rowspan="7" class="green">11  <sup class="beta">Beta</sup></td>
   </tr>
   <tr>
     <td>Series 9</td>
