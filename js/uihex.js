@@ -11,14 +11,14 @@ $(document).ready(function() {
 });
 
 function processValue(value) {
-  const hexWithoutHash = (value[0] == '#') ? value.substring(1) : value;
+  const hexWithoutPrefix = (value[0] == '#') ? value.substring(1) : value[1] == 'x' ? value.substring(2) : value;
   
-  if (!validateHexLength(hexWithoutHash)) {
+  if (!validateHexLength(hexWithoutPrefix)) {
     clearResults();
     return;
   }
   
-  const hexLowercased = hexWithoutHash.toLowerCase();
+  const hexLowercased = hexWithoutPrefix.toLowerCase();
   const hexFullLength = fullLengthValueForAnalyzing(hexLowercased);
   const hexFullLengthForDisplay = hexLowercased;
 
