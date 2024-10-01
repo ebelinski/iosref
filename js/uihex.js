@@ -7,7 +7,7 @@ $(document).ready(function() {
     processValue(this.value);
   });
 
-  new Clipboard('.btn');
+  new ClipboardJS('.btn');
 });
 
 function processValue(value) {

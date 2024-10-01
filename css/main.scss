@@ -2,78 +2,41 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
-$primary: #337ab7 !default; // Override
-$primaryDark: #5ab6ff !default;
-$text: black;
-$textDark: white;
-
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import "bootstrap-5.1.3/scss/bootstrap";
+@import "./bootstrap.scss";
 @import "syntax-highlighting";
 @import "syntax-highlighting-dark";
 
 body {
-  font-size: 1.15em;
-}
-
-.container {
-  max-width: 900px;
-}
-
-h1 {
-  font-size: 2.1em;
-} h2 {
-  font-size: 1.7em;
-} h3 {
-  font-size: 1.4em;
-} h4 {
-  font-size: 1.1em;
-}
-
-a {
-  text-decoration: none;
-} a:hover {
-  text-decoration: underline;
+  --bs-body-font-size: 1.15em;
 }
 
 #site-title {
   text-align: center;
-  border-width: 0px 0px 1px 0px;
+  border-width: 0 0 1px 0;
   border-style: solid;
   border-color: black;
-  padding: 0.5em 0rem;
-  margin: 0em;
+  padding: 0.5em 0;
+  margin: 0;
 }
 
 #site-footer {
-  border-width: 1px 0px 0px 0px;
+  border-width: 1px 0 0 0;
   border-style: solid;
   border-color: black;
-  margin: 0em;
-  padding: 1.4em 0em;
+  margin: 0;
+  padding: 1.4em 0;
 
-  p { margin: 0em; }
+  p { margin: 0; }
 }
 
 #page-content {
-  margin: 1em 0em;
+  margin: 1em 0;
 }
 
 table {
-  margin: 1em 0px;
-
-  th {
-    background: #ddd;
-  }
-
-  th, td {
-    border: 1px solid #333;
-    padding: 4px 10px;
-    vertical-align: top;
-
-    ol {
-      margin-bottom: 0px;
-    }
+  thead {
+    --bs-table-bg: #dddddd;
   }
 
   td.green {
@@ -93,13 +56,13 @@ table {
   font-weight: bold;
   color: #919191;
   display: inline-block;
-  padding: 0px 2px;
+  padding: 0 2px;
 }
 
 .beta {
   font-weight: bold;
   display: inline-block;
-  padding: 0px 2px;
+  padding: 0 2px;
   color: #cc9300;
 }
 
@@ -138,7 +101,7 @@ ul {
 
   #input-container {
     text-align: center;
-    padding: 1em 0em;
+    padding: 1em 0;
   }
 
   input {
@@ -152,7 +115,7 @@ ul {
   .btn {
     float: right;
     padding: 7.5px 14px;
-    margin: 0px 0px 10px 5px;
+    margin: 0 0 10px 5px;
   }
 
   .color-preview {
@@ -169,7 +132,7 @@ ul {
   }
 
   h3, h4 {
-    padding: 0.2em 0em;
+    padding: 0.2em 0;
   }
 
   h4 {
@@ -183,7 +146,7 @@ ul {
     }
 
     .content {
-      margin-top: 0px;
+      margin-top: 0;
     }
   }
 }
@@ -206,7 +169,7 @@ pre {
   background: #fafafa;
   list-style-type: none;
   color: #999;
-  margin: 0.5em 0em;
+  margin: 0.5em 0;
 
   code {
     color: inherit;
@@ -220,7 +183,7 @@ pre {
 
     li {
       display: inline-block;
-      padding: 0em 0.4em;
+      padding: 0 0.4em;
 
       ul {
         display: none;
@@ -228,56 +191,14 @@ pre {
     }
   }
 }
+
 @media screen and (min-width: 767px) {
   .nowrap {
     white-space: nowrap;
   }
 }
 
-.bubble {
-  display: inline-block;
-  font-size: 65%;
-  font-weight: bold;
-  background: #d1f2e3;
-  color: #547d6b;
-  padding: 1px 5px;
-  border-radius: 10px;
-  vertical-align: 10%;
-  margin-left: 3px;
-}
-
-.gray-bubble {
-  @extend .bubble;
-
-  background: #eee;
-  color: #888;
-}
-
-.yellow-bubble {
-  @extend .bubble;
-
-  background: #f2f2bf;
-  color: #9c9526;
-}
-
-.orange-bubble {
-  @extend .bubble;
-
-  background: #ffeed3;
-  color: #a86a1a;
-}
-
-// TODO: Refactor this later
-@media (prefers-color-scheme: dark) {
-  body {
-    background: #222;
-    color: white;
-  }
-
-  a, a:hover {
-    color: $primaryDark;
-  }
-
+@include color-mode(dark) {
   #site-title {
     border-color: $textDark;
   }
@@ -291,12 +212,23 @@ pre {
     border: 1px solid #999;
   }
 
-  table th {
-    background: #333;
-  }
+  table {
+    thead {
+      --bs-table-bg: #333333;
+    }
+    
+    th,
+    td {
+      border: 1px solid #999;
+    }
 
-  table th, table td {
-    border: 1px solid #999;
+    td.green {
+      background-color: #0d8321;
+    }
+
+    td.light-green {
+      background-color: #0d4d14;
+    }
   }
 
   pre {
@@ -309,16 +241,6 @@ pre {
     .placeholder {
       border: 1px solid #999;
       background: #666;
-    }
-  }
-
-  table {
-    td.green {
-      background-color: #0d8321;
-    }
-
-    td.light-green {
-      background-color: #0d4d14;
     }
   }
 
