@@ -35,9 +35,12 @@ redirect_from:
     <td class="nowrap">
       <span class="strong">iPhone 16 Pro Max</span>
     </td>
-    <td rowspan="2">6.9"</td>
+    <td>6.9"</td>
     <td>440 × 956</td>
+    <td rowspan="5">@3x</td>
+    <td rowspan="9">9 : 19.5</td>
     <td>1320 × 2868</td>
+    <td>458</td>
   </tr>
   <tr>
     <td class="nowrap">
@@ -48,9 +51,7 @@ redirect_from:
     </td>
     <td>6.1"</td>
     <td>393 × 852</td>
-    <td rowspan="4">@3x</td>
     <td>1179 × 2556</td>
-    <td rowspan="8">9 : 19.5</td>
     <td rowspan="2">460</td>
   </tr>
   <tr>
@@ -202,10 +203,10 @@ redirect_from:
     </td>
     <td>13"</td>
     <td class="nowrap">1032 × 1376</td>
-    <td rowspan="9">@2x</td>
+    <td rowspan="11">@2x</td>
     <td class="nowrap">2064 × 2752</td>
-    <td rowspan="2">3 : 4</td>
-    <td rowspan="5">264</td>
+    <td rowspan="4">3 : 4</td>
+    <td rowspan="7">264</td>
   </tr>
   <tr>
     <td>
@@ -213,27 +214,20 @@ redirect_from:
     </td>
     <td>12.9"</td>
     <td class="nowrap">1024 × 1366</td>
-    <td rowspan="9">@2x</td>
     <td class="nowrap">2048 × 2732</td>
-    <td rowspan="2">3 : 4</td>
-    <td rowspan="5">264</td>
   </tr>
   <tr>
     <td>
-      <span class="strong nowrap">iPad Pro 11"</span>
+      <span class="strong nowrap">iPad Pro 11" (gen 6)</span>
     </td>
-    <td>11"</td>
+    <td rowspan="2">11"</td>
     <td class="nowrap">834 × 1210</td>
-    <td rowspan="9">@2x</td>
     <td class="nowrap">1668 × 2420</td>
-    <td rowspan="2">3 : 4</td>
-    <td rowspan="5">264</td>
   </tr>
   <tr>
     <td>
       <span class="strong">iPad Pro 11" (gen 4, 3, 2, 1)</span>
     </td>
-    <td>11"</td>
     <td>834 × 1194</td>
     <td>1668 × 2388</td>
   </tr>
