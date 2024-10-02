@@ -261,7 +261,7 @@ redirect_from:
     <td>8.3"</td>
     <td>744 × 1133</td>
     <td>1488 × 2266</td>
-    <td>?</td>
+    <td>~ 2 : 3</td>
     <td>326</td>
   </tr>
   <tr>
