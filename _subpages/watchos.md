@@ -9,6 +9,7 @@ redirect_from:
 
 Information about which Apple Watches are vintage/obsolete was obtained from <a href="https://support.apple.com/en-us/HT201624">this page</a>.
 
+<div class="table-responsive">
 <table class="table table-bordered">
   <thead>
     <tr>
@@ -23,7 +24,7 @@ Information about which Apple Watches are vintage/obsolete was obtained from <a 
       <td>Series 10</td>
       <td>2024</td>
       <td>11</td>
-      <td rowspan="8" class="green">11</td>
+      <td rowspan="8" class="current">11</td>
     </tr>
     <tr>
       <td>Ultra 2</td>
@@ -56,7 +57,7 @@ Information about which Apple Watches are vintage/obsolete was obtained from <a 
     </tr>
     <tr>
       <td>SE (gen 1)</td>
-      <td rowspan="3" class="light-green">10</td>
+      <td rowspan="3" class="previous">10</td>
     </tr>
     <tr>
       <td>Series 5</td>
@@ -91,6 +92,7 @@ Information about which Apple Watches are vintage/obsolete was obtained from <a 
     </tr>
   </tbody>
 </table>
+</div>
 
 <sup>1</sup> "Series 0" is a commonly used nickname for the first generation Apple Watch.
 

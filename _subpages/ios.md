@@ -17,6 +17,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
 
 ### iPhone
 
+<div class="table-responsive">
 <table class="table table-bordered">
   <thead>
     <tr>
@@ -31,7 +32,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
       <td>iPhone 16 Pro / 16 Pro Max</td>
       <td rowspan="2">2024</td>
       <td rowspan="2">18</td>
-      <td class="green" rowspan="16">18</td>
+      <td class="current" rowspan="16">18</td>
     </tr>
     <tr>
       <td>iPhone 16 / 16 Plus</td>
@@ -165,6 +166,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     </tr>
   </tbody>
 </table>
+</div>
 
 <sup>1</sup> Only iPhone 6 Plus is currently {% include badge-obsolete.html %}, iPhone 6 is still {% include badge-vintage.html %}.
 
@@ -186,7 +188,7 @@ Before iPadOS 13, iPadOS was known as iOS.
       <td>iPad Pro 13" (M4)</td>
       <td rowspan="4">2024</td>
       <td rowspan="4">17</td>
-      <td rowspan="21" class="green">18 <sup class="beta">Beta</sup></td>
+      <td rowspan="21" class="current">18 <sup class="beta">Beta</sup></td>
     </tr>
     <tr>
       <td>iPad Pro 11" (M4)</td>
@@ -261,7 +263,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <tr>
       <td>iPad (gen 6) {% include badge-vintage.html %}</td>
       <td>11</td>
-      <td rowspan="3" class="light-green">17</td>
+      <td rowspan="3" class="previous">17</td>
     </tr>
     <tr>
       <td>iPad Pro 12.9" (gen 2) {% include badge-vintage.html %}</td>

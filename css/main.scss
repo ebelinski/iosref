@@ -39,12 +39,16 @@ table {
     --bs-table-bg: #dddddd;
   }
 
-  td.green {
-    background-color: #8efa93;
+  td.current {
+    background-color: rgb(142, 250, 147);
+    --bs-link-color-rgb: 35, 35, 194;
+    --bs-link-hover-color-rgb: 35, 35, 194;
   }
 
-  td.light-green {
-    background-color: #e7fae8;
+  td.previous {
+    background-color: rgb(231, 250, 232);
+    --bs-link-color-rgb: 69, 69, 221;
+    --bs-link-hover-color-rgb: 69, 69, 221;
   }
 }
 
@@ -222,12 +226,16 @@ pre {
       border: 1px solid #999;
     }
 
-    td.green {
-      background-color: #0d8321;
+    td.current {
+      background-color: rgb(13, 131, 33);
+      --bs-link-color-rgb: 245, 245, 255;
+      --bs-link-hover-color-rgb: 245, 245, 255;
     }
 
-    td.light-green {
-      background-color: #0d4d14;
+    td.previous {
+      background-color: rgb(13, 77, 20);
+      --bs-link-color-rgb: 246, 246, 253;
+      --bs-link-hover-color-rgb: 246, 246, 253;
     }
   }
 

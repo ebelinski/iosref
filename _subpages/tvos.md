@@ -14,6 +14,7 @@ tvOS is an iOS-based operating system for Apple TV. Information about which Appl
 
 ### Apple TV with tvOS
 
+<div class="table-responsive">
 <table class="table table-bordered">
   <thead>
     <tr>
@@ -28,7 +29,7 @@ tvOS is an iOS-based operating system for Apple TV. Information about which Appl
       <td>Apple TV 4K (gen 3)</td>
       <td>2022</td>
       <td>16</td>
-      <td rowspan="4" class="green">18 <sup class="beta">Beta</sup></td>
+      <td rowspan="4" class="current">18</td>
     </tr>
     <tr>
       <td>Apple TV 4K (gen 2)</td>
@@ -47,6 +48,7 @@ tvOS is an iOS-based operating system for Apple TV. Information about which Appl
     </tr>
   </tbody>
 </table>
+</div>
 
 <sup>1</sup> Apple TV HD was known as the fourth generation Apple TV, before a rebranding in 2021. The version sold with the Siri Remote (1st generation) without the white ring on the menu button is considered {% include badge-vintage.html %}.
 
@@ -54,6 +56,7 @@ tvOS is an iOS-based operating system for Apple TV. Information about which Appl
 
 The second and third Apple TV ran a more stripped-down version of iOS known as "Apple TV Software".
 
+<div class="table-responsive">
 <table class="table table-bordered">
   <thead>
     <tr>
@@ -78,11 +81,13 @@ The second and third Apple TV ran a more stripped-down version of iOS known as "
     </tr>
   </tbody>
 </table>
+</div>
 
 ### Other Apple TVs
 
 The first Apple TV ran a modified version of Mac OS X 10.4 Tiger, also called "Apple TV Software".
 
+<div class="table-responsive">
 <table class="table table-bordered">
   <thead>
     <tr>
@@ -101,6 +106,7 @@ The first Apple TV ran a modified version of Mac OS X 10.4 Tiger, also called "A
     </tr>
   </tbody>
 </table>
+</div>
 
 ### See also
 

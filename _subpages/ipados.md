@@ -9,6 +9,7 @@ redirect_from:
 
 Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vintage/obsolete was obtained from <a href="https://support.apple.com/en-us/HT201624">this page</a>.
 
+<div class="table-responsive">
 <table class="table table-bordered">
   <thead>
     <tr>
@@ -23,7 +24,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vin
       <td>iPad Pro 13" (M4)</td>
       <td rowspan="4">2024</td>
       <td rowspan="4">17</td>
-      <td rowspan="21" class="green">18 <sup class="beta">Beta</sup></td>
+      <td rowspan="21" class="current">18</td>
     </tr>
     <tr>
       <td>iPad Pro 11" (M4)</td>
@@ -98,7 +99,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vin
     <tr>
       <td>iPad (gen 6) {% include badge-vintage.html %}</td>
       <td>11</td>
-      <td rowspan="3" class="light-green">17</td>
+      <td rowspan="3" class="previous">17</td>
     </tr>
     <tr>
       <td>iPad Pro 12.9" (gen 2) {% include badge-vintage.html %}</td>
@@ -171,6 +172,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vin
     </tr>
   </tbody>
 </table>
+</div>
 
 ### See also
 
