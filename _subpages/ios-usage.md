@@ -22,89 +22,89 @@ The following table displays the cumulative usage of each major version of iOS.
   <tr>
     <td>iOS 18</td>
     <td>2024</td>
-    {% include progress-cell.html rowspan=1 percentage=7.2 %}
+    {% include progress-cell.html rowspan=1 percentage=79.35 %}
     <td rowspan="2">—</td>
   </tr>
   <tr>
     <td>iOS 17</td>
     <td>2023</td>
-    {% include progress-cell.html rowspan=1 percentage=76.6 %}
+    {% include progress-cell.html rowspan=1 percentage=89.31 %}
   </tr>
   <tr>
     <td>iOS 16</td>
     <td>2022</td>
-    {% include progress-cell.html rowspan=1 percentage=88.8 %}
+    {% include progress-cell.html rowspan=1 percentage=94.23 %}
     <td>iPhone X, iPhone 8</td>
   </tr>
   <tr>
     <td>iOS 15</td>
     <td>2021</td>
-    {% include progress-cell.html rowspan=1 percentage=95.1 %}
+    {% include progress-cell.html rowspan=1 percentage=95.03 %}
     <td>iPhone 7, iPhone SE (gen 1), iPhone 6s</td>
   </tr>
   <tr>
     <td>iOS 14</td>
     <td>2020</td>
-    {% include progress-cell.html rowspan=1 percentage=96.1 %}
+    {% include progress-cell.html rowspan=1 percentage=95.51 %}
     <td rowspan="2">—</td>
   </tr>
   <tr>
     <td>iOS 13</td>
     <td>2019</td>
-    {% include progress-cell.html rowspan=1 percentage=96.8 %}
+    {% include progress-cell.html rowspan=1 percentage=96.6 %}
   </tr>
   <tr>
     <td>iOS 12</td>
     <td>2018</td>
-    {% include progress-cell.html rowspan=1 percentage=98.0 %}
+    {% include progress-cell.html rowspan=1 percentage=99.38 %}
     <td>iPhone 6, iPhone 5s</td>
   </tr>
   <tr>
     <td>iOS 11</td>
     <td>2017</td>
-    {% include progress-cell.html rowspan=1 percentage=99.2 %}
+    {% include progress-cell.html rowspan=1 percentage=99.65 %}
     <td>—</td>
   </tr>
   <tr>
     <td>iOS 10</td>
     <td>2016</td>
-    {% include progress-cell.html rowspan=1 percentage=99.5 %}
+    {% include progress-cell.html rowspan=1 percentage=99.84 %}
     <td>iPhone 5c, iPhone 5</td>
   </tr>
   <tr>
     <td>iOS 9</td>
     <td>2015</td>
-    {% include progress-cell.html rowspan=1 percentage=99.8 %}
+    {% include progress-cell.html rowspan=1 percentage=99.85 %}
     <td>iPhone 4s</td>
   </tr>
   <tr>
     <td>iOS 8</td>
     <td>2014</td>
-    {% include progress-cell.html rowspan=1 percentage=99.8 %}
+    {% include progress-cell.html rowspan=1 percentage=99.91 %}
     <td>—</td>
   </tr>
   <tr>
     <td>iOS 7</td>
     <td>2013</td>
-    {% include progress-cell.html rowspan=1 percentage=99.8 %}
+    {% include progress-cell.html rowspan=1 percentage=99.95 %}
     <td>iPhone 4</td>
   </tr>
   <tr>
     <td>iOS 6</td>
     <td>2012</td>
-    {% include progress-cell.html rowspan=1 percentage=99.9 %}
+    {% include progress-cell.html rowspan=1 percentage=99.96 %}
     <td>iPhone 3GS</td>
   </tr>
   <tr>
     <td>iOS 5</td>
     <td>2011</td>
-    {% include progress-cell.html rowspan=1 percentage=99.9 %}
+    {% include progress-cell.html rowspan=1 percentage=99.97 %}
     <td>—</td>
   </tr>
   <tr>
     <td>iOS 4</td>
     <td>2010</td>
-    {% include progress-cell.html rowspan=1 percentage=100.0 %}
+    {% include progress-cell.html rowspan=1 percentage=99.97 %}
     <td>iPhone 3G</td>
   </tr>
   <tr>
