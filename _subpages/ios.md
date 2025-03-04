@@ -24,11 +24,15 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <th>First iOS</th>
     <th>Max iOS</th>
   </tr>
+    <tr>
+    <td>iPhone 16e</td>
+    <td>2025</td>
+    <td rowspan="3">18</td>
+    <td class="green" rowspan="17">18</td>
+  </tr>
   <tr>
     <td>iPhone 16 Pro / 16 Pro Max</td>
     <td rowspan="2">2024</td>
-    <td rowspan="2">18</td>
-    <td class="green" rowspan="16">18</td>
   </tr>
   <tr>
     <td>iPhone 16 / 16 Plus</td>
@@ -359,7 +363,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>15</td>
   </tr>
   <tr>
-    <td>iPod touch (gen 6)</td>
+    <td>iPod touch (gen 6) <span class="yellow-bubble">Vintage</span></td>
     <td>2015</td>
     <td>8</td>
     <td>12</td>
