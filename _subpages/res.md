@@ -77,7 +77,8 @@ redirect_from:
   </tr>
   <tr>
     <td class="nowrap">
-      <span class="strong">iPhone 14</span>
+      <span class="strong">iPhone 16e</span>
+      <br><span class="soft">and 14</span>
       <br><span class="soft">and 13 / 13 Pro</span>
       <br><span class="soft">and 12 / 12 Pro</span>
     </td>
@@ -210,11 +211,12 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong nowrap">iPad Pro 12.9" (gen 6, 5, 4, 3, 2, 1) and iPad Air 13" (gen 6)</span>
+      <span class="strong nowrap">iPad Pro 12.9" (gen 6, 5, 4, 3, 2, 1)</span>
+      <br><span class="soft">and iPad Air 13" (gen 6)</span>
     </td>
     <td>12.9"</td>
     <td class="nowrap">1024 × 1366</td>
-    <td class="nowrap">2048 × 2732</td>
+    <td class="nowrap">2048 × 2732</td>    
   </tr>
   <tr>
     <td>
@@ -242,7 +244,8 @@ redirect_from:
   </tr>
   <tr>
     <td>
-      <span class="strong">iPad Air (gen 5, 4) and iPad Air 11" (gen 6)</span>
+      <span class="strong">iPad Air (gen 5, 4)</span>
+      <br><span class="soft"> and iPad Air 11" (gen 6)</span>
     </td>
     <td>820 × 1180</td>
     <td>1640 × 2360</td>
