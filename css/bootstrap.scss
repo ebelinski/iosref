@@ -1,52 +1,52 @@
-@import "bootstrap-5.3.3/scss/mixins/banner";
+@import "bootstrap-5.3.5/scss/mixins/banner";
 @include bsBanner("");
 
 // Configuration
-@import "bootstrap-5.3.3/scss/functions";
-@import "bootstrap-5.3.3/scss/variables";
-@import "bootstrap-5.3.3/scss/variables-dark";
+@import "bootstrap-5.3.5/scss/functions";
+@import "bootstrap-5.3.5/scss/variables";
+@import "bootstrap-5.3.5/scss/variables-dark";
 
 @import "_variables";
 
-@import "bootstrap-5.3.3/scss/maps";
-@import "bootstrap-5.3.3/scss/mixins";
-@import "bootstrap-5.3.3/scss/utilities";
+@import "bootstrap-5.3.5/scss/maps";
+@import "bootstrap-5.3.5/scss/mixins";
+@import "bootstrap-5.3.5/scss/utilities";
 
 // Layout & components
-@import "bootstrap-5.3.3/scss/root";
-@import "bootstrap-5.3.3/scss/reboot";
-@import "bootstrap-5.3.3/scss/type";
-@import "bootstrap-5.3.3/scss/images";
-@import "bootstrap-5.3.3/scss/containers";
-@import "bootstrap-5.3.3/scss/grid";
-@import "bootstrap-5.3.3/scss/tables";
-@import "bootstrap-5.3.3/scss/forms";
-@import "bootstrap-5.3.3/scss/buttons";
-// @import "bootstrap-5.3.3/scss/transitions";
-// @import "bootstrap-5.3.3/scss/dropdown";
-// @import "bootstrap-5.3.3/scss/button-group";
-// @import "bootstrap-5.3.3/scss/nav";
-// @import "bootstrap-5.3.3/scss/navbar";
-// @import "bootstrap-5.3.3/scss/card";
-// @import "bootstrap-5.3.3/scss/accordion";
-// @import "bootstrap-5.3.3/scss/breadcrumb";
-// @import "bootstrap-5.3.3/scss/pagination";
-@import "bootstrap-5.3.3/scss/badge";
-// @import "bootstrap-5.3.3/scss/alert";
-@import "bootstrap-5.3.3/scss/progress";
-// @import "bootstrap-5.3.3/scss/list-group";
-// @import "bootstrap-5.3.3/scss/close";
-// @import "bootstrap-5.3.3/scss/toasts";
-// @import "bootstrap-5.3.3/scss/modal";
-// @import "bootstrap-5.3.3/scss/tooltip";
-// @import "bootstrap-5.3.3/scss/popover";
-// @import "bootstrap-5.3.3/scss/carousel";
-// @import "bootstrap-5.3.3/scss/spinners";
-// @import "bootstrap-5.3.3/scss/offcanvas";
-// @import "bootstrap-5.3.3/scss/placeholders";
+@import "bootstrap-5.3.5/scss/root";
+@import "bootstrap-5.3.5/scss/reboot";
+@import "bootstrap-5.3.5/scss/type";
+@import "bootstrap-5.3.5/scss/images";
+@import "bootstrap-5.3.5/scss/containers";
+@import "bootstrap-5.3.5/scss/grid";
+@import "bootstrap-5.3.5/scss/tables";
+@import "bootstrap-5.3.5/scss/forms";
+@import "bootstrap-5.3.5/scss/buttons";
+// @import "bootstrap-5.3.5/scss/transitions";
+// @import "bootstrap-5.3.5/scss/dropdown";
+// @import "bootstrap-5.3.5/scss/button-group";
+// @import "bootstrap-5.3.5/scss/nav";
+// @import "bootstrap-5.3.5/scss/navbar";
+// @import "bootstrap-5.3.5/scss/card";
+// @import "bootstrap-5.3.5/scss/accordion";
+// @import "bootstrap-5.3.5/scss/breadcrumb";
+// @import "bootstrap-5.3.5/scss/pagination";
+@import "bootstrap-5.3.5/scss/badge";
+// @import "bootstrap-5.3.5/scss/alert";
+@import "bootstrap-5.3.5/scss/progress";
+// @import "bootstrap-5.3.5/scss/list-group";
+// @import "bootstrap-5.3.5/scss/close";
+// @import "bootstrap-5.3.5/scss/toasts";
+// @import "bootstrap-5.3.5/scss/modal";
+// @import "bootstrap-5.3.5/scss/tooltip";
+// @import "bootstrap-5.3.5/scss/popover";
+// @import "bootstrap-5.3.5/scss/carousel";
+// @import "bootstrap-5.3.5/scss/spinners";
+// @import "bootstrap-5.3.5/scss/offcanvas";
+// @import "bootstrap-5.3.5/scss/placeholders";
 
 // Helpers
-@import "bootstrap-5.3.3/scss/helpers";
+@import "bootstrap-5.3.5/scss/helpers";
 
 // Utilities
-@import "bootstrap-5.3.3/scss/utilities/api";
+@import "bootstrap-5.3.5/scss/utilities/api";
