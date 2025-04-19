@@ -26,6 +26,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vin
       <td rowspan="4">18</td>
       <td rowspan="25" class="current">18 </td>
     </tr>
+    <tr>
       <td>iPad Air 11" (M3)</td>
     </tr>
     <tr>
