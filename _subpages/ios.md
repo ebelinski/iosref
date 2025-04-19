@@ -198,6 +198,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <tr>
       <td>iPad (A16)</td>
     </tr>
+    <tr>
       <td>iPad Mini (A17 Pro)</td>
       <td rowspan="5">2024</td>
     </tr>
