@@ -22,6 +22,6 @@ This page is no longer being updated.
     <td>HomePod (gen 1)</td>
     <td>2018</td>
     <td>11</td>
-    <td class="green">13</td>
+    <td class="current">13</td>
   </tr>
 </table>

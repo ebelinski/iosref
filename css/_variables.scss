@@ -1,0 +1,50 @@
+$primary: #337ab7;
+$warning: #ffff76;
+$danger: #d61b1b;
+
+$current-bg-subtle: #0d8321;
+$current-past-bg-subtle: #0d4d14;
+
+$text: black;
+$textDark: white;
+
+$body-color-dark: #ffffff;
+$body-bg-dark: #222222;
+
+$link-color-dark: #5ab6ff;
+$link-hover-color-dark: #5ab6ff;
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+);
+
+$h1-font-size: 2.1em;
+$h2-font-size: 1.7em;
+$h3-font-size: 1.4em;
+$h4-font-size: 1.1em;
+$h5-font-size: 1em;
+$h6-font-size: 1em;
+
+$font-sizes: (
+  1: $h1-font-size,
+  2: $h2-font-size,
+  3: $h3-font-size,
+  4: $h4-font-size,
+  5: $h5-font-size,
+  6: $h6-font-size
+);
+
+$link-decoration: none;
+$link-hover-decoration: underline;
+
+$color-mode-type: media-query;
+
+$badge-font-size: 0.7em;
+$badge-padding-y: .25em;
+$badge-padding-x: .45em;
+
+$table-cell-padding-y: .2rem;
+$table-cell-padding-x: .4rem;
+$table-border-color: #999999;

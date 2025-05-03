@@ -25,3 +25,10 @@ collections:
   subpages:
     output: true
     permalink: /:name
+
+sass:
+  quiet_deps: true
+  silence_deprecations:
+    - import
+  sass_dir: _sass
+  style: compressed

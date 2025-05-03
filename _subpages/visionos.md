@@ -28,7 +28,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td>iPhone 14 Pro / 14 Pro Max</td>
     <td rowspan="3">2022</td>
     <td rowspan="2">16</td>
-    <td class="green" rowspan="14">16</td>
+    <td class="current" rowspan="14">16</td>
   </tr>
   <tr>
     <td>iPhone 14 / 14 Plus</td>
@@ -83,62 +83,62 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <td>iPhone 7 / 7 Plus</td>
     <td rowspan="2">2016</td>
     <td>10</td>
-    <td class="light-green" rowspan="3">15</td>
+    <td class="previous" rowspan="3">15</td>
   </tr>
   <tr>
     <td>iPhone SE (gen 1)</td>
     <td rowspan="2">9</td>
   </tr>
   <tr>
-    <td>iPhone 6s / 6s Plus <span class="yellow-bubble">Vintage</span></td>
+    <td>iPhone 6s / 6s Plus {% include badge-vintage.html %}</td>
     <td>2015</td>
   </tr>
   <tr>
-    <td>iPhone 6 / 6 Plus <span class="yellow-bubble">Vintage</span></td>
+    <td>iPhone 6 / 6 Plus {% include badge-vintage.html %}</td>
     <td>2014</td>
     <td>8</td>
     <td rowspan="2">12</td>
   </tr>
   <tr>
-    <td>iPhone 5s <span class="yellow-bubble">Vintage</span></td>
+    <td>iPhone 5s {% include badge-vintage.html %}</td>
     <td rowspan="2">2013</td>
     <td rowspan="2">7</td>
   </tr>
   <tr>
-    <td>iPhone 5c <span class="yellow-bubble">Vintage</span></td>
+    <td>iPhone 5c {% include badge-vintage.html %}</td>
     <td rowspan="2">10</td>
   </tr>
   <tr>
-    <td>iPhone 5 <span class="yellow-bubble">Vintage</span></td>
+    <td>iPhone 5 {% include badge-vintage.html %}</td>
     <td>2012</td>
     <td>6</td>
   </tr>
   <tr>
-    <td>iPhone 4s <span class="orange-bubble">Obsolete</span></td>
+    <td>iPhone 4s {% include badge-obsolete.html %}</td>
     <td>2011</td>
     <td>5</td>
     <td>9</td>
   </tr>
   <tr>
-    <td>iPhone 4 <span class="orange-bubble">Obsolete</span></td>
+    <td>iPhone 4 {% include badge-obsolete.html %}</td>
     <td>2010</td>
     <td>4</td>
     <td>7</td>
   </tr>
   <tr>
-    <td>iPhone 3GS <span class="orange-bubble">Obsolete</span></td>
+    <td>iPhone 3GS {% include badge-obsolete.html %}</td>
     <td>2009</td>
     <td>3</td>
     <td>6</td>
   </tr>
   <tr>
-    <td>iPhone 3G <span class="orange-bubble">Obsolete</span></td>
+    <td>iPhone 3G {% include badge-obsolete.html %}</td>
     <td>2008</td>
     <td>2</td>
     <td>4</td>
   </tr>
   <tr>
-    <td>iPhone (gen 1) <span class="orange-bubble">Obsolete</span></td>
+    <td>iPhone (gen 1) {% include badge-obsolete.html %}</td>
     <td>2007</td>
     <td>1</td>
     <td>3</td>
@@ -160,7 +160,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPad Pro 12.9" (gen 6)</td>
     <td rowspan="4">2022</td>
     <td rowspan="3">16</td>
-    <td rowspan="23" class="green">16</td>
+    <td rowspan="23" class="current">16</td>
   </tr>
   <tr>
     <td>iPad Pro 11" (gen 4)</td>
@@ -234,58 +234,58 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPad (gen 5)</td>
   </tr>
   <tr>
-    <td>iPad Pro 9.7" <span class="yellow-bubble">Vintage</span></td>
+    <td>iPad Pro 9.7" {% include badge-vintage.html %}</td>
     <td>2016</td>
     <td rowspan="3">9</td>
   </tr>
   <tr>
-    <td>iPad Pro 12.9" (gen 1) <span class="yellow-bubble">Vintage</span></td>
+    <td>iPad Pro 12.9" (gen 1) {% include badge-vintage.html %}</td>
     <td rowspan="2">2015</td>
   </tr>
   <tr>
     <td>iPad mini 4</td>
-    <td class="light-green">15</td>
+    <td class="previous">15</td>
   </tr>
   <tr>
-    <td>iPad mini 3 <span class="yellow-bubble">Vintage</span></td>
+    <td>iPad mini 3 {% include badge-vintage.html %}</td>
     <td rowspan="2">2014</td>
     <td rowspan="2">8</td>
     <td>12</td>
   </tr>
   <tr>
-    <td>iPad Air 2 <span class="yellow-bubble">Vintage</span></td>
-    <td class="light-green">15</td>
+    <td>iPad Air 2 {% include badge-vintage.html %}</td>
+    <td class="previous">15</td>
   </tr>
   <tr>
-    <td>iPad mini 2 <span class="yellow-bubble">Vintage</span></td>
+    <td>iPad mini 2 {% include badge-vintage.html %}</td>
     <td rowspan="2">2013</td>
     <td rowspan="2">7</td>
     <td rowspan="2">12</td>
   </tr>
   <tr>
-    <td>iPad Air (gen 1) <span class="yellow-bubble">Vintage</span></td>
+    <td>iPad Air (gen 1) {% include badge-vintage.html %}</td>
   </tr>
   <tr>
-    <td>iPad (gen 4) <span class="orange-bubble">Obsolete</span></td>
+    <td>iPad (gen 4) {% include badge-obsolete.html %}</td>
     <td rowspan="3">2012</td>
     <td rowspan="2">6</td>
     <td>10</td>
   </tr>
   <tr>
-    <td>iPad mini (gen 1) <span class="orange-bubble">Obsolete</span></td>
+    <td>iPad mini (gen 1) {% include badge-obsolete.html %}</td>
     <td rowspan="3">9</td>
   </tr>
   <tr>
-    <td>iPad (gen 3) <span class="orange-bubble">Obsolete</span></td>
+    <td>iPad (gen 3) {% include badge-obsolete.html %}</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>iPad 2 <span class="orange-bubble">Obsolete</span></td>
+    <td>iPad 2 {% include badge-obsolete.html %}</td>
     <td>2011</td>
     <td>4</td>
   </tr>
   <tr>
-    <td>iPad (gen 1) <span class="orange-bubble">Obsolete</span></td>
+    <td>iPad (gen 1) {% include badge-obsolete.html %}</td>
     <td>2010</td>
     <td>3</td>
     <td>5</td>
@@ -305,7 +305,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>iPod touch (gen 7)</td>
     <td>2019</td>
     <td>12</td>
-    <td class="light-green">15</td>
+    <td class="previous">15</td>
   </tr>
   <tr>
     <td>iPod touch (gen 6)</td>
@@ -314,31 +314,31 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td>12</td>
   </tr>
   <tr>
-    <td>iPod touch (gen 5) <span class="yellow-bubble">Vintage</span></td>
+    <td>iPod touch (gen 5) {% include badge-vintage.html %}</td>
     <td>2012</td>
     <td>6</td>
     <td>9</td>
   </tr>
   <tr>
-    <td>iPod touch (gen 4) <span class="yellow-bubble">Vintage</span></td>
+    <td>iPod touch (gen 4) {% include badge-vintage.html %}</td>
     <td>2010</td>
     <td>4</td>
     <td>6</td>
   </tr>
   <tr>
-    <td>iPod touch (gen 3) <span class="orange-bubble">Obsolete</span></td>
+    <td>iPod touch (gen 3) {% include badge-obsolete.html %}</td>
     <td>2009</td>
     <td>3</td>
     <td>5</td>
   </tr>
   <tr>
-    <td>iPod touch (gen 2) <span class="orange-bubble">Obsolete</span></td>
+    <td>iPod touch (gen 2) {% include badge-obsolete.html %}</td>
     <td>2008</td>
     <td>2</td>
     <td>4</td>
   </tr>
   <tr>
-    <td>iPod touch (gen 1) <span class="orange-bubble">Obsolete</span></td>
+    <td>iPod touch (gen 1) {% include badge-obsolete.html %}</td>
     <td>2007</td>
     <td>1</td>
     <td>3</td>
