@@ -1,12 +1,12 @@
 @import "bootstrap-5.3.5/scss/mixins/banner";
 @include bsBanner("");
 
+@import "_variables";
+
 // Configuration
 @import "bootstrap-5.3.5/scss/functions";
 @import "bootstrap-5.3.5/scss/variables";
 @import "bootstrap-5.3.5/scss/variables-dark";
-
-@import "_variables";
 
 @import "bootstrap-5.3.5/scss/maps";
 @import "bootstrap-5.3.5/scss/mixins";
