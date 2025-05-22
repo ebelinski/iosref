@@ -32,7 +32,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
       <td>iPhone 16e</td>
       <td>2025</td>
       <td rowspan="3">18</td>
-      <td class="current" rowspan="17">18</td>
+      <td class="current" rowspan="18">18</td>
     </tr>
     <tr>
       <td>iPhone 16 Pro / 16 Pro Max</td>
@@ -88,9 +88,12 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
       <td>iPhone 11</td>
     </tr>
     <tr>
-      <td>iPhone XS / XS Max</td>
-      <td rowspan="2">2018</td>
-      <td rowspan="2">12</td>
+      <td>iPhone XS</td>
+      <td rowspan="3">2018</td>
+      <td rowspan="3">12</td>
+    </tr>
+    <tr>
+      <td>iPhone XS Max {% include badge-vintage.html %}</td>
     </tr>
     <tr>
       <td>iPhone XR</td>
@@ -105,10 +108,13 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
       <td>iPhone 8 / 8 Plus {% include badge-vintage.html %}</td>
     </tr>
     <tr>
-      <td>iPhone 7 / 7 Plus</td>
-      <td rowspan="2">2016</td>
-      <td>10</td>
-      <td rowspan="3">15</td>
+      <td>iPhone 7</td>
+      <td rowspan="3">2016</td>
+      <td rowspan="2">10</td>
+      <td rowspan="4">15</td>
+    </tr>
+    <tr>
+      <td>iPhone 7 Plus {% include badge-vintage.html %}</td>
     </tr>
     <tr>
       <td>iPhone SE (gen 1) {% include badge-vintage.html %}</td>
@@ -313,11 +319,11 @@ Before iPadOS 13, iPadOS was known as iOS.
       <td>12</td>
     </tr>
     <tr>
-      <td>iPad Air 2 {% include badge-vintage.html %}</td>
+      <td>iPad Air 2 {% include badge-obsolete.html %}</td>
       <td>15</td>
     </tr>
     <tr>
-      <td>iPad mini 2 {% include badge-vintage.html %}</td>
+      <td>iPad mini 2 {% include badge-obsolete.html %}</td>
       <td rowspan="2">2013</td>
       <td rowspan="2">7</td>
       <td rowspan="2">12</td>
