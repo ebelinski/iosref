@@ -24,7 +24,7 @@ Information about which Apple Watches are vintage/obsolete was obtained from <a 
       <td>Series 10</td>
       <td>2024</td>
       <td>11</td>
-      <td rowspan="8" class="current">11</td>
+      <td class="current" rowspan="8">26 {% include beta.html %}</td>
     </tr>
     <tr>
       <td>Ultra 2</td>
