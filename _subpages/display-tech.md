@@ -20,7 +20,7 @@ redirect_from:
 ### iPhone
 
 <div class="table-responsive">
-<table class="table">
+<table class="table table-bordered">
   <thead>
     <tr>
       <th>Device</th>
