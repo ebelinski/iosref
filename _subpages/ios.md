@@ -32,7 +32,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
       <td>iPhone 16e</td>
       <td>2025</td>
       <td rowspan="3">18</td>
-      <td class="current" rowspan="15">26 <sup class="beta">BETA</sup></td>
+      <td class="current" rowspan="15">26 {% include beta.html %}</td>
     </tr>
     <tr>
       <td>iPhone 16 Pro / 16 Pro Max</td>
@@ -191,7 +191,7 @@ Before iPadOS 13, iPadOS was known as iOS.
       <td>iPad Air 13" (M3)</td>
       <td rowspan="3">2025</td>
       <td rowspan="4">18</td>
-      <td rowspan="25" class="current">18 </td>
+      <td class="current" rowspan="20">26 {% include beta.html %}</td>
     </tr>
     <tr>
       <td>iPad Air 11" (M3)</td>
@@ -262,10 +262,12 @@ Before iPadOS 13, iPadOS was known as iOS.
     <tr>
       <td>iPad (gen 7)</td>
       <td rowspan="3">2019</td>
+      <td class="previous">18</td>
     </tr>
     <tr>
       <td>iPad Air (gen 3)</td>
       <td rowspan="4">12</td>
+      <td class="current" rowspan="4">26 {% include beta.html %}</td>
     </tr>
     <tr>
       <td>iPad mini (gen 5)</td>
@@ -280,7 +282,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <tr>
       <td>iPad (gen 6) {% include badge-vintage.html %}</td>
       <td>11</td>
-      <td rowspan="3" class="previous">17</td>
+      <td rowspan="3">17</td>
     </tr>
     <tr>
       <td>iPad Pro 12.9" (gen 2) {% include badge-vintage.html %}</td>
