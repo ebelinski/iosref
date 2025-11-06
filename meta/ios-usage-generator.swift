@@ -10,8 +10,8 @@ Steps:
 */
 
 let data = """
-"Date","iOS 17.5","iOS 17.6","iOS 18.1","iOS 18.3","iOS 17.4","iOS 18.0","iOS 18.4","iOS 16.7","iOS 15.8","iOS 18.2","iOS 16.6","iOS 16.1","iOS 17.7","iOS 11.0","iOS 16.3","iOS 12.5","iOS 17.3","iOS 18.5","iOS 16.2","iOS 15.6","iOS 16.0","iOS 17.1","iOS 17.2","iOS 16.5","iOS 15.7","iOS 17.0","iOS 15.5","iOS 15.4","iOS 16.4","iOS 10.3","iOS 14.4","iOS 13.2","iOS 14.8","iOS 15.3","iOS 14.7","iOS 9.3","iOS 15.0","iOS 15.1","iOS 14.6","iOS 15.2","iOS 14.2","iOS 13.6","iOS 14.3","iOS 12.4","iOS 11.3","iOS 14.5","iOS 14.0","iOS 6.0","iOS 7.0","iOS 13.3","iOS 13.7","iOS 13.5","iOS 12.1","iOS 12.3","iOS 14.1","iOS 9.1","iOS 10.1","iOS 12.2","iOS 11.4","iOS 13.4","iOS 13.1","iOS 4.3","iOS 11.2","iOS 12.0","iOS 10.2","iOS 5.0","iOS 9.2","iOS 9.0","Other"
-2025-05,1.73,3.83,2.99,11.01,0.91,1.23,46.77,3,2.4,1.49,0.93,0.92,0.95,1.67,0.82,0.63,0.45,12.87,0.48,0.46,0.43,0.4,0.3,0.34,0.3,0.23,0.26,0.22,0.19,0.19,0.12,0.02,0.1,0.11,0.09,0.12,0.1,0.09,0.08,0.08,0.05,0.06,0.03,0.04,0.05,0.02,0.05,0.04,0.04,0.03,0.02,0.03,0.02,0.02,0.02,0.02,0.01,0.01,0.02,0.01,0.01,0.02,0.01,0.01,0.01,0.01,0.01,0.01,0.05
+"Date","iOS 18.5","iOS 18.1","iOS 18.3","iOS 17.6","iOS 18.6","iOS 18.4","iOS 18.0","iOS 18.2","iOS 16.7","iOS 17.5","iOS 15.8","iOS 11.0","iOS 17.7","iOS 16.6","iOS 17.4","iOS 16.1","iOS 18.7","iOS 16.3","iOS 12.5","iOS 26.0","iOS 16.2","iOS 17.3","iOS 15.6","iOS 16.0","iOS 17.1","iOS 16.5","iOS 17.2","iOS 15.7","iOS 15.5","iOS 17.0","iOS 15.4","iOS 16.4","iOS 10.3","iOS 14.4","iOS 9.3","iOS 14.8","iOS 15.0","iOS 15.3","iOS 13.2","iOS 14.7","iOS 15.1","iOS 14.6","iOS 15.2","iOS 19.0","iOS 13.6","iOS 14.2","iOS 11.3","iOS 6.0","iOS 12.4","iOS 7.0","iOS 14.0","iOS 14.3","iOS 14.5","iOS 13.3","iOS 13.5","iOS 13.7","iOS 12.1","iOS 12.3","iOS 9.1","iOS 14.1","iOS 26.1","iOS 10.1","iOS 11.4","iOS 12.2","iOS 4.3","iOS 13.4","iOS 13.1","iOS 11.2","iOS 12.0","Other"
+2025-10,7.48,1.22,2.12,1.96,48.1,1.09,0.59,0.66,2.37,1.03,1.79,2.51,0.64,0.6,0.6,0.56,14.39,0.52,0.44,6.87,0.29,0.34,0.27,0.3,0.32,0.23,0.23,0.16,0.17,0.21,0.15,0.13,0.17,0.08,0.09,0.06,0.1,0.07,0.05,0.05,0.07,0.06,0.06,0.05,0.05,0.03,0.05,0.04,0.03,0.03,0.02,0.03,0.01,0.02,0.02,0.01,0.01,0.01,0.01,0.01,0.25,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.06
 """
 
 let rows = data.split(separator: "\n")
@@ -19,6 +19,7 @@ let rows = data.split(separator: "\n")
 let iOSVersions = Array(rows[0].split(separator: ",")[1...])
 let percentages = Array(rows[1].split(separator: ",")[1...])
 
+var iOS26 = 0.0
 var iOS18 = 0.0
 var iOS17 = 0.0
 var iOS16 = 0.0
@@ -39,7 +40,9 @@ var iOS2 = 0.0
 var iOS1 = 0.0
 
 for i in 0..<iOSVersions.count {
-    if String(iOSVersions[i]).contains("iOS 18.") {
+    if String(iOSVersions[i]).contains("iOS 26.") {
+        iOS26 += Double(percentages[i])!
+    } else    if String(iOSVersions[i]).contains("iOS 18.") {
         iOS18 += Double(percentages[i])!
     } else    if String(iOSVersions[i]).contains("iOS 17.") {
         iOS17 += Double(percentages[i])!
@@ -78,6 +81,7 @@ for i in 0..<iOSVersions.count {
     }
 }
 
+iOS18 += iOS26
 iOS17 += iOS18
 iOS16 += iOS17
 iOS15 += iOS16
@@ -97,6 +101,7 @@ iOS2 += iOS3
 iOS1 += iOS2
 
 // Round to 1 decimal place
+iOS26 = round(iOS26 * 10) / 10.0
 iOS18 = round(iOS18 * 10) / 10.0
 iOS17 = round(iOS17 * 10) / 10.0
 iOS16 = round(iOS16 * 10) / 10.0
@@ -116,6 +121,7 @@ iOS3 = round(iOS3 * 10) / 10.0
 iOS2 = round(iOS2 * 10) / 10.0
 iOS1 = round(iOS1 * 10) / 10.0
 
+print("iOS 26: \(iOS26)")
 print("iOS 18: \(iOS18)")
 print("iOS 17: \(iOS17)")
 print("iOS 16: \(iOS16)")
