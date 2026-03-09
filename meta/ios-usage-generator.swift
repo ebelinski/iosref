@@ -4,14 +4,14 @@ import Foundation
 Eugene's low tech iOS usage generator. Easiest to run this on CodeRunner for macOS.
 
 Steps:
-1. Go to https://gs.statcounter.com/ios-version-market-share/mobile-tablet/worldwide.
+1. Go to https://gs.statcounter.com/ios-version-market-share/mobile-tablet/worldwide
 2. Select "Download Data (.csv)"
-3. From the CSV file, copy the first line (column names) and last line (latest data).
+3. From the CSV file, copy the first line (column names) and last line (latest data)
 */
 
 let data = """
-"Date","iOS 18.5","iOS 18.1","iOS 18.3","iOS 17.6","iOS 18.6","iOS 18.4","iOS 18.0","iOS 18.2","iOS 16.7","iOS 17.5","iOS 15.8","iOS 11.0","iOS 17.7","iOS 16.6","iOS 17.4","iOS 16.1","iOS 18.7","iOS 16.3","iOS 12.5","iOS 26.0","iOS 16.2","iOS 17.3","iOS 15.6","iOS 16.0","iOS 17.1","iOS 16.5","iOS 17.2","iOS 15.7","iOS 15.5","iOS 17.0","iOS 15.4","iOS 16.4","iOS 10.3","iOS 14.4","iOS 9.3","iOS 14.8","iOS 15.0","iOS 15.3","iOS 13.2","iOS 14.7","iOS 15.1","iOS 14.6","iOS 15.2","iOS 19.0","iOS 13.6","iOS 14.2","iOS 11.3","iOS 6.0","iOS 12.4","iOS 7.0","iOS 14.0","iOS 14.3","iOS 14.5","iOS 13.3","iOS 13.5","iOS 13.7","iOS 12.1","iOS 12.3","iOS 9.1","iOS 14.1","iOS 26.1","iOS 10.1","iOS 11.4","iOS 12.2","iOS 4.3","iOS 13.4","iOS 13.1","iOS 11.2","iOS 12.0","Other"
-2025-10,7.48,1.22,2.12,1.96,48.1,1.09,0.59,0.66,2.37,1.03,1.79,2.51,0.64,0.6,0.6,0.56,14.39,0.52,0.44,6.87,0.29,0.34,0.27,0.3,0.32,0.23,0.23,0.16,0.17,0.21,0.15,0.13,0.17,0.08,0.09,0.06,0.1,0.07,0.05,0.05,0.07,0.06,0.06,0.05,0.05,0.03,0.05,0.04,0.03,0.03,0.02,0.03,0.01,0.02,0.02,0.01,0.01,0.01,0.01,0.01,0.25,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0.06
+"Date","iOS 18.6","iOS 18.5","iOS 18.3","iOS 18.7","iOS 18.4","iOS 26.2","iOS 18.1","iOS 17.6","iOS 16.7","iOS 15.8","iOS 26.1","iOS 11.0","iOS 18.2","iOS 17.5","iOS 26.0","iOS 18.0","iOS 17.7","iOS 16.6","iOS 16.1","iOS 17.4","iOS 16.3","iOS 12.5","iOS 26.3","iOS 17.3","iOS 16.2","iOS 15.6","iOS 16.0","iOS 17.1","iOS 16.5","iOS 17.2","iOS 15.7","iOS 15.5","iOS 17.0","iOS 15.4","iOS 10.3","iOS 16.4","iOS 15.0","iOS 19.0","iOS 9.3","iOS 14.4","iOS 15.3","iOS 26","iOS 14.8","iOS 15.1","iOS 14.7","iOS 14.6","iOS 15.2","iOS 13.6","iOS 11.3","iOS 13.2","iOS 6.0","iOS 14.2","iOS 14.0","iOS 12.4","iOS 7.0","iOS 14.3","iOS 13.3","iOS 13.5","iOS 14.5","iOS 12.1","iOS 13.7","iOS 12.3","iOS 11.4","iOS 4.3","iOS 14.1","iOS 12.2","iOS 11.2","iOS 9.1","iOS 13.4","iOS 10.1","iOS 13.1","Other"
+2026-02,10.16,3.92,1.45,8.66,0.72,47.9,0.86,1.4,2.22,1.65,3.14,0.87,0.46,0.75,0.72,0.42,0.5,0.47,0.4,0.38,0.4,0.42,8.08,0.25,0.22,0.23,0.21,0.2,0.16,0.16,0.15,0.13,0.13,0.11,0.09,0.09,0.07,0.01,0.01,0.05,0.05,0.88,0.05,0.05,0.04,0.04,0.04,0.03,0.03,0.14,0.01,0.02,0.01,0.03,0.01,0.02,0.02,0.01,0.01,0,0.01,0.02,0.01,0.01,0.01,0.01,0.01,0.01,0.01,0,0.01,0.18
 """
 
 let rows = data.split(separator: "\n")
