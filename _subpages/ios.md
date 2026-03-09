@@ -31,12 +31,15 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <tr>
       <td>iPhone 17e</td>
       <td>2026</td>
-      <td rowspan="3">26</td>
-      <td class="current" rowspan="18">26</td>
+      <td rowspan="4">26</td>
+      <td class="current" rowspan="19">26</td>
+    </tr>
+    <tr>
+      <td>iPhone Air</td>
+      <td rowspan="4">2025</td>
     </tr>
     <tr>
       <td>iPhone 17 Pro / 17 Pro Max</td>
-      <td rowspan="3">2025</td>
     </tr>
     <tr>
       <td>iPhone 17 / 17 Plus</td>
