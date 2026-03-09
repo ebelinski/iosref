@@ -42,7 +42,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
       <td>iPhone 17 Pro / 17 Pro Max</td>
     </tr>
     <tr>
-      <td>iPhone 17 / 17 Plus</td>
+      <td>iPhone 17</td>
     </tr>
     <tr>
       <td>iPhone 16e</td>
