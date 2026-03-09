@@ -199,33 +199,32 @@ Before iPadOS 13, iPadOS was known as iOS.
   </thead>
   <tbody>
     <tr>
-      <td>iPad Air 13" (M3)</td>
-      <td rowspan="3">2025</td>
-      <td rowspan="4">18</td>
-      <td class="current" rowspan="20">26 {% include beta.html %}</td>
+      <td>iPad Air 11" / 13" (M4)</td>
+      <td>2026</td>
+      <td rowspan="2">26</td>
+      <td class="current" rowspan="19">26</td>
     </tr>
     <tr>
-      <td>iPad Air 11" (M3)</td>
+      <td>iPad Pro 11" / 13" (M5)</td>
+      <td rowspan="3">2025</td>
+    </tr>
+    <tr>
+      <td>iPad Air 11" / 13" (M3)</td>
+      <td rowspan="3">18</td>
     </tr>
     <tr>
       <td>iPad (A16)</td>
     </tr>
     <tr>
       <td>iPad Mini (A17 Pro)</td>
-      <td rowspan="5">2024</td>
+      <td rowspan="3">2024</td>
     </tr>
     <tr>
-      <td>iPad Pro 13" (M4)</td>
-      <td rowspan="4">17</td>
+      <td>iPad Pro 11" / 13" (M4)</td>
+      <td rowspan="2">17</td>
     </tr>
     <tr>
-      <td>iPad Pro 11" (M4)</td>
-    </tr>
-    <tr>
-      <td>iPad Air 13" (M2)</td>
-    </tr>
-    <tr>
-      <td>iPad Air 11" (M2)</td>
+      <td>iPad Air 11" / 13" (M2)</td>
     </tr>
     <tr>
       <td>iPad Pro 12.9" (gen 6)</td>
@@ -278,7 +277,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <tr>
       <td>iPad Air (gen 3)</td>
       <td rowspan="4">12</td>
-      <td class="current" rowspan="4">26 {% include beta.html %}</td>
+      <td class="current" rowspan="4">26</td>
     </tr>
     <tr>
       <td>iPad mini (gen 5)</td>
