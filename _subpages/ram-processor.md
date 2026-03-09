@@ -24,7 +24,6 @@ redirect_from:
         <th>Released</th>
         <th>RAM</th>
         <th colspan="2">Processor</th>
-        <th>Data width</th>
       </tr>
     </thead>
     <tbody>
@@ -33,7 +32,6 @@ redirect_from:
         <td>2026</td>
         <td>8 GB</td>
         <td colspan="2">A19</td>
-        <td rowspan="42">64-bit</td>
       </tr>
       <tr>
         <td>iPhone Air</td>
@@ -213,7 +211,6 @@ redirect_from:
         <td>iPhone 5c</td>
         <td>2013</td>
         <td rowspan="2" colspan="2">A6</td>
-        <td rowspan="7">32-bit</td>
       </tr>
       <tr>
         <td>iPhone 5</td>
@@ -261,7 +258,6 @@ redirect_from:
         <th>Released</th>
         <th>RAM</th>
         <th>Processor</th>
-        <th>Data width</th>
       </tr>
     </thead>
     <tbody>
@@ -270,7 +266,6 @@ redirect_from:
         <td rowspan="4">2022</td>
         <td rowspan="2">8 GB<br>16 GB (1-2 TB models)</td>
         <td rowspan="2">M2</td>
-        <td rowspan="28">64-bit</td>
       </tr>
       <tr>
         <td>iPad Pro 11" (gen 4)</td>
@@ -403,7 +398,6 @@ redirect_from:
         <td>iPad (gen 4)</td>
         <td rowspan="3">2012</td>
         <td>A6X</td>
-        <td rowspan="5">32-bit</td>
       </tr>
       <tr>
         <td>iPad mini (gen 1)</td>
@@ -442,7 +436,6 @@ redirect_from:
         <th>RAM</th>
         <th>Storage</th>
         <th>Processor</th>
-        <th>Data width</th>
       </tr>
     </thead>
     <tbody>
@@ -452,7 +445,6 @@ redirect_from:
         <td rowspan="2">?</td>
         <td rowspan="2">64 GB</td>
         <td rowspan="2">S9</td>
-        <td rowspan="10">64-bit</td>
       </tr>
       <tr>
         <td>Series 9</td>
@@ -500,7 +492,6 @@ redirect_from:
         <td>768 MB</td>
         <td>8 GB – 16 GB</td>
         <td>S3</td>
-        <td rowspan="4">32-bit</td>
       </tr>
       <tr>
         <td>Series 2</td>
@@ -536,7 +527,6 @@ redirect_from:
         <th>Released</th>
         <th>RAM</th>
         <th>Processor</th>
-        <th>Data width</th>
       </tr>
     </thead>
     <tbody>
@@ -545,7 +535,6 @@ redirect_from:
         <td>2019</td>
         <td>2 GB</td>
         <td>A10 Fusion</td>
-        <td rowspan="2">64-bit</td>
       </tr>
       <tr>
         <td>iPod touch (gen 6)</td>
@@ -558,7 +547,6 @@ redirect_from:
         <td>2012</td>
         <td>512 MB</td>
         <td>A5</td>
-        <td rowspan="5">32-bit</td>
       </tr>
       <tr>
         <td>iPod touch (gen 4)</td>
@@ -596,7 +584,6 @@ redirect_from:
         <th>Released</th>
         <th>RAM</th>
         <th>Processor</th>
-        <th>Data width</th>
       </tr>
     </thead>
     <tbody>
@@ -605,7 +592,6 @@ redirect_from:
         <td>2021</td>
         <td rowspan="2">3 GB</td>
         <td>A12 Bionic</td>
-        <td rowspan="3">64-bit</td>
       </tr>
       <tr>
         <td>Apple TV 4K (gen 1)</td>
@@ -623,7 +609,6 @@ redirect_from:
         <td>2012</td>
         <td>512 MB</td>
         <td>A5</td>
-        <td rowspan="3">32-bit</td>
       </tr>
       <tr>
         <td>Apple TV (gen 2)</td>
