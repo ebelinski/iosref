@@ -29,11 +29,46 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>iPhone 17e</td>
+        <td>2026</td>
+        <td>8 GB</td>
+        <td colspan="2">A19</td>
+        <td rowspan="42">64-bit</td>
+      </tr>
+      <tr>
+        <td>iPhone Air</td>
+        <td rowspan="4">2025</td>
+        <td rowspan="2">12 GB</td>
+        <td rowspan="2">A19 Pro</td>
+        <td>5-core GPU</td>
+      </tr>
+      <tr>
+        <td>iPhone 17 Pro / 17 Pro Max</td>
+        <td>6-core GPU</td>
+      </tr>
+      <tr>
+        <td>iPhone 17</td>
+        <td rowspan="4">8 GB</td>
+        <td colspan="2">A19</td>
+      </tr>
+      <tr>
+        <td>iPhone 16e</td>
+        <td colspan="2">A18</td>
+      </tr>
+      <tr>
+        <td>iPhone 16 Pro / 16 Pro Max</td>
+        <td rowspan="2">2024</td>
+        <td colspan="2">A18 Pro</td>
+      </tr>
+      <tr>
+        <td>iPhone 16 / 16 Plus</td>
+        <td colspan="2">A18</td>
+      </tr>
+      <tr>
         <td>iPhone 15 Pro Max</td>
         <td rowspan="4">2023</td>
         <td rowspan="2">8 GB</td>
         <td rowspan="2" colspan="2">A17 Pro</td>
-        <td rowspan="35">64-bit</td>
       </tr>
       <tr>
         <td>iPhone 15 Pro</td>
