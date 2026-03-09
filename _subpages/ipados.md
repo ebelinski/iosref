@@ -20,10 +20,14 @@ Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vin
   </thead>
   <tbody>
     <tr>
+      <td>iPad Air 11" / 13" (M4)</td>
+      <td>2026</td>
+      <td rowspan="2">26</td>
+      <td class="current" rowspan="19">26</td>
+    </tr>
+    <tr>
       <td>iPad Pro 11" / 13" (M5)</td>
       <td rowspan="3">2025</td>
-      <td rowspan="1">26</td>
-      <td class="current" rowspan="18">26</td>
     </tr>
     <tr>
       <td>iPad Air 11" / 13" (M3)</td>
