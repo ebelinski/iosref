@@ -9,7 +9,7 @@ redirect_from:
 
 {::options parse_block_html="true" /}
 
-The following table displays the cumulative usage of each major version of iOS.
+The following table displays the cumulative usage of each major version of iOS. Information about vintage ({% include badge-vintage.html %}) and obsolete ({% include badge-obsolete.html %}) device status comes from <a href="https://support.apple.com/en-us/HT201624">this page</a>.
 
 <div class="table-responsive">
 <table class="table table-bordered">
@@ -32,7 +32,7 @@ The following table displays the cumulative usage of each major version of iOS.
       <td>iOS 18</td>
       <td>2024</td>
       {% include progress-cell.html rowspan=1 percentage=86.5 %}
-      <td>iPhone XS, iPhone XR</td>
+      <td>iPhone XS / XS Max, iPhone XR</td>
     </tr>
     <tr>
       <td>iOS 17</td>
@@ -44,13 +44,13 @@ The following table displays the cumulative usage of each major version of iOS.
       <td>iOS 16</td>
       <td>2022</td>
       {% include progress-cell.html rowspan=1 percentage=94.4 %}
-      <td>iPhone X, iPhone 8</td>
+      <td>iPhone X {% include badge-vintage.html %}, iPhone 8 {% include badge-vintage.html %} / 8 Plus {% include badge-vintage.html %}</td>
     </tr>
     <tr>
       <td>iOS 15</td>
       <td>2021</td>
       {% include progress-cell.html rowspan=1 percentage=96.9 %}
-      <td>iPhone 7, iPhone SE (gen 1), iPhone 6s</td>
+      <td>iPhone 7 {% include badge-vintage.html %} / 7 Plus {% include badge-vintage.html %},<br>iPhone SE (gen 1) {% include badge-obsolete.html %}, iPhone 6s {% include badge-obsolete.html %} / 6s Plus {% include badge-obsolete.html %}</td>
     </tr>
     <tr>
       <td>iOS 14</td>
@@ -67,7 +67,7 @@ The following table displays the cumulative usage of each major version of iOS.
       <td>iOS 12</td>
       <td>2018</td>
       {% include progress-cell.html rowspan=1 percentage=97.9 %}
-      <td>iPhone 6, iPhone 5s</td>
+      <td>iPhone 6 {% include badge-obsolete.html %} / 6 Plus {% include badge-obsolete.html %}, iPhone 5s {% include badge-obsolete.html %}</td>
     </tr>
     <tr>
       <td>iOS 11</td>
@@ -79,13 +79,13 @@ The following table displays the cumulative usage of each major version of iOS.
       <td>iOS 10</td>
       <td>2016</td>
       {% include progress-cell.html rowspan=1 percentage=98.9 %}
-      <td>iPhone 5c, iPhone 5</td>
+      <td>iPhone 5c {% include badge-obsolete.html %}, iPhone 5 {% include badge-vintage.html %}</td>
     </tr>
     <tr>
       <td>iOS 9</td>
       <td>2015</td>
       {% include progress-cell.html rowspan=1 percentage=98.9 %}
-      <td>iPhone 4s</td>
+      <td>iPhone 4s {% include badge-obsolete.html %}</td>
     </tr>
     <tr>
       <td>iOS 8</td>
@@ -97,13 +97,13 @@ The following table displays the cumulative usage of each major version of iOS.
       <td>iOS 7</td>
       <td>2013</td>
       {% include progress-cell.html rowspan=1 percentage=98.9 %}
-      <td>iPhone 4</td>
+      <td>iPhone 4 {% include badge-obsolete.html %}</td>
     </tr>
     <tr>
       <td>iOS 6</td>
       <td>2012</td>
       {% include progress-cell.html rowspan=1 percentage=98.9 %}
-      <td>iPhone 3GS</td>
+      <td>iPhone 3GS {% include badge-obsolete.html %}</td>
     </tr>
     <tr>
       <td>iOS 5</td>
@@ -115,13 +115,13 @@ The following table displays the cumulative usage of each major version of iOS.
       <td>iOS 4</td>
       <td>2010</td>
       {% include progress-cell.html rowspan=1 percentage=98.9 %}
-      <td>iPhone 3G</td>
+      <td>iPhone 3G {% include badge-obsolete.html %}</td>
     </tr>
     <tr>
       <td>iOS 3</td>
       <td>2009</td>
       <td rowspan="3"><i>No data</i></td>
-      <td>iPhone (gen 1)</td>
+      <td>iPhone (gen 1) {% include badge-obsolete.html %}</td>
     </tr>
     <tr>
       <td>iOS 2</td>
