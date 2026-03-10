@@ -95,14 +95,14 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
       <td rowspan="3">13</td>
     </tr>
     <tr>
-      <td>iPhone 11 Pro / 11 Pro Max</td>
+      <td>iPhone 11 Pro {% include badge-vintage.html %} / 11 Pro Max {% include badge-vintage.html %}</td>
       <td rowspan="2">2019</td>
     </tr>
     <tr>
       <td>iPhone 11</td>
     </tr>
     <tr>
-      <td>iPhone XS / XS Max</td>
+      <td>iPhone XS {% include badge-vintage.html %} / XS Max {% include badge-vintage.html %}</td>
       <td rowspan="2">2018</td>
       <td rowspan="2">12</td>
       <td class="previous" rowspan="2">18</td>
@@ -117,24 +117,24 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
       <td rowspan="2">16</td>
     </tr>
     <tr>
-      <td>iPhone 8 / 8 Plus {% include badge-vintage.html %}</td>
+      <td>iPhone 8 {% include badge-vintage.html %} / 8 Plus {% include badge-vintage.html %}</td>
     </tr>
     <tr>
-      <td>iPhone 7 / 7 Plus</td>
+      <td>iPhone 7 {% include badge-vintage.html %} / 7 Plus {% include badge-vintage.html %}</td>
       <td rowspan="2">2016</td>
       <td>10</td>
       <td rowspan="3">15</td>
     </tr>
     <tr>
-      <td>iPhone SE (gen 1) {% include badge-vintage.html %}</td>
+      <td>iPhone SE (gen 1) {% include badge-obsolete.html %}</td>
       <td rowspan="2">9</td>
     </tr>
     <tr>
-      <td>iPhone 6s / 6s Plus {% include badge-obsolete.html %}</td>
+      <td>iPhone 6s {% include badge-obsolete.html %} / 6s Plus {% include badge-obsolete.html %}</td>
       <td>2015</td>
     </tr>
     <tr>
-      <td>iPhone 6 / 6 Plus {% include badge-obsolete.html %}</td>
+      <td>iPhone 6 {% include badge-obsolete.html %} / 6 Plus {% include badge-obsolete.html %}</td>
       <td>2014</td>
       <td>8</td>
       <td rowspan="2">12</td>
