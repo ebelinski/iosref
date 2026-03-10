@@ -71,29 +71,29 @@ Information about which Apple Watches are vintage/obsolete was obtained from <a 
       <td rowspan="3" class="previous">10</td>
     </tr>
     <tr>
-      <td>Series 5</td>
+      <td>Series 5 {% include badge-vintage.html %}</td>
       <td>2019</td>
       <td>6</td>
     </tr>
     <tr>
-      <td>Series 4</td>
+      <td>Series 4 {% include badge-obsolete.html %}</td>
       <td>2018</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>Series 3</td>
+      <td>Series 3 {% include badge-vintage.html %}</td>
       <td>2017</td>
       <td>4</td>
       <td>8</td>
     </tr>
     <tr>
-      <td>Series 2 {% include badge-vintage.html %}</td>
+      <td>Series 2 {% include badge-obsolete.html %}</td>
       <td rowspan="2">2016</td>
       <td rowspan="2">3</td>
       <td rowspan="2">6</td>
     </tr>
     <tr>
-      <td>Series 1 {% include badge-vintage.html %}</td>
+      <td>Series 1 {% include badge-obsolete.html %}</td>
     </tr>
     <tr>
       <td>Series 0<sup>1</sup> {% include badge-obsolete.html %}</td>

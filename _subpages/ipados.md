@@ -7,7 +7,7 @@ redirect_from:
   - /ipados-versions/
 ---
 
-Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vintage/obsolete was obtained from <a href="https://support.apple.com/en-us/HT201624">this page</a>.
+Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include badge-vintage.html %}) and obsolete ({% include badge-obsolete.html %}) device status comes from <a href="https://support.apple.com/en-us/HT201624">this page</a>.
 
 <table class="table table-bordered">
   <thead>
@@ -96,7 +96,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vin
       <td class="previous">18</td>
     </tr>
     <tr>
-      <td>iPad Air (gen 3)</td>
+      <td>iPad Air (gen 3) {% include badge-vintage.html %}</td>
       <td rowspan="4">12</td>
       <td class="current" rowspan="4">26</td>
     </tr>
@@ -104,11 +104,11 @@ Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vin
       <td>iPad mini (gen 5)</td>
     </tr>
     <tr>
-      <td>iPad Pro 12.9" (gen 3)</td>
+      <td>iPad Pro 12.9" (gen 3) {% include badge-vintage.html %}</td>
       <td rowspan="3">2018</td>
     </tr>
     <tr>
-      <td>iPad Pro 11" (gen 1)</td>
+      <td>iPad Pro 11" (gen 1) {% include badge-vintage.html %}</td>
     </tr>
     <tr>
       <td>iPad (gen 6) {% include badge-vintage.html %}</td>
@@ -116,7 +116,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vin
       <td rowspan="3">17</td>
     </tr>
     <tr>
-      <td>iPad Pro 12.9" (gen 2) {% include badge-vintage.html %}</td>
+      <td>iPad Pro 12.9" (gen 2) {% include badge-obsolete.html %}</td>
       <td rowspan="3">2017</td>
       <td rowspan="3">10</td>
     </tr>
@@ -124,11 +124,11 @@ Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vin
       <td>iPad Pro 10.5" {% include badge-vintage.html %}</td>
     </tr>
     <tr>
-      <td>iPad (gen 5) {% include badge-vintage.html %}</td>
+      <td>iPad (gen 5) {% include badge-obsolete.html %}</td>
       <td rowspan="3">16</td>
     </tr>
     <tr>
-      <td>iPad Pro 9.7" {% include badge-vintage.html %}</td>
+      <td>iPad Pro 9.7" {% include badge-obsolete.html %}</td>
       <td>2016</td>
       <td rowspan="3">9</td>
     </tr>
@@ -147,11 +147,11 @@ Before iPadOS 13, iPadOS was known as iOS. Information about which iPads are vin
       <td>12</td>
     </tr>
     <tr>
-      <td>iPad Air 2 {% include badge-vintage.html %}</td>
+      <td>iPad Air 2 {% include badge-obsolete.html %}</td>
       <td>15</td>
     </tr>
     <tr>
-      <td>iPad mini 2 {% include badge-vintage.html %}</td>
+      <td>iPad mini 2 {% include badge-obsolete.html %}</td>
       <td rowspan="2">2013</td>
       <td rowspan="2">7</td>
       <td rowspan="2">12</td>
