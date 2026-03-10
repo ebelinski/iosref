@@ -256,3 +256,23 @@ pre {
     border: 1px solid #222 !important;
   }
 }
+
+.dot-dark-red {
+  height: 12px;
+  width: 12px;
+  background-color: #b60055;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0px 3px;
+  vertical-align: middle;
+}
+
+.dot-orange {
+  height: 12px;
+  width: 12px;
+  background-color: #e6a100;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0px 3px;
+  vertical-align: middle;
+}
