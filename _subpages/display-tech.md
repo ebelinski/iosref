@@ -205,7 +205,7 @@ redirect_from:
 ### iPad
 
 <div class="table-responsive">
-<table class="table">
+<table class="table table-bordered">
   <thead>
     <tr class="align-top">
       <th>Device</th>
@@ -400,7 +400,7 @@ redirect_from:
 ### Apple Watch
 
 <div class="table-responsive">
-<table class="table">
+<table class="table table-bordered">
   <thead>
     <tr class="align-top">
       <th>Device</th>
