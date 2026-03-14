@@ -42,8 +42,8 @@ redirect_from:
         <td>6.9"</td>
         <td>440 × 956</td>
         <td rowspan="5">@3x</td>
-        <td rowspan="9">9 : 19.5</td>
         <td>1320 × 2868</td>
+        <td rowspan="9">9 : 19.5</td>
         <td>458</td>
       </tr>
       <tr>
