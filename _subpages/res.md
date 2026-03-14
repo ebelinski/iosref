@@ -37,14 +37,33 @@ redirect_from:
     <tbody>
       <tr>
         <td class="nowrap">
-          <span class="strong">iPhone 16 Pro Max</span>
+          <span class="strong">iPhone Air</span>
+        </td>
+        <td>6.5"</td>
+        <td>420 × 912</td>
+        <td rowspan="7">@3x</td>
+        <td>1260 × 2736</td>
+        <td rowspan="11">9 : 19.5</td>
+        <td rowspan="5">460</td>
+      </tr>
+      <tr>
+        <td class="nowrap">
+          <span class="strong">iPhone 17 Pro Max</span>
+          <br><span class="soft">and 16 Pro Max</span>
         </td>
         <td>6.9"</td>
         <td>440 × 956</td>
-        <td rowspan="5">@3x</td>
         <td>1320 × 2868</td>
-        <td rowspan="9">9 : 19.5</td>
-        <td>458</td>
+      </tr>
+      <tr>
+        <td class="nowrap">
+          <span class="strong">iPhone 17 Pro</span>
+          <br><span class="soft">and 17</span>
+          <br><span class="soft">and 16 Pro</span>
+        </td>
+        <td>6.3"</td>
+        <td>402 × 874</td>
+        <td>1206 × 2622</td>
       </tr>
       <tr>
         <td class="nowrap">
@@ -56,7 +75,6 @@ redirect_from:
         <td>6.1"</td>
         <td>393 × 852</td>
         <td>1179 × 2556</td>
-        <td rowspan="2">460</td>
       </tr>
       <tr>
         <td class="nowrap">
