@@ -81,7 +81,8 @@ redirect_from:
       </tr>
       <tr>
         <td class="nowrap">
-          <span class="strong">iPhone 16e</span>
+          <span class="strong">iPhone 17e</span>
+          <br><span class="soft">and 16e</span>
           <br><span class="soft">and 14</span>
           <br><span class="soft">and 13 / 13 Pro</span>
           <br><span class="soft">and 12 / 12 Pro</span>
