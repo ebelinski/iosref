@@ -436,7 +436,7 @@ redirect_from:
         <td rowspan="2">3.5"</td>
         <td rowspan="2">320 × 480</td>
         <td>640 × 960</td>
-        <td rowspan="2">3 : 4</td>
+        <td rowspan="2">2 : 3</td>
       </tr>
       <tr>
         <td class="nowrap">
