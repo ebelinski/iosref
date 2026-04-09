@@ -149,7 +149,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
       <td rowspan="2">10</td>
     </tr>
     <tr>
-      <td>iPhone 5 {% include badge-vintage.html %}</td>
+      <td>iPhone 5 {% include badge-obsolete.html %}</td>
       <td>2012</td>
       <td>6</td>
     </tr>
