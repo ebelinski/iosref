@@ -137,7 +137,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
       <td rowspan="2">2015</td>
     </tr>
     <tr>
-      <td>iPad mini 4 {% include badge-vintage.html %}</td>
+      <td>iPad mini 4 {% include badge-obsolete.html %}</td>
       <td>15</td>
     </tr>
     <tr>
