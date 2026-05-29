@@ -33,90 +33,60 @@ redirect_from:
   </thead>
   <tbody>
     <tr class="align-top">
-      <td>iPhone 15 Pro Max</td>
-      <td rowspan="4">2023</td>
-      <td rowspan="8" class="current">OLED Retina</td>
-      <td rowspan="27" class="current">Yes</td>
-      <td rowspan="29" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
-      <td rowspan="21">No</td>
+      <td>iPhone 15 Pro / Pro Max</td>
+      <td rowspan="2">2023</td>
+      <td rowspan="4" class="current">OLED Retina</td>
+      <td rowspan="16" class="current">Yes</td>
+      <td rowspan="17" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
+      <td rowspan="12">No</td>
     </tr>
     <tr>
-      <td>iPhone 15 Pro</td>
+      <td>iPhone 15 / 15 Plus</td>
     </tr>
     <tr>
-      <td>iPhone 15 Plus</td>
+      <td>iPhone 14 Pro / Pro Max</td>
+      <td rowspan="3">2022</td>
     </tr>
     <tr>
-      <td>iPhone 15</td>
-    </tr>
-    <tr>
-      <td>iPhone 14 Pro Max</td>
-      <td rowspan="5">2022</td>
-    </tr>
-    <tr>
-      <td>iPhone 14 Pro</td>
-    </tr>
-    <tr>
-      <td>iPhone 14 Plus</td>
-    </tr>
-    <tr>
-      <td>iPhone 14</td>
+      <td>iPhone 14 / 14 Plus</td>
     </tr>
     <tr>
       <td>iPhone SE (gen 3)</td>
       <td>LCD Retina</td>
     </tr>
     <tr>
-      <td>iPhone 13 Pro Max</td>
-      <td rowspan="4">2021</td>
-      <td rowspan="8" class="current">OLED Retina</td>
+      <td>iPhone 13 Pro / Pro Max</td>
+      <td rowspan="2">2021</td>
+      <td rowspan="4" class="current">OLED Retina</td>
     </tr>
     <tr>
-      <td>iPhone 13 Pro</td>
+      <td>iPhone 13 / 13 mini</td>
     </tr>
     <tr>
-      <td>iPhone 13</td>
+      <td>iPhone 12 Pro / Pro Max</td>
+      <td rowspan="3">2020</td>
     </tr>
     <tr>
-      <td>iPhone 13 mini</td>
-    </tr>
-    <tr>
-      <td>iPhone 12 Pro Max</td>
-      <td rowspan="5">2020</td>
-    </tr>
-    <tr>
-      <td>iPhone 12 Pro</td>
-    </tr>
-    <tr>
-      <td>iPhone 12</td>
-    </tr>
-    <tr>
-      <td>iPhone 12 mini</td>
+      <td>iPhone 12 / 12 mini</td>
     </tr>
     <tr>
       <td>iPhone SE (gen 2)</td>
       <td>LCD Retina</td>
     </tr>
     <tr>
-      <td>iPhone 11 Pro Max</td>
-      <td rowspan="3">2019</td>
-      <td rowspan="2" class="current">OLED Retina</td>
-    </tr>
-    <tr>
-      <td>iPhone 11 Pro</td>
+      <td>iPhone 11 Pro / 11 Pro Max</td>
+      <td rowspan="2">2019</td>
+      <td rowspan="1" class="current">OLED Retina</td>
     </tr>
     <tr>
       <td>iPhone 11</td>
       <td>LCD Retina</td>
     </tr>
     <tr>
-      <td>iPhone XS Max</td>
-      <td rowspan="3">2018</td>
-      <td rowspan="2" class="current">OLED Retina</td>
-      <td rowspan="2" class="current">Yes</td>
-    </tr>
-    <tr>
-      <td>iPhone XS</td>
+      <td>iPhone XS / XS Max</td>
+      <td rowspan="2">2018</td>
+      <td class="current">OLED Retina</td>
+      <td class="current">Yes</td>
     </tr>
     <tr>
       <td>iPhone XR</td>
@@ -125,45 +95,33 @@ redirect_from:
     </tr>
     <tr>
       <td>iPhone X</td>
-      <td rowspan="3">2017</td>
+      <td rowspan="2">2017</td>
       <td class="current">OLED Retina</td>
-      <td rowspan="5" class="current">Yes</td>
+      <td rowspan="3" class="current">Yes</td>
     </tr>
     <tr>
-      <td>iPhone 8 Plus</td>
-      <td rowspan="14">LCD Retina</td>
+      <td>iPhone 8 / 8 Plus</td>
+      <td rowspan="10">LCD Retina</td>
     </tr>
     <tr>
-      <td>iPhone 8</td>
-    </tr>
-    <tr>
-      <td>iPhone 7 Plus</td>
-      <td rowspan="3">2016</td>
-      <td rowspan="15">No</td>
-    </tr>
-    <tr>
-      <td>iPhone 7</td>
+      <td>iPhone 7 / 7 Plus</td>
+      <td rowspan="2">2016</td>
+      <td rowspan="12">No</td>
     </tr>
     <tr>
       <td>iPhone SE (gen 1)</td>
-      <td rowspan="13">Full sRGB standard</td>
+      <td rowspan="11">Full sRGB standard</td>
       <td>No</td>
     </tr>
     <tr>
-      <td>iPhone 6s Plus</td>
-      <td rowspan="2">2015</td>
-      <td rowspan="2" class="current">Yes</td>
+      <td>iPhone 6s / 6s Plus</td>
+      <td>2015</td>
+      <td class="current">Yes</td>
     </tr>
     <tr>
-      <td>iPhone 6s</td>
-    </tr>
-    <tr>
-      <td>iPhone 6 Plus</td>
-      <td rowspan="2">2014</td>
-      <td rowspan="10">No</td>
-    </tr>
-    <tr>
-      <td>iPhone 6</td>
+      <td>iPhone 6 / 6  Plus</td>
+      <td>2014</td>
+      <td rowspan="9">No</td>
     </tr>
     <tr>
       <td>iPhone 5s</td>
