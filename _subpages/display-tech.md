@@ -37,7 +37,7 @@ redirect_from:
       <td>2026</td>
       <td rowspan="11" class="current">OLED Retina</td>
       <td rowspan="23" class="current">Yes</td>
-      <td rowspan="24" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
+      <td rowspan="24" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">P3 wide color</a></td>
       <td rowspan="19">No</td>
     </tr>
     <tr>
@@ -134,7 +134,7 @@ redirect_from:
     </tr>
     <tr>
       <td>iPhone SE (gen 1)</td>
-      <td rowspan="11">Full sRGB standard</td>
+      <td rowspan="11">sRGB color</td>
       <td>No</td>
     </tr>
     <tr>
@@ -201,13 +201,52 @@ redirect_from:
   </thead>
   <tbody>
     <tr>
+      <td>iPad Air 11" / 13" (M4)</td>
+      <td>2026</td>
+      <td>Liquid Retina</td>
+      <td>No</td>
+      <td rowspan="16" class="current">Yes</td>
+      <td rowspan="3" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">P3 wide color</a></td>
+      <td rowspan="3">Pencil Pro<br>Pencil (USB-C)</td>
+    </tr>
+    <tr>
+      <td>iPad Pro 11" / 13" (M5)</td>
+      <td rowspan="3">2025</td>
+      <td>Ultra Retina XDR</td>
+      <td class="current">Yes</td>
+    </tr>
+    <tr>
+      <td>iPad Air 11" / 13" (M3)</td>
+      <td rowspan="3">Liquid Retina</td>
+      <td rowspan="3">No</td>
+    </tr>
+    <tr>
+      <td>iPad (A16)</td>
+      <td>sRGB color</td>
+      <td>Pencil (USB-C)<br>Pencil 1</td>
+    </tr>
+    <tr>
+      <td>iPad Mini (A17 Pro)</td>
+      <td rowspan="3">2024</td>
+      <td rowspan="5" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">P3 wide color</a></td>
+      <td rowspan="3">Pencil Pro<br>Pencil (USB-C)</td>
+    </tr>
+    <tr>
+      <td>iPad Pro 11" / 13" (M4)</td>
+      <td>Ultra Retina XDR</td>
+      <td class="current">Yes</td>
+    </tr>
+    <tr>
+      <td>iPad Air 11" / 13" (M2)</td>
+      <td>Liquid Retina</td>
+      <td>No</td>
+    </tr>
+    <tr>
       <td>iPad Pro 12.9" (gen 6)</td>
       <td rowspan="4">2022</td>
       <td>Liquid Retina XDR</td>
       <td rowspan="2" class="current">Yes</td>
-      <td rowspan="9" class="current">Yes</td>
-      <td rowspan="2" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
-      <td rowspan="2" class="current">Pencil 2</td>
+      <td rowspan="2">Pencil 2</td>
     </tr>
     <tr>
       <td>iPad Pro 11" (gen 4)</td>
@@ -217,27 +256,27 @@ redirect_from:
       <td>iPad (gen 10)</td>
       <td>Retina</td>
       <td rowspan="4">No</td>
-      <td>Full sRGB standard</td>
-      <td class="previous">Pencil 1</td>
+      <td>sRGB color</td>
+      <td>Pencil 1</td>
     </tr>
     <tr>
       <td>iPad Air (gen 5)</td>
       <td>Liquid Retina</td>
-      <td class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
-      <td class="current">Pencil 2</td>
+      <td class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">P3 wide color</a></td>
+      <td>Pencil 2</td>
     </tr>
     <tr>
       <td>iPad (gen 9)</td>
       <td rowspan="4">2021</td>
       <td>Retina</td>
-      <td>Full sRGB standard</td>
-      <td class="previous">Pencil 1</td>
+      <td>sRGB color</td>
+      <td>Pencil 1</td>
     </tr>
     <tr>
       <td>iPad mini (gen 6)</td>
       <td>Liquid Retina</td>
-      <td rowspan="4" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
-      <td rowspan="4" class="current">Pencil 2</td>
+      <td rowspan="4" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">P3 wide color</a></td>
+      <td rowspan="4">Pencil 2</td>
     </tr>
     <tr>
       <td>iPad Pro 12.9" (gen 5)</td>
@@ -257,16 +296,16 @@ redirect_from:
       <td>iPad (gen 8)</td>
       <td>Retina</td>
       <td>No</td>
-      <td>Full sRGB standard</td>
-      <td class="previous">Pencil 1</td>
+      <td>sRGB color</td>
+      <td>Pencil 1</td>
     </tr>
     <tr>
       <td>iPad Pro 12.9" (gen 4)</td>
       <td rowspan="2">Liquid Retina</td>
       <td rowspan="2" class="current">Yes</td>
       <td rowspan="2" class="current">Yes</td>
-      <td rowspan="2" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
-      <td rowspan="2" class="current">Pencil 2</td>
+      <td rowspan="2" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">P3 wide color</a></td>
+      <td rowspan="2">Pencil 2</td>
     </tr>
     <tr>
       <td>iPad Pro 11" (gen 2)</td>
@@ -277,13 +316,13 @@ redirect_from:
       <td rowspan="3">Retina</td>
       <td rowspan="3">No</td>
       <td>No</td>
-      <td>Full sRGB standard</td>
-      <td rowspan="3" class="previous">Pencil 1</td>
+      <td>sRGB color</td>
+      <td rowspan="3" >Pencil 1</td>
     </tr>
     <tr>
       <td>iPad Air 10.5"</td>
       <td rowspan="4" class="current">Yes</td>
-      <td rowspan="4" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
+      <td rowspan="4" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">P3 wide color</a></td>
     </tr>
     <tr>
       <td>iPad mini (gen 5)</td>
@@ -293,7 +332,7 @@ redirect_from:
       <td rowspan="3">2018</td>
       <td rowspan="2">Liquid Retina</td>
       <td rowspan="2" class="current">Yes</td>
-      <td rowspan="2" class="current">Pencil 2</td>
+      <td rowspan="2">Pencil 2</td>
     </tr>
     <tr>
       <td>iPad Pro 11" (gen 1)</td>
@@ -303,15 +342,15 @@ redirect_from:
       <td rowspan="12">Retina</td>
       <td>No</td>
       <td>No</td>
-      <td>Full sRGB standard</td>
-      <td rowspan="3" class="previous">Pencil 1</td>
+      <td>sRGB color</td>
+      <td rowspan="3" >Pencil 1</td>
     </tr>
     <tr>
       <td>iPad Pro 12.9" (gen 2)</td>
       <td rowspan="3">2017</td>
       <td rowspan="2" class="current">Yes</td>
       <td rowspan="2" class="current">Yes</td>
-      <td rowspan="2" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
+      <td rowspan="2" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">P3 wide color</a></td>
     </tr>
     <tr>
       <td>iPad Pro 10.5"</td>
@@ -320,21 +359,21 @@ redirect_from:
       <td>iPad (gen 5)</td>
       <td rowspan="13">No</td>
       <td>No</td>
-      <td>Full sRGB standard</td>
+      <td>sRGB color</td>
       <td>None</td>
     </tr>
     <tr>
       <td>iPad Pro 9.7"</td>
       <td>2016</td>
       <td class="current">Yes</td>
-      <td class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
-      <td rowspan="2" class="previous">Pencil 1</td>
+      <td class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">P3 wide color</a></td>
+      <td rowspan="2" >Pencil 1</td>
     </tr>
     <tr>
       <td>iPad Pro 12.9" (gen 1)</td>
       <td rowspan="2">2015</td>
       <td rowspan="11">No</td>
-      <td rowspan="11">Full sRGB standard</td>
+      <td rowspan="11">sRGB color</td>
     </tr>
     <tr>
       <td>iPad mini 4</td>
@@ -469,7 +508,7 @@ redirect_from:
       <td>iPod touch (gen 7)</td>
       <td>2019</td>
       <td rowspan="4">LCD Retina</td>
-      <td rowspan="7">Full sRGB standard</td>
+      <td rowspan="7">sRGB color</td>
       <td rowspan="7">No</td>
     </tr>
     <tr>
