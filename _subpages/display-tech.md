@@ -32,13 +32,37 @@ redirect_from:
     </tr>
   </thead>
   <tbody>
-    <tr class="align-top">
+    <tr>
+      <td>iPhone 17e</td>
+      <td>2026</td>
+      <td rowspan="11" class="current">OLED Retina</td>
+      <td rowspan="23" class="current">Yes</td>
+      <td rowspan="24" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
+      <td rowspan="19">No</td>
+    </tr>
+    <tr>
+      <td>iPhone Air</td>
+      <td rowspan="4">2025</td>
+    </tr>
+    <tr>
+      <td>iPhone 17 Pro / 17 Pro Max</td>
+    </tr>
+    <tr>
+      <td>iPhone 17</td>
+    </tr>
+    <tr>
+      <td>iPhone 16e</td>
+    </tr>
+    <tr>
+      <td>iPhone 16 Pro / 16 Pro Max</td>
+      <td rowspan="2">2024</td>
+    </tr>
+    <tr>
+      <td>iPhone 16 / 16 Plus</td>
+    </tr>
+    <tr>
       <td>iPhone 15 Pro / Pro Max</td>
       <td rowspan="2">2023</td>
-      <td rowspan="4" class="current">OLED Retina</td>
-      <td rowspan="16" class="current">Yes</td>
-      <td rowspan="17" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">Wide color display (P3)</a></td>
-      <td rowspan="12">No</td>
     </tr>
     <tr>
       <td>iPhone 15 / 15 Plus</td>
