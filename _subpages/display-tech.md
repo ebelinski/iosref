@@ -433,14 +433,41 @@ redirect_from:
   </thead>
   <tbody>
     <tr>
+      <td>Ultra 3</td>
+      <td rowspan="3">2025</td>
+      <td rowspan="2">LTPO3 wide-angle OLED</td>
+      <td rowspan="8" class="current">Yes</td>
+      <td rowspan="12">No</td>
+    </tr>
+    <tr>
+      <td>Series 11</td>
+    </tr>
+    <tr>
+      <td>SE (gen 3)</td>
+      <td>LTPO OLED</td>
+    </tr>
+    <tr>
+      <td>Series 10</td>
+      <td>2024</td>
+      <td>LTPO3 wide-angle OLED</td>
+    </tr>
+    <tr>
+      <td>Ultra 2</td>
+      <td rowspan="2">2023</td>
+      <td>LTPO2 OLED</td>
+    </tr>
+    <tr>
+      <td>Series 9</td>
+      <td>LTPO OLED</td>
+    </tr>
+    <tr>
       <td>Ultra</td>
       <td rowspan="3">2022</td>
-      <td rowspan="12">OLED Retina</td>
-      <td rowspan="2" class="current">Yes</td>
-      <td rowspan="6">No</td>
+      <td>LTPO2 OLED</td>
     </tr>
     <tr>
       <td>Series 8</td>
+      <td rowspan="7">LTPO OLED</td>
     </tr>
     <tr>
       <td>SE (gen 2)</td>
@@ -473,6 +500,7 @@ redirect_from:
     <tr>
       <td>Series 3</td>
       <td>2017</td>
+      <td rowspan="4">OLED</td>
     </tr>
     <tr>
       <td>Series 2</td>
@@ -493,7 +521,7 @@ redirect_from:
 ### iPod touch
 
 <div class="table-responsive">
-<table class="table">
+<table class="table table-bordered">
   <thead>
     <tr class="align-top">
       <th>Device</th>
