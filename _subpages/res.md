@@ -348,7 +348,7 @@ redirect_from:
       <tr class="align-top">
         <th>Device</th>
         <th>Diagonal size</th>
-        <th>Logical/actual resolution</th>
+        <th>Resolution</th>
         <th>Aspect ratio</th>
         <th>PPI</th>
       </tr>

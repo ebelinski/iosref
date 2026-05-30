@@ -31,6 +31,49 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>iPhone 17e</td>
+        <td>2026</td>
+        <td>iPhone18,5</td>
+      </tr>
+      <tr>
+        <td>iPhone Air</td>
+        <td rowspan="5">2025</td>
+        <td>iPhone18,4</td>
+      </tr>
+      <tr>
+        <td>iPhone 17 Pro Max</td>
+        <td>iPhone18,2</td>
+      </tr>
+      <tr>
+        <td>iPhone 17 Pro</td>
+        <td>iPhone18,1</td>
+      </tr>
+      <tr>
+        <td>iPhone 17</td>
+        <td>iPhone18,3</td>
+      </tr>
+      <tr>
+        <td>iPhone 16e</td>
+        <td>iPhone17,5</td>
+      </tr>
+      <tr>
+        <td>iPhone 16 Pro Max</td>
+        <td rowspan="4">2024</td>
+        <td>iPhone17,2</td>
+      </tr>
+      <tr>
+        <td>iPhone 16 Pro</td>
+        <td>iPhone17,1</td>
+      </tr>
+      <tr>
+        <td>iPhone 16 Plus</td>
+        <td>iPhone17,4</td>
+      </tr>
+      <tr>
+        <td>iPhone 16</td>
+        <td>iPhone17,3</td>
+      </tr>
+      <tr>
         <td>iPhone 15 Pro Max</td>
         <td rowspan="4">2023</td>
         <td>iPhone 16,2</td>
