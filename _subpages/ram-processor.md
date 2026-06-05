@@ -22,7 +22,7 @@ redirect_from:
       <tr class="align-top">
         <th>Device</th>
         <th>Released</th>
-        <th>RAM</th>
+        <th>Memory</th>
         <th colspan="2">Processor</th>
       </tr>
     </thead>
@@ -256,7 +256,7 @@ redirect_from:
       <tr class="align-top">
         <th>Device</th>
         <th>Released</th>
-        <th>RAM</th>
+        <th>Memory</th>
         <th>Processor</th>
       </tr>
     </thead>
@@ -433,7 +433,7 @@ redirect_from:
       <tr class="align-top">
         <th>Device</th>
         <th>Released</th>
-        <th>RAM</th>
+        <th>Memory</th>
         <th>Storage</th>
         <th>Processor</th>
       </tr>
@@ -525,7 +525,7 @@ redirect_from:
       <tr class="align-top">
         <th>Device</th>
         <th>Released</th>
-        <th>RAM</th>
+        <th>Memory</th>
         <th>Processor</th>
       </tr>
     </thead>
@@ -582,7 +582,7 @@ redirect_from:
       <tr class="align-top">
         <th>Device</th>
         <th>Released</th>
-        <th>RAM</th>
+        <th>Memory</th>
         <th>Processor</th>
       </tr>
     </thead>
@@ -635,7 +635,7 @@ redirect_from:
       <tr class="align-top">
         <th>Device</th>
         <th>Released</th>
-        <th>RAM</th>
+        <th>Memory</th>
         <th>Processor</th>
       </tr>
     </thead>
