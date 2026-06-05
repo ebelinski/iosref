@@ -311,3 +311,29 @@ HomePod mini:
   status: normal
 HomePod:
   status: normal
+
+# Additional keys for resolution pages
+iPad Pro 13":
+  status: normal
+iPad Air 13" (gen 6):
+  status: normal
+iPad (gen 11):
+  status: normal
+iPad Air 11" (gen 6):
+  status: normal
+iPad mini (gen 7):
+  status: normal
+Apple Watch 49mm:
+  status: normal
+Apple Watch 45mm:
+  status: normal
+Apple Watch 41mm:
+  status: normal
+Apple Watch 44mm:
+  status: normal
+Apple Watch 40mm:
+  status: normal
+Apple Watch 42mm:
+  status: normal
+Apple Watch 38mm:
+  status: normal
