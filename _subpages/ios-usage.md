@@ -32,7 +32,7 @@ The following table displays the cumulative usage of each major version of iOS. 
       <td>iOS 18</td>
       <td>2024</td>
       {% include progress-cell.html rowspan=1 percentage=86.5 %}
-      <td>iPhone XS / XS Max, iPhone XR</td>
+      <td>{% include device.html name="iPhone XS" %} / {% include device.html name="iPhone XS Max" display="XS Max" %}, {% include device.html name="iPhone XR" %}</td>
     </tr>
     <tr>
       <td>iOS 17</td>

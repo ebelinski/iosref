@@ -20,78 +20,78 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
   </thead>
   <tbody>
     <tr>
-      <td>iPad Air 11" / 13" (M4)</td>
+      <td>{% include device.html name='iPad Air 11" (M4)' display='iPad Air 11"' %} / {% include device.html name='iPad Air 13" (M4)' display='13" (M4)' %}</td>
       <td>2026</td>
       <td rowspan="2">26</td>
       <td class="current" rowspan="19">26</td>
     </tr>
     <tr>
-      <td>iPad Pro 11" / 13" (M5)</td>
+      <td>{% include device.html name='iPad Pro 11" (M5)' display='iPad Pro 11"' %} / {% include device.html name='iPad Pro 13" (M5)' display='13" (M5)' %}</td>
       <td rowspan="3">2025</td>
     </tr>
     <tr>
-      <td>iPad Air 11" / 13" (M3)</td>
+      <td>{% include device.html name='iPad Air 11" (M3)' display='iPad Air 11"' %} / {% include device.html name='iPad Air 13" (M3)' display='13" (M3)' %}</td>
       <td rowspan="3">18</td>
     </tr>
     <tr>
-      <td>iPad (A16)</td>
+      <td>{% include device.html name="iPad (A16)" %}</td>
     </tr>
     <tr>
-      <td>iPad Mini (A17 Pro)</td>
+      <td>{% include device.html name="iPad Mini (A17 Pro)" %}</td>
       <td rowspan="3">2024</td>
     </tr>
     <tr>
-      <td>iPad Pro 11" / 13" (M4)</td>
+      <td>{% include device.html name='iPad Pro 11" (M4)' display='iPad Pro 11"' %} / {% include device.html name='iPad Pro 13" (M4)' display='13" (M4)' %}</td>
       <td rowspan="2">17</td>
     </tr>
     <tr>
-      <td>iPad Air 11" / 13" (M2)</td>
+      <td>{% include device.html name='iPad Air 11" (M2)' display='iPad Air 11"' %} / {% include device.html name='iPad Air 13" (M2)' display='13" (M2)' %}</td>
     </tr>
     <tr>
-      <td>iPad Pro 12.9" (gen 6)</td>
+      <td>{% include device.html name='iPad Pro 12.9" (gen 6)' %}</td>
       <td rowspan="4">2022</td>
       <td rowspan="3">16</td>
     </tr>
     <tr>
-      <td>iPad Pro 11" (gen 4)</td>
+      <td>{% include device.html name='iPad Pro 11" (gen 4)' %}</td>
     </tr>
     <tr>
-      <td>iPad (gen 10)</td>
+      <td>{% include device.html name="iPad (gen 10)" %}</td>
     </tr>
     <tr>
-      <td>iPad Air (gen 5)</td>
+      <td>{% include device.html name="iPad Air (gen 5)" %}</td>
       <td rowspan="3">15</td>
     </tr>
     <tr>
-      <td>iPad (gen 9)</td>
+      <td>{% include device.html name="iPad (gen 9)" %}</td>
       <td rowspan="4">2021</td>
     </tr>
     <tr>
-      <td>iPad mini (gen 6)</td>
+      <td>{% include device.html name="iPad mini (gen 6)" %}</td>
     </tr>
     <tr>
-      <td>iPad Pro 12.9" (gen 5)</td>
+      <td>{% include device.html name='iPad Pro 12.9" (gen 5)' %}</td>
       <td rowspan="4">14</td>
     </tr>
     <tr>
-      <td>iPad Pro 11" (gen 3)</td>
+      <td>{% include device.html name='iPad Pro 11" (gen 3)' %}</td>
     </tr>
     <tr>
-      <td>iPad Air (gen 4)</td>
+      <td>{% include device.html name="iPad Air (gen 4)" %}</td>
       <td rowspan="4">2020</td>
     </tr>
     <tr>
-      <td>iPad (gen 8)</td>
+      <td>{% include device.html name="iPad (gen 8)" %}</td>
     </tr>
     <tr>
-      <td>iPad Pro 12.9" (gen 4)</td>
+      <td>{% include device.html name='iPad Pro 12.9" (gen 4)' %}</td>
       <td rowspan="3">13</td>
     </tr>
     <tr>
-      <td>iPad Pro 11" (gen 2)</td>
+      <td>{% include device.html name='iPad Pro 11" (gen 2)' %}</td>
     </tr>
     <tr>
-      <td>iPad (gen 7)</td>
+      <td>{% include device.html name="iPad (gen 7)" %}</td>
       <td rowspan="3">2019</td>
       <td class="previous">18</td>
     </tr>
@@ -101,7 +101,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
       <td class="current" rowspan="4">26</td>
     </tr>
     <tr>
-      <td>iPad mini (gen 5)</td>
+      <td>{% include device.html name="iPad mini (gen 5)" %}</td>
     </tr>
     <tr>
       <td>iPad Pro 12.9" (gen 3) {% include badge-vintage.html %}</td>

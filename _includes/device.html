@@ -1,0 +1,8 @@
+{%- assign device = site.data.devices[include.name] -%}
+{%- assign display_name = include.display | default: include.name -%}
+{{- display_name -}}
+{%- if device.status == 'obsolete' -%}
+  &nbsp;{%- include badge-obsolete.html -%}
+{%- elsif device.status == 'vintage' -%}
+  &nbsp;{%- include badge-vintage.html -%}
+{%- endif -%}
