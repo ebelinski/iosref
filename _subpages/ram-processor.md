@@ -46,7 +46,7 @@ redirect_from:
       </tr>
       <tr>
         <td>iPhone 17</td>
-        <td rowspan="4">8 GB</td>
+        <td rowspan="5">8 GB</td>
         <td colspan="2">A19</td>
       </tr>
       <tr>
@@ -63,36 +63,23 @@ redirect_from:
         <td colspan="2">A18</td>
       </tr>
       <tr>
-        <td>iPhone 15 Pro Max</td>
-        <td rowspan="4">2023</td>
-        <td rowspan="2">8 GB</td>
-        <td rowspan="2" colspan="2">A17 Pro</td>
+        <td>iPhone 15 Pro / 15 Pro Max</td>
+        <td rowspan="2">2023</td>
+        <td colspan="2">A17 Pro</td>
       </tr>
       <tr>
-        <td>iPhone 15 Pro</td>
+        <td>iPhone 15 / 15 Plus</td>
+        <td rowspan="3">6 GB</td>
+        <td rowspan="2" colspan="2">A16 Bionic</td>
       </tr>
       <tr>
-        <td>iPhone 15 Plus</td>
-        <td rowspan="6">6 GB</td>
-        <td rowspan="4" colspan="2">A16 Bionic</td>
+        <td>iPhone 14 Pro / 14 Pro Max</td>
+        <td rowspan="3">2022</td>
       </tr>
       <tr>
-        <td>iPhone 15</td>
-      </tr>
-      <tr>
-        <td>iPhone 14 Pro Max</td>
-        <td rowspan="5">2022</td>
-      </tr>
-      <tr>
-        <td>iPhone 14 Pro</td>
-      </tr>
-      <tr>
-        <td>iPhone 14 Plus</td>
-        <td rowspan="7">A15 Bionic</td>
-        <td rowspan="2">5-core GPU</td>
-      </tr>
-      <tr>
-        <td>iPhone 14</td>
+        <td>iPhone 14 / 14 Plus</td>
+        <td rowspan="4">A15 Bionic</td>
+        <td rowspan="1">5-core GPU</td>
       </tr>
       <tr>
         <td>iPhone SE (gen 3)</td>
@@ -100,61 +87,43 @@ redirect_from:
         <td>4-core GPU</td>
       </tr>
       <tr>
-        <td>iPhone 13 Pro Max</td>
-        <td rowspan="4">2021</td>
-        <td rowspan="2">6 GB</td>
-        <td rowspan="2">5-core GPU</td>
+        <td>iPhone 13 Pro / 13 Pro Max</td>
+        <td rowspan="2">2021</td>
+        <td>6 GB</td>
+        <td>5-core GPU</td>
       </tr>
       <tr>
-        <td>iPhone 13 Pro</td>
+        <td>iPhone 13 / 13 mini</td>
+        <td>4 GB</td>
+        <td>4-core GPU</td>
       </tr>
       <tr>
-        <td>iPhone 13</td>
-        <td rowspan="2">4 GB</td>
-        <td rowspan="2">4-core GPU</td>
+        <td>iPhone 12 Pro / 12 Pro Max</td>
+        <td rowspan="3">2020</td>
+        <td>6 GB</td>
+        <td rowspan="2" colspan="2">A14 Bionic</td>
       </tr>
       <tr>
-        <td>iPhone 13 mini</td>
-      </tr>
-      <tr>
-        <td>iPhone 12 Pro Max</td>
-        <td rowspan="5">2020</td>
-        <td rowspan="2">6 GB</td>
-        <td rowspan="4" colspan="2">A14 Bionic</td>
-      </tr>
-      <tr>
-        <td>iPhone 12 Pro</td>
-      </tr>
-      <tr>
-        <td>iPhone 12</td>
-        <td rowspan="2">4 GB</td>
-      </tr>
-      <tr>
-        <td>iPhone 12 mini</td>
+        <td>iPhone 12 / 12 mini</td>
+        <td>4 GB</td>
       </tr>
       <tr>
         <td>iPhone SE (gen 2)</td>
         <td>3 GB</td>
-        <td rowspan="4" colspan="2">A13 Bionic</td>
+        <td rowspan="3" colspan="2">A13 Bionic</td>
       </tr>
       <tr>
-        <td>iPhone 11 Pro Max</td>
-        <td rowspan="3">2019</td>
-        <td rowspan="5">4 GB</td>
-      </tr>
-      <tr>
-        <td>iPhone 11 Pro</td>
+        <td>iPhone 11 Pro / Pro Max</td>
+        <td rowspan="2">2019</td>
+        <td rowspan="3">4 GB</td>
       </tr>
       <tr>
         <td>iPhone 11</td>
       </tr>
       <tr>
         <td>iPhone XS Max</td>
-        <td rowspan="3">2018</td>
-        <td rowspan="3" colspan="2">A12 Bionic</td>
-      </tr>
-      <tr>
-        <td>iPhone XS</td>
+        <td rowspan="2">2018</td>
+        <td rowspan="2" colspan="2">A12 Bionic</td>
       </tr>
       <tr>
         <td>iPhone XR</td>
@@ -180,36 +149,29 @@ redirect_from:
       </tr>
       <tr>
         <td>iPhone 7</td>
-        <td rowspan="4">2 GB</td>
+        <td rowspan="3">2 GB</td>
       </tr>
       <tr>
         <td>iPhone SE</td>
-        <td rowspan="3" colspan="2">A9</td>
+        <td rowspan="2" colspan="2">A9</td>
       </tr>
       <tr>
-        <td>iPhone 6s Plus</td>
-        <td rowspan="2">2015</td>
+        <td>iPhone 6s / 6s Plus</td>
+        <td>2015</td>
       </tr>
       <tr>
-        <td>iPhone 6s</td>
-      </tr>
-      <tr>
-        <td>iPhone 6 Plus</td>
-        <td rowspan="2">2014</td>
-        <td rowspan="5">1 GB</td>
-        <td rowspan="2" colspan="2">A8</td>
-      </tr>
-      <tr>
-        <td>iPhone 6</td>
+        <td>iPhone 6 / 6 Plus</td>
+        <td>2014</td>
+        <td rowspan="4">1 GB</td>
+        <td colspan="2">A8</td>
       </tr>
       <tr>
         <td>iPhone 5s</td>
-        <td>2013</td>
+        <td rowspan="2">2013</td>
         <td colspan="2">A7</td>
       </tr>
       <tr>
         <td>iPhone 5c</td>
-        <td>2013</td>
         <td rowspan="2" colspan="2">A6</td>
       </tr>
       <tr>
