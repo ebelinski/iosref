@@ -224,10 +224,47 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>iPad Air 11" / 13" (M4)</td>
+        <td>2026</td>
+        <td>12 GB</td>
+        <td>M4</td>
+      </tr>
+      <tr>
+        <td>iPad Pro 11" / 13" (M5)</td>
+        <td rowspan="3">2025</td>
+        <td>8 GB<br>16 GB (1-2 TB models)</td>
+        <td>M5</td>
+      </tr>
+      <tr>
+        <td>iPad Air 11" / 13" (M3)</td>
+        <td>8 GB</td>
+        <td>M3</td>
+      </tr>
+      <tr>
+        <td>iPad (A16)</td>
+        <td>6 GB</td>
+        <td>A16</td>
+      </tr>
+      <tr>
+        <td>iPad Mini (A17 Pro)</td>
+        <td rowspan="3">2024</td>
+        <td>8 GB</td>
+        <td>A17 Pro</td>
+      </tr>
+      <tr>
+        <td>iPad Pro 11" / 13" (M4)</td>
+        <td>8 GB<br>16 GB (1-2 TB models)</td>
+        <td>M4</td>
+      </tr>
+      <tr>
+        <td>iPad Air 11" / 13" (M2)</td>
+        <td>8 GB</td>
+        <td rowspan="3">M2</td>
+      </tr>
+      <tr>
         <td>iPad Pro 12.9" (gen 6)</td>
         <td rowspan="4">2022</td>
         <td rowspan="2">8 GB<br>16 GB (1-2 TB models)</td>
-        <td rowspan="2">M2</td>
       </tr>
       <tr>
         <td>iPad Pro 11" (gen 4)</td>
