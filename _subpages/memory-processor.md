@@ -113,7 +113,7 @@ redirect_from:
         <td rowspan="3">A13 Bionic</td>
       </tr>
       <tr>
-        <td>iPhone 11 Pro / Pro Max</td>
+        <td>iPhone 11 Pro {% include badge-vintage.html %} / Pro Max {% include badge-vintage.html %}</td>
         <td rowspan="2">2019</td>
         <td rowspan="3">4 GB</td>
       </tr>
@@ -121,7 +121,7 @@ redirect_from:
         <td>iPhone 11</td>
       </tr>
       <tr>
-        <td>iPhone XS Max</td>
+        <td>iPhone XS {% include badge-vintage.html %} / XS Max {% include badge-vintage.html %}</td>
         <td rowspan="2">2018</td>
         <td rowspan="2">A12 Bionic</td>
       </tr>
@@ -130,79 +130,79 @@ redirect_from:
         <td rowspan="3">3 GB</td>
       </tr>
       <tr>
-        <td>iPhone X</td>
+        <td>iPhone X {% include badge-vintage.html %}</td>
         <td rowspan="3">2017</td>
         <td rowspan="3">A11 Bionic</td>
       </tr>
       <tr>
-        <td>iPhone 8 Plus</td>
+        <td>iPhone 8 Plus {% include badge-vintage.html %}</td>
       </tr>
       <tr>
-        <td>iPhone 8</td>
+        <td>iPhone 8 {% include badge-vintage.html %}</td>
         <td>2 GB</td>
       </tr>
       <tr>
-        <td>iPhone 7 Plus</td>
+        <td>iPhone 7 Plus {% include badge-vintage.html %}</td>
         <td rowspan="3">2016</td>
         <td>3 GB</td>
         <td rowspan="2">A10 Fusion</td>
       </tr>
       <tr>
-        <td>iPhone 7</td>
+        <td>iPhone 7 {% include badge-vintage.html %}</td>
         <td rowspan="3">2 GB</td>
       </tr>
       <tr>
-        <td>iPhone SE</td>
+        <td>iPhone SE (gen 1) {% include badge-obsolete.html %}</td>
         <td rowspan="2">A9</td>
       </tr>
       <tr>
-        <td>iPhone 6s / 6s Plus</td>
+        <td>iPhone 6s {% include badge-obsolete.html %} / 6s Plus {% include badge-obsolete.html %}</td>
         <td>2015</td>
       </tr>
       <tr>
-        <td>iPhone 6 / 6 Plus</td>
+        <td>iPhone 6 {% include badge-obsolete.html %} / 6 Plus {% include badge-obsolete.html %}</td>
         <td>2014</td>
         <td rowspan="4">1 GB</td>
         <td>A8</td>
       </tr>
       <tr>
-        <td>iPhone 5s</td>
+        <td>iPhone 5s {% include badge-obsolete.html %}</td>
         <td rowspan="2">2013</td>
         <td>A7</td>
       </tr>
       <tr>
-        <td>iPhone 5c</td>
+        <td>iPhone 5c {% include badge-obsolete.html %}</td>
         <td rowspan="2">A6</td>
       </tr>
       <tr>
-        <td>iPhone 5</td>
+        <td>iPhone 5 {% include badge-obsolete.html %}</td>
         <td>2012</td>
       </tr>
       <tr>
-        <td>iPhone 4s</td>
+        <td>iPhone 4s {% include badge-obsolete.html %}</td>
         <td>2011</td>
         <td rowspan="2">512 MB</td>
         <td>A5</td>
       </tr>
       <tr>
-        <td>iPhone 4</td>
+        <td>iPhone 4 {% include badge-obsolete.html %}</td>
         <td>2010</td>
         <td>A4</td>
       </tr>
       <tr>
-        <td>iPhone 3GS</td>
+        <td>iPhone 3GS {% include badge-obsolete.html %}</td>
         <td>2009</td>
         <td>256 MB</td>
         <td>—</td>
       </tr>
       <tr>
-        <td>iPhone 3G</td>
+        <td>iPhone 3G {% include badge-obsolete.html %}</td>
         <td>2008</td>
         <td rowspan="2">128 MB</td>
         <td>—</td>
       </tr>
       <tr>
-        <td>iPhone (gen 1)</td>
+        <td>iPhone (gen 1) {% include badge-obsolete.html %}</td>
         <td>2007</td>
         <td>—</td>
       </tr>
