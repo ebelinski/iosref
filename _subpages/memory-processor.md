@@ -1,11 +1,14 @@
 ---
 layout: default
-title: RAM and processor by device
-description: Tables showing the RAM and processor for each iPhone, iPad, Apple Watch, and iPod touch.
+title: Memory and processor by device
+description: Tables showing the memory and processor for each iPhone, iPad, Apple Watch, iPod touch, Apple TV, and HomePod.
 redirect_from:
   - /ram/
   - /processor/
   - /ram-and-processor/
+  - /ram-processor/
+  - /memory/
+  - /memory-and-processor/
 ---
 {::options parse_block_html="true" /}
 
