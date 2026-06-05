@@ -24,7 +24,7 @@ layout: default
 
 ### Hardware
 
-* [Memory & processor](/memory-processor)
+* [Memory and processor](/memory-processor)
 * [Hardware strings](/hardware-strings)
 
 {% include closecol.html %}{% include opencol.html size=4 %}

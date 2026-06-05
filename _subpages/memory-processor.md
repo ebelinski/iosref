@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Memory and processor by device
-description: Tables showing the memory and processor for each iPhone, iPad, Apple Watch, iPod touch, Apple TV, and HomePod.
+description: Tables showing the unified memory and processor for each iPhone, iPad, Apple Watch, iPod touch, Apple TV, and HomePod.
 redirect_from:
   - /ram/
   - /processor/
@@ -25,8 +25,9 @@ redirect_from:
       <tr class="align-top">
         <th>Device</th>
         <th>Released</th>
-        <th>Memory</th>
-        <th colspan="2">Processor</th>
+        <th>Unified memory</th>
+        <th>Processor</th>
+        <th>Apple Intelligence</th>
       </tr>
     </thead>
     <tbody>
@@ -34,46 +35,46 @@ redirect_from:
         <td>iPhone 17e</td>
         <td>2026</td>
         <td>8 GB</td>
-        <td colspan="2">A19</td>
+        <td>A19</td>
+        <td rowspan="8" class="current">Yes</td>
       </tr>
       <tr>
         <td>iPhone Air</td>
         <td rowspan="4">2025</td>
         <td rowspan="2">12 GB</td>
         <td rowspan="2">A19 Pro</td>
-        <td>5-core GPU</td>
       </tr>
       <tr>
         <td>iPhone 17 Pro / 17 Pro Max</td>
-        <td>6-core GPU</td>
       </tr>
       <tr>
         <td>iPhone 17</td>
         <td rowspan="5">8 GB</td>
-        <td colspan="2">A19</td>
+        <td>A19</td>
       </tr>
       <tr>
         <td>iPhone 16e</td>
-        <td colspan="2">A18</td>
+        <td>A18</td>
       </tr>
       <tr>
         <td>iPhone 16 Pro / 16 Pro Max</td>
         <td rowspan="2">2024</td>
-        <td colspan="2">A18 Pro</td>
+        <td>A18 Pro</td>
       </tr>
       <tr>
         <td>iPhone 16 / 16 Plus</td>
-        <td colspan="2">A18</td>
+        <td>A18</td>
       </tr>
       <tr>
         <td>iPhone 15 Pro / 15 Pro Max</td>
         <td rowspan="2">2023</td>
-        <td colspan="2">A17 Pro</td>
+        <td>A17 Pro</td>
       </tr>
       <tr>
         <td>iPhone 15 / 15 Plus</td>
         <td rowspan="3">6 GB</td>
-        <td rowspan="2" colspan="2">A16 Bionic</td>
+        <td rowspan="2">A16 Bionic</td>
+        <td rowspan="29">No</td>
       </tr>
       <tr>
         <td>iPhone 14 Pro / 14 Pro Max</td>
@@ -82,29 +83,25 @@ redirect_from:
       <tr>
         <td>iPhone 14 / 14 Plus</td>
         <td rowspan="4">A15 Bionic</td>
-        <td rowspan="1">5-core GPU</td>
       </tr>
       <tr>
         <td>iPhone SE (gen 3)</td>
         <td>4 GB</td>
-        <td>4-core GPU</td>
       </tr>
       <tr>
         <td>iPhone 13 Pro / 13 Pro Max</td>
         <td rowspan="2">2021</td>
         <td>6 GB</td>
-        <td>5-core GPU</td>
       </tr>
       <tr>
         <td>iPhone 13 / 13 mini</td>
         <td>4 GB</td>
-        <td>4-core GPU</td>
       </tr>
       <tr>
         <td>iPhone 12 Pro / 12 Pro Max</td>
         <td rowspan="3">2020</td>
         <td>6 GB</td>
-        <td rowspan="2" colspan="2">A14 Bionic</td>
+        <td rowspan="2">A14 Bionic</td>
       </tr>
       <tr>
         <td>iPhone 12 / 12 mini</td>
@@ -113,7 +110,7 @@ redirect_from:
       <tr>
         <td>iPhone SE (gen 2)</td>
         <td>3 GB</td>
-        <td rowspan="3" colspan="2">A13 Bionic</td>
+        <td rowspan="3">A13 Bionic</td>
       </tr>
       <tr>
         <td>iPhone 11 Pro / Pro Max</td>
@@ -126,7 +123,7 @@ redirect_from:
       <tr>
         <td>iPhone XS Max</td>
         <td rowspan="2">2018</td>
-        <td rowspan="2" colspan="2">A12 Bionic</td>
+        <td rowspan="2">A12 Bionic</td>
       </tr>
       <tr>
         <td>iPhone XR</td>
@@ -135,7 +132,7 @@ redirect_from:
       <tr>
         <td>iPhone X</td>
         <td rowspan="3">2017</td>
-        <td rowspan="3" colspan="2">A11 Bionic</td>
+        <td rowspan="3">A11 Bionic</td>
       </tr>
       <tr>
         <td>iPhone 8 Plus</td>
@@ -148,7 +145,7 @@ redirect_from:
         <td>iPhone 7 Plus</td>
         <td rowspan="3">2016</td>
         <td>3 GB</td>
-        <td rowspan="2" colspan="2">A10 Fusion</td>
+        <td rowspan="2">A10 Fusion</td>
       </tr>
       <tr>
         <td>iPhone 7</td>
@@ -156,7 +153,7 @@ redirect_from:
       </tr>
       <tr>
         <td>iPhone SE</td>
-        <td rowspan="2" colspan="2">A9</td>
+        <td rowspan="2">A9</td>
       </tr>
       <tr>
         <td>iPhone 6s / 6s Plus</td>
@@ -166,16 +163,16 @@ redirect_from:
         <td>iPhone 6 / 6 Plus</td>
         <td>2014</td>
         <td rowspan="4">1 GB</td>
-        <td colspan="2">A8</td>
+        <td>A8</td>
       </tr>
       <tr>
         <td>iPhone 5s</td>
         <td rowspan="2">2013</td>
-        <td colspan="2">A7</td>
+        <td>A7</td>
       </tr>
       <tr>
         <td>iPhone 5c</td>
-        <td rowspan="2" colspan="2">A6</td>
+        <td rowspan="2">A6</td>
       </tr>
       <tr>
         <td>iPhone 5</td>
@@ -185,29 +182,29 @@ redirect_from:
         <td>iPhone 4s</td>
         <td>2011</td>
         <td rowspan="2">512 MB</td>
-        <td colspan="2">A5</td>
+        <td>A5</td>
       </tr>
       <tr>
         <td>iPhone 4</td>
         <td>2010</td>
-        <td colspan="2">A4</td>
+        <td>A4</td>
       </tr>
       <tr>
         <td>iPhone 3GS</td>
         <td>2009</td>
         <td>256 MB</td>
-        <td colspan="2">—</td>
+        <td>—</td>
       </tr>
       <tr>
         <td>iPhone 3G</td>
         <td>2008</td>
         <td rowspan="2">128 MB</td>
-        <td colspan="2">—</td>
+        <td>—</td>
       </tr>
       <tr>
         <td>iPhone (gen 1)</td>
         <td>2007</td>
-        <td colspan="2">—</td>
+        <td>—</td>
       </tr>
     </tbody>
   </table>
@@ -221,8 +218,9 @@ redirect_from:
       <tr class="align-top">
         <th>Device</th>
         <th>Released</th>
-        <th>Memory</th>
+        <th>Unified memory</th>
         <th>Processor</th>
+        <th>Apple Intelligence</th>
       </tr>
     </thead>
     <tbody>
@@ -231,6 +229,7 @@ redirect_from:
         <td>2026</td>
         <td>12 GB</td>
         <td>M4</td>
+        <td rowspan="3" class="current">Yes</td>
       </tr>
       <tr>
         <td>iPad Pro 11" / 13" (M5)</td>
@@ -247,12 +246,14 @@ redirect_from:
         <td>iPad (A16)</td>
         <td>6 GB</td>
         <td>A16</td>
+        <td>No</td>
       </tr>
       <tr>
         <td>iPad Mini (A17 Pro)</td>
         <td rowspan="3">2024</td>
         <td>8 GB</td>
         <td>A17 Pro</td>
+        <td rowspan="5" class="current">Yes</td>
       </tr>
       <tr>
         <td>iPad Pro 11" / 13" (M4)</td>
@@ -276,17 +277,20 @@ redirect_from:
         <td>iPad (gen 10)</td>
         <td>4 GB</td>
         <td>A14 Bionic</td>
+        <td>No</td>
       </tr>
       <tr>
         <td>iPad Air (gen 5)</td>
         <td>8 GB</td>
         <td>M1</td>
+        <td class="current">Yes</td>
       </tr>
       <tr>
         <td>iPad (gen 9)</td>
         <td rowspan="4">2021</td>
         <td>3 GB</td>
         <td>A13 Bionic</td>
+        <td rowspan="2">No</td>
       </tr>
       <tr>
         <td>iPad mini (gen 6)</td>
@@ -297,6 +301,7 @@ redirect_from:
         <td>iPad Pro 12.9" (gen 5)</td>
         <td rowspan="2">8 GB<br>16 GB (1-2 TB models)</td>
         <td rowspan="2">M1</td>
+        <td rowspan="2" class="current">Yes</td>
       </tr>
       <tr>
         <td>iPad Pro 11" (gen 3)</td>
@@ -306,6 +311,7 @@ redirect_from:
         <td rowspan="4">2020</td>
         <td>4 GB</td>
         <td>A14 Bionic</td>
+        <td rowspan="25">No</td>
       </tr>
       <tr>
         <td>iPad (gen 8)</td>
@@ -435,7 +441,7 @@ redirect_from:
       <tr class="align-top">
         <th>Device</th>
         <th>Released</th>
-        <th>Memory</th>
+        <th>Unified memory</th>
         <th>Storage</th>
         <th>Processor</th>
       </tr>
@@ -527,7 +533,7 @@ redirect_from:
       <tr class="align-top">
         <th>Device</th>
         <th>Released</th>
-        <th>Memory</th>
+        <th>Unified memory</th>
         <th>Processor</th>
       </tr>
     </thead>
@@ -584,7 +590,7 @@ redirect_from:
       <tr class="align-top">
         <th>Device</th>
         <th>Released</th>
-        <th>Memory</th>
+        <th>Unified memory</th>
         <th>Processor</th>
       </tr>
     </thead>
@@ -637,7 +643,7 @@ redirect_from:
       <tr class="align-top">
         <th>Device</th>
         <th>Released</th>
-        <th>Memory</th>
+        <th>Unified memory</th>
         <th>Processor</th>
       </tr>
     </thead>
