@@ -448,10 +448,25 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>Ultra 3</td>
+        <td rowspan="3">2025</td>
+        <td rowspan="14">1 GB</td>
+        <td rowspan="6">64 GB</td>
+        <td rowspan="4">S10</td>
+      </tr>
+      <tr>
+        <td>Series 11</td>
+      </tr>
+      <tr>
+        <td>SE (gen 3)</td>
+      </tr>
+      <tr>
+        <td>Series 10</td>
+        <td>2024</td>
+      </tr>
+      <tr>
         <td>Ultra 2</td>
         <td rowspan="2">2023</td>
-        <td rowspan="2">?</td>
-        <td rowspan="2">64 GB</td>
         <td rowspan="2">S9</td>
       </tr>
       <tr>
@@ -460,7 +475,6 @@ redirect_from:
       <tr>
         <td>Ultra</td>
         <td rowspan="3">2022</td>
-        <td rowspan="8">1 GB</td>
         <td rowspan="7">32 GB</td>
         <td rowspan="3">S8</td>
       </tr>
