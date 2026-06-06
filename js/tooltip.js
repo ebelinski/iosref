@@ -97,14 +97,14 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Event delegation for desktop hover & mouse movement
   document.addEventListener('mouseover', function(e) {
-    const target = e.target.closest('.ios-version');
+    const target = e.target.closest('.tooltip');
     if (target && window.matchMedia('(hover: hover)').matches) {
       showTooltip(target, e);
     }
   });
 
   document.addEventListener('mousemove', function(e) {
-    const target = e.target.closest('.ios-version');
+    const target = e.target.closest('.tooltip');
     if (target && window.matchMedia('(hover: hover)').matches) {
       if (!activeTooltip) {
         showTooltip(target, e);
@@ -117,7 +117,7 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
   document.addEventListener('mouseout', function(e) {
-    const target = e.target.closest('.ios-version');
+    const target = e.target.closest('.tooltip');
     if (target && window.matchMedia('(hover: hover)').matches) {
       hideTooltip();
     }
@@ -125,7 +125,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Event delegation for mobile tap
   document.addEventListener('click', function(e) {
-    const target = e.target.closest('.ios-version');
+    const target = e.target.closest('.tooltip');
     if (target) {
       if (!window.matchMedia('(hover: hover)').matches || e.pointerType === 'touch') {
         e.preventDefault();

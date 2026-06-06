@@ -1,4 +1,4 @@
 {%- assign v_str = include.version | append: "" -%}
 {%- assign os_data = site.data.ios_versions[v_str] -%}
 {%- assign display_val = include.display | default: include.version -%}
-<span class="ios-version" data-tooltip="{{ os_data.changes }}">{{ display_val }}</span>
+<span class="tooltip" data-tooltip="{{ os_data.changes }}">{{ display_val }}</span>

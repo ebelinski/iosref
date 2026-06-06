@@ -27,7 +27,7 @@ redirect_from:
         <th>Released</th>
         <th>Unified memory</th>
         <th>Processor</th>
-        <th>Apple Intelligence</th>
+        <th><span class="tooltip" data-tooltip="Supported on devices with 8 GB memory or more">Apple Intelligence</span></th>
       </tr>
     </thead>
     <tbody>
@@ -220,7 +220,7 @@ redirect_from:
         <th>Released</th>
         <th>Unified memory</th>
         <th>Processor</th>
-        <th>Apple Intelligence</th>
+        <th><span class="tooltip" data-tooltip="Supported on devices with 8 GB memory or more">Apple Intelligence</span></th>
       </tr>
     </thead>
     <tbody>
