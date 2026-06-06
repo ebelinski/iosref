@@ -1,41 +1,39 @@
 # iOS version major changes
 "1":
-  changes: "- Multitouch interface\n- Mobile Safari\n- iPod & Maps apps"
+  changes: "Official name: iPhone OS"
 "2":
-  changes: "- App Store launch & SDK\n- GPS & Microsoft Exchange support"
+  changes: "Official name: iPhone OS 2.0\n• First public SDK\n• Launch of App Store"
 "3":
-  changes: "- Cut, Copy & Paste\n- Spotlight search\n- MMS & Voice Control"
+  changes: "Official name: iPhone OS 3.0\n• Cut, copy and paste\n• VoiceOver\n• Spotlight\n• APNs\n• In-App Purchases"
 "4":
-  changes: "- Multitasking & folders\n- FaceTime & iBooks\n- Retina Display support"
+  changes: "Operating system renamed from iPhone OS to iOS\n• iPad support\n• Multitasking\n• FaceTime\n• Retina support"
 "5":
-  changes: "- Siri & Notification Center\n- iCloud & iMessage\n- Over-The-Air updates"
+  changes: "• Siri\n• iCloud\n• iMessage\n• ARC\n• UIKit storyboards"
 "6":
-  changes: "- Apple Maps & Wallet\n- Do Not Disturb\n- LTE support"
+  changes: "• Auto Layout\n• Apple Maps & Wallet\n• Do Not Disturb\n• LTE support"
 "7":
-  changes: "- Flat design overhaul\n- Control Center & AirDrop\n- Touch ID support"
+  changes: "• Major redesign away from skeumorphics\n• 64-bit architecture support\n"
 "8":
-  changes: "- Apple Pay & Health app\n- Continuity & Family Sharing\n- Notification widgets"
+  changes: "• Swift support\n• Continuity & Family Sharing\n• Metal API\n• HealtKit\n• HomeKit"
 "9":
-  changes: "- News app & Night Shift\n- Search redesign\n- Low Power Mode"
+  changes: "• Bitcode & app thinning"
 "10":
-  changes: "- Lock screen widgets\n- Redesigned Messages & SDK\n- Home app"
+  changes: "• SiriKit\n• Rich notifications"
 "11":
-  changes: "- Redesigned Control Center\n- Files app & ARKit\n- Drag & Drop"
+  changes: "• ARKit\n• Drag & Drop\n• Core ML & Vision"
 "12":
-  changes: "- Screen Time\n- Siri Shortcuts & Group FaceTime\n- Performance enhancements"
+  changes: "• Siri Shortcuts\n• Create ML"
 "13":
-  changes: "- Dark Mode\n- Sign in with Apple\n- Redesigned Maps & Find My app"
+  changes: "• SwiftUI\n• Dark Mode\n• Sign in with Apple"
 "14":
-  changes: "- Home screen widgets\n- App Library\n- Picture-in-Picture & Compact Calls"
+  changes: "• WidgetKit\n• App Tracking Transparency\n• Picture-in-Picture\n• App Clips"
 "15":
-  changes: "- Focus modes & SharePlay\n- Live Text in Photos\n- Safari extension support"
+  changes: "• Modern Swift concurrency\n• SharePlay"
 "16":
-  changes: "- Lock Screen customization & widgets\n- iCloud Shared Photo Library\n- Focus filters"
+  changes: "• Live Activities & ActivityKit\n• NavigationStack"
 "17":
-  changes: "- StandBy mode\n- Contact Posters & NameDrop\n- Interactive widgets & Journal app"
+  changes: "• SwiftData\n• Interactive Widgets\n• TipKit"
 "18":
-  changes: "- Home Screen icon customization & tints\n- Redesigned Control Center\n- Apple Intelligence"
-"19":
-  changes: "- Siri improvements\n- New AI capabilities\n- Redesigned interface elements"
+  changes: "• Apple Intelligence\n• Game Mode"
 "26":
-  changes: "- Advanced contextual AI\n- Holographic interface components\n- Neural engine optimizations"
+  changes: "• Liquid Glass\n• Apple Intelligence APIs"
