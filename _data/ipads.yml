@@ -1,0 +1,100 @@
+iPad (gen 1):
+  status: obsolete
+iPad 2:
+  status: obsolete
+iPad (gen 3):
+  status: obsolete
+iPad (gen 4):
+  status: obsolete
+iPad (gen 5):
+  status: obsolete
+iPad (gen 6):
+  status: vintage
+iPad (gen 7):
+  status: normal
+iPad (gen 8):
+  status: normal
+iPad (gen 9):
+  status: normal
+iPad (gen 10):
+  status: normal
+iPad (A16):
+  status: normal
+iPad Air (gen 1):
+  status: obsolete
+iPad Air 2:
+  status: obsolete
+iPad Air (gen 3):
+  status: vintage
+iPad Air (gen 4):
+  status: normal
+iPad Air (gen 5):
+  status: normal
+iPad Air 11" (M2):
+  status: normal
+iPad Air 13" (M2):
+  status: normal
+iPad Air 11" (M3):
+  status: normal
+iPad Air 13" (M3):
+  status: normal
+iPad Air 11" (M4):
+  status: normal
+iPad Air 13" (M4):
+  status: normal
+iPad mini (gen 1):
+  status: obsolete
+iPad mini 2:
+  status: obsolete
+iPad mini 3:
+  status: obsolete
+iPad mini 4:
+  status: obsolete
+iPad mini (gen 5):
+  status: normal
+iPad mini (gen 6):
+  status: normal
+iPad Mini (A17 Pro):
+  status: normal
+iPad Pro 9.7":
+  status: obsolete
+iPad Pro 10.5":
+  status: vintage
+iPad Pro 12.9" (gen 1):
+  status: vintage
+iPad Pro 12.9" (gen 2):
+  status: obsolete
+iPad Pro 12.9" (gen 3):
+  status: vintage
+iPad Pro 12.9" (gen 4):
+  status: normal
+iPad Pro 12.9" (gen 5):
+  status: normal
+iPad Pro 12.9" (gen 6):
+  status: normal
+iPad Pro 11" (gen 1):
+  status: vintage
+iPad Pro 11" (gen 2):
+  status: normal
+iPad Pro 11" (gen 3):
+  status: normal
+iPad Pro 11" (gen 4):
+  status: normal
+iPad Pro 11" (M4):
+  status: normal
+iPad Pro 13" (M4):
+  status: normal
+iPad Pro 11" (M5):
+  status: normal
+iPad Pro 13" (M5):
+  status: normal
+iPad Pro 13":
+  status: normal
+iPad Air 13" (gen 6):
+  status: normal
+iPad (gen 11):
+  status: normal
+iPad Air 11" (gen 6):
+  status: normal
+iPad mini (gen 7):
+  status: normal
