@@ -81,14 +81,8 @@ table {
 }
 
 ul {
-  list-style-type: none;
-  padding: 0rem;
-
-  li:before {
-    content: "— "
-  }
-
-  ;
+  list-style-type: square;
+  padding: 0rem 0 0 1em;
 }
 
 .with-placeholders {
