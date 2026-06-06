@@ -1,0 +1,41 @@
+# iOS version major changes
+"1":
+  changes: "- Multitouch interface\n- Mobile Safari\n- iPod & Maps apps"
+"2":
+  changes: "- App Store launch & SDK\n- GPS & Microsoft Exchange support"
+"3":
+  changes: "- Cut, Copy & Paste\n- Spotlight search\n- MMS & Voice Control"
+"4":
+  changes: "- Multitasking & folders\n- FaceTime & iBooks\n- Retina Display support"
+"5":
+  changes: "- Siri & Notification Center\n- iCloud & iMessage\n- Over-The-Air updates"
+"6":
+  changes: "- Apple Maps & Wallet\n- Do Not Disturb\n- LTE support"
+"7":
+  changes: "- Flat design overhaul\n- Control Center & AirDrop\n- Touch ID support"
+"8":
+  changes: "- Apple Pay & Health app\n- Continuity & Family Sharing\n- Notification widgets"
+"9":
+  changes: "- News app & Night Shift\n- Search redesign\n- Low Power Mode"
+"10":
+  changes: "- Lock screen widgets\n- Redesigned Messages & SDK\n- Home app"
+"11":
+  changes: "- Redesigned Control Center\n- Files app & ARKit\n- Drag & Drop"
+"12":
+  changes: "- Screen Time\n- Siri Shortcuts & Group FaceTime\n- Performance enhancements"
+"13":
+  changes: "- Dark Mode\n- Sign in with Apple\n- Redesigned Maps & Find My app"
+"14":
+  changes: "- Home screen widgets\n- App Library\n- Picture-in-Picture & Compact Calls"
+"15":
+  changes: "- Focus modes & SharePlay\n- Live Text in Photos\n- Safari extension support"
+"16":
+  changes: "- Lock Screen customization & widgets\n- iCloud Shared Photo Library\n- Focus filters"
+"17":
+  changes: "- StandBy mode\n- Contact Posters & NameDrop\n- Interactive widgets & Journal app"
+"18":
+  changes: "- Home Screen icon customization & tints\n- Redesigned Control Center\n- Apple Intelligence"
+"19":
+  changes: "- Siri improvements\n- New AI capabilities\n- Redesigned interface elements"
+"26":
+  changes: "- Advanced contextual AI\n- Holographic interface components\n- Neural engine optimizations"

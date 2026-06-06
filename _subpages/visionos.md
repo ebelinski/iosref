@@ -27,15 +27,15 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
   <tr>
     <td>{% include device.html name="iPhone 14 Pro" %} / {% include device.html name="iPhone 14 Pro Max" display="14 Pro Max" %}</td>
     <td rowspan="3">2022</td>
-    <td rowspan="2">16</td>
-    <td class="current" rowspan="14">16</td>
+    <td rowspan="2">{% include ios-version.html version="16" %}</td>
+    <td class="current" rowspan="14">{% include ios-version.html version="16" %}</td>
   </tr>
   <tr>
     <td>{% include device.html name="iPhone 14" %} / {% include device.html name="iPhone 14 Plus" display="14 Plus" %}</td>
   </tr>
   <tr>
     <td>{% include device.html name="iPhone SE (gen 3)" %}</td>
-    <td rowspan="3">15</td>
+    <td rowspan="3">{% include ios-version.html version="15" %}</td>
   </tr>
   <tr>
     <td>{% include device.html name="iPhone 13 Pro" %} / {% include device.html name="iPhone 13 Pro Max" display="13 Pro Max" %}</td>
@@ -47,14 +47,14 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
   <tr>
     <td>{% include device.html name="iPhone 12 Pro" %} / {% include device.html name="iPhone 12 Pro Max" display="12 Pro Max" %}</td>
     <td rowspan="3">2020</td>
-    <td rowspan="2">14</td>
+    <td rowspan="2">{% include ios-version.html version="14" %}</td>
   </tr>
   <tr>
     <td>{% include device.html name="iPhone 12" %} / {% include device.html name="iPhone 12 mini" display="12 mini" %}</td>
   </tr>
   <tr>
     <td>{% include device.html name="iPhone SE (gen 2)" %}</td>
-    <td rowspan="3">13</td>
+    <td rowspan="3">{% include ios-version.html version="13" %}</td>
   </tr>
   <tr>
     <td>{% include device.html name="iPhone 11 Pro" %} / {% include device.html name="iPhone 11 Pro Max" display="11 Pro Max" %}</td>
@@ -66,7 +66,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
   <tr>
     <td>{% include device.html name="iPhone XS" %} / {% include device.html name="iPhone XS Max" display="XS Max" %}</td>
     <td rowspan="2">2018</td>
-    <td rowspan="2">12</td>
+    <td rowspan="2">{% include ios-version.html version="12" %}</td>
   </tr>
   <tr>
     <td>{% include device.html name="iPhone XR" %}</td>
@@ -74,7 +74,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
   <tr>
     <td>iPhone X</td>
     <td rowspan="2">2017</td>
-    <td rowspan="2">11</td>
+    <td rowspan="2">{% include ios-version.html version="11" %}</td>
   </tr>
   <tr>
     <td>iPhone 8 / 8 Plus</td>
@@ -82,12 +82,12 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
   <tr>
     <td>iPhone 7 / 7 Plus</td>
     <td rowspan="2">2016</td>
-    <td>10</td>
-    <td class="previous" rowspan="3">15</td>
+    <td>{% include ios-version.html version="10" %}</td>
+    <td class="previous" rowspan="3">{% include ios-version.html version="15" %}</td>
   </tr>
   <tr>
     <td>iPhone SE (gen 1)</td>
-    <td rowspan="2">9</td>
+    <td rowspan="2">{% include ios-version.html version="9" %}</td>
   </tr>
   <tr>
     <td>iPhone 6s / 6s Plus {% include badge-vintage.html %}</td>
@@ -96,52 +96,52 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
   <tr>
     <td>iPhone 6 / 6 Plus {% include badge-vintage.html %}</td>
     <td>2014</td>
-    <td>8</td>
-    <td rowspan="2">12</td>
+    <td>{% include ios-version.html version="8" %}</td>
+    <td rowspan="2">{% include ios-version.html version="12" %}</td>
   </tr>
   <tr>
     <td>iPhone 5s {% include badge-vintage.html %}</td>
     <td rowspan="2">2013</td>
-    <td rowspan="2">7</td>
+    <td rowspan="2">{% include ios-version.html version="7" %}</td>
   </tr>
   <tr>
     <td>iPhone 5c {% include badge-vintage.html %}</td>
-    <td rowspan="2">10</td>
+    <td rowspan="2">{% include ios-version.html version="10" %}</td>
   </tr>
   <tr>
     <td>iPhone 5 {% include badge-vintage.html %}</td>
     <td>2012</td>
-    <td>6</td>
+    <td>{% include ios-version.html version="6" %}</td>
   </tr>
   <tr>
     <td>iPhone 4s {% include badge-obsolete.html %}</td>
     <td>2011</td>
-    <td>5</td>
-    <td>9</td>
+    <td>{% include ios-version.html version="5" %}</td>
+    <td>{% include ios-version.html version="9" %}</td>
   </tr>
   <tr>
     <td>iPhone 4 {% include badge-obsolete.html %}</td>
     <td>2010</td>
-    <td>4</td>
-    <td>7</td>
+    <td>{% include ios-version.html version="4" %}</td>
+    <td>{% include ios-version.html version="7" %}</td>
   </tr>
   <tr>
     <td>iPhone 3GS {% include badge-obsolete.html %}</td>
     <td>2009</td>
-    <td>3</td>
-    <td>6</td>
+    <td>{% include ios-version.html version="3" %}</td>
+    <td>{% include ios-version.html version="6" %}</td>
   </tr>
   <tr>
     <td>iPhone 3G {% include badge-obsolete.html %}</td>
     <td>2008</td>
-    <td>2</td>
-    <td>4</td>
+    <td>{% include ios-version.html version="2" %}</td>
+    <td>{% include ios-version.html version="4" %}</td>
   </tr>
   <tr>
     <td>iPhone (gen 1) {% include badge-obsolete.html %}</td>
     <td>2007</td>
-    <td>1</td>
-    <td>3</td>
+    <td>{% include ios-version.html version="1" %}</td>
+    <td>{% include ios-version.html version="3" %}</td>
   </tr>
 </table>
 
@@ -159,8 +159,8 @@ Before iPadOS 13, iPadOS was known as iOS.
   <tr>
     <td>{% include device.html name='iPad Pro 12.9" (gen 6)' %}</td>
     <td rowspan="4">2022</td>
-    <td rowspan="3">16</td>
-    <td rowspan="23" class="current">16</td>
+    <td rowspan="3">{% include ios-version.html version="16" %}</td>
+    <td rowspan="23" class="current">{% include ios-version.html version="16" %}</td>
   </tr>
   <tr>
     <td>{% include device.html name='iPad Pro 11" (gen 4)' %}</td>
@@ -170,7 +170,7 @@ Before iPadOS 13, iPadOS was known as iOS.
   </tr>
   <tr>
     <td>{% include device.html name="iPad Air (gen 5)" %}</td>
-    <td rowspan="3">15</td>
+    <td rowspan="3">{% include ios-version.html version="15" %}</td>
   </tr>
   <tr>
     <td>{% include device.html name="iPad (gen 9)" %}</td>
@@ -181,7 +181,7 @@ Before iPadOS 13, iPadOS was known as iOS.
   </tr>
   <tr>
     <td>{% include device.html name='iPad Pro 12.9" (gen 5)' %}</td>
-    <td rowspan="4">14</td>
+    <td rowspan="4">{% include ios-version.html version="14" %}</td>
   </tr>
   <tr>
     <td>{% include device.html name='iPad Pro 11" (gen 3)' %}</td>
@@ -195,7 +195,7 @@ Before iPadOS 13, iPadOS was known as iOS.
   </tr>
   <tr>
     <td>{% include device.html name='iPad Pro 12.9" (gen 4)' %}</td>
-    <td rowspan="3">13</td>
+    <td rowspan="3">{% include ios-version.html version="13" %}</td>
   </tr>
   <tr>
     <td>{% include device.html name='iPad Pro 11" (gen 2)' %}</td>
@@ -206,7 +206,7 @@ Before iPadOS 13, iPadOS was known as iOS.
   </tr>
   <tr>
     <td>{% include device.html name="iPad Air (gen 3)" %}</td>
-    <td rowspan="4">12</td>
+    <td rowspan="4">{% include ios-version.html version="12" %}</td>
   </tr>
   <tr>
     <td>{% include device.html name="iPad mini (gen 5)" %}</td>
@@ -220,12 +220,12 @@ Before iPadOS 13, iPadOS was known as iOS.
   </tr>
   <tr>
     <td>{% include device.html name="iPad (gen 6)" %}</td>
-    <td>11</td>
+    <td>{% include ios-version.html version="11" %}</td>
   </tr>
   <tr>
     <td>{% include device.html name='iPad Pro 12.9" (gen 2)' %}</td>
     <td rowspan="3">2017</td>
-    <td rowspan="3">10</td>
+    <td rowspan="3">{% include ios-version.html version="10" %}</td>
   </tr>
   <tr>
     <td>{% include device.html name='iPad Pro 10.5"' %}</td>
@@ -236,7 +236,7 @@ Before iPadOS 13, iPadOS was known as iOS.
   <tr>
     <td>iPad Pro 9.7" {% include badge-vintage.html %}</td>
     <td>2016</td>
-    <td rowspan="3">9</td>
+    <td rowspan="3">{% include ios-version.html version="9" %}</td>
   </tr>
   <tr>
     <td>iPad Pro 12.9" (gen 1) {% include badge-vintage.html %}</td>
@@ -244,23 +244,23 @@ Before iPadOS 13, iPadOS was known as iOS.
   </tr>
   <tr>
     <td>{% include device.html name="iPad mini 4" %}</td>
-    <td class="previous">15</td>
+    <td class="previous">{% include ios-version.html version="15" %}</td>
   </tr>
   <tr>
     <td>iPad mini 3 {% include badge-vintage.html %}</td>
     <td rowspan="2">2014</td>
-    <td rowspan="2">8</td>
-    <td>12</td>
+    <td rowspan="2">{% include ios-version.html version="8" %}</td>
+    <td>{% include ios-version.html version="12" %}</td>
   </tr>
   <tr>
     <td>iPad Air 2 {% include badge-vintage.html %}</td>
-    <td class="previous">15</td>
+    <td class="previous">{% include ios-version.html version="15" %}</td>
   </tr>
   <tr>
     <td>iPad mini 2 {% include badge-vintage.html %}</td>
     <td rowspan="2">2013</td>
-    <td rowspan="2">7</td>
-    <td rowspan="2">12</td>
+    <td rowspan="2">{% include ios-version.html version="7" %}</td>
+    <td rowspan="2">{% include ios-version.html version="12" %}</td>
   </tr>
   <tr>
     <td>iPad Air (gen 1) {% include badge-vintage.html %}</td>
@@ -268,27 +268,27 @@ Before iPadOS 13, iPadOS was known as iOS.
   <tr>
     <td>iPad (gen 4) {% include badge-obsolete.html %}</td>
     <td rowspan="3">2012</td>
-    <td rowspan="2">6</td>
-    <td>10</td>
+    <td rowspan="2">{% include ios-version.html version="6" %}</td>
+    <td>{% include ios-version.html version="10" %}</td>
   </tr>
   <tr>
     <td>iPad mini (gen 1) {% include badge-obsolete.html %}</td>
-    <td rowspan="3">9</td>
+    <td rowspan="3">{% include ios-version.html version="9" %}</td>
   </tr>
   <tr>
     <td>iPad (gen 3) {% include badge-obsolete.html %}</td>
-    <td>5</td>
+    <td>{% include ios-version.html version="5" %}</td>
   </tr>
   <tr>
     <td>iPad 2 {% include badge-obsolete.html %}</td>
     <td>2011</td>
-    <td>4</td>
+    <td>{% include ios-version.html version="4" %}</td>
   </tr>
   <tr>
     <td>iPad (gen 1) {% include badge-obsolete.html %}</td>
     <td>2010</td>
-    <td>3</td>
-    <td>5</td>
+    <td>{% include ios-version.html version="3" %}</td>
+    <td>{% include ios-version.html version="5" %}</td>
   </tr>
 </table>
 
@@ -304,44 +304,44 @@ Before iPadOS 13, iPadOS was known as iOS.
   <tr>
     <td>{% include device.html name="iPod touch (gen 7)" %}</td>
     <td>2019</td>
-    <td>12</td>
-    <td class="previous">15</td>
+    <td>{% include ios-version.html version="12" %}</td>
+    <td class="previous">{% include ios-version.html version="15" %}</td>
   </tr>
   <tr>
     <td>{% include device.html name="iPod touch (gen 6)" %}</td>
     <td>2015</td>
-    <td>8</td>
-    <td>12</td>
+    <td>{% include ios-version.html version="8" %}</td>
+    <td>{% include ios-version.html version="12" %}</td>
   </tr>
   <tr>
     <td>iPod touch (gen 5) {% include badge-vintage.html %}</td>
     <td>2012</td>
-    <td>6</td>
-    <td>9</td>
+    <td>{% include ios-version.html version="6" %}</td>
+    <td>{% include ios-version.html version="9" %}</td>
   </tr>
   <tr>
     <td>iPod touch (gen 4) {% include badge-vintage.html %}</td>
     <td>2010</td>
-    <td>4</td>
-    <td>6</td>
+    <td>{% include ios-version.html version="4" %}</td>
+    <td>{% include ios-version.html version="6" %}</td>
   </tr>
   <tr>
     <td>iPod touch (gen 3) {% include badge-obsolete.html %}</td>
     <td>2009</td>
-    <td>3</td>
-    <td>5</td>
+    <td>{% include ios-version.html version="3" %}</td>
+    <td>{% include ios-version.html version="5" %}</td>
   </tr>
   <tr>
     <td>iPod touch (gen 2) {% include badge-obsolete.html %}</td>
     <td>2008</td>
-    <td>2</td>
-    <td>4</td>
+    <td>{% include ios-version.html version="2" %}</td>
+    <td>{% include ios-version.html version="4" %}</td>
   </tr>
   <tr>
     <td>iPod touch (gen 1) {% include badge-obsolete.html %}</td>
     <td>2007</td>
-    <td>1</td>
-    <td>3</td>
+    <td>{% include ios-version.html version="1" %}</td>
+    <td>{% include ios-version.html version="3" %}</td>
   </tr>
 </table>
 
