@@ -27,7 +27,9 @@ body {
   margin: 0;
   padding: 1.4em 0;
 
-  p { margin: 0; }
+  p {
+    margin: 0;
+  }
 }
 
 #page-content {
@@ -82,11 +84,16 @@ ul {
   list-style-type: none;
   padding: 0rem;
 
-  li:before { content: "— " };
+  li:before {
+    content: "— "
+  }
+
+  ;
 }
 
 .with-placeholders {
   line-height: 2em;
+
   .placeholder {
     border: 1px solid rgb(196, 212, 241);
     border-radius: 1em;
@@ -100,7 +107,8 @@ ul {
   width: 100%;
 
   #results {
-    display: none; /* Overridden by JS */
+    display: none;
+    /* Overridden by JS */
   }
 
   #input-container {
@@ -135,7 +143,8 @@ ul {
     font-size: 0.7em !important;
   }
 
-  h3, h4 {
+  h3,
+  h4 {
     padding: 0.2em 0;
   }
 
@@ -183,7 +192,11 @@ pre {
 
 #compact-toc {
   #markdown-toc {
-    li:before { content: "" };
+    li:before {
+      content: ""
+    }
+
+    ;
 
     li {
       display: inline-block;
@@ -220,7 +233,7 @@ pre {
     thead {
       --bs-table-bg: #333333;
     }
-    
+
     th,
     td {
       border: 1px solid #999;
@@ -284,18 +297,16 @@ pre {
 
 .custom-tooltip {
   position: absolute;
-  background-color: #ffffff;
-  color: #1e293b;
-  padding: 8px 12px;
-  border-radius: 8px;
-  font-size: 0.85rem;
-  line-height: 1.4;
+  background-color: #eee;
+  padding: 4px 6px;
+  border-radius: 5px;
+  font-size: 0.8rem;
   z-index: 10000;
   max-width: 260px;
+  line-height: 1.2;
   width: max-content;
   white-space: pre-line;
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
-  border: 1px solid rgba(0, 0, 0, 0.08);
+  border: 1px solid #000;
   pointer-events: none;
   opacity: 0;
   transform: translateY(4px);
@@ -309,8 +320,7 @@ pre {
 
 @include color-mode(dark) {
   .custom-tooltip {
-    background-color: #0f172a;
-    color: #e2e8f0;
+    background-color: #333;
     border-color: rgba(255, 255, 255, 0.1);
     box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3), 0 4px 6px -4px rgba(0, 0, 0, 0.3);
   }
