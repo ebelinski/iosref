@@ -21,10 +21,13 @@ document.addEventListener('DOMContentLoaded', function() {
     let left = targetRect.left + window.scrollX + (targetRect.width - tooltipRect.width) / 2;
 
     // Check bounds
-    if (left < 10) left = 10;
-    if (left + tooltipRect.width > window.innerWidth - 10) {
-      left = window.innerWidth - tooltipRect.width - 10;
-    }
+    const margin = 10;
+    const minLeft = window.scrollX + margin;
+    const maxLeft = window.innerWidth + window.scrollX - tooltipRect.width - margin;
+
+    if (left < minLeft) left = minLeft;
+    if (left > maxLeft) left = maxLeft;
+
     if (top < window.scrollY) {
       // If it goes off top of viewport, position it below the target instead
       top = targetRect.bottom + window.scrollY + 8;
@@ -34,7 +37,31 @@ document.addEventListener('DOMContentLoaded', function() {
     tooltip.style.left = left + 'px';
   }
 
-  function showTooltip(target) {
+  function positionTooltipAtCursor(e, tooltip) {
+    const tooltipRect = tooltip.getBoundingClientRect();
+    
+    // Position 15px above cursor, centered horizontally on cursor
+    let top = e.pageY - tooltipRect.height - 15;
+    let left = e.pageX - tooltipRect.width / 2;
+
+    // Check bounds
+    const margin = 10;
+    const minLeft = window.scrollX + margin;
+    const maxLeft = window.innerWidth + window.scrollX - tooltipRect.width - margin;
+
+    if (left < minLeft) left = minLeft;
+    if (left > maxLeft) left = maxLeft;
+
+    if (top < window.scrollY + margin) {
+      // Position below cursor instead if it goes off top of viewport
+      top = e.pageY + 20;
+    }
+
+    tooltip.style.top = top + 'px';
+    tooltip.style.left = left + 'px';
+  }
+
+  function showTooltip(target, e) {
     if (activeTooltip) {
       hideTooltip();
     }
@@ -43,7 +70,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
     activeTooltip = tooltip;
     tooltip.style.display = 'block';
-    positionTooltip(target, tooltip);
+    
+    if (e && (e.type === 'mouseover' || e.type === 'mousemove') && window.matchMedia('(hover: hover)').matches) {
+      positionTooltipAtCursor(e, tooltip);
+    } else {
+      positionTooltip(target, tooltip);
+    }
     
     // Force reflow
     tooltip.offsetHeight;
@@ -63,11 +95,24 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
 
-  // Event delegation for desktop hover
+  // Event delegation for desktop hover & mouse movement
   document.addEventListener('mouseover', function(e) {
     const target = e.target.closest('.ios-version');
     if (target && window.matchMedia('(hover: hover)').matches) {
-      showTooltip(target);
+      showTooltip(target, e);
+    }
+  });
+
+  document.addEventListener('mousemove', function(e) {
+    const target = e.target.closest('.ios-version');
+    if (target && window.matchMedia('(hover: hover)').matches) {
+      if (!activeTooltip) {
+        showTooltip(target, e);
+      } else {
+        positionTooltipAtCursor(e, activeTooltip);
+      }
+    } else if (activeTooltip && window.matchMedia('(hover: hover)').matches) {
+      hideTooltip();
     }
   });
 
@@ -88,7 +133,7 @@ document.addEventListener('DOMContentLoaded', function() {
         if (activeTooltip) {
           hideTooltip();
         } else {
-          showTooltip(target);
+          showTooltip(target, e);
         }
       }
     } else {

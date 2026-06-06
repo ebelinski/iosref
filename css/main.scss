@@ -284,8 +284,8 @@ pre {
 
 .custom-tooltip {
   position: absolute;
-  background-color: #0f172a;
-  color: #e2e8f0;
+  background-color: #ffffff;
+  color: #1e293b;
   padding: 8px 12px;
   border-radius: 8px;
   font-size: 0.85rem;
@@ -294,8 +294,8 @@ pre {
   max-width: 260px;
   width: max-content;
   white-space: pre-line;
-  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3), 0 4px 6px -4px rgba(0, 0, 0, 0.3);
-  border: 1px solid rgba(255, 255, 255, 0.1);
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+  border: 1px solid rgba(0, 0, 0, 0.08);
   pointer-events: none;
   opacity: 0;
   transform: translateY(4px);
@@ -305,4 +305,13 @@ pre {
 .custom-tooltip.visible {
   opacity: 1;
   transform: translateY(0);
+}
+
+@include color-mode(dark) {
+  .custom-tooltip {
+    background-color: #0f172a;
+    color: #e2e8f0;
+    border-color: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3), 0 4px 6px -4px rgba(0, 0, 0, 0.3);
+  }
 }
