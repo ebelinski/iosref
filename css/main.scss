@@ -285,7 +285,7 @@ pre {
 }
 
 .tooltip {
-  border-bottom: 1px dotted var(--bs-primary);
+  border-bottom: 1px dotted $text;
   cursor: help;
 }
 
@@ -327,6 +327,10 @@ pre {
 }
 
 @include color-mode(dark) {
+  .tooltip {
+    border-bottom: 1px dotted $textDark;
+  }
+
   .custom-tooltip {
     background-color: #00067e;
     border-color: #fff;
