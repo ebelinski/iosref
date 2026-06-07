@@ -328,8 +328,7 @@ pre {
 
 @include color-mode(dark) {
   .custom-tooltip {
-    background-color: #333;
-    border-color: rgba(255, 255, 255, 0.1);
-    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.3), 0 4px 6px -4px rgba(0, 0, 0, 0.3);
+    background-color: #00067e;
+    border-color: #fff;
   }
 }
