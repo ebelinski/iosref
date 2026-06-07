@@ -1,13 +1,54 @@
 document.addEventListener('DOMContentLoaded', function() {
   let activeTooltip = null;
 
+  function escapeHTML(str) {
+    return str
+      .replace(/&/g, '&amp;')
+      .replace(/</g, '&lt;')
+      .replace(/>/g, '&gt;')
+      .replace(/"/g, '&quot;')
+      .replace(/'/g, '&#039;');
+  }
+
+  function formatTooltipContent(text) {
+    const lines = text.split('\n');
+    let html = '';
+    let inList = false;
+
+    for (let i = 0; i < lines.length; i++) {
+      let line = lines[i].trim();
+      if (!line) continue;
+
+      if (line.startsWith('•')) {
+        if (!inList) {
+          html += '<ul>';
+          inList = true;
+        }
+        const item = line.substring(1).trim();
+        html += `<li>${escapeHTML(item)}</li>`;
+      } else {
+        if (inList) {
+          html += '</ul>';
+          inList = false;
+        }
+        html += `<div>${escapeHTML(line)}</div>`;
+      }
+    }
+
+    if (inList) {
+      html += '</ul>';
+    }
+
+    return html;
+  }
+
   function createTooltip(target) {
     const text = target.getAttribute('data-tooltip');
     if (!text) return null;
 
     const tooltip = document.createElement('div');
     tooltip.className = 'custom-tooltip';
-    tooltip.textContent = text;
+    tooltip.innerHTML = formatTooltipContent(text);
     document.body.appendChild(tooltip);
     return tooltip;
   }

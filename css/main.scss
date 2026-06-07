@@ -299,12 +299,26 @@ pre {
   max-width: 260px;
   line-height: 1.2;
   width: max-content;
-  white-space: pre-line;
+  white-space: normal;
   border: 1px solid #000;
   pointer-events: none;
   opacity: 0;
   transform: translateY(4px);
   transition: opacity 0.15s ease-out, transform 0.15s ease-out;
+
+  ul {
+    margin: 0px;
+    padding-left: 1.1em;
+    list-style-type: square;
+  }
+
+  li {
+    margin-bottom: 2px;
+  }
+  
+  li:last-child {
+    margin-bottom: 0;
+  }
 }
 
 .custom-tooltip.visible {
