@@ -21,82 +21,82 @@ Information about which Apple Watches are vintage/obsolete was obtained from <a 
   </thead>
   <tbody>
     <tr>
-      <td>{% include device.html name="apple-watch-ultra-3" display="Ultra 3" %}</td>
+      <td>{% include device.html name="ultra-3" %}</td>
       <td rowspan="3">2025</td>
       <td rowspan="3">26</td>
       <td class="current" rowspan="11">26</td>
     </tr>
     <tr>
-      <td>{% include device.html name="apple-watch-series-11" display="Series 11" %}</td>
+      <td>{% include device.html name="series-11" %}</td>
     </tr>
     <tr>
-      <td>{% include device.html name="apple-watch-se-gen-3" display="SE (gen 3)" %}</td>
+      <td>{% include device.html name="se-gen-3" %}</td>
     </tr>
     <tr>
-      <td>{% include device.html name="apple-watch-series-10" display="Series 10" %}</td>
+      <td>{% include device.html name="series-10" %}</td>
       <td>2024</td>
       <td>11</td>
     </tr>
     <tr>
-      <td>{% include device.html name="apple-watch-ultra-2" display="Ultra 2" %}</td>
+      <td>{% include device.html name="ultra-2" %}</td>
       <td rowspan="2">2023</td>
       <td rowspan="2">10</td>
     </tr>
     <tr>
-      <td>{% include device.html name="apple-watch-series-9" display="Series 9" %}</td>
+      <td>{% include device.html name="series-9" %}</td>
     </tr>
     <tr>
-      <td>{% include device.html name="apple-watch-ultra" display="Ultra" %}</td>
+      <td>{% include device.html name="ultra" %}</td>
       <td rowspan="3">2022</td>
       <td rowspan="3">9</td>
     </tr>
     <tr>
-      <td>{% include device.html name="apple-watch-series-8" display="Series 8" %}</td>
+      <td>{% include device.html name="series-8" %}</td>
     </tr>
     <tr>
-      <td>{% include device.html name="apple-watch-se-gen-2" display="SE (gen 2)" %}</td>
+      <td>{% include device.html name="se-gen-2" %}</td>
     </tr>
     <tr>
-      <td>{% include device.html name="apple-watch-series-7" display="Series 7" %}</td>
+      <td>{% include device.html name="series-7" %}</td>
       <td>2021</td>
       <td>8</td>
     </tr>
     <tr>
-      <td>{% include device.html name="apple-watch-series-6" display="Series 6" %}</td>
+      <td>{% include device.html name="series-6" %}</td>
       <td rowspan="2">2020</td>
       <td rowspan="2">7</td>
     </tr>
     <tr>
-      <td>{% include device.html name="apple-watch-se-gen-1" display="SE (gen 1)" %}</td>
+      <td>{% include device.html name="se-gen-1" %}</td>
       <td rowspan="3" class="previous">10</td>
     </tr>
     <tr>
-      <td>Series 5 {% include badge-vintage.html %}</td>
+      <td>{% include device.html name="series-5" %}</td>
       <td>2019</td>
       <td>6</td>
     </tr>
     <tr>
-      <td>Series 4 {% include badge-obsolete.html %}</td>
+      <td>{% include device.html name="series-4" %}</td>
       <td>2018</td>
       <td>5</td>
     </tr>
     <tr>
-      <td>Series 3 {% include badge-vintage.html %}</td>
+      <td>{% include device.html name="series-3" %}</td>
       <td>2017</td>
       <td>4</td>
       <td>8</td>
     </tr>
     <tr>
-      <td>Series 2 {% include badge-obsolete.html %}</td>
+      <td>{% include device.html name="series-2" %}</td>
       <td rowspan="2">2016</td>
       <td rowspan="2">3</td>
       <td rowspan="2">6</td>
     </tr>
     <tr>
-      <td>Series 1 {% include badge-obsolete.html %}</td>
+      <td>{% include device.html name="series-1" %}</td>
     </tr>
     <tr>
-      <td>Series 0<sup>1</sup> {% include badge-obsolete.html %}</td>
+      <td>{% include device.html name="series-0" %}<sup>1</sup></td>
       <td>2014</td>
       <td>1</td>
       <td>4</td>
