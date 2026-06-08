@@ -24,7 +24,7 @@ Information about which Apple Watches are vintage/obsolete was obtained from <a 
       <td>{% include device.html name="apple-watch-ultra-3" %}</td>
       <td rowspan="3">2025</td>
       <td rowspan="3">26</td>
-      <td class="current" rowspan="11">26</td>
+      <td class="current" rowspan="6">27 {% include beta.html %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="apple-watch-series-11" %}</td>
@@ -49,6 +49,7 @@ Information about which Apple Watches are vintage/obsolete was obtained from <a 
       <td>{% include device.html name="apple-watch-ultra" %}</td>
       <td rowspan="3">2022</td>
       <td rowspan="3">9</td>
+      <td class="previous" rowspan="5">26</td>
     </tr>
     <tr>
       <td>{% include device.html name="apple-watch-series-8" %}</td>
@@ -68,7 +69,7 @@ Information about which Apple Watches are vintage/obsolete was obtained from <a 
     </tr>
     <tr>
       <td>{% include device.html name="apple-watch-se-gen-1" %}</td>
-      <td rowspan="3" class="previous">10</td>
+      <td rowspan="3">10</td>
     </tr>
     <tr>
       <td>{% include device.html name="apple-watch-series-5" %}</td>
