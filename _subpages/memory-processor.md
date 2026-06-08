@@ -318,7 +318,7 @@ redirect_from:
         <td>A12 Bionic</td>
       </tr>
       <tr>
-        <td>{% include device.html name='ipad-pro-12point9-gen-3' %}</td>
+        <td>{% include device.html name='ipad-pro-12point9-gen-4' %}</td>
         <td rowspan="2">6 GB</td>
         <td rowspan="2">A12Z Bionic</td>
       </tr>
