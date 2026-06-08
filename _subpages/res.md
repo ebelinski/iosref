@@ -356,7 +356,7 @@ redirect_from:
     <tbody>
       <tr>
         <td>
-          <span class="strong">{% include device.html name="apple-watch-49mm" %}</span>
+          <span class="strong">Apple Watch 49mm</span>
           <br><span class="soft">{% include device.html name="apple-watch-ultra" display="Ultra" %}</span>
         </td>
         <td>1.92"</td>
@@ -366,7 +366,7 @@ redirect_from:
       </tr>
       <tr>
         <td>
-          <span class="strong">{% include device.html name="apple-watch-45mm" %}</span>
+          <span class="strong">Apple Watch 45mm</span>
           <br><span class="soft">{% include device.html name="apple-watch-series-8" display="Series 8" %}, {% include device.html name="apple-watch-series-7" display="7" %}</span>
         </td>
         <td>1.77"</td>
@@ -374,7 +374,7 @@ redirect_from:
       </tr>
       <tr>
         <td>
-          <span class="strong">{% include device.html name="apple-watch-41mm" %}</span>
+          <span class="strong">Apple Watch 41mm</span>
           <br><span class="soft">{% include device.html name="apple-watch-series-8" display="Series 8" %}, {% include device.html name="apple-watch-series-7" display="7" %}</span>
         </td>
         <td>1.61"</td>
@@ -382,7 +382,7 @@ redirect_from:
       </tr>
       <tr>
         <td>
-          <span class="strong">{% include device.html name="apple-watch-44mm" %}</span>
+          <span class="strong">Apple Watch 44mm</span>
           <br><span class="soft">{% include device.html name="apple-watch-se-gen-2" display="SE (gen 2)" %}, {% include device.html name="apple-watch-se-gen-1" display="1" %}, {% include device.html name="apple-watch-series-6" display="Series 6" %}, {% include device.html name="apple-watch-series-5" display="5" %}, {% include device.html name="apple-watch-series-4" display="4" %}</span>
         </td>
         <td>1.73"</td>
@@ -391,7 +391,7 @@ redirect_from:
       </tr>
       <tr>
         <td>
-          <span class="strong">{% include device.html name="apple-watch-40mm" %}</span>
+          <span class="strong">Apple Watch 40mm</span>
           <br><span class="soft">{% include device.html name="apple-watch-se-gen-2" display="SE (gen 2)" %}, {% include device.html name="apple-watch-se-gen-1" display="1" %}, {% include device.html name="apple-watch-series-6" display="Series 6" %}, {% include device.html name="apple-watch-series-5" display="5" %}, {% include device.html name="apple-watch-series-4" display="4" %}</span>
         </td>
         <td>1.57"</td>
@@ -399,7 +399,7 @@ redirect_from:
       </tr>
       <tr>
         <td>
-          <span class="strong">{% include device.html name="apple-watch-42mm" %}</span>
+          <span class="strong">Apple Watch 42mm</span>
           <br><span class="soft">{% include device.html name="apple-watch-series-3" display="Series 3" %}, {% include device.html name="apple-watch-series-2" display="2" %}, {% include device.html name="apple-watch-series-1" display="1" %}, {% include device.html name="apple-watch-series-0" display="0" %}</span>
         </td>
         <td>1.5"</td>
@@ -407,7 +407,7 @@ redirect_from:
       </tr>
       <tr>
         <td>
-          <span class="strong">{% include device.html name="apple-watch-38mm" %}</span>
+          <span class="strong">Apple Watch 38mm</span>
           <br><span class="soft">{% include device.html name="apple-watch-series-3" display="Series 3" %}, {% include device.html name="apple-watch-series-2" display="2" %}, {% include device.html name="apple-watch-series-1" display="1" %}, {% include device.html name="apple-watch-series-0" display="0" %}</span>
         </td>
         <td>1.32"</td>

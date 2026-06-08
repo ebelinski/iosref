@@ -55,25 +55,4 @@ apple-watch-ultra-3:
   status: normal
 
 
-# Resolution keys
-apple-watch-49mm:
-  name: "Apple Watch 49mm"
-  status: normal
-apple-watch-45mm:
-  name: "Apple Watch 45mm"
-  status: normal
-apple-watch-41mm:
-  name: "Apple Watch 41mm"
-  status: normal
-apple-watch-44mm:
-  name: "Apple Watch 44mm"
-  status: normal
-apple-watch-40mm:
-  name: "Apple Watch 40mm"
-  status: normal
-apple-watch-42mm:
-  name: "Apple Watch 42mm"
-  status: normal
-apple-watch-38mm:
-  name: "Apple Watch 38mm"
-  status: normal
+
