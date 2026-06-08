@@ -23,7 +23,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
       <td>{% include device.html name='ipad-air-11-m4' display='iPad Air 11"' %} / {% include device.html name='ipad-air-13-m4' display='13" (M4)' %}</td>
       <td>2026</td>
       <td rowspan="2">26</td>
-      <td class="current" rowspan="19">26</td>
+      <td class="current" rowspan="16">26</td>
     </tr>
     <tr>
       <td>{% include device.html name='ipad-pro-11-m5' display='iPad Pro 11"' %} / {% include device.html name='ipad-pro-13-m5' display='13" (M5)' %}</td>
@@ -48,12 +48,9 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
       <td>{% include device.html name='ipad-air-11-m2' display='iPad Air 11"' %} / {% include device.html name='ipad-air-13-m2' display='13" (M2)' %}</td>
     </tr>
     <tr>
-      <td>{% include device.html name='ipad-pro-12point9-gen-6' %}</td>
-      <td rowspan="4">2022</td>
-      <td rowspan="3">16</td>
-    </tr>
-    <tr>
-      <td>{% include device.html name='ipad-pro-11-gen-4' %}</td>
+      <td>{% include device.html name='ipad-pro-12point9-gen-6' %} / {% include device.html name='ipad-pro-11-gen-4' display='11" (gen 4)' %}</td>
+      <td rowspan="3">2022</td>
+      <td rowspan="2">16</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-gen-10" %}</td>
@@ -64,31 +61,25 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
     </tr>
     <tr>
       <td>{% include device.html name="ipad-gen-9" %}</td>
-      <td rowspan="4">2021</td>
+      <td rowspan="3">2021</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-mini-gen-6" %}</td>
     </tr>
     <tr>
-      <td>{% include device.html name='ipad-pro-12point9-gen-5' %}</td>
-      <td rowspan="4">14</td>
-    </tr>
-    <tr>
-      <td>{% include device.html name='ipad-pro-11-gen-3' %}</td>
+      <td>{% include device.html name='ipad-pro-12point9-gen-5' %} / {% include device.html name='ipad-pro-11-gen-3' display='11" (gen 3)' %}</td>
+      <td rowspan="3">14</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-air-gen-4" %}</td>
-      <td rowspan="4">2020</td>
+      <td rowspan="3">2020</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-gen-8" %}</td>
     </tr>
     <tr>
-      <td>{% include device.html name='ipad-pro-12point9-gen-4' %}</td>
-      <td rowspan="3">13</td>
-    </tr>
-    <tr>
-      <td>{% include device.html name='ipad-pro-11-gen-2' %}</td>
+      <td>{% include device.html name='ipad-pro-12point9-gen-4' %} / {% include device.html name='ipad-pro-11-gen-2' display='11" (gen 2)' %}</td>
+      <td rowspan="2">13</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-gen-7" %}</td>
@@ -97,31 +88,25 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
     </tr>
     <tr>
       <td>{% include device.html name="ipad-air-gen-3" %}</td>
-      <td rowspan="4">12</td>
-      <td class="current" rowspan="4">26</td>
+      <td rowspan="3">12</td>
+      <td class="current" rowspan="3">26</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-mini-gen-5" %}</td>
     </tr>
     <tr>
-      <td>{% include device.html name="ipad-pro-12point9-gen-3" %}</td>
-      <td rowspan="3">2018</td>
-    </tr>
-    <tr>
-      <td>{% include device.html name="ipad-pro-11-gen-1" %}</td>
+      <td>{% include device.html name="ipad-pro-12point9-gen-3" %} / {% include device.html name="ipad-pro-11-gen-1" display='11" (gen 1)' %}</td>
+      <td rowspan="2">2018</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-gen-6" %}</td>
       <td>11</td>
-      <td rowspan="3">17</td>
+      <td rowspan="2">17</td>
     </tr>
     <tr>
-      <td>{% include device.html name="ipad-pro-12point9-gen-2" %}</td>
-      <td rowspan="3">2017</td>
-      <td rowspan="3">10</td>
-    </tr>
-    <tr>
-      <td>{% include device.html name="ipad-pro-10point5" %}</td>
+      <td>{% include device.html name="ipad-pro-12point9-gen-2" %} / {% include device.html name="ipad-pro-10point5" display='10.5"' %}</td>
+      <td rowspan="2">2017</td>
+      <td rowspan="2">10</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-gen-5" %}</td>
