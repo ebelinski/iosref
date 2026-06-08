@@ -22,8 +22,8 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
     <tr>
       <td>{% include device.html name='ipad-air-11-m4' display='iPad Air 11"' %} / {% include device.html name='ipad-air-13-m4' display='13" (M4)' %}</td>
       <td>2026</td>
-      <td rowspan="2">26</td>
-      <td class="current" rowspan="16">26</td>
+      <td rowspan="2">{% include ipados-version.html version="26" %}</td>
+      <td class="current" rowspan="16">{% include ipados-version.html version="26" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name='ipad-pro-11-m5' display='iPad Pro 11"' %} / {% include device.html name='ipad-pro-13-m5' display='13" (M5)' %}</td>
@@ -31,7 +31,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
     </tr>
     <tr>
       <td>{% include device.html name='ipad-air-11-m3' display='iPad Air 11"' %} / {% include device.html name='ipad-air-13-m3' display='13" (M3)' %}</td>
-      <td rowspan="3">18</td>
+      <td rowspan="3">{% include ipados-version.html version="18" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-a16" %}</td>
@@ -42,7 +42,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
     </tr>
     <tr>
       <td>{% include device.html name='ipad-pro-11-m4' display='iPad Pro 11"' %} / {% include device.html name='ipad-pro-13-m4' display='13" (M4)' %}</td>
-      <td rowspan="2">17</td>
+      <td rowspan="2">{% include ipados-version.html version="17" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name='ipad-air-11-m2' display='iPad Air 11"' %} / {% include device.html name='ipad-air-13-m2' display='13" (M2)' %}</td>
@@ -50,14 +50,14 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
     <tr>
       <td>{% include device.html name='ipad-pro-12point9-gen-6' %} / {% include device.html name='ipad-pro-11-gen-4' display='11" (gen 4)' %}</td>
       <td rowspan="3">2022</td>
-      <td rowspan="2">16</td>
+      <td rowspan="2">{% include ipados-version.html version="16" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-gen-10" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-air-gen-5" %}</td>
-      <td rowspan="3">15</td>
+      <td rowspan="3">{% include ipados-version.html version="15" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-gen-9" %}</td>
@@ -68,7 +68,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
     </tr>
     <tr>
       <td>{% include device.html name='ipad-pro-12point9-gen-5' %} / {% include device.html name='ipad-pro-11-gen-3' display='11" (gen 3)' %}</td>
-      <td rowspan="3">14</td>
+      <td rowspan="3">{% include ipados-version.html version="14" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-air-gen-4" %}</td>
@@ -79,17 +79,17 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
     </tr>
     <tr>
       <td>{% include device.html name='ipad-pro-12point9-gen-4' %} / {% include device.html name='ipad-pro-11-gen-2' display='11" (gen 2)' %}</td>
-      <td rowspan="2">13</td>
+      <td rowspan="2">{% include ipados-version.html version="13" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-gen-7" %}</td>
       <td rowspan="3">2019</td>
-      <td class="previous">18</td>
+      <td class="previous">{% include ipados-version.html version="18" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-air-gen-3" %}</td>
-      <td rowspan="3">12</td>
-      <td class="current" rowspan="3">26</td>
+      <td rowspan="3">{% include ipados-version.html version="12" %}</td>
+      <td class="current" rowspan="3">{% include ipados-version.html version="26" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-mini-gen-5" %}</td>
@@ -100,22 +100,22 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
     </tr>
     <tr>
       <td>{% include device.html name="ipad-gen-6" %}</td>
-      <td>11</td>
-      <td rowspan="2">17</td>
+      <td>{% include ipados-version.html version="11" %}</td>
+      <td rowspan="2">{% include ipados-version.html version="17" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-pro-12point9-gen-2" %} / {% include device.html name="ipad-pro-10point5" display='10.5"' %}</td>
       <td rowspan="2">2017</td>
-      <td rowspan="2">10</td>
+      <td rowspan="2">{% include ipados-version.html version="10" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-gen-5" %}</td>
-      <td rowspan="3">16</td>
+      <td rowspan="3">{% include ipados-version.html version="16" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-pro-9point7" %}</td>
       <td>2016</td>
-      <td rowspan="3">9</td>
+      <td rowspan="3">{% include ipados-version.html version="9" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-pro-12point9-gen-1" %}</td>
@@ -123,23 +123,23 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
     </tr>
     <tr>
       <td>{% include device.html name="ipad-mini-4" %}</td>
-      <td>15</td>
+      <td>{% include ipados-version.html version="15" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-mini-3" %}</td>
       <td rowspan="2">2014</td>
-      <td rowspan="2">8</td>
-      <td>12</td>
+      <td rowspan="2">{% include ipados-version.html version="8" %}</td>
+      <td>{% include ipados-version.html version="12" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-air-2" %}</td>
-      <td>15</td>
+      <td>{% include ipados-version.html version="15" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-mini-2" %}</td>
       <td rowspan="2">2013</td>
-      <td rowspan="2">7</td>
-      <td rowspan="2">12</td>
+      <td rowspan="2">{% include ipados-version.html version="7" %}</td>
+      <td rowspan="2">{% include ipados-version.html version="12" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-air-gen-1" %}</td>
@@ -147,27 +147,27 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
     <tr>
       <td>{% include device.html name="ipad-gen-4" %}</td>
       <td rowspan="3">2012</td>
-      <td rowspan="2">6</td>
-      <td>10</td>
+      <td rowspan="2">{% include ipados-version.html version="6" %}</td>
+      <td>{% include ipados-version.html version="10" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-mini-gen-1" %}</td>
-      <td rowspan="3">9</td>
+      <td rowspan="3">{% include ipados-version.html version="9" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-gen-3" %}</td>
-      <td>5</td>
+      <td>{% include ipados-version.html version="5" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-2" %}</td>
       <td>2011</td>
-      <td>4</td>
+      <td>{% include ipados-version.html version="4" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="ipad-gen-1" %}</td>
       <td>2010</td>
-      <td>3</td>
-      <td>5</td>
+      <td>{% include ipados-version.html version="3" %}</td>
+      <td>{% include ipados-version.html version="5" %}</td>
     </tr>
   </tbody>
 </table>
