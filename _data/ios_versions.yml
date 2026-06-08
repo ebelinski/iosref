@@ -74,7 +74,7 @@
   changes: |-
     * WidgetKit
     * App Tracking Transparency
-    * Picture-in-Picture
+    * Picture-in-Picture (PiP)
     * App Clips
 "15":
   changes: |-
@@ -88,7 +88,6 @@
   changes: |-
     * SwiftData
     * Interactive Widgets
-    * TipKit
 "18":
   changes: |-
     * Apple Intelligence
