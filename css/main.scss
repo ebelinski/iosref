@@ -284,6 +284,21 @@ pre {
   vertical-align: middle;
 }
 
+.badge-beta {
+  background-color: #7e22ce;
+  color: $textDark;
+  font-size: 0.8rem;
+  font-weight: bold;
+  padding: 1px 6px 2px;
+  border-radius: 10px;
+  display: inline-block;
+  vertical-align: middle;
+  line-height: 1.1;
+  position: relative;
+  top: -2px;
+  margin-left: 4px;
+}
+
 .tooltip {
   border-bottom: 1px dotted $text;
   cursor: help;
@@ -334,5 +349,20 @@ pre {
   .custom-tooltip {
     background-color: #00067e;
     border-color: #fff;
+  }
+
+  .badge-beta {
+    background-color: #c288f5;
+    color: $text;
+    font-size: 0.8rem;
+    font-weight: bold;
+    padding: 1px 6px 2px;
+    border-radius: 10px;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: 1.1;
+    position: relative;
+    top: -2px;
+    margin-left: 4px;
   }
 }
