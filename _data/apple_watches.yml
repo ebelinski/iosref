@@ -54,61 +54,6 @@ apple-watch-ultra-3:
   name: "Apple Watch Ultra 3"
   status: normal
 
-# Short Names
-series-0:
-  name: "Series 0"
-  status: obsolete
-series-1:
-  name: "Series 1"
-  status: obsolete
-series-2:
-  name: "Series 2"
-  status: obsolete
-series-3:
-  name: "Series 3"
-  status: vintage
-series-4:
-  name: "Series 4"
-  status: obsolete
-series-5:
-  name: "Series 5"
-  status: vintage
-series-6:
-  name: "Series 6"
-  status: normal
-series-7:
-  name: "Series 7"
-  status: normal
-series-8:
-  name: "Series 8"
-  status: normal
-series-9:
-  name: "Series 9"
-  status: normal
-series-10:
-  name: "Series 10"
-  status: normal
-series-11:
-  name: "Series 11"
-  status: normal
-se-gen-1:
-  name: "SE (gen 1)"
-  status: normal
-se-gen-2:
-  name: "SE (gen 2)"
-  status: normal
-se-gen-3:
-  name: "SE (gen 3)"
-  status: normal
-ultra:
-  name: "Ultra"
-  status: normal
-ultra-2:
-  name: "Ultra 2"
-  status: normal
-ultra-3:
-  name: "Ultra 3"
-  status: normal
 
 # Resolution keys
 apple-watch-49mm:
