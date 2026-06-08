@@ -1,14 +1,21 @@
-Apple TV (gen 1):
+apple-tv-gen-1:
+  name: "Apple TV (gen 1)"
   status: obsolete
-Apple TV (gen 2):
+apple-tv-gen-2:
+  name: "Apple TV (gen 2)"
   status: obsolete
-Apple TV (gen 3):
+apple-tv-gen-3:
+  name: "Apple TV (gen 3)"
   status: obsolete
-Apple TV HD:
+apple-tv-hd:
+  name: "Apple TV HD"
   status: normal
-Apple TV 4K (gen 1):
+apple-tv-4k-gen-1:
+  name: "Apple TV 4K (gen 1)"
   status: normal
-Apple TV 4K (gen 2):
+apple-tv-4k-gen-2:
+  name: "Apple TV 4K (gen 2)"
   status: normal
-Apple TV 4K (gen 3):
+apple-tv-4k-gen-3:
+  name: "Apple TV 4K (gen 3)"
   status: normal

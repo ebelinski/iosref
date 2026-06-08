@@ -1,104 +1,156 @@
-iPhone (gen 1):
+iphone-gen-1:
+  name: "iPhone (gen 1)"
   status: obsolete
-iPhone 3G:
+iphone-3g:
+  name: "iPhone 3G"
   status: obsolete
-iPhone 3GS:
+iphone-3gs:
+  name: "iPhone 3GS"
   status: obsolete
-iPhone 4:
+iphone-4:
+  name: "iPhone 4"
   status: obsolete
-iPhone 4s:
+iphone-4s:
+  name: "iPhone 4s"
   status: obsolete
-iPhone 5:
+iphone-5:
+  name: "iPhone 5"
   status: obsolete
-iPhone 5c:
+iphone-5c:
+  name: "iPhone 5c"
   status: obsolete
-iPhone 5s:
+iphone-5s:
+  name: "iPhone 5s"
   status: obsolete
-iPhone 6:
+iphone-6:
+  name: "iPhone 6"
   status: obsolete
-iPhone 6 Plus:
+iphone-6-plus:
+  name: "iPhone 6 Plus"
   status: obsolete
-iPhone 6s:
+iphone-6s:
+  name: "iPhone 6s"
   status: obsolete
-iPhone 6s Plus:
+iphone-6s-plus:
+  name: "iPhone 6s Plus"
   status: obsolete
-iPhone 7:
+iphone-7:
+  name: "iPhone 7"
   status: vintage
-iPhone 7 Plus:
+iphone-7-plus:
+  name: "iPhone 7 Plus"
   status: vintage
-iPhone 8:
+iphone-8:
+  name: "iPhone 8"
   status: vintage
-iPhone 8 Plus:
+iphone-8-plus:
+  name: "iPhone 8 Plus"
   status: vintage
-iPhone X:
+iphone-x:
+  name: "iPhone X"
   status: vintage
-iPhone XR:
+iphone-xr:
+  name: "iPhone XR"
   status: normal
-iPhone XS:
+iphone-xs:
+  name: "iPhone XS"
   status: vintage
-iPhone XS Max:
+iphone-xs-max:
+  name: "iPhone XS Max"
   status: vintage
-iPhone 11:
+iphone-11:
+  name: "iPhone 11"
   status: normal
-iPhone 11 Pro:
+iphone-11-pro:
+  name: "iPhone 11 Pro"
   status: vintage
-iPhone 11 Pro Max:
+iphone-11-pro-max:
+  name: "iPhone 11 Pro Max"
   status: vintage
-iPhone 12:
+iphone-12:
+  name: "iPhone 12"
   status: normal
-iPhone 12 mini:
+iphone-12-mini:
+  name: "iPhone 12 mini"
   status: normal
-iPhone 12 Pro:
+iphone-12-pro:
+  name: "iPhone 12 Pro"
   status: normal
-iPhone 12 Pro Max:
+iphone-12-pro-max:
+  name: "iPhone 12 Pro Max"
   status: normal
-iPhone 13:
+iphone-13:
+  name: "iPhone 13"
   status: normal
-iPhone 13 mini:
+iphone-13-mini:
+  name: "iPhone 13 mini"
   status: normal
-iPhone 13 Pro:
+iphone-13-pro:
+  name: "iPhone 13 Pro"
   status: normal
-iPhone 13 Pro Max:
+iphone-13-pro-max:
+  name: "iPhone 13 Pro Max"
   status: normal
-iPhone 14:
+iphone-14:
+  name: "iPhone 14"
   status: normal
-iPhone 14 Plus:
+iphone-14-plus:
+  name: "iPhone 14 Plus"
   status: normal
-iPhone 14 Pro:
+iphone-14-pro:
+  name: "iPhone 14 Pro"
   status: normal
-iPhone 14 Pro Max:
+iphone-14-pro-max:
+  name: "iPhone 14 Pro Max"
   status: normal
-iPhone 15:
+iphone-15:
+  name: "iPhone 15"
   status: normal
-iPhone 15 Plus:
+iphone-15-plus:
+  name: "iPhone 15 Plus"
   status: normal
-iPhone 15 Pro:
+iphone-15-pro:
+  name: "iPhone 15 Pro"
   status: normal
-iPhone 15 Pro Max:
+iphone-15-pro-max:
+  name: "iPhone 15 Pro Max"
   status: normal
-iPhone 16:
+iphone-16:
+  name: "iPhone 16"
   status: normal
-iPhone 16 Plus:
+iphone-16-plus:
+  name: "iPhone 16 Plus"
   status: normal
-iPhone 16 Pro:
+iphone-16-pro:
+  name: "iPhone 16 Pro"
   status: normal
-iPhone 16 Pro Max:
+iphone-16-pro-max:
+  name: "iPhone 16 Pro Max"
   status: normal
-iPhone 16e:
+iphone-16e:
+  name: "iPhone 16e"
   status: normal
-iPhone 17:
+iphone-17:
+  name: "iPhone 17"
   status: normal
-iPhone 17 Pro:
+iphone-17-pro:
+  name: "iPhone 17 Pro"
   status: normal
-iPhone 17 Pro Max:
+iphone-17-pro-max:
+  name: "iPhone 17 Pro Max"
   status: normal
-iPhone 17e:
+iphone-17e:
+  name: "iPhone 17e"
   status: normal
-iPhone Air:
+iphone-air:
+  name: "iPhone Air"
   status: normal
-iPhone SE (gen 1):
+iphone-se-gen-1:
+  name: "iPhone SE (gen 1)"
   status: obsolete
-iPhone SE (gen 2):
+iphone-se-gen-2:
+  name: "iPhone SE (gen 2)"
   status: normal
-iPhone SE (gen 3):
+iphone-se-gen-3:
+  name: "iPhone SE (gen 3)"
   status: normal

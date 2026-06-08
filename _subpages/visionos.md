@@ -25,51 +25,51 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
     <th>Max iOS</th>
   </tr>
   <tr>
-    <td>{% include device.html name="iPhone 14 Pro" %} / {% include device.html name="iPhone 14 Pro Max" display="14 Pro Max" %}</td>
+    <td>{% include device.html name="iphone-14-pro" %} / {% include device.html name="iphone-14-pro-max" display="14 Pro Max" %}</td>
     <td rowspan="3">2022</td>
     <td rowspan="2">{% include ios-version.html version="16" %}</td>
     <td class="current" rowspan="14">{% include ios-version.html version="16" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPhone 14" %} / {% include device.html name="iPhone 14 Plus" display="14 Plus" %}</td>
+    <td>{% include device.html name="iphone-14" %} / {% include device.html name="iphone-14-plus" display="14 Plus" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPhone SE (gen 3)" %}</td>
+    <td>{% include device.html name="iphone-se-gen-3" %}</td>
     <td rowspan="3">{% include ios-version.html version="15" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPhone 13 Pro" %} / {% include device.html name="iPhone 13 Pro Max" display="13 Pro Max" %}</td>
+    <td>{% include device.html name="iphone-13-pro" %} / {% include device.html name="iphone-13-pro-max" display="13 Pro Max" %}</td>
     <td rowspan="2">2021</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPhone 13" %} / {% include device.html name="iPhone 13 mini" display="13 mini" %}</td>
+    <td>{% include device.html name="iphone-13" %} / {% include device.html name="iphone-13-mini" display="13 mini" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPhone 12 Pro" %} / {% include device.html name="iPhone 12 Pro Max" display="12 Pro Max" %}</td>
+    <td>{% include device.html name="iphone-12-pro" %} / {% include device.html name="iphone-12-pro-max" display="12 Pro Max" %}</td>
     <td rowspan="3">2020</td>
     <td rowspan="2">{% include ios-version.html version="14" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPhone 12" %} / {% include device.html name="iPhone 12 mini" display="12 mini" %}</td>
+    <td>{% include device.html name="iphone-12" %} / {% include device.html name="iphone-12-mini" display="12 mini" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPhone SE (gen 2)" %}</td>
+    <td>{% include device.html name="iphone-se-gen-2" %}</td>
     <td rowspan="3">{% include ios-version.html version="13" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPhone 11 Pro" %} / {% include device.html name="iPhone 11 Pro Max" display="11 Pro Max" %}</td>
+    <td>{% include device.html name="iphone-11-pro" %} / {% include device.html name="iphone-11-pro-max" display="11 Pro Max" %}</td>
     <td rowspan="2">2019</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPhone 11" %}</td>
+    <td>{% include device.html name="iphone-11" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPhone XS" %} / {% include device.html name="iPhone XS Max" display="XS Max" %}</td>
+    <td>{% include device.html name="iphone-xs" %} / {% include device.html name="iphone-xs-max" display="XS Max" %}</td>
     <td rowspan="2">2018</td>
     <td rowspan="2">{% include ios-version.html version="12" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPhone XR" %}</td>
+    <td>{% include device.html name="iphone-xr" %}</td>
   </tr>
   <tr>
     <td>iPhone X</td>
@@ -157,81 +157,81 @@ Before iPadOS 13, iPadOS was known as iOS.
     <th>Max iPadOS</th>
   </tr>
   <tr>
-    <td>{% include device.html name='iPad Pro 12.9" (gen 6)' %}</td>
+    <td>{% include device.html name='ipad-pro-12point9-gen-6' %}</td>
     <td rowspan="4">2022</td>
     <td rowspan="3">{% include ios-version.html version="16" %}</td>
     <td rowspan="23" class="current">{% include ios-version.html version="16" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name='iPad Pro 11" (gen 4)' %}</td>
+    <td>{% include device.html name='ipad-pro-11-gen-4' %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPad (gen 10)" %}</td>
+    <td>{% include device.html name="ipad-gen-10" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPad Air (gen 5)" %}</td>
+    <td>{% include device.html name="ipad-air-gen-5" %}</td>
     <td rowspan="3">{% include ios-version.html version="15" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPad (gen 9)" %}</td>
+    <td>{% include device.html name="ipad-gen-9" %}</td>
     <td rowspan="4">2021</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPad mini (gen 6)" %}</td>
+    <td>{% include device.html name="ipad-mini-gen-6" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name='iPad Pro 12.9" (gen 5)' %}</td>
+    <td>{% include device.html name='ipad-pro-12point9-gen-5' %}</td>
     <td rowspan="4">{% include ios-version.html version="14" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name='iPad Pro 11" (gen 3)' %}</td>
+    <td>{% include device.html name='ipad-pro-11-gen-3' %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPad Air (gen 4)" %}</td>
+    <td>{% include device.html name="ipad-air-gen-4" %}</td>
     <td rowspan="4">2020</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPad (gen 8)" %}</td>
+    <td>{% include device.html name="ipad-gen-8" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name='iPad Pro 12.9" (gen 4)' %}</td>
+    <td>{% include device.html name='ipad-pro-12point9-gen-4' %}</td>
     <td rowspan="3">{% include ios-version.html version="13" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name='iPad Pro 11" (gen 2)' %}</td>
+    <td>{% include device.html name='ipad-pro-11-gen-2' %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPad (gen 7)" %}</td>
+    <td>{% include device.html name="ipad-gen-7" %}</td>
     <td rowspan="3">2019</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPad Air (gen 3)" %}</td>
+    <td>{% include device.html name="ipad-air-gen-3" %}</td>
     <td rowspan="4">{% include ios-version.html version="12" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPad mini (gen 5)" %}</td>
+    <td>{% include device.html name="ipad-mini-gen-5" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name='iPad Pro 12.9" (gen 3)' %}</td>
+    <td>{% include device.html name='ipad-pro-12point9-gen-3' %}</td>
     <td rowspan="3">2018</td>
   </tr>
   <tr>
-    <td>{% include device.html name='iPad Pro 11" (gen 1)' %}</td>
+    <td>{% include device.html name='ipad-pro-11-gen-1' %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPad (gen 6)" %}</td>
+    <td>{% include device.html name="ipad-gen-6" %}</td>
     <td>{% include ios-version.html version="11" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name='iPad Pro 12.9" (gen 2)' %}</td>
+    <td>{% include device.html name='ipad-pro-12point9-gen-2' %}</td>
     <td rowspan="3">2017</td>
     <td rowspan="3">{% include ios-version.html version="10" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name='iPad Pro 10.5"' %}</td>
+    <td>{% include device.html name='ipad-pro-10point5' %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPad (gen 5)" %}</td>
+    <td>{% include device.html name="ipad-gen-5" %}</td>
   </tr>
   <tr>
     <td>iPad Pro 9.7" {% include badge-vintage.html %}</td>
@@ -243,7 +243,7 @@ Before iPadOS 13, iPadOS was known as iOS.
     <td rowspan="2">2015</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPad mini 4" %}</td>
+    <td>{% include device.html name="ipad-mini-4" %}</td>
     <td class="previous">{% include ios-version.html version="15" %}</td>
   </tr>
   <tr>
@@ -302,13 +302,13 @@ Before iPadOS 13, iPadOS was known as iOS.
     <th>Max iOS</th>
   </tr>
   <tr>
-    <td>{% include device.html name="iPod touch (gen 7)" %}</td>
+    <td>{% include device.html name="ipod-touch-gen-7" %}</td>
     <td>2019</td>
     <td>{% include ios-version.html version="12" %}</td>
     <td class="previous">{% include ios-version.html version="15" %}</td>
   </tr>
   <tr>
-    <td>{% include device.html name="iPod touch (gen 6)" %}</td>
+    <td>{% include device.html name="ipod-touch-gen-6" %}</td>
     <td>2015</td>
     <td>{% include ios-version.html version="8" %}</td>
     <td>{% include ios-version.html version="12" %}</td>

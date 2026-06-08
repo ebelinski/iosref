@@ -1,100 +1,150 @@
-iPad (gen 1):
+ipad-gen-1:
+  name: "iPad (gen 1)"
   status: obsolete
-iPad 2:
+ipad-2:
+  name: "iPad 2"
   status: obsolete
-iPad (gen 3):
+ipad-gen-3:
+  name: "iPad (gen 3)"
   status: obsolete
-iPad (gen 4):
+ipad-gen-4:
+  name: "iPad (gen 4)"
   status: obsolete
-iPad (gen 5):
+ipad-gen-5:
+  name: "iPad (gen 5)"
   status: obsolete
-iPad (gen 6):
+ipad-gen-6:
+  name: "iPad (gen 6)"
   status: vintage
-iPad (gen 7):
+ipad-gen-7:
+  name: "iPad (gen 7)"
   status: normal
-iPad (gen 8):
+ipad-gen-8:
+  name: "iPad (gen 8)"
   status: normal
-iPad (gen 9):
+ipad-gen-9:
+  name: "iPad (gen 9)"
   status: normal
-iPad (gen 10):
+ipad-gen-10:
+  name: "iPad (gen 10)"
   status: normal
-iPad (A16):
+ipad-a16:
+  name: "iPad (A16)"
   status: normal
-iPad Air (gen 1):
+ipad-air-gen-1:
+  name: "iPad Air (gen 1)"
   status: obsolete
-iPad Air 2:
+ipad-air-2:
+  name: "iPad Air 2"
   status: obsolete
-iPad Air (gen 3):
+ipad-air-gen-3:
+  name: "iPad Air (gen 3)"
   status: vintage
-iPad Air (gen 4):
+ipad-air-gen-4:
+  name: "iPad Air (gen 4)"
   status: normal
-iPad Air (gen 5):
+ipad-air-gen-5:
+  name: "iPad Air (gen 5)"
   status: normal
-iPad Air 11" (M2):
+ipad-air-11-m2:
+  name: 'iPad Air 11" (M2)'
   status: normal
-iPad Air 13" (M2):
+ipad-air-13-m2:
+  name: 'iPad Air 13" (M2)'
   status: normal
-iPad Air 11" (M3):
+ipad-air-11-m3:
+  name: 'iPad Air 11" (M3)'
   status: normal
-iPad Air 13" (M3):
+ipad-air-13-m3:
+  name: 'iPad Air 13" (M3)'
   status: normal
-iPad Air 11" (M4):
+ipad-air-11-m4:
+  name: 'iPad Air 11" (M4)'
   status: normal
-iPad Air 13" (M4):
+ipad-air-13-m4:
+  name: 'iPad Air 13" (M4)'
   status: normal
-iPad mini (gen 1):
+ipad-mini-gen-1:
+  name: "iPad mini (gen 1)"
   status: obsolete
-iPad mini 2:
+ipad-mini-2:
+  name: "iPad mini 2"
   status: obsolete
-iPad mini 3:
+ipad-mini-3:
+  name: "iPad mini 3"
   status: obsolete
-iPad mini 4:
+ipad-mini-4:
+  name: "iPad mini 4"
   status: obsolete
-iPad mini (gen 5):
+ipad-mini-gen-5:
+  name: "iPad mini (gen 5)"
   status: normal
-iPad mini (gen 6):
+ipad-mini-gen-6:
+  name: "iPad mini (gen 6)"
   status: normal
-iPad Mini (A17 Pro):
+ipad-mini-a17-pro:
+  name: "iPad Mini (A17 Pro)"
   status: normal
-iPad Pro 9.7":
+ipad-pro-9point7:
+  name: 'iPad Pro 9.7"'
   status: obsolete
-iPad Pro 10.5":
+ipad-pro-10point5:
+  name: 'iPad Pro 10.5"'
   status: vintage
-iPad Pro 12.9" (gen 1):
+ipad-pro-12point9-gen-1:
+  name: 'iPad Pro 12.9" (gen 1)'
   status: vintage
-iPad Pro 12.9" (gen 2):
+ipad-pro-12point9-gen-2:
+  name: 'iPad Pro 12.9" (gen 2)'
   status: obsolete
-iPad Pro 12.9" (gen 3):
+ipad-pro-12point9-gen-3:
+  name: 'iPad Pro 12.9" (gen 3)'
   status: vintage
-iPad Pro 12.9" (gen 4):
+ipad-pro-12point9-gen-4:
+  name: 'iPad Pro 12.9" (gen 4)'
   status: normal
-iPad Pro 12.9" (gen 5):
+ipad-pro-12point9-gen-5:
+  name: 'iPad Pro 12.9" (gen 5)'
   status: normal
-iPad Pro 12.9" (gen 6):
+ipad-pro-12point9-gen-6:
+  name: 'iPad Pro 12.9" (gen 6)'
   status: normal
-iPad Pro 11" (gen 1):
+ipad-pro-11-gen-1:
+  name: 'iPad Pro 11" (gen 1)'
   status: vintage
-iPad Pro 11" (gen 2):
+ipad-pro-11-gen-2:
+  name: 'iPad Pro 11" (gen 2)'
   status: normal
-iPad Pro 11" (gen 3):
+ipad-pro-11-gen-3:
+  name: 'iPad Pro 11" (gen 3)'
   status: normal
-iPad Pro 11" (gen 4):
+ipad-pro-11-gen-4:
+  name: 'iPad Pro 11" (gen 4)'
   status: normal
-iPad Pro 11" (M4):
+ipad-pro-11-m4:
+  name: 'iPad Pro 11" (M4)'
   status: normal
-iPad Pro 13" (M4):
+ipad-pro-13-m4:
+  name: 'iPad Pro 13" (M4)'
   status: normal
-iPad Pro 11" (M5):
+ipad-pro-11-m5:
+  name: 'iPad Pro 11" (M5)'
   status: normal
-iPad Pro 13" (M5):
+ipad-pro-13-m5:
+  name: 'iPad Pro 13" (M5)'
   status: normal
-iPad Pro 13":
+ipad-pro-13:
+  name: 'iPad Pro 13"'
   status: normal
-iPad Air 13" (gen 6):
+ipad-air-13-gen-6:
+  name: 'iPad Air 13" (gen 6)'
   status: normal
-iPad (gen 11):
+ipad-gen-11:
+  name: "iPad (gen 11)"
   status: normal
-iPad Air 11" (gen 6):
+ipad-air-11-gen-6:
+  name: 'iPad Air 11" (gen 6)'
   status: normal
-iPad mini (gen 7):
+ipad-mini-gen-7:
+  name: "iPad mini (gen 7)"
   status: normal

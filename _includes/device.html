@@ -1,6 +1,6 @@
 {%- assign name = include.name -%}
 {%- assign device = site.data.iphones[name] | default: site.data.ipads[name] | default: site.data.apple_watches[name] | default: site.data.homepods[name] | default: site.data.apple_tvs[name] | default: site.data.ipod_touches[name] -%}
-{%- assign display_name = include.display | default: include.name -%}
+{%- assign display_name = include.display | default: device.name | default: include.name -%}
 {{- display_name -}}
 {%- if device.status == 'obsolete' -%}
   &nbsp;{%- include badge-obsolete.html -%}

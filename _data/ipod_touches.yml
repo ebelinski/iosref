@@ -1,14 +1,21 @@
-iPod touch (gen 1):
+ipod-touch-gen-1:
+  name: "iPod touch (gen 1)"
   status: obsolete
-iPod touch (gen 2):
+ipod-touch-gen-2:
+  name: "iPod touch (gen 2)"
   status: obsolete
-iPod touch (gen 3):
+ipod-touch-gen-3:
+  name: "iPod touch (gen 3)"
   status: obsolete
-iPod touch (gen 4):
+ipod-touch-gen-4:
+  name: "iPod touch (gen 4)"
   status: obsolete
-iPod touch (gen 5):
+ipod-touch-gen-5:
+  name: "iPod touch (gen 5)"
   status: obsolete
-iPod touch (gen 6):
+ipod-touch-gen-6:
+  name: "iPod touch (gen 6)"
   status: vintage
-iPod touch (gen 7):
+ipod-touch-gen-7:
+  name: "iPod touch (gen 7)"
   status: normal

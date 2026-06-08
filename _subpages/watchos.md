@@ -21,53 +21,53 @@ Information about which Apple Watches are vintage/obsolete was obtained from <a 
   </thead>
   <tbody>
     <tr>
-      <td>{% include device.html name="Apple Watch Ultra 3" display="Ultra 3" %}</td>
+      <td>{% include device.html name="apple-watch-ultra-3" display="Ultra 3" %}</td>
       <td rowspan="3">2025</td>
       <td rowspan="3">26</td>
       <td class="current" rowspan="11">26</td>
     </tr>
     <tr>
-      <td>{% include device.html name="Apple Watch Series 11" display="Series 11" %}</td>
+      <td>{% include device.html name="apple-watch-series-11" display="Series 11" %}</td>
     </tr>
     <tr>
-      <td>{% include device.html name="Apple Watch SE (gen 3)" display="SE (gen 3)" %}</td>
+      <td>{% include device.html name="apple-watch-se-gen-3" display="SE (gen 3)" %}</td>
     </tr>
     <tr>
-      <td>{% include device.html name="Apple Watch Series 10" display="Series 10" %}</td>
+      <td>{% include device.html name="apple-watch-series-10" display="Series 10" %}</td>
       <td>2024</td>
       <td>11</td>
     </tr>
     <tr>
-      <td>{% include device.html name="Apple Watch Ultra 2" display="Ultra 2" %}</td>
+      <td>{% include device.html name="apple-watch-ultra-2" display="Ultra 2" %}</td>
       <td rowspan="2">2023</td>
       <td rowspan="2">10</td>
     </tr>
     <tr>
-      <td>{% include device.html name="Apple Watch Series 9" display="Series 9" %}</td>
+      <td>{% include device.html name="apple-watch-series-9" display="Series 9" %}</td>
     </tr>
     <tr>
-      <td>{% include device.html name="Apple Watch Ultra" display="Ultra" %}</td>
+      <td>{% include device.html name="apple-watch-ultra" display="Ultra" %}</td>
       <td rowspan="3">2022</td>
       <td rowspan="3">9</td>
     </tr>
     <tr>
-      <td>{% include device.html name="Apple Watch Series 8" display="Series 8" %}</td>
+      <td>{% include device.html name="apple-watch-series-8" display="Series 8" %}</td>
     </tr>
     <tr>
-      <td>{% include device.html name="Apple Watch SE (gen 2)" display="SE (gen 2)" %}</td>
+      <td>{% include device.html name="apple-watch-se-gen-2" display="SE (gen 2)" %}</td>
     </tr>
     <tr>
-      <td>{% include device.html name="Apple Watch Series 7" display="Series 7" %}</td>
+      <td>{% include device.html name="apple-watch-series-7" display="Series 7" %}</td>
       <td>2021</td>
       <td>8</td>
     </tr>
     <tr>
-      <td>{% include device.html name="Apple Watch Series 6" display="Series 6" %}</td>
+      <td>{% include device.html name="apple-watch-series-6" display="Series 6" %}</td>
       <td rowspan="2">2020</td>
       <td rowspan="2">7</td>
     </tr>
     <tr>
-      <td>{% include device.html name="Apple Watch SE (gen 1)" display="SE (gen 1)" %}</td>
+      <td>{% include device.html name="apple-watch-se-gen-1" display="SE (gen 1)" %}</td>
       <td rowspan="3" class="previous">10</td>
     </tr>
     <tr>
