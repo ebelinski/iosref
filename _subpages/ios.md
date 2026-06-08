@@ -32,7 +32,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
       <td>{% include device.html name="iPhone 17e" %}</td>
       <td>2026</td>
       <td rowspan="4">{% include ios-version.html version="26" %}</td>
-      <td class="current" rowspan="19">{% include ios-version.html version="26" %}</td>
+      <td class="current" rowspan="19">{% include ios-version.html version="27" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="iPhone Air" %}</td>
@@ -105,7 +105,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
       <td>iPhone XS {% include badge-vintage.html %} / XS Max {% include badge-vintage.html %}</td>
       <td rowspan="2">2018</td>
       <td rowspan="2">{% include ios-version.html version="12" %}</td>
-      <td class="previous" rowspan="2">{% include ios-version.html version="18" %}</td>
+      <td rowspan="2">{% include ios-version.html version="18" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name="iPhone XR" %}</td>

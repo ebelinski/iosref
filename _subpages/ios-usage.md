@@ -23,6 +23,12 @@ The following table displays the cumulative usage of each major version of iOS. 
   </thead>
   <tbody>
     <tr>
+      <td>{% include ios-version.html version="27" display="iOS 27" %}</td>
+      <td>2026</td>
+      <td><i>No data</i></td>
+      <td>—</td>
+    </tr>
+    <tr>
       <td>{% include ios-version.html version="26" display="iOS 26" %}</td>
       <td>2025</td>
       {% include progress-cell.html rowspan=1 percentage=67.8 %}
