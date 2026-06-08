@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
       let line = lines[i].trim();
       if (!line) continue;
 
-      if (line.startsWith('•')) {
+      if (line.startsWith('*')) {
         if (!inList) {
           html += '<ul>';
           inList = true;
