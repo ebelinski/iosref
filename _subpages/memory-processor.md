@@ -27,7 +27,7 @@ redirect_from:
         <th>Released</th>
         <th>Unified memory</th>
         <th>Processor</th>
-        <th><span class="tooltip" data-tooltip="Supported on devices with 8 GB memory or more">Apple Intelligence</span></th>
+        <th><span class="tooltip" data-tooltip="Supported on devices with 8 GB memory or more. Most powerful on-device model supported with 12 GB memory or more.">Apple Intelligence</span></th>
       </tr>
     </thead>
     <tbody>
@@ -36,13 +36,14 @@ redirect_from:
         <td>2026</td>
         <td>8 GB</td>
         <td>A19</td>
-        <td rowspan="8" class="current">Yes</td>
+        <td class="previous">Yes</td>
       </tr>
       <tr>
         <td>{% include device.html name="iPhone Air" %}</td>
         <td rowspan="4">2025</td>
         <td rowspan="2">12 GB</td>
         <td rowspan="2">A19 Pro</td>
+        <td rowspan="2" class="current">Yes<br>(most powerful model)</td>
       </tr>
       <tr>
         <td>{% include device.html name="iPhone 17 Pro" %} / {% include device.html name="iPhone 17 Pro Max" display="17 Pro Max" %}</td>
@@ -51,6 +52,7 @@ redirect_from:
         <td>{% include device.html name="iPhone 17" %}</td>
         <td rowspan="5">8 GB</td>
         <td>A19</td>
+        <td rowspan="5" class="previous">Yes</td>
       </tr>
       <tr>
         <td>{% include device.html name="iPhone 16e" %}</td>
@@ -220,7 +222,7 @@ redirect_from:
         <th>Released</th>
         <th>Unified memory</th>
         <th>Processor</th>
-        <th><span class="tooltip" data-tooltip="Supported on devices with 8 GB memory or more">Apple Intelligence</span></th>
+        <th><span class="tooltip" data-tooltip="Supported on devices with 8 GB memory or more. Most powerful on-device model supported with 12 GB memory or more.">Apple Intelligence</span></th>
       </tr>
     </thead>
     <tbody>
@@ -229,18 +231,19 @@ redirect_from:
         <td>2026</td>
         <td>12 GB</td>
         <td>M4</td>
-        <td rowspan="3" class="current">Yes</td>
+        <td rowspan="2" class="current">Yes<br>(most powerful model)</td>
       </tr>
       <tr>
         <td>{% include device.html name='iPad Pro 11" (M5)' display='iPad Pro 11"' %} / {% include device.html name='iPad Pro 13" (M5)' display='13" (M5)' %}</td>
         <td rowspan="3">2025</td>
-        <td>8 GB<br>16 GB (1-2 TB models)</td>
+        <td>12 GB<br>16 GB (1-2 TB devices)</td>
         <td>M5</td>
       </tr>
       <tr>
         <td>{% include device.html name='iPad Air 11" (M3)' display='iPad Air 11"' %} / {% include device.html name='iPad Air 13" (M3)' display='13" (M3)' %}</td>
         <td>8 GB</td>
         <td>M3</td>
+        <td class="previous">Yes</td>
       </tr>
       <tr>
         <td>{% include device.html name="iPad (A16)" %}</td>
@@ -253,25 +256,24 @@ redirect_from:
         <td rowspan="3">2024</td>
         <td>8 GB</td>
         <td>A17 Pro</td>
-        <td rowspan="5" class="current">Yes</td>
+        <td class="previous">Yes</td>
       </tr>
       <tr>
         <td>{% include device.html name='iPad Pro 11" (M4)' display='iPad Pro 11"' %} / {% include device.html name='iPad Pro 13" (M4)' display='13" (M4)' %}</td>
-        <td>8 GB<br>16 GB (1-2 TB models)</td>
+        <td>8 GB<br>16 GB (1-2 TB devices)</td>
         <td>M4</td>
+        <td class="current">Yes<br>(most powerful model<span class="tooltip" data-tooltip="Only devices with 16 GB of memory support the most powerful on-device model.">*</span>)</td>
       </tr>
       <tr>
         <td>{% include device.html name='iPad Air 11" (M2)' display='iPad Air 11"' %} / {% include device.html name='iPad Air 13" (M2)' display='13" (M2)' %}</td>
         <td>8 GB</td>
-        <td rowspan="3">M2</td>
+        <td rowspan="2">M2</td>
+        <td rowspan="2" class="previous">Yes</td>
       </tr>
       <tr>
-        <td>{% include device.html name='iPad Pro 12.9" (gen 6)' %}</td>
-        <td rowspan="4">2022</td>
-        <td rowspan="2">8 GB<br>16 GB (1-2 TB models)</td>
-      </tr>
-      <tr>
-        <td>{% include device.html name='iPad Pro 11" (gen 4)' %}</td>
+        <td>{% include device.html name='iPad Pro 12.9" (gen 6) / 11" (gen 4)' %}</td>
+        <td rowspan="3">2022</td>
+        <td>8 GB<br>16 GB (1-2 TB devices)</td>
       </tr>
       <tr>
         <td>{% include device.html name="iPad (gen 10)" %}</td>
@@ -283,11 +285,11 @@ redirect_from:
         <td>{% include device.html name="iPad Air (gen 5)" %}</td>
         <td>8 GB</td>
         <td>M1</td>
-        <td class="current">Yes</td>
+        <td class="previous">Yes</td>
       </tr>
       <tr>
         <td>{% include device.html name="iPad (gen 9)" %}</td>
-        <td rowspan="4">2021</td>
+        <td rowspan="3">2021</td>
         <td>3 GB</td>
         <td>A13 Bionic</td>
         <td rowspan="2">No</td>
@@ -298,13 +300,10 @@ redirect_from:
         <td>A15 Bionic</td>
       </tr>
       <tr>
-        <td>{% include device.html name='iPad Pro 12.9" (gen 5)' %}</td>
-        <td rowspan="2">8 GB<br>16 GB (1-2 TB models)</td>
-        <td rowspan="2">M1</td>
-        <td rowspan="2" class="current">Yes</td>
-      </tr>
-      <tr>
-        <td>{% include device.html name='iPad Pro 11" (gen 3)' %}</td>
+        <td>{% include device.html name='iPad Pro 12.9" (gen 5) / 11" (gen 3)' %}</td>
+        <td>8 GB<br>16 GB (1-2 TB devices)</td>
+        <td>M1</td>
+        <td class="previous">Yes</td>
       </tr>
       <tr>
         <td>{% include device.html name="iPad Air (gen 4)" %}</td>
@@ -342,7 +341,7 @@ redirect_from:
       <tr>
         <td>{% include device.html name='iPad Pro 12.9" (gen 3)' %}</td>
         <td rowspan="3">2018</td>
-        <td rowspan="2">4 GB<br>6 GB (1 TB models)</td>
+        <td rowspan="2">4 GB<br>6 GB (1 TB devices)</td>
         <td rowspan="2">A12X Bionic</td>
       </tr>
       <tr>
