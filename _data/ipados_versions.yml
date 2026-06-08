@@ -1,51 +1,93 @@
 "3":
-  changes: ""
+  changes: |-
+    Official name: iPhone OS 3.2
+    * First version of iPhone OS for iPad
+    * UISplitViewController
+    * UIPopoverController
 "4":
-  changes: ""
+  changes: |-
+    Operating system renamed from iPhone OS to iOS
+    * Universal `.ipa` binaries for iPhone and iPad
+    * Background tasks API
 "5":
-  changes: ""
+  changes: |-
+    * Siri
+    * iCloud
+    * iMessage
+    * ARC
+    * UIKit storyboards
 "6":
-  changes: ""
+  changes: |-
+    * Auto Layout
+    * Apple Maps & Wallet
+    * Do Not Disturb
 "7":
-  changes: ""
+  changes: |-
+    * Major redesign away from skeumorphics
+    * 64-bit architecture support
 "8":
-  changes: ""
+  changes: |-
+    * Swift support
+    * Continuity & Family Sharing
+    * Metal API
+    * HomeKit
+    * Size classes
+    * WKWebView
 "9":
-  changes: ""
+  changes: |-
+    * Split View & Slide Over
+    * Bitcode & app thinning
+    * Picture-in-Picture (PiP)
 "10":
-  changes: ""
+  changes: |-
+    * SiriKit
+    * Rich notifications
 "11":
-  changes: ""
+  changes: |-
+    * ARKit
+    * Drag & Drop
+    * Core ML & Vision
+    * Files app & FileProvider framework
 "12":
-  changes: ""
+  changes: |-
+    * Safe area layout guide
+    * Siri Shortcuts
+    * Create ML
 "13":
-  changes: ""
+  changes: |-
+    First version to be called iPadOS
+    * SwiftUI
+    * Dark Mode
+    * Multi-window API with UIScene
 "14":
-  changes: ""
+  changes: |-
+    * WidgetKit
+    * App Tracking Transparency
+    * App Clips
+    * Scribble API
 "15":
-  changes: ""
+  changes: |-
+    * Modern Swift concurrency
+    * SharePlay
 "16":
-  changes: ""
+  changes: |-
+    * Live Activites & ActivityKit
+    * Stage Manager
+    * Virtual memory swap
+    * NavigationStack
 "17":
-  changes: ""
+  changes: |-
+    * SwiftData
+    * Interactive Widgets
 "18":
-  changes: ""
-"19":
-  changes: ""
-"20":
-  changes: ""
-"21":
-  changes: ""
-"22":
-  changes: ""
-"23":
-  changes: ""
-"24":
-  changes: ""
-"25":
-  changes: ""
+  changes: |-
+    * Apple Intelligence
+    * Game Mode
 "26":
-  changes: ""
+  changes: |-
+    * Liquid Glass
+    * Apple Intelligence APIs
 "27":
-  changes: ""
+  changes: |-
+    * Siri AI
   beta: true

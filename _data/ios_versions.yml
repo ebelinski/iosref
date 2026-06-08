@@ -2,41 +2,102 @@
 "1":
   changes: "Official name: iPhone OS"
 "2":
-  changes: "Official name: iPhone OS 2.0\n* First public SDK\n* Launch of App Store"
+  changes: |-
+    Official name: iPhone OS 2.0
+    * First public SDK
+    * Launch of App Store
 "3":
-  changes: "Official name: iPhone OS 3.0\n* Cut, copy and paste\n* VoiceOver\n* Spotlight\n* APNs\n* In-App Purchases"
+  changes: |-
+    Official name: iPhone OS 3.0
+    * Cut, copy and paste
+    * VoiceOver
+    * Spotlight
+    * APNs
+    * In-App Purchases
 "4":
-  changes: "Operating system renamed from iPhone OS to iOS\n* iPad support\n* Multitasking\n* FaceTime\n* Retina support"
+  changes: |-
+    Operating system renamed from iPhone OS to iOS
+    * iPad support
+    * Background tasks API
+    * FaceTime
+    * Retina support
 "5":
-  changes: "* Siri\n* iCloud\n* iMessage\n* ARC\n* UIKit storyboards"
+  changes: |-
+    * Siri
+    * iCloud
+    * iMessage
+    * ARC
+    * UIKit storyboards
 "6":
-  changes: "* Auto Layout\n* Apple Maps & Wallet\n* Do Not Disturb\n* LTE support"
+  changes: |-
+    * Auto Layout
+    * Apple Maps & Wallet
+    * Do Not Disturb
+    * LTE support
 "7":
-  changes: "* Major redesign away from skeumorphics\n* 64-bit architecture support\n"
+  changes: |-
+    * Major redesign away from skeumorphics
+    * 64-bit architecture support
 "8":
-  changes: "* Swift support\n* Continuity & Family Sharing\n* Metal API\n* HealtKit\n* HomeKit"
+  changes: |-
+    * Swift support
+    * Continuity & Family Sharing
+    * Metal API
+    * HealtKit
+    * HomeKit
+    * WKWebView
 "9":
-  changes: "* Bitcode & app thinning"
+  changes: |-
+    * Bitcode & app thinning
 "10":
-  changes: "* SiriKit\n* Rich notifications"
+  changes: |-
+    * SiriKit
+    * Rich notifications
 "11":
-  changes: "* ARKit\n* Drag & Drop\n* Core ML & Vision"
+  changes: |-
+    * ARKit
+    * Drag & Drop
+    * Core ML & Vision
+    * Files app & FileProvider framework
+    * Swipe gestures & safe area layout guide
 "12":
-  changes: "* Siri Shortcuts\n* Create ML"
+  changes: |-
+    * Siri Shortcuts
+    * Create ML
 "13":
-  changes: "* SwiftUI\n* Dark Mode\n* iOS for iPad renamed to iPadOS\n* Sign in with Apple"
+  changes: |-
+    * SwiftUI
+    * Dark Mode
+    * iOS for iPad renamed to iPadOS
+    * Sign in with Apple
 "14":
-  changes: "* WidgetKit\n* App Tracking Transparency\n* Picture-in-Picture\n* App Clips"
+  changes: |-
+    * WidgetKit
+    * App Tracking Transparency
+    * Picture-in-Picture
+    * App Clips
 "15":
-  changes: "* Modern Swift concurrency\n* SharePlay"
+  changes: |-
+    * Modern Swift concurrency
+    * SharePlay
 "16":
-  changes: "* Live Activities & ActivityKit\n* NavigationStack"
+  changes: |-
+    * Live Activities & ActivityKit
+    * NavigationStack
 "17":
-  changes: "* SwiftData\n* Interactive Widgets\n* TipKit"
+  changes: |-
+    * SwiftData
+    * Interactive Widgets
+    * TipKit
 "18":
-  changes: "* Apple Intelligence\n* Game Mode"
+  changes: |-
+    * Apple Intelligence
+    * Game Mode
 "26":
-  changes: "* Liquid Glass\n* Apple Intelligence APIs"
+  changes: |-
+    * Liquid Glass
+    * Apple Intelligence APIs
 "27":
-  changes: "* Siri AI"
+  changes: |-
+    * Siri AI
   beta: true
