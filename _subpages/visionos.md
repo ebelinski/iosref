@@ -9,7 +9,6 @@ redirect_from:
 
 This table shows the first and maximum version of visionOS for each Apple Vision device.
 
-
 <div class="table-responsive">
 <table class="table table-bordered">
   <thead>
