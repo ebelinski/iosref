@@ -113,3 +113,4 @@ Information about vintage ({% include badge-vintage.html %}) and obsolete ({% in
 * [iOS version by device](/ios)
 * [iPadOS version by device](/ipados)
 * [tvOS version by device](/tvos)
+* [visionOS version by device](/visionos)

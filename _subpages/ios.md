@@ -250,3 +250,4 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
 * [iPadOS version by device](/ipados)
 * [watchOS version by device](/watchos)
 * [tvOS version by device](/tvos)
+* [visionOS version by device](/visionos)

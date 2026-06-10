@@ -179,3 +179,4 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
 * [iOS version by device](/ios)
 * [watchOS version by device](/watchos)
 * [tvOS version by device](/tvos)
+* [visionOS version by device](/visionos)

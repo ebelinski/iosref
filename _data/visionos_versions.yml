@@ -1,0 +1,20 @@
+"1":
+  changes: |-
+    * First release of visionOS for Apple Vision Pro
+    * Spatial user interface with eye and hand tracking
+    * Optic ID
+    * Mac Virtual Display
+"2":
+  changes: |-
+    * Spatial Photos
+    * New hand gestures
+    * Mac Virtual Display ultra-wide support
+    * Travel Mode for trains
+"26":
+  changes: |-
+    * Liquid Glass
+    * Apple Intelligence APIs
+"27":
+  changes: |-
+    * Siri AI
+  beta: true
