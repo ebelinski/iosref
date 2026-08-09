@@ -23,7 +23,7 @@
     * Do Not Disturb
 "7":
   changes: |-
-    * Major redesign away from skeumorphics
+    * Major redesign away from skeuomorphism
     * 64-bit architecture support
 "8":
   changes: |-
@@ -71,7 +71,7 @@
     * SharePlay
 "16":
   changes: |-
-    * Live Activites & ActivityKit
+    * Live Activities & ActivityKit
     * Stage Manager
     * Virtual memory swap
     * NavigationStack

@@ -36,14 +36,14 @@
     * LTE support
 "7":
   changes: |-
-    * Major redesign away from skeumorphics
+    * Major redesign away from skeuomorphism
     * 64-bit architecture support
 "8":
   changes: |-
     * Swift support
     * Continuity & Family Sharing
     * Metal API
-    * HealtKit
+    * HealthKit
     * HomeKit
     * WKWebView
 "9":
