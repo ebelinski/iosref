@@ -93,7 +93,7 @@ ipad-pro-10point5:
   status: vintage
 ipad-pro-12point9-gen-1:
   name: 'iPad Pro 12.9" (gen 1)'
-  status: vintage
+  status: obsolete
 ipad-pro-12point9-gen-2:
   name: 'iPad Pro 12.9" (gen 2)'
   status: obsolete

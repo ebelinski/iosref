@@ -130,7 +130,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
       <td rowspan="2">{% include ios-version.html version="9" %}</td>
     </tr>
     <tr>
-      <td>iPhone 6s {% include badge-obsolete.html %} / 6s Plus {% include badge-obsolete.html %}</td>
+      <td>iPhone 6s {% include badge-vintage.html %} / 6s Plus {% include badge-vintage.html %}</td>
       <td>2015</td>
     </tr>
     <tr>

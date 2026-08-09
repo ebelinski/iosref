@@ -158,7 +158,7 @@ redirect_from:
         <td rowspan="2">A9</td>
       </tr>
       <tr>
-        <td>iPhone 6s {% include badge-obsolete.html %} / 6s Plus {% include badge-obsolete.html %}</td>
+        <td>iPhone 6s {% include badge-vintage.html %} / 6s Plus {% include badge-vintage.html %}</td>
         <td>2015</td>
       </tr>
       <tr>
