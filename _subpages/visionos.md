@@ -22,7 +22,7 @@ This table shows the first and maximum version of visionOS for each Apple Vision
   <tbody>
     <tr>
       <td>{% include device.html name="vision-pro-m5" %}</td>
-      <td>2026</td>
+      <td>2025</td>
       <td>{% include visionos-version.html version="26" %}</td>
       <td class="current" rowspan="2">{% include visionos-version.html version="27" %}</td>
     </tr>

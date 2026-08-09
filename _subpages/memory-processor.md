@@ -611,12 +611,13 @@ redirect_from:
       <tr>
         <td>{% include device.html name="apple-tv-4k-gen-2" %}</td>
         <td>2021</td>
-        <td rowspan="2">3 GB</td>
+        <td>4 GB</td>
         <td>A12 Bionic</td>
       </tr>
       <tr>
         <td>{% include device.html name="apple-tv-4k-gen-1" %}</td>
         <td>2017</td>
+        <td>3 GB</td>
         <td>A10X Fusion</td>
       </tr>
       <tr>

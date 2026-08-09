@@ -267,7 +267,7 @@ redirect_from:
           <span class="strong">{% include device.html name="ipad-gen-11" %} / {% include device.html name="ipad-gen-10" display="10" %}</span>
         </td>
         <td rowspan="2">10.9"</td>
-        <td>810 × 1080</td>
+        <td>820 × 1180</td>
         <td>1640 × 2360</td>
         <td rowspan="2">16 : 23</td>
       </tr>

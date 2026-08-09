@@ -76,40 +76,40 @@ redirect_from:
       <tr>
         <td>iPhone 15 Pro Max</td>
         <td rowspan="4">2023</td>
-        <td>iPhone 16,2</td>
+        <td>iPhone16,2</td>
       </tr>
       <tr>
         <td>iPhone 15 Pro</td>
-        <td>iPhone 16,1</td>
+        <td>iPhone16,1</td>
       </tr>
       <tr>
         <td>iPhone 15 Plus</td>
-        <td>iPhone 15,5</td>
+        <td>iPhone15,5</td>
       </tr>
       <tr>
         <td>iPhone 15</td>
-        <td>iPhone 15,4</td>
+        <td>iPhone15,4</td>
       </tr>
       <tr>
         <td>iPhone 14 Pro Max</td>
         <td rowspan="5">2022</td>
-        <td>iPhone 15,3</td>
+        <td>iPhone15,3</td>
       </tr>
       <tr>
         <td>iPhone 14 Pro</td>
-        <td>iPhone 15,2</td>
+        <td>iPhone15,2</td>
       </tr>
       <tr>
         <td>iPhone 14 Plus</td>
-        <td>iPhone 14,8</td>
+        <td>iPhone14,8</td>
       </tr>
       <tr>
         <td>iPhone 14</td>
-        <td>iPhone 14,7</td>
+        <td>iPhone14,7</td>
       </tr>
       <tr>
         <td>iPhone SE (gen 3)</td>
-        <td>iPhone 14,6</td>
+        <td>iPhone14,6</td>
       </tr>
       <tr>
         <td>iPhone 13</td>
@@ -117,7 +117,7 @@ redirect_from:
         <td>iPhone14,5</td>
       </tr>
       <tr>
-        <td>iPhone 13 Mini</td>
+        <td>iPhone 13 mini</td>
         <td>iPhone14,4</td>
       </tr>
       <tr>
@@ -430,7 +430,7 @@ redirect_from:
         <td>?</td>
       </tr>
       <tr>
-        <td>Series 7</td>
+        <td>Series 8</td>
         <td>?</td>
       </tr>
       <tr>
@@ -599,7 +599,7 @@ redirect_from:
     <tbody>
       <tr>
         <td>HomePod mini</td>
-        <td>2018</td>
+        <td>2020</td>
         <td>AudioAccessory5,1</td>
       </tr>
       <tr>

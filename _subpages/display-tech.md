@@ -254,10 +254,10 @@ redirect_from:
     </tr>
     <tr>
       <td>iPad (gen 10)</td>
-      <td>Retina</td>
+      <td>Liquid Retina</td>
       <td rowspan="4">No</td>
       <td>sRGB color</td>
-      <td>Pencil 1</td>
+      <td>Pencil (USB-C)<br>Pencil 1</td>
     </tr>
     <tr>
       <td>iPad Air (gen 5)</td>
