@@ -32,14 +32,62 @@ redirect_from:
   </thead>
   <tbody>
     <tr>
+      <td>{% include device.html name="iphone-17e" %}</td>
+      <td>2026</td>
+      <td class="current">12 MP</td>
+      <td rowspan="2" class="current">48 MP<br>26 mm<br>OIS</td>
+      <td rowspan="2">None</td>
+      <td rowspan="2">None</td>
+      <td rowspan="39" class="current">Retina Flash</td>
+      <td rowspan="42" class="current">True Tone</td>
+      <td rowspan="2">No</td>
+    </tr>
+    <tr>
+      <td>{% include device.html name="iphone-air" %}</td>
+      <td rowspan="4">2025</td>
+      <td rowspan="3" class="current">18 MP<br>Center Stage</td>
+    </tr>
+    <tr>
+      <td>{% include device.html name="iphone-17-pro" %} / {% include device.html name="iphone-17-pro-max" display="17 Pro Max" %}</td>
+      <td class="current">48 MP<br>24 mm<br>OIS</td>
+      <td rowspan="2" class="current">48 MP<br>13 mm</td>
+      <td class="current">48 MP<br>100 mm<br>OIS</td>
+      <td class="current">Yes</td>
+    </tr>
+    <tr>
+      <td>{% include device.html name="iphone-17" %}</td>
+      <td rowspan="2" class="current">48 MP<br>26 mm<br>OIS</td>
+      <td rowspan="2">None</td>
+      <td rowspan="2">No</td>
+    </tr>
+    <tr>
+      <td>{% include device.html name="iphone-16e" %}</td>
+      <td class="current">12 MP</td>
+      <td>None</td>
+    </tr>
+    <tr>
+      <td>{% include device.html name="iphone-16-pro" %} / {% include device.html name="iphone-16-pro-max" display="16 Pro Max" %}</td>
+      <td rowspan="2">2024</td>
+      <td rowspan="2" class="current">12 MP<br>23 mm</td>
+      <td class="current">48 MP<br>24 mm<br>OIS</td>
+      <td class="current">48 MP<br>13 mm</td>
+      <td class="current">12 MP<br>120 mm<br>OIS</td>
+      <td class="current">Yes</td>
+    </tr>
+    <tr>
+      <td>{% include device.html name="iphone-16" %} / {% include device.html name="iphone-16-plus" display="16 Plus" %}</td>
+      <td class="current">48 MP<br>26 mm<br>OIS</td>
+      <td class="current">12 MP<br>13 mm</td>
+      <td>None</td>
+      <td>No</td>
+    </tr>
+    <tr>
       <td>{% include device.html name="iphone-15-pro-max" %}</td>
       <td rowspan="4">2023</td>
       <td rowspan="8" class="current">12 MP<br>23 mm</td>
       <td rowspan="2" class="current">48 MP<br>24 mm<br>OIS</td>
       <td rowspan="8" class="current">12 MP<br>13 mm</td>
       <td class="current">12 MP<br>120 mm<br>OIS</td>
-      <td rowspan="32" class="current">Retina Flash</td>
-      <td rowspan="35" class="current">True Tone</td>
       <td rowspan="2" class="current">Yes</td>
     </tr>
     <tr>
@@ -261,6 +309,32 @@ redirect_from:
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>{% include device.html name='ipad-air-11-m4' display='iPad Air 11"' %} / {% include device.html name='ipad-air-13-m4' display='13" (M4)' %}</td>
+      <td>2026</td>
+      <td rowspan="7" class="current">12 MP</td>
+      <td rowspan="7" class="current">12 MP</td>
+    </tr>
+    <tr>
+      <td>{% include device.html name='ipad-pro-11-m5' display='iPad Pro 11"' %} / {% include device.html name='ipad-pro-13-m5' display='13" (M5)' %}</td>
+      <td rowspan="3">2025</td>
+    </tr>
+    <tr>
+      <td>{% include device.html name='ipad-air-11-m3' display='iPad Air 11"' %} / {% include device.html name='ipad-air-13-m3' display='13" (M3)' %}</td>
+    </tr>
+    <tr>
+      <td>{% include device.html name="ipad-a16" %}</td>
+    </tr>
+    <tr>
+      <td>{% include device.html name="ipad-mini-a17-pro" %}</td>
+      <td rowspan="3">2024</td>
+    </tr>
+    <tr>
+      <td>{% include device.html name='ipad-pro-11-m4' display='iPad Pro 11"' %} / {% include device.html name='ipad-pro-13-m4' display='13" (M4)' %}</td>
+    </tr>
+    <tr>
+      <td>{% include device.html name='ipad-air-11-m2' display='iPad Air 11"' %} / {% include device.html name='ipad-air-13-m2' display='13" (M2)' %}</td>
+    </tr>
     <tr>
       <td>{% include device.html name='ipad-pro-12point9-gen-6' %}</td>
       <td rowspan="4">2022</td>
