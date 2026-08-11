@@ -12,7 +12,7 @@ author: Eugene Belinski
 keywords: iOS,reference,ref,watchOS,Xcode,tool,hex,uicolor,swift,cheatsheet
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://iosref.com" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown

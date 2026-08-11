@@ -26,7 +26,7 @@
   <meta name="twitter:site" content="@EugeneBelinski" />
   <meta name="twitter:creator" content="@EugeneBelinski" />
   <meta property="og:type" content="website" />
-  <meta property="og:url" content="https://iosref.com/" />
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
   <meta property="og:title" content="{% if page.title %}{{ page.title }} — {% endif %}{{ site.title }}" />
   <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
   <meta property="og:image" content="https://iosref.com/logo.png" />
