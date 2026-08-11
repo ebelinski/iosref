@@ -41,7 +41,7 @@ layout: default
 
 * [Closures](https://swiftly.dev/closures) ([mini](https://swiftly.dev/closures-mini/))<sup class="ext">Ext</sup>
 * [Functions](https://swiftly.dev/functions)<sup class="ext">Ext</sup>
-* [Control flow](/swift-control-flow)<sup class="ext">Ext</sup>
+* [Control flow](https://swiftly.dev/if)<sup class="ext">Ext</sup>
 * [Dispatch](https://swiftly.dev/dispatch)<sup class="ext">Ext</sup>
 
 ### Guides

@@ -7,7 +7,7 @@ redirect_from:
   - /ipados-versions/
 ---
 
-Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include badge-vintage.html %}) and obsolete ({% include badge-obsolete.html %}) device status comes from <a href="https://support.apple.com/en-us/HT201624">this page</a>.
+Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include badge-vintage.html %}) and obsolete ({% include badge-obsolete.html %}) device status comes from <a href="https://support.apple.com/en-us/102772">this page</a>.
 
 <table class="table table-bordered">
   <thead>

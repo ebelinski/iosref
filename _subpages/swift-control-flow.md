@@ -19,6 +19,9 @@ redirect_from:
 ---
 {::options parse_block_html="true" /}
 
+{:.alert.alert-warning}
+This page has moved to [swiftly.dev](https://swiftly.dev/), where control flow is covered by the individual `if`, `guard`, `for-in`, `while`, and `switch` guides! The archive below will not be updated.
+
 <div id="compact-toc">
 * TOC
 {:toc}

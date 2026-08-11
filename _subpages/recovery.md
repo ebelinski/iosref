@@ -30,26 +30,15 @@ redirect_from:
     <tbody>
       <tr>
         <td>
-          iPhone 12 Pro<br>
-          iPhone 12 Pro Max<br>
-          iPhone 12<br>
-          iPhone 12 mini<br>
-          iPhone SE (gen 2)<br>
-          iPhone 11 Pro<br>
-          iPhone 11 Pro Max<br>
-          iPhone 11<br>
-          iPhone XS<br>
-          iPhone XS Max<br>
-          iPhone XR<br>
-          iPhone X<br>
-          iPhone 8<br>
-          iPhone 8 Plus
+          iPhone 8 and later<br>
+          (including all iPhone X–17 models,<br>
+          iPhone Air, and iPhone SE gen 2 &amp; 3)
         </td>
         <td>
           <ol class="mb-0">
             <li>Press and quickly release the <strong>Volume Up</strong> button.</li>
             <li>Press and quickly release the <strong>Volume Down</strong> button.</li>
-            <li>Press and hold the <strong>Side</strong> button until you see the iTunes logo.</li>
+            <li>Press and hold the <strong>Side</strong> button until you see the recovery mode screen (a computer and cable icon).</li>
           </ol>
         </td>
       </tr>
@@ -61,7 +50,7 @@ redirect_from:
         <td>
           <ol class="mb-0">
             <li>Press and hold the <strong>Side</strong> and <strong>Volume Down</strong> buttons.</li>
-            <li>Keep holding them until you see the iTunes logo.</li>
+            <li>Keep holding them until you see the recovery mode screen.</li>
           </ol>
         </td>
       </tr>
@@ -84,7 +73,7 @@ redirect_from:
         <td>
           <ol class="mb-0">
             <li>Press and hold the <strong>Home</strong> and the <strong>Top/Side</strong> buttons.</li>
-            <li>Keep holding them until you see the iTunes logo.</li>
+            <li>Keep holding them until you see the recovery mode screen.</li>
           </ol>
         </td>
       </tr>
@@ -111,7 +100,7 @@ redirect_from:
         <ol class="mb-0">
           <li>Press and quickly release the <strong>Volume Up</strong> button.</li>
           <li>Press and quickly release the <strong>Volume Down</strong> button.</li>
-          <li>Press and hold the <strong>Top</strong> button until you see the iTunes logo.</li>
+          <li>Press and hold the <strong>Top</strong> button until you see the recovery mode screen (a computer and cable icon).</li>
         </ol>
       </td>
     </tr>
@@ -122,7 +111,7 @@ redirect_from:
       <td>
         <ol class="mb-0">
           <li>Press and hold the <strong>Home</strong> and the <strong>Top</strong> buttons.</li>
-          <li>Keep holding them until you see the iTunes logo.</li>
+          <li>Keep holding them until you see the recovery mode screen.</li>
         </ol>
       </td>
     </tr>
@@ -148,7 +137,7 @@ redirect_from:
       <td>
         <ol class="mb-0">
           <li>Press and hold the <strong>Home</strong> and the <strong>Top</strong> buttons.</li>
-          <li>Keep holding them until you see the iTunes logo.</li>
+          <li>Keep holding them until you see the recovery mode screen.</li>
         </ol>
       </td>
     </tr>
