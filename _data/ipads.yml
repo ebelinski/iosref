@@ -133,18 +133,3 @@ ipad-pro-11-m5:
 ipad-pro-13-m5:
   name: 'iPad Pro 13" (M5)'
   status: normal
-ipad-pro-13:
-  name: 'iPad Pro 13"'
-  status: normal
-ipad-air-13-gen-6:
-  name: 'iPad Air 13" (gen 6)'
-  status: normal
-ipad-gen-11:
-  name: "iPad (gen 11)"
-  status: normal
-ipad-air-11-gen-6:
-  name: 'iPad Air 11" (gen 6)'
-  status: normal
-ipad-mini-gen-7:
-  name: "iPad mini (gen 7)"
-  status: normal
