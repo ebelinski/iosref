@@ -3,3 +3,4 @@ _site
 .jekyll-metadata
 .DS_Store
 .jekyll-cache
+.claude/settings.local.json
