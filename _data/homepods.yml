@@ -1,9 +1,9 @@
 homepod-gen-1:
   name: "HomePod (gen 1)"
   status: normal
+homepod-gen-2:
+  name: "HomePod (gen 2)"
+  status: normal
 homepod-mini:
   name: "HomePod mini"
-  status: normal
-homepod:
-  name: "HomePod"
   status: normal

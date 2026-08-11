@@ -609,9 +609,14 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>{% include device.html name="apple-tv-4k-gen-3" %}</td>
+        <td>2022</td>
+        <td rowspan="2">4 GB</td>
+        <td>A15 Bionic</td>
+      </tr>
+      <tr>
         <td>{% include device.html name="apple-tv-4k-gen-2" %}</td>
         <td>2021</td>
-        <td>4 GB</td>
         <td>A12 Bionic</td>
       </tr>
       <tr>
@@ -663,13 +668,18 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>{% include device.html name="homepod-gen-2" %}</td>
+        <td>2023</td>
+        <td rowspan="3">1 GB</td>
+        <td>S7</td>
+      </tr>
+      <tr>
         <td>{% include device.html name="homepod-mini" %}</td>
         <td>2020</td>
-        <td rowspan="2">1 GB</td>
         <td>S5</td>
       </tr>
       <tr>
-        <td>{% include device.html name="homepod" %}</td>
+        <td>{% include device.html name="homepod-gen-1" %}</td>
         <td>2018</td>
         <td>A8</td>
       </tr>
