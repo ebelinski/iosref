@@ -276,18 +276,81 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>iPad Air 11" (M4)</td>
+        <td rowspan="2">2026</td>
+        <td>iPad16,8<br>iPad16,9</td>
+      </tr>
+      <tr>
+        <td>iPad Air 13" (M4)</td>
+        <td>iPad16,10<br>iPad16,11</td>
+      </tr>
+      <tr>
+        <td>iPad Pro 11" (M5)</td>
+        <td rowspan="5">2025</td>
+        <td>iPad17,1<br>iPad17,2</td>
+      </tr>
+      <tr>
+        <td>iPad Pro 13" (M5)</td>
+        <td>iPad17,3<br>iPad17,4</td>
+      </tr>
+      <tr>
+        <td>iPad Air 11" (M3)</td>
+        <td>iPad15,3<br>iPad15,4</td>
+      </tr>
+      <tr>
+        <td>iPad Air 13" (M3)</td>
+        <td>iPad15,5<br>iPad15,6</td>
+      </tr>
+      <tr>
+        <td>iPad (A16)</td>
+        <td>iPad15,7<br>iPad15,8</td>
+      </tr>
+      <tr>
+        <td>iPad mini (A17 Pro)</td>
+        <td rowspan="5">2024</td>
+        <td>iPad16,1<br>iPad16,2</td>
+      </tr>
+      <tr>
+        <td>iPad Pro 11" (M4)</td>
+        <td>iPad16,3<br>iPad16,4</td>
+      </tr>
+      <tr>
+        <td>iPad Pro 13" (M4)</td>
+        <td>iPad16,5<br>iPad16,6</td>
+      </tr>
+      <tr>
+        <td>iPad Air 11" (M2)</td>
+        <td>iPad14,8<br>iPad14,9</td>
+      </tr>
+      <tr>
+        <td>iPad Air 13" (M2)</td>
+        <td>iPad14,10<br>iPad14,11</td>
+      </tr>
+      <tr>
+        <td>iPad Pro 12.9" (gen 6)</td>
+        <td rowspan="4">2022</td>
+        <td>iPad14,5<br>iPad14,6</td>
+      </tr>
+      <tr>
+        <td>iPad Pro 11" (gen 4)</td>
+        <td>iPad14,3<br>iPad14,4</td>
+      </tr>
+      <tr>
+        <td>iPad (gen 10)</td>
+        <td>iPad13,18<br>iPad13,19</td>
+      </tr>
+      <tr>
         <td>iPad Air (gen 5)</td>
-        <td>2022</td>
-        <td>?</td>
+        <td>iPad13,16<br>iPad13,17</td>
       </tr>
       <tr>
         <td>iPad (gen 9)</td>
         <td rowspan="4">2021</td>
-        <td>?</td>
+        <td>iPad12,1<br>iPad12,2</td>
       </tr>
       <tr>
         <td>iPad mini (gen 6)</td>
-        <td>?</td>
+        <td>iPad14,1<br>iPad14,2</td>
       </tr>
       <tr>
         <td>iPad Pro 12.9" (gen 5)</td>
@@ -425,22 +488,49 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>Ultra 3</td>
+        <td rowspan="3">2025</td>
+        <td>Watch7,12</td>
+      </tr>
+      <tr>
+        <td>Series 11</td>
+        <td>Watch7,17<br>Watch7,18<br>Watch7,19<br>Watch7,20</td>
+      </tr>
+      <tr>
+        <td>SE (gen 3)</td>
+        <td>Watch7,13<br>Watch7,14<br>Watch7,15<br>Watch7,16</td>
+      </tr>
+      <tr>
+        <td>Series 10</td>
+        <td>2024</td>
+        <td>Watch7,8<br>Watch7,9<br>Watch7,10<br>Watch7,11</td>
+      </tr>
+      <tr>
+        <td>Ultra 2</td>
+        <td rowspan="2">2023</td>
+        <td>Watch7,5</td>
+      </tr>
+      <tr>
+        <td>Series 9</td>
+        <td>Watch7,1<br>Watch7,2<br>Watch7,3<br>Watch7,4</td>
+      </tr>
+      <tr>
         <td>Ultra</td>
         <td rowspan="3">2022</td>
-        <td>?</td>
+        <td>Watch6,18</td>
       </tr>
       <tr>
         <td>Series 8</td>
-        <td>?</td>
+        <td>Watch6,14<br>Watch6,15<br>Watch6,16<br>Watch6,17</td>
       </tr>
       <tr>
         <td>SE (gen 2)</td>
-        <td>?</td>
+        <td>Watch6,10<br>Watch6,11<br>Watch6,12<br>Watch6,13</td>
       </tr>
       <tr>
         <td>Series 7</td>
         <td>2021</td>
-        <td>?</td>
+        <td>Watch6,6<br>Watch6,7<br>Watch6,8<br>Watch6,9</td>
       </tr>
       <tr>
         <td>Series 6</td>
@@ -550,6 +640,11 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>Apple TV 4K (gen 3)</td>
+        <td>2022</td>
+        <td>AppleTV14,1</td>
+      </tr>
+      <tr>
         <td>Apple TV 4K (gen 2)</td>
         <td>2021</td>
         <td>AppleTV11,1</td>
@@ -598,12 +693,17 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>HomePod (gen 2)</td>
+        <td>2023</td>
+        <td>AudioAccessory6,1</td>
+      </tr>
+      <tr>
         <td>HomePod mini</td>
         <td>2020</td>
         <td>AudioAccessory5,1</td>
       </tr>
       <tr>
-        <td>HomePod</td>
+        <td>HomePod (gen 1)</td>
         <td>2018</td>
         <td>AudioAccessory1,1<br>AudioAccessory1,2</td>
       </tr>
