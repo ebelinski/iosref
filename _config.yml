@@ -20,6 +20,20 @@ permalink: pretty
 
 plugins:
   - jekyll-redirect-from
+  - jekyll-sitemap
+
+# Repository files that are not part of the published site. Setting this
+# replaces Jekyll's default exclude list, so the defaults are repeated here.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - gemfiles
+  - node_modules
+  - vendor
+  - README.md
+  - LICENSE.md
+  - CODE_OF_CONDUCT.md
+  - meta
 
 collections:
   subpages:
@@ -27,6 +41,9 @@ collections:
     permalink: /:name
 
 sass:
+  # Source maps are a development aid; shipping main.css.map to production
+  # costs more bytes than main.css itself.
+  sourcemap: never
   quiet_deps: true
   silence_deprecations:
     - import

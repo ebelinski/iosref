@@ -12,6 +12,9 @@ body {
 }
 
 #site-title {
+  font-size: $site-title-font-size;
+  font-weight: 500;
+  line-height: 1.2;
   text-align: center;
   border-width: 0 0 1px 0;
   border-style: solid;
@@ -41,6 +44,10 @@ table {
     --bs-table-bg: #dddddd;
   }
 
+  td.progress-cell {
+    background: linear-gradient(to right, #aeffb2 var(--fill), white var(--fill));
+  }
+
   td.current {
     background-color: #aeffb2;
     --bs-link-color-rgb: 35, 35, 194;
@@ -56,6 +63,14 @@ table {
 
 .full-width {
   width: 100%;
+}
+
+.align-top {
+  vertical-align: top !important;
+}
+
+.mb-0 {
+  margin-bottom: 0 !important;
 }
 
 .ext {
@@ -137,12 +152,12 @@ ul {
     font-size: 0.7em !important;
   }
 
-  h3,
-  h4 {
+  h2,
+  h3 {
     padding: 0.2em 0;
   }
 
-  h4 {
+  h3 {
     font-weight: normal;
   }
 
@@ -231,6 +246,10 @@ pre {
     th,
     td {
       border: 1px solid #999;
+    }
+
+    td.progress-cell {
+      background: linear-gradient(to right, #006236 var(--fill), rgba(0, 0, 0, 0) var(--fill));
     }
 
     td.current {

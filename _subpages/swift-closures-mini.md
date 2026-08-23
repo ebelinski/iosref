@@ -9,6 +9,8 @@ redirect_from:
   - /blocks-mini/
   - /lambda-mini/
   - /lambdas-mini/
+canonical_url: https://swiftly.dev/closures-mini
+sitemap: false
 ---
 
 {:.alert.alert-warning}
@@ -16,7 +18,7 @@ This page has moved to [swiftly.dev/closures-mini](https://swiftly.dev/closures-
 
 The mini version of the [closures guide]({{ "/swift-closures" | relative_url }}).
 
-### Closure inline
+## Closure inline
 
 ```swift
 let sorted1 = [4, 30, 7].sorted(by: { (x: Int, y: Int) -> Bool in 
@@ -26,7 +28,7 @@ let sorted1 = [4, 30, 7].sorted(by: { (x: Int, y: Int) -> Bool in
 let sorted2 = [4, 30, 7].sorted { $0 < $1 }
 ```
 
-### Closure as a function parameter
+## Closure as a function parameter
 
 ```swift
 func multiply(x: Int, y: Int, completion: @escaping (Int, Error?) -> Void) {

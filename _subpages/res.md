@@ -19,7 +19,7 @@ redirect_from:
 
 <p>All tables are ordered by release date, then logical resolution height, with some exceptions.</p>
 
-### iPhone
+## iPhone
 
 <div class="table-responsive">
   <table class="table table-bordered">
@@ -211,7 +211,7 @@ redirect_from:
 
 <sup>2</sup> iPhone 8 Plus and equivalently sized devices have a native resolution downsampled from 1242 × 2208 to actual pixel dimensions 1080 × 1920. See <a href="https://www.paintcodeapp.com/news/iphone-6-screens-demystified">here</a> for explanation.
 
-### iPad
+## iPad
 
 <div class="table-responsive">
   <table class="table table-bordered">
@@ -340,7 +340,7 @@ redirect_from:
   </table>
 </div>
 
-### Apple Watch
+## Apple Watch
 
 <div class="table-responsive">
   <table class="table table-bordered">
@@ -442,7 +442,7 @@ redirect_from:
   </table>
 </div>
 
-### iPod touch
+## iPod touch
 
 <div class="table-responsive">
   <table class="table table-bordered">
@@ -496,7 +496,7 @@ redirect_from:
   </table>
 </div>
 
-### Further reading
+## Further reading
 
 <ul>
   <li><a href="https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions">"The ultimate guide to iPhone resolutions" by PaintCode</a></li>

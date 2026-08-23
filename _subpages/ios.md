@@ -15,7 +15,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
 {:toc}
 </div>
 
-### iPhone
+## iPhone
 
 <div class="table-responsive">
 <table class="table table-bordered">
@@ -187,7 +187,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
 </table>
 </div>
 
-### iPod touch
+## iPod touch
 
 <table class="table table-bordered">
   <thead>
@@ -244,7 +244,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
   </tbody>
 </table>
 
-### See also
+## See also
 
 * [iOS version usage](/ios-usage)
 * [iPadOS version by device](/ipados)

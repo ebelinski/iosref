@@ -7,31 +7,31 @@ redirect_from:
   - /goshdarnblocksyntax/
 ---
 
-### As a local variable
+## As a local variable
 
 ```
 returnType (^blockName)(parameterTypes) = ^returnType(parameters) {...};
 ```
 
-### As a property
+## As a property
 
 ```
 @property (nonatomic, copy, nullability) returnType (^blockName)(parameterTypes);
 ```
 
-### As a method parameter
+## As a method parameter
 
 ```
 - (void)methodThatTakesABlock:(returnType (^nullability)(parameterTypes))blockName;
 ```
 
-### As an argument to a method call
+## As an argument to a method call
 
 ```
 [someObject methodThatTakesABlock:^returnType (parameters) {...}];
 ```
 
-### As a `typedef`
+## As a `typedef`
 
 ```
 typedef returnType (^TypeName)(parameterTypes);

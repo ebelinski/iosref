@@ -45,8 +45,8 @@
 // @import "bootstrap-5.3.8/scss/offcanvas";
 // @import "bootstrap-5.3.8/scss/placeholders";
 
-// Helpers
-@import "bootstrap-5.3.8/scss/helpers";
-
-// Utilities
-@import "bootstrap-5.3.8/scss/utilities/api";
+// Helpers and the utilities API are deliberately not imported: between them
+// they generate thousands of class definitions, and this site used only
+// `mb-0` and `align-top`. Both are defined directly in main.scss instead.
+// @import "bootstrap-5.3.8/scss/helpers";
+// @import "bootstrap-5.3.8/scss/utilities/api";

@@ -5,6 +5,8 @@ description: A quick reference guide for functions in Swift 4, with simple examp
 redirect_from: 
   - /functions/ 
   - /function/
+canonical_url: https://swiftly.dev/functions
+sitemap: false
 ---
 {::options parse_block_html="true" /}
 
@@ -16,7 +18,7 @@ Functions are a special type of [closures]({{ "/swift-closures" | relative_url }
 * TOC
 {:toc}
 
-### Function with type `() -> ()`
+## Function with type `() -> ()`
 
 This function takes no parameters, and returns nothing.
 
@@ -33,7 +35,7 @@ greet()
 ```
 {% include closecol.html closerow=true %}
 
-### Function with type `(String) -> ()`
+## Function with type `(String) -> ()`
 
 This function takes one parameter, a `String`, and returns nothing.
 
@@ -50,7 +52,7 @@ greet(person: "Aliya")
 ```
 {% include closecol.html closerow=true %}
 
-### Function with type `(Int, Int) -> (Int)`
+## Function with type `(Int, Int) -> (Int)`
 
 This function takes two parameters, both `Ints`, and returns an `Int`.
 
@@ -67,7 +69,7 @@ print(multiply(x: 5, y: 6))
 ```
 {% include closecol.html closerow=true %}
 
-### Function with a default parameter value
+## Function with a default parameter value
 
 This function takes two parameters, both `Ints`, and returns an `Int`.
 
@@ -88,7 +90,7 @@ greet(person: "Aliya")
 ```
 {% include closecol.html closerow=true %}
 
-### Function that takes in another function as a parameter
+## Function that takes in another function as a parameter
 
 The function `perform` has type `((Int, Int) -> Int, Int, Int) -> Int`.
 
@@ -114,7 +116,7 @@ print(result)
 ```
 {% include closecol.html closerow=true %}
 
-### Function that returns a function
+## Function that returns a function
 
 The function `operation` has type `() -> (Int, Int) -> Int`.
 
@@ -137,7 +139,7 @@ print(result)
 ```
 {% include closecol.html closerow=true %}
 
-### Further reading
+## Further reading
 
 * [Swift closures guide]({{ "/swift-closures" | relative_url }})
 * [Functions (The Swift Programming Language)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Functions.html)

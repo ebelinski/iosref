@@ -144,13 +144,13 @@ The following table displays the cumulative usage of each major version of iOS. 
 
 These figures were last updated on <b>August 11, 2026</b> using <a href="https://github.com/ebelinski/iosref/blob/main/meta/ios-usage-generator.swift">this script</a> and data from <a href="https://gs.statcounter.com/ios-version-market-share/mobile-tablet/worldwide">Statcounter GlobalStats</a>, which counts both iPhone and iPad as iOS traffic. You may update the figures yourself with a <a href="https://github.com/ebelinski/iosref">pull request</a>.
 
-### See also
+## See also
 
 * [iOS version by device](/ios)
 * [iPadOS version by device](/ipados)
 * [watchOS version by device](/watchos)
 * [tvOS version by device](/tvos)
 
-### Further reading
+## Further reading
 
 * [Apple's iOS usage figures](https://developer.apple.com/support/app-store/)<sup class="ext">Ext</sup>

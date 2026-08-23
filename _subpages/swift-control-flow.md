@@ -16,6 +16,7 @@ redirect_from:
   - /if-let/
   - /iflet/
   - /case/
+sitemap: false
 ---
 {::options parse_block_html="true" /}
 
@@ -27,11 +28,11 @@ This page has moved to [swiftly.dev](https://swiftly.dev/), where control flow i
 {:toc}
 </div>
 
-### If
+## If
 
 {% include opencol.html size=6 newrow=true %}
 
-#### If-else
+### If-else
 
 ```swift
 if 5 > 6 {
@@ -44,7 +45,7 @@ if 5 > 6 {
 
 {% include closecol.html %}{% include opencol.html size=6 %}
 
-#### Ternary conditional operator
+### Ternary conditional operator
 
 ```swift
 5 > 6 ? print("5 is more than 6")
@@ -56,7 +57,7 @@ if 5 > 6 {
 
 {% include opencol.html size=6 newrow=true %}
 
-#### If let
+### If let
 
 ```swift
 func greet(name: String?) {
@@ -75,7 +76,7 @@ greet(name: nil)
 
 {% include closecol.html %}{% include opencol.html size=6 %}
 
-#### Nil-coalescing operator
+### Nil-coalescing operator
 
 ```swift
 func greet(name: String?) {
@@ -91,13 +92,13 @@ greet(name: nil)
 
 {% include closecol.html closerow=true %}
 
-### Guard
+## Guard
 
 Guard statements can be used to reduce indentation on the happy path. In a guard statement, the _else_ branch _must_ transfer control to exit the code block containing the guard statement. This can be done with _return_, _break_, _continue_, or _throw_.
 
 {% include opencol.html size=6 newrow=true %}
 
-#### Simple guard
+### Simple guard
 
 ```swift
 func divide(x: Int, y: Int) -> Int? {
@@ -116,7 +117,7 @@ print(divide(x: 5, y: 0))
 
 {% include closecol.html %}{% include opencol.html size=6 %}
 
-#### Guard let
+### Guard let
 
 ```swift
 func greet(name: String?) {
@@ -135,13 +136,13 @@ greet(name: nil)
 
 {% include closecol.html closerow=true %}
 
-### For-in
+## For-in
 
 The common for loop `for (i = a; i < b; i++)` does not exist in Swift. Instead, the for-in can be modified to have an index using tuples and _[enumerated](https://developer.apple.com/documentation/swift/array/1687832-enumerated)_:
 
 {% include opencol.html size=6 newrow=true %}
 
-#### Simple for-in
+### Simple for-in
 
 ```swift
 let birds = ["Owl", "Crane"]
@@ -155,7 +156,7 @@ for bird in birds {
 
 {% include closecol.html %}{% include opencol.html size=6 %}
 
-#### For-in with index
+### For-in with index
 
 ```swift
 let birds = ["Owl", "Crane"]
@@ -169,13 +170,13 @@ for (i, bird) in birds.enumerated() {
 
 {% include closecol.html closerow=true %}
 
-### While
+## While
 
 A while loop will run the code block each time the conditional is true. A repeat-while loop will run the block first without checking the conditional, then keep on running it as long as the conditional is true.
 
 {% include opencol.html size=6 newrow=true %}
 
-#### Simple while
+### Simple while
 
 ```swift
 var steps = 2
@@ -198,7 +199,7 @@ while steps > 0 {
 
 {% include closecol.html %}{% include opencol.html size=6 %}
 
-#### Repeat-while
+### Repeat-while
 
 ```swift
 var steps = 2
@@ -221,11 +222,11 @@ repeat {
 
 {% include closecol.html closerow=true %}
 
-### Switch
+## Switch
 
 {% include opencol.html size=6 newrow=true %}
 
-#### Switch with equality
+### Switch with equality
 
 A `default` case is necessary when not all cases are covered.
 
@@ -247,7 +248,7 @@ describe(animal: "Giraffe")
 
 {% include closecol.html %}{% include opencol.html size=6 %}
 
-#### Switch with tuples
+### Switch with tuples
 
 Here, all cases are covered, so a `default` case is unnecessary.
 
@@ -269,6 +270,6 @@ describe(point: (11, 9))
 
 {% include closecol.html closerow=true %}
 
-### Further reading
+## Further reading
 
 * ["Control Flow" in _The Swift Programming Language_ by Apple](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/ControlFlow.html#//apple_ref/doc/uid/TP40014097-CH9-ID120)

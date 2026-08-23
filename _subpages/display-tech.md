@@ -17,7 +17,7 @@ redirect_from:
 {:toc}
 </div>
 
-### iPhone
+## iPhone
 
 <div class="table-responsive">
 <table class="table table-bordered">
@@ -184,7 +184,7 @@ redirect_from:
 </table>
 </div>
 
-### iPad
+## iPad
 
 <div class="table-responsive">
 <table class="table table-bordered">
@@ -418,7 +418,7 @@ redirect_from:
 </table>
 </div>
 
-### Apple Watch
+## Apple Watch
 
 <div class="table-responsive">
 <table class="table table-bordered">
@@ -518,7 +518,7 @@ redirect_from:
 
 <sup>1</sup> "Series 0" is a commonly used nickname for the first generation Apple Watch.
 
-### iPod touch
+## iPod touch
 
 <div class="table-responsive">
 <table class="table table-bordered">

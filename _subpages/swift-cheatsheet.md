@@ -4,6 +4,8 @@ title: Swift 5 cheatsheet
 description: A beautiful and clutter-free Swift 5 cheatsheet.
 redirect_from:
   - /cheatsheet/
+canonical_url: https://swiftly.dev/cheatsheet
+sitemap: false
 ---
 {::options parse_block_html="true" /}
 
@@ -14,28 +16,28 @@ Visit [Swiftly](https://swiftly.dev/) for more Swift guides.
 
 {% include opencol.html size=6 newrow=true %}
 
-### Constants
+## Constants
 
 ```swift
 let myInt = 5
 let myString = "5.5"
 ```
 
-### Variables
+## Variables
 
 ```swift
 var myInt = 5
 myInt = myInt + 5
 ```
 
-### Type annotations
+## Type annotations
 
 ```swift
 let myInt: Int = 5
 let myString: String = "5.5"
 ```
 
-### If statement
+## If statement
 
 ```swift
 if 5 > 3 {
@@ -46,7 +48,7 @@ if 5 > 3 {
 // Output: "5 is more than 3"
 ```
 
-### Optionals
+## Optionals
 
 ```swift
 let myInt: Int? = 5
@@ -56,7 +58,7 @@ if let unwrappedInt = myInt {
 // Output: "myInt is 5"
 ```
 
-### Enum
+## Enum
 
 ```swift
 enum CompassPoint {
@@ -65,7 +67,7 @@ enum CompassPoint {
 var direction: CompassPoint = .north
 ```
 
-### Switch statement
+## Switch statement
 
 ```swift
 switch direction {
@@ -78,7 +80,7 @@ default: print("Going east or west.")
 
 {% include closecol.html %}{% include opencol.html size=6 %}
 
-### Function with param and return
+## Function with param and return
 
 ```swift
 func square(x: Int) -> Int {
@@ -87,7 +89,7 @@ func square(x: Int) -> Int {
 }
 ```
 
-### Calling a function
+## Calling a function
 
 ```swift
 let squareOf6 = square(x: 6)
@@ -95,7 +97,7 @@ print("Square of 6 is: \(squareOf6)")
 // Output: "Square of 6 is: 36"
 ```
 
-### Declaring a struct
+## Declaring a struct
 
 ```swift
 struct MyStruct {
@@ -107,7 +109,7 @@ struct MyStruct {
 }
 ```
 
-### Instantiating a struct
+## Instantiating a struct
 
 ```swift
 var obj = MyStruct(myInt: 5,
@@ -117,14 +119,14 @@ print("\(obj.myStr) \(obj.myInt)")
 // Output: "Hi! 👋 25"
 ```
 
-### Array
+## Array
 
 ```swift
 var myArr = [1, 3]
 myArr.append(5)
 ```
 
-### Loop over array
+## Loop over array
 
 ```swift
 var sum = 0

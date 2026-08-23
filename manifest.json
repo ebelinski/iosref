@@ -1,5 +1,9 @@
 {
-    "name": "",
+    "name": "iOS Ref",
+    "short_name": "iOS Ref",
+    "description": "Quick reference tables, tools, and links for iOS developers.",
+    "start_url": "/",
+    "scope": "/",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",

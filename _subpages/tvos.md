@@ -12,7 +12,7 @@ redirect_from:
 
 tvOS is an iOS-based operating system for Apple TV. Information about vintage ({% include badge-vintage.html %}) and obsolete ({% include badge-obsolete.html %}) device status comes from <a href="https://support.apple.com/en-us/102772">this page</a>.
 
-### Apple TV with tvOS
+## Apple TV with tvOS
 
 <div class="table-responsive">
 <table class="table table-bordered">
@@ -53,7 +53,7 @@ tvOS is an iOS-based operating system for Apple TV. Information about vintage ({
 
 <sup>1</sup> Apple TV HD was known as the fourth generation Apple TV, before a rebranding in 2021. The version sold with the Siri Remote (1st generation) without the white ring on the menu button is considered {% include badge-obsolete.html %}.
 
-### Other iOS-based Apple TVs
+## Other iOS-based Apple TVs
 
 The second and third Apple TV ran a more stripped-down version of iOS known as "Apple TV Software".
 
@@ -84,7 +84,7 @@ The second and third Apple TV ran a more stripped-down version of iOS known as "
 </table>
 </div>
 
-### Other Apple TVs
+## Other Apple TVs
 
 The first Apple TV ran a modified version of Mac OS X 10.4 Tiger, also called "Apple TV Software".
 
@@ -109,7 +109,7 @@ The first Apple TV ran a modified version of Mac OS X 10.4 Tiger, also called "A
 </table>
 </div>
 
-### See also
+## See also
 
 * [iOS version by device](/ios)
 * [iPadOS version by device](/ipados)

@@ -174,7 +174,7 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
   </tbody>
 </table>
 
-### See also
+## See also
 
 * [iOS version by device](/ios)
 * [watchOS version by device](/watchos)

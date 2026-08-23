@@ -35,7 +35,7 @@ This table shows the first and maximum version of visionOS for each Apple Vision
 </table>
 </div>
 
-### See also
+## See also
 
 * [iOS version by device](/ios)
 * [iPadOS version by device](/ipados)

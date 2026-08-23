@@ -10,6 +10,8 @@ redirect_from:
   - /blocks/
   - /lambda/
   - /lambdas/
+canonical_url: https://swiftly.dev/closures
+sitemap: false
 ---
 
 {:.alert.alert-warning}
@@ -20,7 +22,7 @@ Swift closures are blocks of functionality that are self-contained, and can be p
 * TOC
 {:toc}
 
-### Closure expression syntax
+## Closure expression syntax
 
 Closures can be defined with _closure expression syntax_, which has the general form:
 
@@ -30,7 +32,7 @@ Closures can be defined with _closure expression syntax_, which has the general 
 }
 </pre>
 
-### Closure inline
+## Closure inline
 
 Using **closure expression syntax**:
 
@@ -60,7 +62,7 @@ Also, closure parameters can be referenced by **position** instead of by name:
 let sortedInts = [4, 30, 7, 9, 1].sorted { $0 < $1 }
 ```
 
-### Closure as a variable
+## Closure as a variable
 
 A closure can be stored as a variable and used later. Using closure expression syntax:
 
@@ -71,7 +73,7 @@ let myClosure = { (x: Int, y: Int) -> Bool in
 let sortedInts = [4, 30, 7, 9, 1].sorted(by: myClosure)
 ```
 
-### Closure as a function
+## Closure as a function
 
 A [function]({{ "/swift-functions" | relative_url }}) is a type of closure, so a closure can be stored as a function to be used later.
 
@@ -82,7 +84,7 @@ func myClosure(x: Int, y: Int) -> Bool {
 let sortedInts = [4, 30, 7, 9, 1].sorted(by: myClosure)
 ```
 
-### Function with a closure parameter
+## Function with a closure parameter
 
 A function can be created with a closure parameter:
 
@@ -129,7 +131,7 @@ func multiply(x: Int, y: Int, completion: () -> Void) {
 multiply(x: 5, y: 6) { } // Does nothing
 ```
 
-### Typealias for a closure parameter
+## Typealias for a closure parameter
 
 To improve readability and reduce duplicate code, a closure **typealias** may be used:
 
@@ -141,7 +143,7 @@ func multiply(x: Int, y: Int, completion: MultiplyCompletion) {
 multiply(x: 5, y: 6) { print($1 ?? $0) } // Output: 30
 ```
 
-### Function with an `@escaping` closure parameter
+## Function with an `@escaping` closure parameter
 
 An escaping closure can be called even after the function has returned:[^3]
 
@@ -153,12 +155,12 @@ multiplyRemotely(x: 5, y: 6) { print($0) }
 // Output: 30
 ```
 
-### Further reading
+## Further reading
 
 * [Swift functions guide]({{ "/swift-functions" | relative_url }})
 * [Closures (The Swift Programming Language)](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/Closures.html)
 
-### Notes
+## Notes
 
 [^1]: When a closure is the last parameter of a function, it is called a **trailing closure**.
 [^2]: It is commonly asked why the argument names don't appear in the closure call, like `completion(result: x * y)`. The reason for this is that as of Swift 3, closure argument labels are [no longer part of the closure type](https://github.com/apple/swift-evolution/blob/master/proposals/0111-remove-arg-label-type-significance.md).

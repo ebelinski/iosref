@@ -17,7 +17,7 @@ redirect_from:
 {:toc}
 </div>
 
-### iPhone
+## iPhone
 
 <div class="table-responsive">
   <table class="table table-bordered">
@@ -81,7 +81,7 @@ redirect_from:
   </table>
 </div>
 
-### iPad
+## iPad
 
 <div class="table-responsive">
 <table class="table table-bordered">
@@ -119,7 +119,7 @@ redirect_from:
 </table>
 </div>
 
-### iPod touch
+## iPod touch
 
 <div class="table-responsive">
 <table class="table table-bordered">

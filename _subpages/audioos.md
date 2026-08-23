@@ -9,7 +9,7 @@ redirect_from:
 
 This page is no longer being updated.
 
-### HomePod
+## HomePod
 
 <table>
   <tr>

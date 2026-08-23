@@ -18,7 +18,7 @@ redirect_from:
 {:toc}
 </div>
 
-### iPhone
+## iPhone
 
 <div class="table-responsive">
   <table class="table table-bordered">
@@ -263,7 +263,7 @@ redirect_from:
   </table>
 </div>
 
-### iPad
+## iPad
 
 <div class="table-responsive">
   <table class="table table-bordered">
@@ -475,7 +475,7 @@ redirect_from:
   </table>
 </div>
 
-### Apple Watch
+## Apple Watch
 
 <div class="table-responsive">
   <table class="table table-bordered">
@@ -576,7 +576,7 @@ redirect_from:
 
 <sup>1</sup> "Series 0" is a commonly used nickname for the first generation Apple Watch.
 
-### iPod touch
+## iPod touch
 
 <div class="table-responsive">
   <table class="table table-bordered">
@@ -627,7 +627,7 @@ redirect_from:
   </table>
 </div>
 
-### Apple TV
+## Apple TV
 
 <div class="table-responsive">
   <table class="table table-bordered">
@@ -680,7 +680,7 @@ redirect_from:
 
 <sup>1</sup> Apple TV HD was known as the fourth generation Apple TV, before a rebranding in 2021.
 
-### HomePod
+## HomePod
 
 <div class="table-responsive">
   <table class="table table-bordered">
@@ -711,7 +711,7 @@ redirect_from:
   </table>
 </div>
 
-### Simulator
+## Simulator
 
 <div class="table-responsive">
   <table class="table table-bordered">

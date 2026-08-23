@@ -4,6 +4,8 @@ title: Swift versions
 description: Tables showing versions of the Swift programming language, and their corresponding Xcode releases.
 redirect_from: 
   - /swift-versions/
+canonical_url: https://swiftly.dev/swift-versions
+sitemap: false
 ---
 {::options parse_block_html="true" /}
 
@@ -17,7 +19,7 @@ This page has moved to [swiftly.dev/swift-versions](https://swiftly.dev/swift-ve
 
 Last updated October 20, 2019. To use the Xcode download links, log into [developer.apple.com](https://developer.apple.com/) first. Some Xcode versions are not available for download.
 
-### Open source versions
+## Open source versions
 
 <table>
   <tr>
@@ -170,7 +172,7 @@ Last updated October 20, 2019. To use the Xcode download links, log into [develo
   </tr>
 </table>
 
-### Closed source versions
+## Closed source versions
 
 <table>
   <tr>
@@ -227,7 +229,7 @@ Last updated October 20, 2019. To use the Xcode download links, log into [develo
   </tr>
 </table>
 
-### Further reading
+## Further reading
 
 * [Swift changelog (GitHub)](https://github.com/apple/swift/blob/master/CHANGELOG.md)
 * [Swift releases (Swift.org)](https://swift.org/download/#releases)

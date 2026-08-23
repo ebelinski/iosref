@@ -1,4 +1,13 @@
 <div class="container-lg">
+  {%- comment -%}
+    On the home page the site title is the page's main heading. On every other
+    page the main heading is the page title, so the site title is rendered as a
+    plain link back home rather than a second, competing <h1>.
+  {%- endcomment -%}
+  {%- if page.title -%}
+  <p id="site-title"><a href="/">{{ site.title }}</a></p>
+  {%- else -%}
   <h1 id="site-title"><a href="/">{{ site.title }}</a></h1>
+  {%- endif -%}
 </div>
 <div class="container-lg"><div id="page-content">
