@@ -24,7 +24,7 @@ Information about vintage ({% include badge-vintage.html %}) and obsolete ({% in
       <td>{% include device.html name="apple-watch-ultra-3" %}</td>
       <td rowspan="3">2025</td>
       <td rowspan="3">26</td>
-      <td class="current" rowspan="6">27 {% include beta.html %}</td>
+      <td class="current" rowspan="6">27</td>
     </tr>
     <tr>
       <td>{% include device.html name="apple-watch-series-11" %}</td>

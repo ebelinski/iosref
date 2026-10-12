@@ -29,7 +29,7 @@ tvOS is an iOS-based operating system for Apple TV. Information about vintage ({
       <td>{% include device.html name="apple-tv-4k-gen-3" %}</td>
       <td>2022</td>
       <td>16</td>
-      <td class="current" rowspan="2">27 {% include beta.html %}</td>
+      <td class="current" rowspan="2">27</td>
     </tr>
     <tr>
       <td>{% include device.html name="apple-tv-4k-gen-2" %}</td>
