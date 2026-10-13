@@ -439,11 +439,18 @@ redirect_from:
   </thead>
   <tbody>
     <tr>
+      <td>Ultra 4</td>
+      <td rowspan="2">2026</td>
+      <td rowspan="4">LTPO3 wide-angle OLED</td>
+      <td rowspan="10" class="current">Yes</td>
+      <td rowspan="14">No</td>
+    </tr>
+    <tr>
+      <td>Series 12</td>
+    </tr>
+    <tr>
       <td>Ultra 3</td>
       <td rowspan="3">2025</td>
-      <td rowspan="2">LTPO3 wide-angle OLED</td>
-      <td rowspan="8" class="current">Yes</td>
-      <td rowspan="12">No</td>
     </tr>
     <tr>
       <td>Series 11</td>

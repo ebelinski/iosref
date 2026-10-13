@@ -21,10 +21,18 @@ Information about vintage ({% include badge-vintage.html %}) and obsolete ({% in
   </thead>
   <tbody>
     <tr>
+      <td>{% include device.html name="apple-watch-ultra-4" %}</td>
+      <td rowspan="2">2026</td>
+      <td rowspan="2">27</td>
+      <td class="current" rowspan="8">27</td>
+    </tr>
+    <tr>
+      <td>{% include device.html name="apple-watch-series-12" %}</td>
+    </tr>
+    <tr>
       <td>{% include device.html name="apple-watch-ultra-3" %}</td>
       <td rowspan="3">2025</td>
       <td rowspan="3">26</td>
-      <td class="current" rowspan="6">27</td>
     </tr>
     <tr>
       <td>{% include device.html name="apple-watch-series-11" %}</td>

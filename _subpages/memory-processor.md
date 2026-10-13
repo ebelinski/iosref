@@ -456,10 +456,19 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>{% include device.html name="apple-watch-ultra-4" display="Ultra 4" %}</td>
+        <td rowspan="2">2026</td>
+        <td rowspan="2">Unknown</td>
+        <td rowspan="8">64 GB</td>
+        <td rowspan="2">S11</td>
+      </tr>
+      <tr>
+        <td>{% include device.html name="apple-watch-series-12" display="Series 12" %}</td>
+      </tr>
+      <tr>
         <td>{% include device.html name="apple-watch-ultra-3" display="Ultra 3" %}</td>
         <td rowspan="3">2025</td>
         <td rowspan="14">1 GB</td>
-        <td rowspan="6">64 GB</td>
         <td rowspan="4">S10</td>
       </tr>
       <tr>

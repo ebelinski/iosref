@@ -500,6 +500,15 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>Ultra 4</td>
+        <td rowspan="2">2026</td>
+        <td>Watch8,1</td>
+      </tr>
+      <tr>
+        <td>Series 12</td>
+        <td>Watch8,2<br>Watch8,3<br>Watch8,4<br>Watch8,5</td>
+      </tr>
+      <tr>
         <td>Ultra 3</td>
         <td rowspan="3">2025</td>
         <td>Watch7,12</td>

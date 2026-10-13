@@ -35,6 +35,9 @@ apple-watch-series-10:
 apple-watch-series-11:
   name: "Apple Watch Series 11"
   status: normal
+apple-watch-series-12:
+  name: "Apple Watch Series 12"
+  status: normal
 apple-watch-se-gen-1:
   name: "Apple Watch SE (gen 1)"
   status: normal
@@ -52,6 +55,9 @@ apple-watch-ultra-2:
   status: normal
 apple-watch-ultra-3:
   name: "Apple Watch Ultra 3"
+  status: normal
+apple-watch-ultra-4:
+  name: "Apple Watch Ultra 4"
   status: normal
 
 
