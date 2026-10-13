@@ -132,7 +132,7 @@ redirect_from:
         <td rowspan="3">3 GB</td>
       </tr>
       <tr>
-        <td>iPhone X {% include badge-vintage.html %}</td>
+        <td>{% include device.html name="iphone-x" %}</td>
         <td rowspan="3">2017</td>
         <td rowspan="3">A11 Bionic</td>
       </tr>

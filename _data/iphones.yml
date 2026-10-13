@@ -48,7 +48,7 @@ iphone-8-plus:
   status: vintage
 iphone-x:
   name: "iPhone X"
-  status: vintage
+  status: obsolete
 iphone-xr:
   name: "iPhone XR"
   status: normal

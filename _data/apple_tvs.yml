@@ -12,7 +12,7 @@ apple-tv-hd:
   status: normal
 apple-tv-4k-gen-1:
   name: "Apple TV 4K (gen 1)"
-  status: normal
+  status: vintage
 apple-tv-4k-gen-2:
   name: "Apple TV 4K (gen 2)"
   status: normal

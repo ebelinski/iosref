@@ -111,7 +111,7 @@ These tables show the first and maximum version of iOS or iPadOS for each iPhone
       <td>{% include device.html name="iphone-xr" %}</td>
     </tr>
     <tr>
-      <td>iPhone X {% include badge-vintage.html %}</td>
+      <td>{% include device.html name="iphone-x" %}</td>
       <td rowspan="2">2017</td>
       <td rowspan="2">{% include ios-version.html version="11" %}</td>
       <td rowspan="2">{% include ios-version.html version="16" %}</td>
