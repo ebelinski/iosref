@@ -31,8 +31,20 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>iPhone Duo</td>
+        <td rowspan="4">2026</td>
+        <td>iPhone19,4</td>
+      </tr>
+      <tr>
+        <td>iPhone 18 Pro Max</td>
+        <td>iPhone19,3<br>iPhone19,7</td>
+      </tr>
+      <tr>
+        <td>iPhone 18 Pro</td>
+        <td>iPhone19,2</td>
+      </tr>
+      <tr>
         <td>iPhone 17e</td>
-        <td>2026</td>
         <td>iPhone18,5</td>
       </tr>
       <tr>

@@ -37,33 +37,57 @@ redirect_from:
     <tbody>
       <tr>
         <td class="nowrap">
-          <span class="strong">{% include device.html name="iphone-air" %}</span>
+          <span class="strong">{% include device.html name="iphone-duo" %}</span>
+          <br><span class="soft">inner display</span>
         </td>
-        <td>6.5"</td>
-        <td>420 × 912</td>
-        <td rowspan="7">@3x</td>
-        <td>1260 × 2736</td>
-        <td rowspan="11">9 : 19.5</td>
-        <td rowspan="5">460</td>
+        <td>7.6"</td>
+        <td>669 × 951</td>
+        <td class="nowrap">@2.81–3x <sup>3</sup></td>
+        <td>1878 × 2670</td>
+        <td>19 : 27</td>
+        <td>430</td>
       </tr>
       <tr>
         <td class="nowrap">
-          <span class="strong">{% include device.html name="iphone-17-pro-max" %}</span>
+          <span class="strong">{% include device.html name="iphone-duo" %}</span>
+          <br><span class="soft">outer display</span>
+        </td>
+        <td>5.4"</td>
+        <td>466 × 678</td>
+        <td rowspan="8">@3x</td>
+        <td>1398 × 2034</td>
+        <td>11 : 16</td>
+        <td rowspan="6">460</td>
+      </tr>
+      <tr>
+        <td class="nowrap">
+          <span class="strong">{% include device.html name="iphone-18-pro-max" %}</span>
+          <br><span class="soft">and {% include device.html name="iphone-17-pro-max" display="17 Pro Max" %}</span>
           <br><span class="soft">and {% include device.html name="iphone-16-pro-max" display="16 Pro Max" %}</span>
         </td>
         <td>6.9"</td>
         <td>440 × 956</td>
         <td>1320 × 2868</td>
+        <td rowspan="11">9 : 19.5</td>
       </tr>
       <tr>
         <td class="nowrap">
-          <span class="strong">{% include device.html name="iphone-17-pro" %}</span>
+          <span class="strong">{% include device.html name="iphone-18-pro" %}</span>
+          <br><span class="soft">and {% include device.html name="iphone-17-pro" display="17 Pro" %}</span>
           <br><span class="soft">and {% include device.html name="iphone-17" display="17" %}</span>
           <br><span class="soft">and {% include device.html name="iphone-16-pro" display="16 Pro" %}</span>
         </td>
         <td>6.3"</td>
         <td>402 × 874</td>
         <td>1206 × 2622</td>
+      </tr>
+      <tr>
+        <td class="nowrap">
+          <span class="strong">{% include device.html name="iphone-air" %}</span>
+        </td>
+        <td>6.5"</td>
+        <td>420 × 912</td>
+        <td>1260 × 2736</td>
       </tr>
       <tr>
         <td class="nowrap">
@@ -210,6 +234,8 @@ redirect_from:
 <sup>1</sup> iPhone 13 mini and equivalently sized devices have a logical scale factor of 3x but a native scale factor of 2.88x. The logical resolution of 375 × 812 is multiplied by 2.88 to reach the actual resolution of 1080 × 2340.
 
 <sup>2</sup> iPhone 8 Plus and equivalently sized devices have a native resolution downsampled from 1242 × 2208 to actual pixel dimensions 1080 × 1920. See <a href="https://www.paintcodeapp.com/news/iphone-6-screens-demystified">here</a> for explanation.
+
+<sup>3</sup> iPhone Duo's inner display has a logical scale factor of 3x but a native scale factor of about 2.81x. The logical resolution of 669 × 951 renders at 2007 × 2853, which is downsampled to the actual resolution of 1878 × 2670.
 
 ## iPad
 

@@ -31,7 +31,7 @@ redirect_from:
       <tr>
         <td>
           iPhone 8 and later<br>
-          (including all iPhone X–17 models,<br>
+          (including all iPhone X–18 models,<br>
           iPhone Air, and iPhone SE gen 2 &amp; 3)
         </td>
         <td>

@@ -32,8 +32,17 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>{% include device.html name="iphone-duo" %}</td>
+        <td rowspan="3">2026</td>
+        <td rowspan="2">12 GB</td>
+        <td rowspan="2">A20 Pro</td>
+        <td rowspan="2" class="current">Yes<br>(most powerful model)</td>
+      </tr>
+      <tr>
+        <td>{% include device.html name="iphone-18-pro" %} / {% include device.html name="iphone-18-pro-max" display="18 Pro Max" %}</td>
+      </tr>
+      <tr>
         <td>{% include device.html name="iphone-17e" %}</td>
-        <td>2026</td>
         <td>8 GB</td>
         <td>A19</td>
         <td class="previous">Yes</td>

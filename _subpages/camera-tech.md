@@ -32,14 +32,29 @@ redirect_from:
   </thead>
   <tbody>
     <tr>
+      <td>{% include device.html name="iphone-duo" %}</td>
+      <td rowspan="3">2026</td>
+      <td class="current">12 MP<br>Center Stage <sup>1</sup></td>
+      <td class="current">48 MP<br>26 mm<br>OIS</td>
+      <td rowspan="2" class="current">48 MP<br>13 mm</td>
+      <td>None</td>
+      <td rowspan="41" class="current">Retina Flash</td>
+      <td rowspan="44" class="current">True Tone</td>
+      <td>No</td>
+    </tr>
+    <tr>
+      <td>{% include device.html name="iphone-18-pro" %} / {% include device.html name="iphone-18-pro-max" display="18 Pro Max" %}</td>
+      <td class="current">18 MP<br>Center Stage</td>
+      <td class="current">48 MP<br>24 mm<br>OIS</td>
+      <td class="current">48 MP<br>100 mm<br>OIS</td>
+      <td class="current">Yes</td>
+    </tr>
+    <tr>
       <td>{% include device.html name="iphone-17e" %}</td>
-      <td>2026</td>
       <td class="current">12 MP</td>
       <td rowspan="2" class="current">48 MP<br>26 mm<br>OIS</td>
       <td rowspan="2">None</td>
       <td rowspan="2">None</td>
-      <td rowspan="39" class="current">Retina Flash</td>
-      <td rowspan="42" class="current">True Tone</td>
       <td rowspan="2">No</td>
     </tr>
     <tr>
@@ -295,6 +310,8 @@ redirect_from:
   </tbody>
 </table>
 </div>
+
+<sup>1</sup> iPhone Duo also has an under-display FaceTime camera on its inner display. Apple hasn't published its resolution.
 
 ## iPad
 

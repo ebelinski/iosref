@@ -145,6 +145,15 @@ iphone-17e:
 iphone-air:
   name: "iPhone Air"
   status: normal
+iphone-18-pro:
+  name: "iPhone 18 Pro"
+  status: normal
+iphone-18-pro-max:
+  name: "iPhone 18 Pro Max"
+  status: normal
+iphone-duo:
+  name: "iPhone Duo"
+  status: normal
 iphone-se-gen-1:
   name: "iPhone SE (gen 1)"
   status: obsolete

@@ -33,12 +33,18 @@ redirect_from:
   </thead>
   <tbody>
     <tr>
+      <td>iPhone Duo</td>
+      <td rowspan="3">2026</td>
+      <td rowspan="13" class="current">OLED Retina</td>
+      <td rowspan="25" class="current">Yes</td>
+      <td rowspan="26" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">P3 wide color</a></td>
+      <td rowspan="21">No</td>
+    </tr>
+    <tr>
+      <td>iPhone 18 Pro / 18 Pro Max</td>
+    </tr>
+    <tr>
       <td>iPhone 17e</td>
-      <td>2026</td>
-      <td rowspan="11" class="current">OLED Retina</td>
-      <td rowspan="23" class="current">Yes</td>
-      <td rowspan="24" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">P3 wide color</a></td>
-      <td rowspan="19">No</td>
     </tr>
     <tr>
       <td>iPhone Air</td>
