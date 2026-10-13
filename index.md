@@ -33,13 +33,13 @@ layout: default
 ## Swift
 
 * [Swift versions](https://swiftly.dev/swift-versions)<sup class="ext">Ext</sup>
-* [Swift 5 cheatsheet](https://swiftly.dev/cheatsheet)<sup class="ext">Ext</sup>
+* [Swift cheatsheet](https://swiftly.dev/cheatsheet)<sup class="ext">Ext</sup>
 * [All docs](https://swift.org/documentation/)<sup class="ext">Ext</sup>
 * [Swift Book](https://docs.swift.org/swift-book/)<sup class="ext">Ext</sup>
 
 ## Swift guides
 
-* [Closures](https://swiftly.dev/closures) ([mini](https://swiftly.dev/closures-mini/))<sup class="ext">Ext</sup>
+* [Closures](https://swiftly.dev/closures) ([mini](https://swiftly.dev/closures-mini))<sup class="ext">Ext</sup>
 * [Functions](https://swiftly.dev/functions)<sup class="ext">Ext</sup>
 * [Control flow](https://swiftly.dev/if)<sup class="ext">Ext</sup>
 * [Dispatch](https://swiftly.dev/dispatch)<sup class="ext">Ext</sup>
@@ -61,7 +61,7 @@ layout: default
 ## Xcode
 
 * [Xcode Releases](https://xcodereleases.com/)<sup class="ext">Ext</sup>
-* [Xcode Build Settings](https://xcodebuildsettings.com/)<sup class="ext">Ext</sup>
+* [Build Settings Reference](https://developer.apple.com/documentation/xcode/build-settings-reference)<sup class="ext">Ext</sup>
 
 ## Apple docs
 
