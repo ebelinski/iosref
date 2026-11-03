@@ -236,7 +236,7 @@ redirect_from:
       <td>Pencil (USB-C)<br>Pencil 1</td>
     </tr>
     <tr>
-      <td>iPad Mini (A17 Pro)</td>
+      <td>iPad mini (A17 Pro)</td>
       <td rowspan="3">2024</td>
       <td rowspan="5" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">P3 wide color</a></td>
       <td rowspan="3">Pencil Pro<br>Pencil (USB-C)</td>
