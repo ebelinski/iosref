@@ -627,6 +627,12 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>{% include device.html name="apple-tv-4k-gen-4" %}</td>
+        <td>2026</td>
+        <td>8 GB</td>
+        <td>A19</td>
+      </tr>
+      <tr>
         <td>{% include device.html name="apple-tv-4k-gen-3" %}</td>
         <td>2022</td>
         <td rowspan="2">4 GB</td>

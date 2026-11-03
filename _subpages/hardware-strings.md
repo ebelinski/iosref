@@ -661,6 +661,11 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>Apple TV 4K (gen 4)</td>
+        <td>2026</td>
+        <td>AppleTV18,1</td>
+      </tr>
+      <tr>
         <td>Apple TV 4K (gen 3)</td>
         <td>2022</td>
         <td>AppleTV14,1</td>
