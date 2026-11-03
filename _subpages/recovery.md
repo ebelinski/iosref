@@ -32,7 +32,7 @@ redirect_from:
         <td>
           iPhone 8 and later<br>
           (including all iPhone X–18 models,<br>
-          iPhone Air, and iPhone SE gen 2 &amp; 3)
+          iPhone Air, iPhone Duo <sup>1</sup>, and iPhone SE gen 2 &amp; 3)
         </td>
         <td>
           <ol class="mb-0">
@@ -80,6 +80,8 @@ redirect_from:
     </tbody>
   </table>
 </div>
+
+<sup>1</sup> On iPhone Duo, <strong>Volume Up</strong> is the volume button nearest the <strong>Side</strong> button.
 
 ## iPad
 
