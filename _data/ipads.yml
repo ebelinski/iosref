@@ -85,6 +85,9 @@ ipad-mini-gen-6:
 ipad-mini-a17-pro:
   name: "iPad mini (A17 Pro)"
   status: normal
+ipad-mini-a20-pro:
+  name: "iPad mini (A20 Pro)"
+  status: normal
 ipad-pro-9point7:
   name: 'iPad Pro 9.7"'
   status: obsolete

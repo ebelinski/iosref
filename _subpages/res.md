@@ -259,7 +259,7 @@ redirect_from:
         </td>
         <td>13"</td>
         <td class="nowrap">1032 × 1376</td>
-        <td rowspan="11">@2x</td>
+        <td rowspan="12">@2x</td>
         <td class="nowrap">2064 × 2752</td>
         <td rowspan="4">3 : 4</td>
         <td rowspan="7">264</td>
@@ -315,12 +315,18 @@ redirect_from:
         <td>3 : 4</td>
       </tr>
       <tr>
+        <td><span class="strong">{% include device.html name="ipad-mini-a20-pro" %}</span></td>
+        <td>8.5"</td>
+        <td>756 × 1158</td>
+        <td>1512 × 2316</td>
+        <td rowspan="2">~ 2 : 3</td>
+        <td rowspan="2">326</td>
+      </tr>
+      <tr>
         <td><span class="strong">{% include device.html name="ipad-mini-a17-pro" %} / {% include device.html name="ipad-mini-gen-6" display="gen 6" %}</span></td>
         <td>8.3"</td>
         <td>744 × 1133</td>
         <td>1488 × 2266</td>
-        <td>~ 2 : 3</td>
-        <td>326</td>
       </tr>
       <tr>
         <td>

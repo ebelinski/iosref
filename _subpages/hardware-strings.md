@@ -288,8 +288,12 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>iPad mini (A20 Pro)</td>
+        <td rowspan="3">2026</td>
+        <td>iPad19,1<br>iPad19,2</td>
+      </tr>
+      <tr>
         <td>iPad Air 11" (M4)</td>
-        <td rowspan="2">2026</td>
         <td>iPad16,8<br>iPad16,9</td>
       </tr>
       <tr>

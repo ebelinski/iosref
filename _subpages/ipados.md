@@ -20,10 +20,14 @@ Before iPadOS 13, iPadOS was known as iOS. Information about vintage ({% include
   </thead>
   <tbody>
     <tr>
+      <td>{% include device.html name="ipad-mini-a20-pro" %}</td>
+      <td rowspan="2">2026</td>
+      <td>{% include ipados-version.html version="27" %}</td>
+      <td class="current" rowspan="15">{% include ipados-version.html version="27" %}</td>
+    </tr>
+    <tr>
       <td>{% include device.html name='ipad-air-11-m4' display='iPad Air 11"' %} / {% include device.html name='ipad-air-13-m4' display='13" (M4)' %}</td>
-      <td>2026</td>
       <td rowspan="2">{% include ipados-version.html version="26" %}</td>
-      <td class="current" rowspan="14">{% include ipados-version.html version="27" %}</td>
     </tr>
     <tr>
       <td>{% include device.html name='ipad-pro-11-m5' display='iPad Pro 11"' %} / {% include device.html name='ipad-pro-13-m5' display='13" (M5)' %}</td>

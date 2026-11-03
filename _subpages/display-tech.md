@@ -207,13 +207,17 @@ redirect_from:
   </thead>
   <tbody>
     <tr>
+      <td>iPad mini (A20 Pro)</td>
+      <td rowspan="2">2026</td>
+      <td>Super Retina XDR</td>
+      <td rowspan="2">No</td>
+      <td rowspan="17" class="current">Yes</td>
+      <td rowspan="4" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">P3 wide color</a></td>
+      <td rowspan="4">Pencil Pro<br>Pencil (USB-C)</td>
+    </tr>
+    <tr>
       <td>iPad Air 11" / 13" (M4)</td>
-      <td>2026</td>
       <td>Liquid Retina</td>
-      <td>No</td>
-      <td rowspan="16" class="current">Yes</td>
-      <td rowspan="3" class="current"><a href="https://developer.apple.com/videos/play/wwdc2017/821/">P3 wide color</a></td>
-      <td rowspan="3">Pencil Pro<br>Pencil (USB-C)</td>
     </tr>
     <tr>
       <td>iPad Pro 11" / 13" (M5)</td>
