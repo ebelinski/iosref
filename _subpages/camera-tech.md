@@ -552,3 +552,24 @@ redirect_from:
   </tbody>
 </table>
 </div>
+
+## Apple HomeView
+
+<div class="table-responsive">
+<table class="table table-bordered">
+  <thead>
+    <tr>
+      <th>Device</th>
+      <th>Released</th>
+      <th>Front</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>{% include device.html name="apple-homeview" %} / {% include device.html name="apple-homeview-wall-mounted" display="Wall Mounted" %}</td>
+      <td>2026</td>
+      <td class="current">12 MP Center Stage</td>
+    </tr>
+  </tbody>
+</table>
+</div>

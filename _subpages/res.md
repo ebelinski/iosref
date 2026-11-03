@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Resolution by device
-description: Tables with diagonal size, logical resolution, scale factor, actual resolution, and aspect ratio for each iPhone, iPad, Apple Watch, and iPod touch.
+description: Tables with diagonal size, logical resolution, scale factor, actual resolution, and aspect ratio for each iPhone, iPad, Apple Watch, iPod touch, and Apple HomeView.
 redirect_from:
   - /resolution/
   - /dimensions/
@@ -527,6 +527,36 @@ redirect_from:
     </tbody>
   </table>
 </div>
+
+## Apple HomeView
+
+<div class="table-responsive">
+  <table class="table table-bordered">
+    <thead>
+      <tr class="align-top">
+        <th>Device</th>
+        <th>Diagonal size</th>
+        <th>Logical resolution</th>
+        <th>Scale factor</th>
+        <th>Actual resolution</th>
+        <th>Aspect ratio</th>
+        <th>PPI</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="strong nowrap">{% include device.html name="apple-homeview" %} / {% include device.html name="apple-homeview-wall-mounted" display="Wall Mounted" %}</span></td>
+        <td>7"</td>
+        <td colspan="2">Unknown <sup>1</sup></td>
+        <td>1088 × 1088</td>
+        <td>1 : 1</td>
+        <td>220</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<sup>1</sup> Apple hasn't published a logical resolution for Apple HomeView, which has no SDK or simulator.
 
 ## Further reading
 

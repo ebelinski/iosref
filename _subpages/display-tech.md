@@ -584,3 +584,28 @@ redirect_from:
   </tbody>
 </table>
 </div>
+
+## Apple HomeView
+
+<div class="table-responsive">
+<table class="table table-bordered">
+  <thead>
+    <tr class="align-top">
+      <th>Device</th>
+      <th>Released</th>
+      <th>Display type</th>
+      <th>True Tone</th>
+      <th>Color space</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Apple HomeView / Wall Mounted</td>
+      <td>2026</td>
+      <td>Liquid Retina</td>
+      <td class="current">Yes</td>
+      <td>sRGB color</td>
+    </tr>
+  </tbody>
+</table>
+</div>

@@ -1,0 +1,6 @@
+apple-homeview:
+  name: "Apple HomeView"
+  status: normal
+apple-homeview-wall-mounted:
+  name: "Apple HomeView (Wall Mounted)"
+  status: normal

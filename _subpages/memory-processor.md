@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Memory and processor by device
-description: Tables showing the unified memory and processor for each iPhone, iPad, Apple Watch, iPod touch, Apple TV, and HomePod.
+description: Tables showing the unified memory and processor for each iPhone, iPad, Apple Watch, iPod touch, Apple TV, HomePod, and Apple HomeView.
 redirect_from:
   - /ram/
   - /processor/
@@ -716,6 +716,29 @@ redirect_from:
         <td>{% include device.html name="homepod-gen-1" %}</td>
         <td>2018</td>
         <td>A8</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## Apple HomeView
+
+<div class="table-responsive">
+  <table class="table table-bordered">
+    <thead>
+      <tr class="align-top">
+        <th>Device</th>
+        <th>Released</th>
+        <th>Unified memory</th>
+        <th>Processor</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>{% include device.html name="apple-homeview" %} / {% include device.html name="apple-homeview-wall-mounted" display="Wall Mounted" %}</td>
+        <td>2026</td>
+        <td>Unknown</td>
+        <td>A18</td>
       </tr>
     </tbody>
   </table>
