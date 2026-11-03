@@ -7,3 +7,6 @@ homepod-gen-2:
 homepod-mini:
   name: "HomePod mini"
   status: normal
+homepod-mini-2:
+  name: "HomePod mini 2"
+  status: normal

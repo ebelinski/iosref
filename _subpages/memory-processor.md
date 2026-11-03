@@ -686,6 +686,12 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>{% include device.html name="homepod-mini-2" %}</td>
+        <td>2026</td>
+        <td>Unknown</td>
+        <td>S10</td>
+      </tr>
+      <tr>
         <td>{% include device.html name="homepod-gen-2" %}</td>
         <td>2023</td>
         <td rowspan="3">1 GB</td>

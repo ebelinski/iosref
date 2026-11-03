@@ -714,6 +714,11 @@ redirect_from:
     </thead>
     <tbody>
       <tr>
+        <td>HomePod mini 2</td>
+        <td>2026</td>
+        <td>AudioAccessory11,1</td>
+      </tr>
+      <tr>
         <td>HomePod (gen 2)</td>
         <td>2023</td>
         <td>AudioAccessory6,1</td>
