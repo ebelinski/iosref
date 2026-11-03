@@ -472,7 +472,7 @@ redirect_from:
       <tr>
         <td>{% include device.html name="apple-watch-ultra-3" display="Ultra 3" %}</td>
         <td rowspan="3">2025</td>
-        <td rowspan="14">1 GB</td>
+        <td rowspan="6">2 GB</td>
         <td rowspan="4">S10</td>
       </tr>
       <tr>
@@ -496,6 +496,7 @@ redirect_from:
       <tr>
         <td>{% include device.html name="apple-watch-ultra" display="Ultra" %}</td>
         <td rowspan="3">2022</td>
+        <td rowspan="5">1.5 GB</td>
         <td rowspan="7">32 GB</td>
         <td rowspan="3">S8</td>
       </tr>
@@ -517,6 +518,7 @@ redirect_from:
       </tr>
       <tr>
         <td>{% include device.html name="apple-watch-se-gen-1" display="SE (gen 1)" %}</td>
+        <td rowspan="3">1 GB</td>
         <td rowspan="2">S5</td>
       </tr>
       <tr>
