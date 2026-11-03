@@ -15,7 +15,7 @@ ipad-gen-5:
   status: obsolete
 ipad-gen-6:
   name: "iPad (gen 6)"
-  status: vintage
+  status: obsolete
 ipad-gen-7:
   name: "iPad (gen 7)"
   status: normal
