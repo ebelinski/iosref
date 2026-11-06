@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hardware strings by device
-description: Hardware strings for all iPhone, iPad, Apple Watch, iPod touch, Apple TV, HomePod, and Apple HomeView devices, as well as Xcode simulators.
+description: Hardware strings for all iPhone, iPad, Apple Watch, iPod touch, Apple TV, HomePod, Apple HomeView, and Apple Vision Pro devices, as well as Xcode simulators.
 redirect_from:
   - /hardware-string/
   - /device-identifiers/
@@ -766,6 +766,32 @@ redirect_from:
       <tr>
         <td>Apple HomeView (Wall Mounted)</td>
         <td>HomeAccessory17,2</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+## Apple Vision Pro
+
+<div class="table-responsive">
+  <table class="table table-bordered">
+    <thead>
+      <tr class="align-top">
+        <th>Device</th>
+        <th>Released</th>
+        <th>Hardware strings</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Vision Pro (M5)</td>
+        <td>2025</td>
+        <td>RealityDevice17,1</td>
+      </tr>
+      <tr>
+        <td>Vision Pro (M2)</td>
+        <td>2024</td>
+        <td>RealityDevice14,1</td>
       </tr>
     </tbody>
   </table>
